@@ -1,0 +1,542 @@
+{
+  "attemptId": "b84382c053f64aad9914e6ad7f4b320d",
+  "userId": "nilesh@gmail.com",
+  "createdAt": "2026-03-02T07:14:14Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Importance of Trees in Our Environment",
+      "text": "Trees play a vital role in maintaining the health of our planet. They provide oxygen, improve air quality, conserve water, and support wildlife. Without trees, life on Earth would be drastically different. Trees absorb carbon dioxide during photosynthesis, helping to reduce the greenhouse effect and combat climate change. They also help prevent soil erosion and flooding by stabilizing the soil with their roots. In urban areas, trees offer shade, reduce heat, and enhance the aesthetic appeal of neighborhoods. Many communities recognize the importance of planting more trees and protecting existing forests. Despite their benefits, deforestation continues to threaten many ecosystems around the world. Efforts to plant new trees and conserve forests are essential for sustaining life on Earth. Overall, trees are not just a source of beauty but a fundamental component of a healthy environment."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Renewable energy technologies have advanced significantly over the past few decades, driven by the need to reduce reliance on fossil fuels and mitigate climate change. Solar power, wind energy, hydroelectricity, and biomass are the primary sources of renewable energy. Solar panels convert sunlight into electricity using photovoltaic cells, and technological improvements have increased their efficiency and affordability. Wind turbines harness kinetic energy from wind, with modern turbines capable of generating substantial power even at low wind speeds. Hydroelectric plants generate electricity from flowing water, often in large-scale dams or small run-of-river systems. Biomass energy is produced from organic materials such as wood, crop waste, and animal manure, which can be burned or processed into biofuels. The integration of these technologies into existing energy grids has posed challenges but also opportunities for innovation. Governments worldwide are investing in renewable energy infrastructure and offering incentives to promote adoption. As technology continues to improve, the cost of renewable energy decreases, making it increasingly competitive with traditional fossil fuels. The shift toward renewable sources is crucial for reducing greenhouse gas emissions and ensuring a sustainable energy future."
+    },
+    {
+      "passageId": "3",
+      "title": "The Impact of Climate Change on Marine Biodiversity",
+      "text": "Climate change has emerged as a major threat to marine biodiversity, affecting ecosystems and species in complex ways. Rising sea temperatures, ocean acidification, and deoxygenation are some of the key factors impacting marine life. Warmer waters lead to coral bleaching, which damages the delicate symbiotic relationships crucial for coral reef health. Acidification, caused by increased carbon dioxide absorption, reduces the ability of shell-forming organisms such as mollusks and plankton to build calcium carbonate shells, threatening their survival. Additionally, deoxygenation zones, or hypoxic areas, are expanding, creating dead zones where most marine life cannot survive. These changes disrupt food webs and migration patterns, leading to declines in fish populations and the loss of biodiversity. Many species are forced to migrate to cooler areas or face extinction. The consequences of these impacts extend beyond ecological concerns, affecting fisheries and human communities dependent on marine resources. Scientific research emphasizes the urgent need to reduce greenhouse gas emissions and implement conservation strategies to protect marine ecosystems from irreversible damage. Understanding and addressing the effects of climate change on marine biodiversity is vital for the health of the planet and future generations."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the primary benefits of trees mentioned in the passage?",
+          "options": [
+            "They produce food for humans",
+            "They absorb carbon dioxide",
+            "They generate electricity",
+            "They prevent earthquakes"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that trees absorb carbon dioxide during photosynthesis, which is a primary benefit."
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Trees help to reduce soil erosion and flooding.",
+          "options": [],
+          "correctAnswer": "True",
+          "rationale": "The passage explicitly mentions that trees help prevent soil erosion and flooding by stabilizing the soil."
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits of trees with their descriptions:",
+          "options": [
+            "Provide shade and reduce heat",
+            "Support wildlife",
+            "Improve air quality",
+            "Help combat climate change"
+          ],
+          "headings": [
+            "Urban benefits",
+            "Environmental benefits",
+            "Air quality improvement",
+            "Climate change mitigation"
+          ],
+          "correctAnswer": [
+            "D",
+            "B",
+            "C",
+            "A"
+          ],
+          "rationale": "The options match the specific benefits described in the passage."
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Why is deforestation a concern according to the passage?",
+          "options": [],
+          "correctAnswer": "Because it threatens ecosystems and the benefits provided by trees.",
+          "rationale": "The passage states that deforestation continues to threaten ecosystems and the benefits of trees."
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of trees?",
+          "options": [
+            "Supporting wildlife",
+            "Providing oxygen",
+            "Generating solar energy",
+            "Conserving water"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage does not mention trees generating solar energy."
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Planting new trees can help sustain life on Earth.",
+          "options": [],
+          "correctAnswer": "True",
+          "rationale": "The passage emphasizes that efforts to plant new trees are essential for sustaining life."
+        },
+        {
+          "id": "p1_q7",
+          "type": "matching_headings",
+          "prompt": "Match the environmental issue with the action that can help address it:",
+          "options": [
+            "Soil erosion",
+            "Climate change",
+            "Air pollution",
+            "Loss of biodiversity"
+          ],
+          "headings": [
+            "Plant more trees",
+            "Reduce greenhouse gases",
+            "Conserve forests",
+            "Protect marine life"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "rationale": "The passage discusses planting trees and conserving forests as actions to address environmental issues."
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What role do trees play in urban areas according to the passage?",
+          "options": [],
+          "correctAnswer": "They offer shade, reduce heat, and enhance aesthetic appeal.",
+          "rationale": "The passage states that in urban areas, trees provide shade, reduce heat, and improve aesthetics."
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a consequence of deforestation?",
+          "options": [
+            "Increase in biodiversity",
+            "Threat to ecosystems",
+            "Reduction in greenhouse gases",
+            "Improved soil quality"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage mentions that deforestation threatens ecosystems."
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Trees are only important for their aesthetic value.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage emphasizes the vital environmental functions of trees beyond their aesthetic appeal."
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Identify the main theme of the passage:",
+          "options": [
+            "The importance of renewable energy",
+            "The role of trees in maintaining environmental health",
+            "Marine biodiversity and climate change",
+            "Urban development challenges"
+          ],
+          "headings": [
+            "Renewable energy",
+            "Trees and environment",
+            "Marine ecosystems",
+            "Urban issues"
+          ],
+          "correctAnswer": [
+            "B"
+          ],
+          "rationale": "The passage focuses on the importance of trees for environmental health."
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "How do trees help prevent soil erosion?",
+          "options": [],
+          "correctAnswer": "By stabilizing the soil with their roots.",
+          "rationale": "The passage states that trees help prevent soil erosion by stabilizing soil with their roots."
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Which action is suggested as essential for preserving forests?",
+          "options": [
+            "Building more roads",
+            "Planting more trees and conserving forests",
+            "Clearing land for agriculture",
+            "Reducing urban green spaces"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage emphasizes planting new trees and conserving forests as essential actions."
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a primary reason for the advancement of renewable energy technologies?",
+          "options": [
+            "To increase dependence on fossil fuels",
+            "To reduce reliance on fossil fuels and mitigate climate change",
+            "To replace nuclear energy",
+            "To decrease energy efficiency"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that advancements are driven by the need to reduce reliance on fossil fuels and mitigate climate change."
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Hydroelectricity is produced only in large-scale dams.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage mentions hydroelectricity can be generated in large-scale dams or small run-of-river systems."
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the renewable energy sources with their descriptions:",
+          "options": [
+            "Solar power",
+            "Wind energy",
+            "Hydroelectricity",
+            "Biomass"
+          ],
+          "headings": [
+            "Converts sunlight into electricity",
+            "Harnesses kinetic energy from wind",
+            "Uses flowing water to generate power",
+            "Produced from organic materials"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "rationale": "The options match the descriptions of each renewable energy source."
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What materials are used for biomass energy production?",
+          "options": [],
+          "correctAnswer": "Wood, crop waste, and animal manure",
+          "rationale": "The passage specifies these materials as sources for biomass energy."
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What challenge is associated with integrating renewable energy technologies?",
+          "options": [
+            "Lack of government support",
+            "Technical difficulties in adapting to existing grids",
+            "High costs of fossil fuels",
+            "Limited availability of renewable resources"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage mentions challenges in integrating these technologies into existing energy grids."
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "The cost of renewable energy is increasing as technology improves.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage states that the cost decreases as technology improves."
+        },
+        {
+          "id": "p2_q7",
+          "type": "matching_headings",
+          "prompt": "Identify the main goal of investing in renewable energy:",
+          "options": [
+            "To increase fossil fuel consumption",
+            "To promote environmental sustainability",
+            "To expand nuclear power",
+            "To reduce energy efficiency"
+          ],
+          "headings": [
+            "Environmental sustainability",
+            "Fossil fuel dependence",
+            "Nuclear energy expansion",
+            "Energy waste"
+          ],
+          "correctAnswer": [
+            "A"
+          ],
+          "rationale": "The passage highlights reducing reliance on fossil fuels and promoting sustainability."
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "Why are governments investing in renewable energy infrastructure?",
+          "options": [],
+          "correctAnswer": "To promote adoption and reduce greenhouse gas emissions.",
+          "rationale": "The passage states that governments invest to promote adoption and mitigate climate change."
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a primary source of renewable energy mentioned?",
+          "options": [
+            "Solar power",
+            "Natural gas",
+            "Wind energy",
+            "Biomass"
+          ],
+          "correctAnswer": "B",
+          "rationale": "Natural gas is a fossil fuel, not a renewable energy source mentioned in the passage."
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are becoming less competitive with fossil fuels.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage states that renewable energy is becoming increasingly competitive."
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "What is the overall benefit of shifting to renewable energy?",
+          "options": [
+            "Increases greenhouse gases",
+            "Ensures a sustainable energy future",
+            "Decreases energy efficiency",
+            "Raises energy costs"
+          ],
+          "headings": [
+            "Environmental degradation",
+            "Sustainable energy",
+            "Energy inefficiency",
+            "Higher costs"
+          ],
+          "correctAnswer": [
+            "B"
+          ],
+          "rationale": "The passage emphasizes a sustainable energy future as an important benefit."
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "How do technological improvements impact the cost of renewable energy?",
+          "options": [],
+          "correctAnswer": "They decrease the cost.",
+          "rationale": "The passage states that as technology improves, the cost decreases."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "What is a key driver for the adoption of renewable energy?",
+          "options": [
+            "Reducing greenhouse gases",
+            "Increasing fossil fuel use",
+            "Expanding coal plants",
+            "Reducing energy efficiency"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage highlights reducing greenhouse gas emissions as a key driver."
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main threats to marine biodiversity discussed?",
+          "options": [
+            "Overfishing",
+            "Rising sea temperatures",
+            "Pollution from plastics",
+            "Deep-sea mining"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage emphasizes rising sea temperatures as a key threat."
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Coral bleaching is caused by increased ocean acidity.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "Coral bleaching is caused by warmer waters, not acidity."
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the impact on marine life with its cause:",
+          "options": [
+            "Coral bleaching",
+            "Reduced calcium carbonate shells",
+            "Expanding dead zones",
+            "Migration to cooler areas"
+          ],
+          "headings": [
+            "Warmer sea temperatures",
+            "Increased carbon dioxide absorption",
+            "Deoxygenation",
+            "Climate change"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "rationale": "The options match the causes with their effects on marine life."
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What effect does ocean acidification have on shell-forming organisms?",
+          "options": [],
+          "correctAnswer": "It reduces their ability to build calcium carbonate shells.",
+          "rationale": "The passage states acidification reduces their ability to build shells."
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What are hypoxic zones?",
+          "options": [
+            "Areas with high oxygen levels",
+            "Regions where most marine life thrives",
+            "Dead zones with low oxygen",
+            "Zones with high biodiversity"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage describes hypoxic zones as dead zones where marine life cannot survive."
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Climate change has no effect on fish populations.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage states climate change causes declines in fish populations."
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Identify the main concern related to climate change and marine ecosystems:",
+          "options": [
+            "Marine biodiversity loss",
+            "Economic growth",
+            "Urban development",
+            "Deforestation"
+          ],
+          "headings": [
+            "Environmental impact",
+            "Urban expansion",
+            "Forest destruction",
+            "Economic decline"
+          ],
+          "correctAnswer": [
+            "A"
+          ],
+          "rationale": "The passage discusses biodiversity loss as a major concern."
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "Why do many marine species migrate to cooler areas?",
+          "options": [],
+          "correctAnswer": "To escape the effects of warming waters and other changing conditions.",
+          "rationale": "The passage states species migrate to cooler areas due to warming waters."
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "What is emphasized as necessary to protect marine ecosystems?",
+          "options": [
+            "Increasing fishing quotas",
+            "Reducing greenhouse gas emissions",
+            "Expanding urban areas",
+            "Promoting deep-sea mining"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage emphasizes reducing greenhouse gases for protection."
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "Scientific research suggests that current efforts are sufficient to stop climate change.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage indicates an urgent need to reduce emissions, implying current efforts are insufficient."
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "What is the overall message regarding climate change and marine biodiversity?",
+          "options": [
+            "It is a minor issue",
+            "It requires urgent action to prevent irreversible damage",
+            "It only affects deep-sea environments",
+            "It is unrelated to human activity"
+          ],
+          "headings": [
+            "Environmental neglect",
+            "Urgent conservation",
+            "Deep-sea impact",
+            "Unrelated issues"
+          ],
+          "correctAnswer": [
+            "B"
+          ],
+          "rationale": "The passage emphasizes the urgent need for action to prevent irreversible damage."
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What human activities contribute to ocean acidification?",
+          "options": [],
+          "correctAnswer": "Absorption of increased carbon dioxide from the atmosphere.",
+          "rationale": "The passage states ocean acidification is caused by increased CO2 absorption."
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "Which is NOT a factor affecting marine biodiversity as mentioned?",
+          "options": [
+            "Rising sea temperatures",
+            "Ocean acidification",
+            "Deoxygenation",
+            "Overfishing"
+          ],
+          "correctAnswer": "D",
+          "rationale": "Overfishing is not specifically mentioned in the passage as a factor."
+        }
+      ]
+    }
+  ],
+  "notes": "Questions cover main ideas, details, and inferences based solely on the provided texts, with a variety of question types to assess comprehension at different levels.",
+  "questionsPerPassage": 13
+}

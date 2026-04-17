@@ -1,0 +1,669 @@
+{
+  "attemptId": "92dfb1303b9f45589dfbdab4957bc64a",
+  "userId": "divyapunna1206@gmail.com",
+  "createdAt": "2026-03-04T05:58:29Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Reading Books",
+      "text": "Reading books is a popular activity enjoyed by people of all ages around the world. It offers numerous benefits that can enhance our mental and emotional well-being. For many, reading is a relaxing pastime that helps reduce stress and provides an escape from daily routines. Books can transport readers to different worlds, introduce new ideas, and improve language skills. Additionally, reading regularly can boost concentration and focus, which are useful skills in many aspects of life. Children who develop a habit of reading often perform better academically and gain a broader vocabulary. Adults also benefit from reading by staying informed about current events, expanding their knowledge, and stimulating their imagination. Libraries and bookstores make a wide variety of books accessible to everyone, encouraging a culture of learning and curiosity. Moreover, reading is a low-cost activity that can be enjoyed alone or with friends and family, fostering social connections. Whether it's fiction, non-fiction, poetry, or magazines, books have a unique way of enriching our understanding of the world and ourselves."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Urbanization on Local Ecosystems",
+      "text": "Urbanization refers to the increasing number of people living in cities and the expansion of urban areas into surrounding environments. While urban development can promote economic growth and improve living standards, it also has significant impacts on local ecosystems. As cities grow, natural habitats are often destroyed or fragmented, leading to a loss of biodiversity. Wildlife species that once thrived in rural areas may struggle to survive in urban settings due to habitat destruction, pollution, and human disturbance. Additionally, urbanization can alter local climate patterns, creating urban heat islands where temperatures are higher than in surrounding rural areas. Water resources may also be affected; increased runoff from impervious surfaces like roads and buildings can lead to flooding and water pollution. Moreover, the use of chemicals and waste disposal in cities can contaminate soil and water, harming plants and animals. To mitigate these impacts, many cities are adopting sustainable practices such as creating green spaces, implementing pollution control measures, and promoting eco-friendly transportation. Understanding the ecological consequences of urban growth is essential for developing strategies that balance development with environmental conservation, ensuring that urban areas remain livable for future generations."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of Genetic Engineering in Modern Medicine",
+      "text": "Genetic engineering has revolutionized the field of medicine by enabling scientists to modify the genetic makeup of organisms, including humans. This technology involves manipulating DNA sequences to achieve desired traits or produce specific proteins. One of the most significant applications of genetic engineering is in the development of gene therapy, which aims to treat genetic disorders by replacing defective genes with functional ones. For example, gene therapy has been used to treat conditions such as cystic fibrosis and certain types of inherited blindness. Additionally, genetic engineering plays a crucial role in the production of pharmaceuticals, such as insulin for diabetics, which is now commonly produced using genetically modified bacteria. The advent of CRISPR-Cas9 technology has further enhanced the precision and efficiency of gene editing, opening new possibilities for treating complex diseases like cancer and HIV. However, ethical considerations and safety concerns remain, particularly regarding the potential for unintended genetic changes and the possibility of creating genetically modified humans. As research progresses, regulations and guidelines are being developed to ensure responsible use of these powerful technologies. Overall, genetic engineering holds tremendous promise for improving health outcomes, but it requires careful oversight to navigate its scientific and ethical challenges."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main benefits of reading according to the passage?",
+          "options": [
+            "It increases physical strength",
+            "It reduces stress",
+            "It improves cooking skills",
+            "It decreases concentration"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Reading regularly can help improve language skills.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph to its main idea:",
+          "options": [
+            "Benefits for children",
+            "Benefits for adults",
+            "Accessibility of books",
+            "Overall importance of reading"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one way reading can foster social connections.",
+          "correctAnswer": "Reading alone or with friends and family"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which type of reading material is NOT mentioned in the passage?",
+          "options": [
+            "Fiction",
+            "Non-fiction",
+            "Poetry",
+            "Textbooks"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Libraries are the only places where books can be accessed.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "How does reading help children academically?",
+          "options": [
+            "By improving their athletic skills",
+            "By developing a broader vocabulary",
+            "By increasing their physical activity",
+            "By reducing their homework"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What is a benefit of reading for adults mentioned in the passage?",
+          "correctAnswer": "Staying informed about current events"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What do libraries and bookstores promote?",
+          "options": [
+            "Learning and curiosity",
+            "Physical fitness",
+            "Cooking skills",
+            "Traveling"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Reading is an expensive activity that requires special equipment.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the benefit to the appropriate description:",
+          "options": [
+            "Enhances concentration",
+            "Provides relaxation",
+            "Boosts imagination",
+            "Encourages curiosity"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q12",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of reading?",
+          "options": [
+            "Reduces stress",
+            "Improves language skills",
+            "Increases physical strength",
+            "Stimulates imagination"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q13",
+          "type": "short_answer",
+          "prompt": "Why is reading considered a low-cost activity?",
+          "correctAnswer": "It can be enjoyed alone or with others and does not require expensive equipment"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What does urbanization mainly refer to?",
+          "options": [
+            "The decline of rural areas",
+            "The increase in city populations and expansion",
+            "The development of rural communities",
+            "The reduction of urban areas"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urban development always benefits local ecosystems.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the impact to the aspect of urbanization:",
+          "options": [
+            "Loss of biodiversity",
+            "Climate change effects",
+            "Water resource issues",
+            "Pollution and waste"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Name one environmental problem caused by urbanization.",
+          "correctAnswer": "Habitat destruction or pollution"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What is one measure cities are adopting to reduce environmental impact?",
+          "options": [
+            "Building more factories",
+            "Creating green spaces",
+            "Reducing public transportation",
+            "Expanding urban areas"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Urban heat islands are cooler than surrounding rural areas.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "How can urbanization affect water resources?",
+          "options": [
+            "By decreasing water demand",
+            "By increasing water pollution and flooding",
+            "By reducing water runoff",
+            "By improving water quality"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is one way to mitigate urban environmental impacts?",
+          "correctAnswer": "Creating green spaces or pollution control measures"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Why is understanding ecological consequences important?",
+          "options": [
+            "To promote urban growth",
+            "To develop strategies for sustainable urban development",
+            "To increase pollution",
+            "To encourage rural migration"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization has no effect on local climates.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the practice to its goal:",
+          "options": [
+            "Green spaces",
+            "Pollution control",
+            "Eco-friendly transportation",
+            "Urban expansion"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q12",
+          "type": "multiple_choice",
+          "prompt": "Which is a consequence of increased runoff in cities?",
+          "options": [
+            "Flooding",
+            "Drought",
+            "Decreased pollution",
+            "Lower temperatures"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q13",
+          "type": "short_answer",
+          "prompt": "What is essential for balancing urban development and environmental conservation?",
+          "correctAnswer": "Understanding ecological impacts and adopting sustainable practices"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What does genetic engineering involve?",
+          "options": [
+            "Modifying physical traits",
+            "Manipulating DNA sequences",
+            "Changing environmental conditions",
+            "Creating new species"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Genetic engineering has no medical applications.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the application to its description:",
+          "options": [
+            "Gene therapy",
+            "Pharmaceutical production",
+            "CRISPR technology",
+            "Ethical concerns"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Name one disease that gene therapy can treat.",
+          "correctAnswer": "Cystic fibrosis or inherited blindness"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is CRISPR-Cas9 primarily used for?",
+          "options": [
+            "Creating new species",
+            "Enhancing physical strength",
+            "Precise gene editing",
+            "Producing food"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology is not precise or efficient.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a concern associated with genetic engineering?",
+          "options": [
+            "Unintended genetic changes",
+            "Decreasing medical research",
+            "Reducing food production",
+            "Lowering safety standards"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What might be ethically debated about genetic modification?",
+          "correctAnswer": "Creating genetically modified humans"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "Why are regulations important in genetic engineering?",
+          "options": [
+            "To promote unrestricted use",
+            "To ensure responsible and safe application",
+            "To speed up research without oversight",
+            "To eliminate ethical considerations"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "Genetic engineering currently has no potential to improve health outcomes.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the challenge to its description:",
+          "options": [
+            "Safety concerns",
+            "Unintended genetic changes",
+            "Ethical issues",
+            "Regulatory development"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q12",
+          "type": "multiple_choice",
+          "prompt": "What does the passage suggest about the future of genetic engineering?",
+          "options": [
+            "It will be abandoned",
+            "It holds tremendous promise if regulated properly",
+            "It is unlikely to develop further",
+            "It will only be used in agriculture"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q13",
+          "type": "short_answer",
+          "prompt": "What is necessary for the responsible use of genetic engineering?",
+          "correctAnswer": "Careful oversight and regulations"
+        },
+        {
+          "id": "p3_q14",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of genetic engineering?",
+          "options": [
+            "Treating diseases",
+            "Producing pharmaceuticals",
+            "Creating environmentally friendly crops",
+            "Replacing traditional medicine"
+          ],
+          "correctAnswer": "D"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are evenly distributed with the specified counts; IDs are unique and correctly formatted; all question types are included as instructed.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 27.5,
+  "passage_1_score": 23.08,
+  "passage_2_score": 30.77,
+  "passage_3_score": 28.57,
+  "total_questions": 40,
+  "correct_questions": 11,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main benefits of reading according to the passage?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Reading regularly can help improve language skills.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the paragraph to its main idea:",
+      "correctAnswer": "D",
+      "userAnswer": "I don't know",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one way reading can foster social connections.",
+      "correctAnswer": "Reading alone or with friends and family",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Which type of reading material is NOT mentioned in the passage?",
+      "correctAnswer": "D",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "How does reading help children academically?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What is a benefit of reading for adults mentioned in the passage?",
+      "correctAnswer": "Staying informed about current events",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What do libraries and bookstores promote?",
+      "correctAnswer": "A",
+      "userAnswer": "B",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Match the benefit to the appropriate description:",
+      "correctAnswer": "A",
+      "userAnswer": "I don't know",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Why is reading considered a low-cost activity?",
+      "correctAnswer": "It can be enjoyed alone or with others and does not require expensive equipment",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What does urbanization mainly refer to?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the impact to the aspect of urbanization:",
+      "correctAnswer": "A",
+      "userAnswer": "I don't know",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Name one environmental problem caused by urbanization.",
+      "correctAnswer": "Habitat destruction or pollution",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "How can urbanization affect water resources?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is one way to mitigate urban environmental impacts?",
+      "correctAnswer": "Creating green spaces or pollution control measures",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Why is understanding ecological consequences important?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the practice to its goal:",
+      "correctAnswer": "A",
+      "userAnswer": "I don't know",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "Which is a consequence of increased runoff in cities?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What is essential for balancing urban development and environmental conservation?",
+      "correctAnswer": "Understanding ecological impacts and adopting sustainable practices",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the application to its description:",
+      "correctAnswer": "A",
+      "userAnswer": "I don't know",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Name one disease that gene therapy can treat.",
+      "correctAnswer": "Cystic fibrosis or inherited blindness",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is CRISPR-Cas9 primarily used for?",
+      "correctAnswer": "C",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "What is a concern associated with genetic engineering?",
+      "correctAnswer": "A",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What might be ethically debated about genetic modification?",
+      "correctAnswer": "Creating genetically modified humans",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "Why are regulations important in genetic engineering?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the challenge to its description:",
+      "correctAnswer": "C",
+      "userAnswer": "I don't know",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What does the passage suggest about the future of genetic engineering?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is necessary for the responsible use of genetic engineering?",
+      "correctAnswer": "Careful oversight and regulations",
+      "userAnswer": "I don't know",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "Which of the following is NOT mentioned as a benefit of genetic engineering?",
+      "correctAnswer": "D",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    }
+  ],
+  "scoredAt": "2026-03-04T06:02:49Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need to improve comprehension and detail recognition. Focus on locating specific clues in the passage to avoid misinterpretation. Pay attention to keywords that signal main ideas, examples, or contrasts.",
+    "byPassage": {
+      "1": "Many incorrect answers stem from misunderstanding the main benefits of reading or overlooking details about social connections and cost. Clues were often in the paragraph discussing social benefits and cost-effectiveness. Focus on keywords like 'social connections' and 'low-cost activity'.",
+      "2": "Errors mainly relate to environmental impacts and urbanization effects. The passage's descriptions of habitat destruction and pollution, along with terms like 'urbanization' and 'water resources', are key clues. Practice matching impacts with their causes.",
+      "3": "Incorrect responses often involved confusion about gene therapy applications and ethical concerns. Look for specific examples of diseases treated and the primary uses of CRISPR. Keywords such as 'treat', 'CRISPR-Cas9', and 'ethical debate' are critical."
+    },
+    "tips": [
+      "Practice skimming passages to identify main ideas and keywords quickly, which helps locate answers faster.",
+      "Develop the habit of highlighting or noting keywords in the passage that relate to each question, especially for detail questions.",
+      "Review practice questions to understand common distractors and how they relate to the passage's language, improving your ability to distinguish correct options."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-04T06:02:55Z"
+}

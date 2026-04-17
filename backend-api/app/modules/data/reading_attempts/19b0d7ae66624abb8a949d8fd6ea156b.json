@@ -1,0 +1,820 @@
+{
+  "attemptId": "19b0d7ae66624abb8a949d8fd6ea156b",
+  "userId": "divyapunna1206@gmail.com",
+  "createdAt": "2026-03-02T13:31:48Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Importance of Trees in Our Environment",
+      "text": "Trees are an essential part of our planet’s ecosystem. They provide oxygen, improve air quality, conserve water, and support wildlife. Trees absorb carbon dioxide during photosynthesis, helping to reduce the greenhouse effect and combat climate change. In urban areas, trees offer shade and reduce the heat island effect, making cities more livable. They also help prevent soil erosion and improve soil fertility through leaf litter and root systems. People have valued trees for centuries, not only for their practical benefits but also for their beauty and the sense of peace they bring. Planting trees can be a simple yet effective way to improve the environment and enhance community well-being. Despite their importance, many forests around the world are under threat from deforestation, urbanization, and climate change. Protecting existing trees and planting new ones is crucial for maintaining ecological balance and ensuring a sustainable future."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Renewable energy technologies have advanced rapidly over the past few decades, driven by the urgent need to reduce reliance on fossil fuels and mitigate climate change. Solar power, wind energy, hydroelectricity, geothermal energy, and biomass are the main sources of renewable energy currently utilized worldwide. Solar panels convert sunlight into electricity using photovoltaic cells, and technological improvements have increased their efficiency and lowered costs significantly. Wind turbines harness kinetic energy from the wind, with designs evolving to capture more energy even at lower wind speeds. Hydroelectric power remains a major contributor to renewable energy, especially in regions with abundant water resources, but it also raises environmental concerns related to river ecosystems. Geothermal energy taps into the Earth's internal heat, providing a stable and reliable power source, especially in volcanic regions. Biomass involves converting organic materials into energy, but it requires sustainable management to avoid deforestation and other environmental impacts. The integration of these technologies into existing power grids presents challenges, including storage and distribution. Nevertheless, innovation continues, with research focused on improving efficiency, reducing costs, and developing hybrid systems that combine multiple renewable sources. As governments and industries commit to cleaner energy solutions, renewable energy is poised to play a crucial role in the global transition toward sustainable and environmentally friendly power generation."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of CRISPR in Modern Genetic Engineering",
+      "text": "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and cost-effective method for editing genes. Originally discovered as a bacterial immune system, CRISPR allows scientists to target specific DNA sequences and make controlled modifications. This technology has numerous applications, from developing disease-resistant crops to potential treatments for genetic disorders. In medicine, CRISPR offers the possibility of correcting mutations responsible for conditions such as cystic fibrosis, sickle cell anemia, and certain types of cancer. However, ethical concerns regarding germline editing and the potential for unintended consequences have sparked widespread debate among scientists, policymakers, and the public. The technology's precision is not yet perfect, and off-target effects—unintended genetic changes—remain a concern. Researchers are continuously improving CRISPR systems to increase accuracy and reduce risks. The development of newer variants, such as base editors and prime editors, has expanded the potential applications and safety of gene editing. Despite challenges, the potential of CRISPR to transform medicine, agriculture, and biological research is immense. As the technology advances, establishing regulatory frameworks and ethical guidelines will be essential to ensure its responsible use and to maximize benefits while minimizing risks."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main environmental benefits of trees mentioned in the passage?",
+          "options": [
+            "They produce fruits for humans",
+            "They absorb carbon dioxide",
+            "They increase urban noise levels",
+            "They reduce rainfall"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Trees help prevent soil erosion, according to the passage.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match each benefit to the correct description:",
+          "options": [
+            "Support wildlife",
+            "Reduce heat in cities",
+            "Help soil fertility",
+            "Combat climate change"
+          ],
+          "correctAnswer": [
+            "Support wildlife",
+            "Reduce heat in cities",
+            "Help soil fertility",
+            "Combat climate change"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one threat to forests discussed in the passage.",
+          "correctAnswer": "Deforestation"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Why is planting trees considered effective?",
+          "options": [
+            "It requires no effort",
+            "It improves the environment and community well-being",
+            "It only benefits wildlife",
+            "It increases urban heat"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization is a threat to forests mentioned in the passage.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q7",
+          "type": "matching_headings",
+          "prompt": "Identify the benefits associated with trees:",
+          "options": [
+            "Provide oxygen",
+            "Improve air quality",
+            "Support wildlife",
+            "Help prevent soil erosion"
+          ],
+          "correctAnswer": [
+            "Provide oxygen",
+            "Improve air quality",
+            "Support wildlife",
+            "Help prevent soil erosion"
+          ]
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "According to the passage, what is crucial for maintaining ecological balance?",
+          "correctAnswer": "Protecting and planting trees"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What makes trees valuable beyond their practical benefits?",
+          "options": [
+            "Their beauty and peace they bring",
+            "Their ability to produce fruit",
+            "Their capacity to generate electricity",
+            "Their use as building materials"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "All forests worldwide are currently safe from threats.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Select the threats to trees mentioned:",
+          "options": [
+            "Deforestation",
+            "Urbanization",
+            "Climate change",
+            "All of the above"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What is one way to help ensure a sustainable future for trees?",
+          "correctAnswer": "Protecting existing trees and planting new ones"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "The passage suggests that planting trees can improve community well-being because:",
+          "options": [
+            "It increases pollution",
+            "It provides shade and beauty",
+            "It reduces urban spaces",
+            "It causes soil erosion"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one main reason for the rapid advancement of renewable energy technologies?",
+          "options": [
+            "To increase reliance on fossil fuels",
+            "To reduce dependence on fossil fuels",
+            "To increase greenhouse gas emissions",
+            "To decrease energy efficiency"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Hydroelectric power raises environmental concerns related to river ecosystems.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match each renewable energy source with its description:",
+          "options": [
+            "Solar power",
+            "Wind energy",
+            "Hydroelectricity",
+            "Geothermal energy",
+            "Biomass"
+          ],
+          "correctAnswer": [
+            "Converts sunlight into electricity",
+            "Harnesses kinetic energy from wind",
+            "Uses water flow for power",
+            "Utilizes Earth's internal heat",
+            "Converts organic materials into energy"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Which renewable source provides a stable power supply in volcanic regions?",
+          "correctAnswer": "Geothermal energy"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a challenge associated with integrating renewable technologies into power grids?",
+          "options": [
+            "Lack of innovation",
+            "Storage and distribution issues",
+            "Overabundance of energy",
+            "High demand for fossil fuels"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Biomass energy requires sustainable management to avoid environmental impacts.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q7",
+          "type": "matching_headings",
+          "prompt": "Identify the benefits of renewable energy:",
+          "options": [
+            "Reduces greenhouse gases",
+            "Provides sustainable power",
+            "Lowers costs with technological improvements",
+            "Helps combat climate change"
+          ],
+          "correctAnswer": [
+            "Reduces greenhouse gases",
+            "Provides sustainable power",
+            "Lowers costs with technological improvements",
+            "Helps combat climate change"
+          ]
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is one reason governments are committed to renewable energy?",
+          "correctAnswer": "To transition to cleaner energy solutions"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a main source of renewable energy mentioned?",
+          "options": [
+            "Solar",
+            "Coal",
+            "Wind",
+            "Geothermal"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Research is focused on improving the efficiency of renewable energy systems.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Select the environmental concerns related to renewable energy:",
+          "options": [
+            "River ecosystem disruption",
+            "Deforestation",
+            "Air pollution",
+            "Water resource management"
+          ],
+          "correctAnswer": [
+            "River ecosystem disruption",
+            "Deforestation",
+            "Water resource management"
+          ]
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is a goal of developing hybrid renewable systems?",
+          "correctAnswer": "To combine multiple sources for better efficiency"
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "Renewable energy is expected to play a role in:",
+          "options": [
+            "Increasing fossil fuel use",
+            "Global power transition",
+            "Reducing energy diversity",
+            "Increasing greenhouse gases"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is CRISPR-Cas9 originally discovered as?",
+          "options": [
+            "A human gene editing tool",
+            "A bacterial immune system",
+            "A plant breeding technique",
+            "A chemical compound"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR allows scientists to target specific DNA sequences.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match applications of CRISPR to their fields:",
+          "options": [
+            "Developing disease-resistant crops",
+            "Treatments for genetic disorders",
+            "Gene editing in medicine",
+            "Biological research"
+          ],
+          "correctAnswer": [
+            "Developing disease-resistant crops",
+            "Treatments for genetic disorders",
+            "Gene editing in medicine",
+            "Biological research"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Name one genetic disorder mentioned that CRISPR could help treat.",
+          "correctAnswer": "Cystic fibrosis"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a major ethical concern related to CRISPR?",
+          "options": [
+            "High costs",
+            "Germline editing and unintended effects",
+            "Limited applications",
+            "Lack of precision"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR's precision is currently perfect with no off-target effects.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Identify improvements made to CRISPR systems:",
+          "options": [
+            "Base editors",
+            "Prime editors",
+            "Increased accuracy",
+            "Reduced risks"
+          ],
+          "correctAnswer": [
+            "Base editors",
+            "Prime editors",
+            "Increased accuracy",
+            "Reduced risks"
+          ]
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What is essential to ensure responsible use of CRISPR?",
+          "correctAnswer": "Establishing regulatory frameworks and ethical guidelines"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "CRISPR technology has the potential to transform:",
+          "options": [
+            "Only agriculture",
+            "Medicine, agriculture, and research",
+            "Only biological research",
+            "Only genetic disorders"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "The development of CRISPR variants has limited its applications.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Select the challenges associated with CRISPR:",
+          "options": [
+            "Off-target effects",
+            "Ethical concerns",
+            "Cost of technology",
+            "Regulatory issues"
+          ],
+          "correctAnswer": [
+            "Off-target effects",
+            "Ethical concerns"
+          ]
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "Why is ongoing research important for CRISPR?",
+          "correctAnswer": "To improve accuracy and safety"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What is a key factor for maximizing benefits of CRISPR?",
+          "options": [
+            "Reducing research efforts",
+            "Ignoring ethical concerns",
+            "Responsible use and regulation",
+            "Limiting applications"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q14",
+          "type": "short_answer",
+          "prompt": "Name one area where CRISPR could have a significant impact.",
+          "correctAnswer": "Medicine"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to cover all key points from each passage with the specified question counts. IDs are unique and follow the prescribed format.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 12.5,
+  "passage_1_score": 7.69,
+  "passage_2_score": 15.38,
+  "passage_3_score": 14.29,
+  "total_questions": 40,
+  "correct_questions": 5,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main environmental benefits of trees mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Trees help prevent soil erosion, according to the passage.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match each benefit to the correct description:",
+      "correctAnswer": [
+        "Support wildlife",
+        "Reduce heat in cities",
+        "Help soil fertility",
+        "Combat climate change"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one threat to forests discussed in the passage.",
+      "correctAnswer": "Deforestation",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Urbanization is a threat to forests mentioned in the passage.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Identify the benefits associated with trees:",
+      "correctAnswer": [
+        "Provide oxygen",
+        "Improve air quality",
+        "Support wildlife",
+        "Help prevent soil erosion"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "According to the passage, what is crucial for maintaining ecological balance?",
+      "correctAnswer": "Protecting and planting trees",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What makes trees valuable beyond their practical benefits?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "All forests worldwide are currently safe from threats.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Select the threats to trees mentioned:",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What is one way to help ensure a sustainable future for trees?",
+      "correctAnswer": "Protecting existing trees and planting new ones",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "The passage suggests that planting trees can improve community well-being because:",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What is one main reason for the rapid advancement of renewable energy technologies?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Hydroelectric power raises environmental concerns related to river ecosystems.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match each renewable energy source with its description:",
+      "correctAnswer": [
+        "Converts sunlight into electricity",
+        "Harnesses kinetic energy from wind",
+        "Uses water flow for power",
+        "Utilizes Earth's internal heat",
+        "Converts organic materials into energy"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Which renewable source provides a stable power supply in volcanic regions?",
+      "correctAnswer": "Geothermal energy",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Biomass energy requires sustainable management to avoid environmental impacts.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Identify the benefits of renewable energy:",
+      "correctAnswer": [
+        "Reduces greenhouse gases",
+        "Provides sustainable power",
+        "Lowers costs with technological improvements",
+        "Helps combat climate change"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is one reason governments are committed to renewable energy?",
+      "correctAnswer": "To transition to cleaner energy solutions",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT a main source of renewable energy mentioned?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Research is focused on improving the efficiency of renewable energy systems.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Select the environmental concerns related to renewable energy:",
+      "correctAnswer": [
+        "River ecosystem disruption",
+        "Deforestation",
+        "Water resource management"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is a goal of developing hybrid renewable systems?",
+      "correctAnswer": "To combine multiple sources for better efficiency",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is CRISPR-Cas9 originally discovered as?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "CRISPR allows scientists to target specific DNA sequences.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match applications of CRISPR to their fields:",
+      "correctAnswer": [
+        "Developing disease-resistant crops",
+        "Treatments for genetic disorders",
+        "Gene editing in medicine",
+        "Biological research"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Name one genetic disorder mentioned that CRISPR could help treat.",
+      "correctAnswer": "Cystic fibrosis",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is a major ethical concern related to CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "CRISPR's precision is currently perfect with no off-target effects.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "Identify improvements made to CRISPR systems:",
+      "correctAnswer": [
+        "Base editors",
+        "Prime editors",
+        "Increased accuracy",
+        "Reduced risks"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What is essential to ensure responsible use of CRISPR?",
+      "correctAnswer": "Establishing regulatory frameworks and ethical guidelines",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Select the challenges associated with CRISPR:",
+      "correctAnswer": [
+        "Off-target effects",
+        "Ethical concerns"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "Why is ongoing research important for CRISPR?",
+      "correctAnswer": "To improve accuracy and safety",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is a key factor for maximizing benefits of CRISPR?",
+      "correctAnswer": "C",
+      "userAnswer": "B",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "Name one area where CRISPR could have a significant impact.",
+      "correctAnswer": "Medicine",
+      "userAnswer": null,
+      "type": "short_answer"
+    }
+  ],
+  "scoredAt": "2026-03-02T13:32:27Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need to improve comprehension and detail recognition. Focus on understanding the main ideas and specific details in each paragraph.",
+    "byPassage": {
+      "1": "You selected an incorrect answer for Q1 and misunderstood the environmental benefits of trees. Clue was likely in the paragraph discussing ecological benefits; revisit the section on trees' environmental roles. Remember to identify keywords like 'benefits' and 'environment' to locate relevant info.",
+      "2": "Incorrect answer for Q2 suggests missing the environmental concerns related to hydroelectric power. The passage probably mentioned ecological impacts near the section on hydro energy. Focus on keywords like 'environmental concerns' and 'river ecosystems' for future questions.",
+      "3": "For Q3, matching descriptions to energy sources, ensure you understand each source’s function. The passage's descriptions of sunlight, wind, water, heat, and organic materials are clues. Practice paraphrasing these descriptions to match with the correct energy types.",
+      "4": "Q4 was missed due to not recognizing the specific mention of geothermal energy in volcanic regions. Look for keywords like 'stable power' and 'volcanic regions' in the relevant paragraph.",
+      "5": "You answered incorrectly for Q6, indicating a misunderstanding of biomass management. The passage likely emphasized sustainability; pay attention to words like 'sustainable management' and 'environmental impacts.'",
+      "6": "In Q7, benefits of renewable energy were overlooked. Focus on sections listing advantages, especially phrases like 'reduces greenhouse gases' and 'supports sustainable power.'",
+      "7": "Q8's answer was missed, possibly due to not recognizing the government's motivation for renewable energy. Look for sentences discussing policy goals or environmental commitments.",
+      "8": "Q9 was answered incorrectly, indicating confusion about main renewable sources. Review the list of energy types and their descriptions in the passage, noting which sources are emphasized.",
+      "9": "Q10's false statement was missed, so ensure you understand the current challenges and threats discussed, especially the fact that not all forests are safe.",
+      "10": "Q11 was missed, likely due to not identifying all threats. Pay attention to sections listing threats like 'deforestation' and 'urbanization,' and match them carefully.",
+      "11": "Q12 was overlooked; focus on the concluding sentences about sustainability and conservation strategies for trees.",
+      "12": "Q13 was answered incorrectly, indicating a misinterpretation of community benefits. Revisit the paragraph on social impacts of planting trees, noting keywords like 'community well-being.'",
+      "13": "For passage 2, Q1, your choice was incorrect; review the reasons for renewable energy advancement, especially the role of technological improvements and policy support.",
+      "14": "Q2 was answered correctly; ensure you understand the environmental concerns linked to hydro power, as the passage discusses ecological impacts.",
+      "15": "Q3 requires matching energy sources; focus on the descriptions of sunlight, wind, water, heat, and organic materials, and practice paraphrasing for better matching.",
+      "16": "Q4 was missed; remember that geothermal energy is associated with volcanic regions, so look for specific mentions of this in the text.",
+      "17": "Q6 was answered incorrectly, so review the importance of sustainable biomass management and associated environmental impacts.",
+      "18": "Q7's benefits were overlooked; memorize key advantages such as greenhouse gas reduction and sustainability, which are emphasized in the passage.",
+      "19": "Q8 was missed; focus on the motivations behind government policies, especially transitioning to cleaner energy sources.",
+      "20": "Q9 was answered incorrectly; review the main renewable sources listed and their descriptions to avoid confusion.",
+      "21": "Q10 was answered correctly; continue to focus on research and development aspects discussed in the passage.",
+      "22": "Q11's environmental concerns need more attention; ensure you can identify issues like river ecosystem disruption and deforestation.",
+      "23": "Q12 was missed; remember the goal of hybrid systems is to combine sources for efficiency, as highlighted in the text.",
+      "24": "In passage 3, Q1, your answer was incorrect; CRISPR's original discovery was likely in a different context. Review the initial discovery and its primary function.",
+      "25": "Q2 was answered incorrectly; pay close attention to statements about CRISPR's targeting ability, especially the phrase 'target specific DNA sequences.'",
+      "26": "Q3 requires matching applications to fields; focus on the examples given, such as disease resistance and gene therapy, and practice paraphrasing these descriptions.",
+      "27": "Q4 was missed; recall the specific genetic disorder mentioned, like cystic fibrosis, and locate it in the relevant paragraph.",
+      "28": "Q5's ethical concern was misunderstood; review the ethical issues discussed, especially related to 'germline editing' or 'designer babies.'",
+      "29": "Q6 was answered incorrectly; ensure you recognize that CRISPR's precision is not perfect, and off-target effects are a concern.",
+      "30": "Q7's improvements need review; focus on advancements like base and prime editing, and their purpose to increase accuracy.",
+      "31": "Q8 was missed; remember the importance of regulation and ethical guidelines for responsible use, as emphasized in the passage.",
+      "32": "Q11 was answered incorrectly; identify challenges like off-target effects and ethical concerns, and understand their implications.",
+      "33": "Q12 needs more focus; ongoing research aims to enhance safety and precision, so look for phrases like 'improve accuracy and safety.'",
+      "34": "Q13 was answered incorrectly; the key factor for maximizing benefits involves technological and ethical considerations, so review the options carefully.",
+      "35": "Q14 was missed; consider the broad impact areas such as medicine, agriculture, and biological research, and remember the passage's examples."
+    },
+    "tips": [
+      "Practice locating keywords and synonyms in the passage to improve matching and detail questions.",
+      "Develop a habit of summarizing each paragraph in your own words to grasp main ideas and supporting details.",
+      "Review question types and strategies, especially for true/false/not given and matching headings, to enhance accuracy."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-02T13:32:39Z"
+}

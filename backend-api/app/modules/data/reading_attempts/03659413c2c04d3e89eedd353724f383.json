@@ -1,0 +1,954 @@
+{
+  "attemptId": "03659413c2c04d3e89eedd353724f383",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-05T11:47:10Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Gardening for Urban Residents",
+      "text": "Gardening is a popular activity enjoyed by many people around the world. In urban areas, where green spaces can be limited, gardening offers numerous benefits. Not only does it provide a source of fresh produce, but it also contributes to mental and physical well-being. Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots. These green spaces help improve air quality, reduce noise pollution, and create habitats for local wildlife. Additionally, engaging in gardening can help reduce stress and promote a sense of community among neighbors. For city dwellers with busy lifestyles, gardening offers a relaxing outdoor activity that encourages physical movement and connection with nature. As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular. These initiatives often include educational workshops and support for new gardeners, making gardening accessible to everyone. Overall, urban gardening not only enhances the aesthetic appeal of neighborhoods but also plays a vital role in promoting sustainable living and community resilience."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Initially, reliance on fossil fuels contributed to environmental pollution and climate change, prompting a shift toward cleaner alternatives. Solar power, wind turbines, and hydropower have become key components of this transition. Solar panels have become more efficient and affordable, allowing widespread adoption in residential and commercial settings. Wind energy, harnessed through large turbines, has expanded rapidly, especially in regions with consistent wind patterns. Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption. Moreover, emerging technologies such as geothermal energy and bioenergy are gaining traction. The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply. Governments and private sectors worldwide are investing heavily in these technologies, aiming to reduce carbon emissions and meet international climate goals. Despite challenges related to resource variability and infrastructure costs, the future of renewable energy appears promising, with continued research and policy support driving further improvements. As technological innovations advance, renewable energy is poised to become a cornerstone of sustainable development."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of CRISPR in Modern Genetic Engineering",
+      "text": "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications. This technology has broad applications, ranging from agriculture to medicine. In agriculture, CRISPR is used to develop crops with improved yield, pest resistance, and tolerance to environmental stresses. In medicine, it holds promise for treating genetic disorders such as cystic fibrosis, sickle cell anemia, and certain types of cancer. The process involves designing a guide RNA that directs the Cas9 enzyme to the target gene, where it creates a double-strand break. The cell’s natural repair mechanisms then fix the break, often resulting in gene disruption or correction. Despite its potential, CRISPR raises ethical concerns, particularly regarding germline editing, which could be passed to future generations. There is ongoing debate about the regulation and responsible use of this powerful technology. Scientific research continues to improve CRISPR’s accuracy and reduce unintended effects, making it a promising tool for future genetic innovations. As research advances, CRISPR’s impact on medicine, agriculture, and biological sciences is expected to grow, potentially transforming many aspects of human life and the natural world."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one benefit of urban gardening mentioned in the passage?",
+          "options": [
+            "It increases noise pollution",
+            "It improves air quality",
+            "It reduces green spaces",
+            "It decreases community interaction"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening is only possible in large parks.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the types of urban gardening to their descriptions:",
+          "options": [
+            "Small balcony pots",
+            "Community gardens in vacant lots"
+          ],
+          "headings": [
+            "Large-scale community projects",
+            "Personal small-scale gardening"
+          ],
+          "matches": {
+            "Small balcony pots": "Personal small-scale gardening",
+            "Community gardens in vacant lots": "Large-scale community projects"
+          }
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one way urban gardening contributes to local wildlife.",
+          "correctAnswer": "Creates habitats"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, what do urban gardening programs often include?",
+          "options": [
+            "Sports tournaments",
+            "Educational workshops",
+            "Food festivals",
+            "Music concerts"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening has no effect on neighborhood aesthetics.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of urban gardening?",
+          "options": [
+            "Reducing noise pollution",
+            "Improving air quality",
+            "Increasing traffic congestion",
+            "Promoting community resilience"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What mental health benefit is associated with gardening?",
+          "correctAnswer": "Reducing stress"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "Why are urban gardening programs becoming more popular?",
+          "options": [
+            "Because they are expensive",
+            "Because they promote urban decay",
+            "Because cities recognize their health benefits",
+            "Because they replace parks"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening can only be done in rural areas.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the benefits of urban gardening to their descriptions:",
+          "options": [
+            "Improves air quality",
+            "Creates habitats for wildlife",
+            "Reduces noise pollution",
+            "Enhances neighborhood aesthetics"
+          ],
+          "headings": [
+            "Environmental benefits",
+            "Wildlife support",
+            "Noise reduction",
+            "Visual improvements"
+          ],
+          "matches": {
+            "Improves air quality": "Environmental benefits",
+            "Creates habitats for wildlife": "Wildlife support",
+            "Reduces noise pollution": "Noise reduction",
+            "Enhances neighborhood aesthetics": "Visual improvements"
+          }
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What role does gardening play in sustainable living?",
+          "correctAnswer": "It enhances sustainability"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is a form of urban gardening?",
+          "options": [
+            "Rooftop gardens",
+            "Farming in rural fields",
+            "Planting in deserts",
+            "Forest conservation"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What was a major environmental issue caused by reliance on fossil fuels?",
+          "options": [
+            "Increased biodiversity",
+            "Environmental pollution and climate change",
+            "Reduction in greenhouse gases",
+            "Improved air quality"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy technologies have not changed significantly in recent decades.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the renewable energy sources to their descriptions:",
+          "options": [
+            "Solar power",
+            "Wind turbines",
+            "Hydropower",
+            "Geothermal energy"
+          ],
+          "headings": [
+            "Uses flowing water to generate electricity",
+            "Harnessed through large turbines in windy regions",
+            "Uses sunlight to generate power",
+            "Uses heat from the earth"
+          ],
+          "matches": {
+            "Solar power": "Uses sunlight to generate power",
+            "Wind turbines": "Harnessed through large turbines in windy regions",
+            "Hydropower": "Uses flowing water to generate electricity",
+            "Geothermal energy": "Uses heat from the earth"
+          }
+        },
+        {
+          "id": "p2_q4",
+          "type": "multiple_choice",
+          "prompt": "What technological development has helped address the intermittent nature of renewable energy?",
+          "options": [
+            "Hydropower dams",
+            "Energy storage systems like batteries",
+            "Coal plants",
+            "Nuclear reactors"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q5",
+          "type": "true_false_not_given",
+          "prompt": "Bioenergy is not a growing sector in renewable energy.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q6",
+          "type": "matching_headings",
+          "prompt": "Match the challenges with renewable energy:",
+          "options": [
+            "Resource variability",
+            "High infrastructure costs"
+          ],
+          "headings": [
+            "Economic challenges",
+            "Resource challenges"
+          ],
+          "matches": {
+            "Resource variability": "Resource challenges",
+            "High infrastructure costs": "Economic challenges"
+          }
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a future outlook for renewable energy according to the passage?",
+          "options": [
+            "It is likely to decline",
+            "It is poised to become a cornerstone of sustainable development",
+            "It will be replaced by fossil fuels",
+            "It will only be used in developing countries"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is one goal of governments and private sectors investing in renewable energy?",
+          "correctAnswer": "Reduce carbon emissions"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a renewable energy source?",
+          "options": [
+            "Solar power",
+            "Wind energy",
+            "Natural gas",
+            "Hydropower"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are completely reliable without storage systems.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the technological advancements to their purposes:",
+          "options": [
+            "Efficiency improvements in solar panels",
+            "Expansion of wind energy",
+            "Development of bioenergy",
+            "Integration of energy storage"
+          ],
+          "headings": [
+            "Increase renewable capacity",
+            "Improve efficiency",
+            "Address intermittency",
+            "Diversify energy sources"
+          ],
+          "matches": {
+            "Efficiency improvements in solar panels": "Improve efficiency",
+            "Expansion of wind energy": "Increase renewable capacity",
+            "Development of bioenergy": "Diversify energy sources",
+            "Integration of energy storage": "Address intermittency"
+          }
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is a major environmental concern related to hydropower?",
+          "correctAnswer": "Ecological disruption"
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "What is one reason renewable energy has become more mainstream?",
+          "options": [
+            "Decrease in technological innovation",
+            "Global efforts to reduce carbon emissions",
+            "Lack of government support",
+            "Decline in energy demand"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is CRISPR-Cas9 originally discovered as?",
+          "options": [
+            "A plant hormone",
+            "A natural immune mechanism in bacteria",
+            "A type of virus",
+            "A human enzyme"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology is only used in medicine.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the application areas of CRISPR to their descriptions:",
+          "options": [
+            "Agriculture",
+            "Medicine"
+          ],
+          "headings": [
+            "Developing pest-resistant crops",
+            "Treating genetic disorders"
+          ],
+          "matches": {
+            "Agriculture": "Developing pest-resistant crops",
+            "Medicine": "Treating genetic disorders"
+          }
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What enzyme is used in the CRISPR system to cut DNA?",
+          "correctAnswer": "Cas9"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a step in the CRISPR process?",
+          "options": [
+            "Designing a guide RNA",
+            "Using a virus to insert genes",
+            "Applying chemicals to cells",
+            "Growing bacteria"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR can be used to make precise modifications to DNA.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Match the ethical concerns with CRISPR to their descriptions:",
+          "options": [
+            "Germline editing",
+            "Unintended effects"
+          ],
+          "headings": [
+            "Potential passing of modifications to future generations",
+            "Risks of off-target gene edits"
+          ],
+          "matches": {
+            "Germline editing": "Potential passing of modifications to future generations",
+            "Unintended effects": "Risks of off-target gene edits"
+          }
+        },
+        {
+          "id": "p3_q8",
+          "type": "multiple_choice",
+          "prompt": "What is one way scientists are improving CRISPR?",
+          "options": [
+            "Increasing speed of DNA replication",
+            "Reducing unintended effects",
+            "Removing the Cas9 enzyme",
+            "Using only in bacteria"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q9",
+          "type": "short_answer",
+          "prompt": "Name one potential benefit of CRISPR in medicine.",
+          "correctAnswer": "Treating genetic disorders"
+        },
+        {
+          "id": "p3_q10",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a concern associated with CRISPR?",
+          "options": [
+            "Ethical issues",
+            "Gene editing accuracy",
+            "Cost of technology",
+            "Inability to target specific genes"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p3_q11",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology is only useful for scientific research and has no practical applications.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q12",
+          "type": "matching_headings",
+          "prompt": "Match the future prospects of CRISPR to their descriptions:",
+          "options": [
+            "Transforming medicine",
+            "Revolutionizing agriculture",
+            "Advancing biological sciences",
+            "Potentially altering human life"
+          ],
+          "headings": [
+            "Improving health treatments",
+            "Creating pest-resistant crops",
+            "Understanding genetics better",
+            "Changing human genetics"
+          ],
+          "matches": {
+            "Transforming medicine": "Improving health treatments",
+            "Revolutionizing agriculture": "Creating pest-resistant crops",
+            "Advancing biological sciences": "Understanding genetics better",
+            "Potentially altering human life": "Changing human genetics"
+          }
+        },
+        {
+          "id": "p3_q13",
+          "type": "short_answer",
+          "prompt": "What is the main advantage of CRISPR over previous gene editing methods?",
+          "correctAnswer": "Precision and simplicity"
+        },
+        {
+          "id": "p3_q14",
+          "type": "multiple_choice",
+          "prompt": "What is a major ethical debate surrounding CRISPR?",
+          "options": [
+            "Its high cost",
+            "Germline editing and its implications",
+            "Its inefficiency",
+            "Lack of scientific interest"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to cover all passages with the specified counts. IDs are unique and follow the required format. All question types are included as per instructions.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 20.0,
+  "passage_1_score": 15.38,
+  "passage_2_score": 23.08,
+  "passage_3_score": 21.43,
+  "total_questions": 40,
+  "correct_questions": 8,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one benefit of urban gardening mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular.",
+        "Overall, urban gardening not only enhances the aesthetic appeal of neighborhoods but also plays a vital role in promoting sustainable living and community resilience."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Gardening is a popular activity enjoyed by many people around the world. As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular."
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Urban gardening is only possible in large parks.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In urban areas, where green spaces can be limited, gardening offers numerous benefits.",
+        "Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots.",
+        "Overall, urban gardening not only enhances the aesthetic appeal of neighborhoods but also plays a vital role in promoting sustainable living and community resilience."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: In urban areas, where green spaces can be limited, gardening offers numerous benefits. Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one way urban gardening contributes to local wildlife.",
+      "correctAnswer": "Creates habitats",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "In urban areas, where green spaces can be limited, gardening offers numerous benefits.",
+        "Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots.",
+        "These green spaces help improve air quality, reduce noise pollution, and create habitats for local wildlife."
+      ],
+      "explanation": "The correct answer is 'Creates habitats' because the passage states: In urban areas, where green spaces can be limited, gardening offers numerous benefits. Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "According to the passage, what do urban gardening programs often include?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular.",
+        "These initiatives often include educational workshops and support for new gardeners, making gardening accessible to everyone.",
+        "Overall, urban gardening not only enhances the aesthetic appeal of neighborhoods but also plays a vital role in promoting sustainable living and community resilience."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular. These initiatives often include educational workshops and support for new gardeners, making gardening accessible to everyone."
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Urban gardening has no effect on neighborhood aesthetics.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In urban areas, where green spaces can be limited, gardening offers numerous benefits.",
+        "Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots.",
+        "As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: In urban areas, where green spaces can be limited, gardening offers numerous benefits. Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots."
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a benefit of urban gardening?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular.",
+        "Overall, urban gardening not only enhances the aesthetic appeal of neighborhoods but also plays a vital role in promoting sustainable living and community resilience."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Gardening is a popular activity enjoyed by many people around the world. As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What mental health benefit is associated with gardening?",
+      "correctAnswer": "Reducing stress",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Additionally, engaging in gardening can help reduce stress and promote a sense of community among neighbors.",
+        "For city dwellers with busy lifestyles, gardening offers a relaxing outdoor activity that encourages physical movement and connection with nature.",
+        "As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular."
+      ],
+      "explanation": "The correct answer is 'Reducing stress' because the passage states: Additionally, engaging in gardening can help reduce stress and promote a sense of community among neighbors. For city dwellers with busy lifestyles, gardening offers a relaxing outdoor activity that encourages physical movement and connection with nature."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "Why are urban gardening programs becoming more popular?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "In urban areas, where green spaces can be limited, gardening offers numerous benefits.",
+        "As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Gardening is a popular activity enjoyed by many people around the world. In urban areas, where green spaces can be limited, gardening offers numerous benefits."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Urban gardening can only be done in rural areas.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In urban areas, where green spaces can be limited, gardening offers numerous benefits.",
+        "Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots.",
+        "Overall, urban gardening not only enhances the aesthetic appeal of neighborhoods but also plays a vital role in promoting sustainable living and community resilience."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: In urban areas, where green spaces can be limited, gardening offers numerous benefits. Urban gardening can take many forms, from small balcony pots to community gardens in vacant lots."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What role does gardening play in sustainable living?",
+      "correctAnswer": "It enhances sustainability",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "In urban areas, where green spaces can be limited, gardening offers numerous benefits.",
+        "Overall, urban gardening not only enhances the aesthetic appeal of neighborhoods but also plays a vital role in promoting sustainable living and community resilience."
+      ],
+      "explanation": "The correct answer is 'It enhances sustainability' because the passage states: Gardening is a popular activity enjoyed by many people around the world. In urban areas, where green spaces can be limited, gardening offers numerous benefits."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Which of the following is a form of urban gardening?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular.",
+        "Overall, urban gardening not only enhances the aesthetic appeal of neighborhoods but also plays a vital role in promoting sustainable living and community resilience."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Gardening is a popular activity enjoyed by many people around the world. As more cities recognize the importance of green spaces for public health, urban gardening programs are becoming increasingly popular."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What was a major environmental issue caused by reliance on fossil fuels?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Initially, reliance on fossil fuels contributed to environmental pollution and climate change, prompting a shift toward cleaner alternatives.",
+        "Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Initially, reliance on fossil fuels contributed to environmental pollution and climate change, prompting a shift toward cleaner alternatives. Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Renewable energy technologies have not changed significantly in recent decades.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption.",
+        "Moreover, emerging technologies such as geothermal energy and bioenergy are gaining traction."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What technological development has helped address the intermittent nature of renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply.",
+        "As technological innovations advance, renewable energy is poised to become a cornerstone of sustainable development."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Bioenergy is not a growing sector in renewable energy.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption.",
+        "Moreover, emerging technologies such as geothermal energy and bioenergy are gaining traction."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What is a future outlook for renewable energy according to the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply.",
+        "Despite challenges related to resource variability and infrastructure costs, the future of renewable energy appears promising, with continued research and policy support driving further improvements."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is one goal of governments and private sectors investing in renewable energy?",
+      "correctAnswer": "Reduce carbon emissions",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "Governments and private sectors worldwide are investing heavily in these technologies, aiming to reduce carbon emissions and meet international climate goals.",
+        "Despite challenges related to resource variability and infrastructure costs, the future of renewable energy appears promising, with continued research and policy support driving further improvements."
+      ],
+      "explanation": "The correct answer is 'Reduce carbon emissions' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Governments and private sectors worldwide are investing heavily in these technologies, aiming to reduce carbon emissions and meet international climate goals."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT mentioned as a renewable energy source?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption.",
+        "The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Renewable energy sources are completely reliable without storage systems.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption.",
+        "The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is a major environmental concern related to hydropower?",
+      "correctAnswer": "Ecological disruption",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Initially, reliance on fossil fuels contributed to environmental pollution and climate change, prompting a shift toward cleaner alternatives.",
+        "Solar power, wind turbines, and hydropower have become key components of this transition.",
+        "Hydropower, which uses flowing water to generate electricity, remains a major source of renewable energy, although its environmental impacts have prompted innovations to minimize ecological disruption."
+      ],
+      "explanation": "The correct answer is 'Ecological disruption' because the passage states: Initially, reliance on fossil fuels contributed to environmental pollution and climate change, prompting a shift toward cleaner alternatives. Solar power, wind turbines, and hydropower have become key components of this transition."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What is one reason renewable energy has become more mainstream?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply.",
+        "As technological innovations advance, renewable energy is poised to become a cornerstone of sustainable development."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. The integration of energy storage systems, like batteries, has addressed the intermittent nature of renewable sources, ensuring a reliable supply."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is CRISPR-Cas9 originally discovered as?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications.",
+        "In agriculture, CRISPR is used to develop crops with improved yield, pest resistance, and tolerance to environmental stresses."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "CRISPR technology is only used in medicine.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "This technology has broad applications, ranging from agriculture to medicine.",
+        "In agriculture, CRISPR is used to develop crops with improved yield, pest resistance, and tolerance to environmental stresses."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. This technology has broad applications, ranging from agriculture to medicine."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "What enzyme is used in the CRISPR system to cut DNA?",
+      "correctAnswer": "Cas9",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications.",
+        "The process involves designing a guide RNA that directs the Cas9 enzyme to the target gene, where it creates a double-strand break."
+      ],
+      "explanation": "The correct answer is 'Cas9' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is a step in the CRISPR process?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "The process involves designing a guide RNA that directs the Cas9 enzyme to the target gene, where it creates a double-strand break.",
+        "As research advances, CRISPR’s impact on medicine, agriculture, and biological sciences is expected to grow, potentially transforming many aspects of human life and the natural world."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. The process involves designing a guide RNA that directs the Cas9 enzyme to the target gene, where it creates a double-strand break."
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "CRISPR can be used to make precise modifications to DNA.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications.",
+        "In agriculture, CRISPR is used to develop crops with improved yield, pest resistance, and tolerance to environmental stresses."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What is one way scientists are improving CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications.",
+        "In agriculture, CRISPR is used to develop crops with improved yield, pest resistance, and tolerance to environmental stresses."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "Name one potential benefit of CRISPR in medicine.",
+      "correctAnswer": "Treating genetic disorders",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "In medicine, it holds promise for treating genetic disorders such as cystic fibrosis, sickle cell anemia, and certain types of cancer.",
+        "Despite its potential, CRISPR raises ethical concerns, particularly regarding germline editing, which could be passed to future generations."
+      ],
+      "explanation": "The correct answer is 'Treating genetic disorders' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. In medicine, it holds promise for treating genetic disorders such as cystic fibrosis, sickle cell anemia, and certain types of cancer."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "Which of the following is NOT a concern associated with CRISPR?",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "In agriculture, CRISPR is used to develop crops with improved yield, pest resistance, and tolerance to environmental stresses.",
+        "Despite its potential, CRISPR raises ethical concerns, particularly regarding germline editing, which could be passed to future generations."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. In agriculture, CRISPR is used to develop crops with improved yield, pest resistance, and tolerance to environmental stresses."
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "CRISPR technology is only useful for scientific research and has no practical applications.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "This technology has broad applications, ranging from agriculture to medicine.",
+        "Scientific research continues to improve CRISPR’s accuracy and reduce unintended effects, making it a promising tool for future genetic innovations."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. This technology has broad applications, ranging from agriculture to medicine."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is the main advantage of CRISPR over previous gene editing methods?",
+      "correctAnswer": "Precision and simplicity",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications.",
+        "As research advances, CRISPR’s impact on medicine, agriculture, and biological sciences is expected to grow, potentially transforming many aspects of human life and the natural world."
+      ],
+      "explanation": "The correct answer is 'Precision and simplicity' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "What is a major ethical debate surrounding CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications.",
+        "Despite its potential, CRISPR raises ethical concerns, particularly regarding germline editing, which could be passed to future generations."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to target specific sequences of DNA and make precise modifications."
+    }
+  ],
+  "scoredAt": "2026-03-05T11:47:18Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need for targeted improvement. Many answers lacked clarity or were based on misinterpreted clues. Focus on locating key sentences that directly support the question, especially those highlighting benefits, processes, or definitions.",
+    "byPassage": {
+      "1": "You missed the benefit of green spaces for public health and community resilience, which was clearly linked to urban gardening's popularity and benefits. Pay attention to sentences mentioning 'green spaces,' 'public health,' and 'community resilience' as they provide explicit clues.",
+      "2": "Your errors suggest difficulty in understanding the causes and technological developments. Look for sentences discussing 'reliance on fossil fuels' and 'advancements' in renewable tech, especially those mentioning 'shift,' 'innovations,' and 'storage systems' for context.",
+      "3": "You overlooked the origins and applications of CRISPR. Focus on sentences describing 'discovery as a natural immune mechanism' and 'broad applications' in medicine and agriculture. Keywords like 'originally discovered' and 'broad applications' are crucial clues."
+    },
+    "tips": [
+      "Practice skimming passages to identify keywords related to the question (e.g., 'benefits,' 'discovery,' 'applications').",
+      "Highlight or underline sentences that directly answer the question during practice to improve retrieval speed.",
+      "Develop a habit of verifying your answer against the evidence sentences to ensure your choice matches the passage's explicit information."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T11:47:22Z"
+}

@@ -1,0 +1,745 @@
+{
+  "attemptId": "d31978193a8947a29e478f4ee8e08ceb",
+  "userId": "cp@gmail.com",
+  "createdAt": "2026-03-04T11:59:30Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Importance of Recycling in Daily Life",
+      "text": "Recycling has become an essential part of modern life as people become increasingly aware of environmental issues. The process involves converting waste materials into new products to prevent waste of potentially useful materials. Recycling reduces the need for raw materials, conserves energy, and decreases pollution caused by waste disposal. Common recyclable items include paper, plastic, glass, and metals. Many communities have established curbside recycling programs to make it easier for residents to participate. The benefits extend beyond environmental considerations; recycling can also create economic opportunities by generating jobs in collection and processing industries. Despite these advantages, many challenges remain, such as contamination of recyclable materials and lack of public awareness. Encouraging people to recycle requires education about proper sorting and the importance of reducing waste overall. As the world faces increasing environmental pressures, recycling is a simple yet effective strategy for individuals to contribute to sustainability."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Renewable energy technologies have seen significant advancements over the past few decades, driven by the global need to reduce dependence on fossil fuels and mitigate climate change. Solar power, wind energy, hydropower, geothermal, and biomass are the main sources of renewable energy. Solar photovoltaic (PV) panels have become more efficient and affordable, enabling widespread adoption in residential and commercial settings. Wind turbines, both onshore and offshore, have increased in size and capacity, capturing more energy from wind flows. Hydropower remains the largest source of renewable electricity worldwide, though its development is often limited by geographical and environmental concerns. Geothermal energy harnesses heat from beneath the Earth's surface and is particularly promising in volcanic regions. Biomass involves converting organic materials into energy through combustion or biochemical processes. Challenges facing renewable energy include intermittency, storage, and integration into existing power grids. Innovations such as battery storage and smart grid technology are helping to address these issues. As technology continues to improve and costs decline, renewables are expected to play an increasingly vital role in the global energy landscape, contributing to sustainable development and energy security."
+    },
+    {
+      "passageId": "3",
+      "title": "Advances in CRISPR Technology and Its Implications for Medicine",
+      "text": "CRISPR-Cas9 technology has revolutionized the field of genetics by providing a precise and efficient method for editing DNA. Originally discovered as a bacterial immune defense mechanism, CRISPR has been adapted for use in various organisms, including humans. This technology enables scientists to target specific genetic sequences and modify them, offering potential treatments for genetic disorders such as cystic fibrosis, sickle cell anemia, and muscular dystrophy. The ability to edit genes with high accuracy has also opened new avenues in cancer therapy, infectious disease control, and agricultural biotechnology. However, the application of CRISPR raises ethical concerns, particularly regarding germline modifications that can be inherited by future generations. Off-target effects, where unintended parts of the genome are edited, pose safety risks and must be carefully managed. Researchers are actively developing improved CRISPR variants with increased specificity and reduced side effects. Regulatory frameworks are also evolving to oversee clinical applications. Despite challenges, CRISPR remains one of the most promising tools in modern medicine, with the potential to transform disease treatment and deepen our understanding of human genetics."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one primary purpose of recycling as mentioned in the passage?",
+          "options": [
+            "To increase waste production",
+            "To convert waste into new products",
+            "To eliminate all waste materials",
+            "To reduce the use of renewable resources"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Recycling has no impact on pollution levels.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the recyclable items with their categories:",
+          "options": [
+            "Paper, Plastic, Glass, Metals",
+            "Organic waste, Electronic waste, Construction materials, Clothing"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one challenge associated with recycling mentioned in the passage.",
+          "correctAnswer": "Contamination of recyclable materials"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "What can help encourage people to recycle more effectively?",
+          "options": [
+            "Reducing public awareness",
+            "Providing education about proper sorting",
+            "Increasing waste production",
+            "Removing curbside programs"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Recycling programs are only available in some communities.",
+          "correctAnswer": "Not given"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT listed as a benefit of recycling?",
+          "options": [
+            "Conserving energy",
+            "Creating economic opportunities",
+            "Increasing waste",
+            "Reducing raw material use"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What is a common method used in recycling programs to make participation easier?",
+          "correctAnswer": "Curbside recycling programs"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "Why do many challenges remain in recycling?",
+          "options": [
+            "Lack of recyclable materials",
+            "Contamination and lack of awareness",
+            "Too many recyclable items",
+            "High costs of recycling"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Recycling is ineffective in reducing pollution.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Select the heading that best summarizes the environmental aspect of recycling:",
+          "options": [
+            "Economic benefits of recycling",
+            "Environmental benefits and challenges",
+            "Recycling methods and techniques",
+            "Recycling policy development"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What role does education play in recycling efforts?",
+          "correctAnswer": "It encourages proper sorting and waste reduction."
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is an example of a recyclable item?",
+          "options": [
+            "Food waste",
+            "Plastic bottles",
+            "Chemical waste",
+            "Organic compost"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a main driver for advancements in renewable energy technologies?",
+          "options": [
+            "Reducing dependence on fossil fuels",
+            "Increasing use of nuclear energy",
+            "Decreasing global energy demand",
+            "Reducing renewable energy costs"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Hydropower development is limited mainly by technological issues.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match each renewable energy source with its description:",
+          "options": [
+            "Solar power, Wind energy, Hydropower, Geothermal, Biomass",
+            "Energy from organic materials, Heat from Earth's interior, Wind turbines, Solar panels, Water flow"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Name one challenge faced by renewable energy sources.",
+          "correctAnswer": "Intermittency"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What technological innovation helps address energy storage issues?",
+          "options": [
+            "Smart grid technology",
+            "Nuclear reactors",
+            "Coal-fired power plants",
+            "Hydrogen fuel cells"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are becoming more expensive over time.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "Which renewable energy source is currently the largest in electricity generation?",
+          "options": [
+            "Solar power",
+            "Wind energy",
+            "Hydropower",
+            "Biomass"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is a common environmental concern associated with hydropower?",
+          "correctAnswer": "Geographical and environmental concerns"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "In what way are costs related to renewable energy expected to change?",
+          "options": [
+            "Increase significantly",
+            "Remain constant",
+            "Decline over time",
+            "Become unpredictable"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "All renewable energy sources are equally reliable.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Choose the heading that best describes the role of renewable energy:",
+          "options": [
+            "Current challenges",
+            "Future prospects and technological improvements",
+            "Environmental impacts",
+            "Economic implications"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "Why is renewable energy considered vital for sustainable development?",
+          "correctAnswer": "It helps reduce dependence on fossil fuels and mitigates climate change."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a main source of renewable energy mentioned?",
+          "options": [
+            "Solar power",
+            "Wind energy",
+            "Coal",
+            "Biomass"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What does CRISPR-Cas9 technology primarily do?",
+          "options": [
+            "Creates new bacteria",
+            "Edits DNA precisely",
+            "Generates vaccines",
+            "Detects genetic diseases"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR was originally discovered for use in plant breeding.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the application with its potential benefit:",
+          "options": [
+            "Genetic disorder treatments, Cancer therapy, Agricultural biotechnology, Ethical concerns",
+            "Potential to cure genetic diseases, Improve crop traits, Raise moral issues, Target specific genes"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Name one genetic disorder mentioned that could be treated with CRISPR.",
+          "correctAnswer": "Cystic fibrosis"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a major ethical concern related to CRISPR?",
+          "options": [
+            "High cost of technology",
+            "Inability to target specific genes",
+            "Germline modifications that can be inherited",
+            "Lack of scientific understanding"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Off-target effects are harmless and do not require management.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Select the heading that best describes ongoing improvements in CRISPR:",
+          "options": [
+            "Enhanced specificity and reduced side effects",
+            "Increased ethical debates",
+            "Limitations in clinical applications",
+            "Expansion into new fields"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What does regulatory framework development aim to ensure?",
+          "correctAnswer": "To oversee clinical applications"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "Despite challenges, why is CRISPR considered promising?",
+          "options": [
+            "It is inexpensive",
+            "It offers precise gene editing",
+            "It is universally accepted ethically",
+            "It replaces all other therapies"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology has no potential to transform medicine.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Choose the heading that best summarizes CRISPR’s impact:",
+          "options": [
+            "Gene editing in medicine",
+            "Ethical and safety concerns",
+            "Advancements and future potential",
+            "Research limitations"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What is one organism in which CRISPR has been adapted for use?",
+          "correctAnswer": "Humans"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What is one reason researchers are developing improved CRISPR variants?",
+          "options": [
+            "To increase off-target effects",
+            "To decrease specificity",
+            "To improve safety and accuracy",
+            "To reduce research costs"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q14",
+          "type": "short_answer",
+          "prompt": "What is one potential application of CRISPR in agriculture?",
+          "correctAnswer": "Crop trait improvement"
+        }
+      ]
+    }
+  ],
+  "notes": "Ensure question counts are exact and IDs are unique per passage.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 0.0,
+  "passage_1_score": 0.0,
+  "passage_2_score": 0.0,
+  "passage_3_score": 0.0,
+  "total_questions": 40,
+  "correct_questions": 0,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one primary purpose of recycling as mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Recycling has no impact on pollution levels.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the recyclable items with their categories:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one challenge associated with recycling mentioned in the passage.",
+      "correctAnswer": "Contamination of recyclable materials",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "What can help encourage people to recycle more effectively?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Recycling programs are only available in some communities.",
+      "correctAnswer": "Not given",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT listed as a benefit of recycling?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What is a common method used in recycling programs to make participation easier?",
+      "correctAnswer": "Curbside recycling programs",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "Why do many challenges remain in recycling?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Recycling is ineffective in reducing pollution.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Select the heading that best summarizes the environmental aspect of recycling:",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What role does education play in recycling efforts?",
+      "correctAnswer": "It encourages proper sorting and waste reduction.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Which of the following is an example of a recyclable item?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What is a main driver for advancements in renewable energy technologies?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Hydropower development is limited mainly by technological issues.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match each renewable energy source with its description:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Name one challenge faced by renewable energy sources.",
+      "correctAnswer": "Intermittency",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "What technological innovation helps address energy storage issues?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Renewable energy sources are becoming more expensive over time.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Which renewable energy source is currently the largest in electricity generation?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is a common environmental concern associated with hydropower?",
+      "correctAnswer": "Geographical and environmental concerns",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "In what way are costs related to renewable energy expected to change?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "All renewable energy sources are equally reliable.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Choose the heading that best describes the role of renewable energy:",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "Why is renewable energy considered vital for sustainable development?",
+      "correctAnswer": "It helps reduce dependence on fossil fuels and mitigates climate change.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT a main source of renewable energy mentioned?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What does CRISPR-Cas9 technology primarily do?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "CRISPR was originally discovered for use in plant breeding.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the application with its potential benefit:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Name one genetic disorder mentioned that could be treated with CRISPR.",
+      "correctAnswer": "Cystic fibrosis",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is a major ethical concern related to CRISPR?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Off-target effects are harmless and do not require management.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "Select the heading that best describes ongoing improvements in CRISPR:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What does regulatory framework development aim to ensure?",
+      "correctAnswer": "To oversee clinical applications",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "Despite challenges, why is CRISPR considered promising?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "CRISPR technology has no potential to transform medicine.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Choose the heading that best summarizes CRISPR’s impact:",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What is one organism in which CRISPR has been adapted for use?",
+      "correctAnswer": "Humans",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is one reason researchers are developing improved CRISPR variants?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "What is one potential application of CRISPR in agriculture?",
+      "correctAnswer": "Crop trait improvement",
+      "userAnswer": null,
+      "type": "short_answer"
+    }
+  ],
+  "scoredAt": "2026-03-04T11:59:54Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need for focused review of the passage content and question strategies.",
+    "byPassage": {
+      "1": "Your answers lack accuracy likely due to missing key details such as the primary purpose of recycling (clue: 'primary purpose' in the first paragraph). Pay attention to specific phrases that highlight main ideas. For example, the challenge 'contamination' is explicitly mentioned; ensure to locate such details. When matching categories, look for clear headings or examples in the text. For questions about benefits or challenges, identify explicit statements or lists. For the question about encouraging recycling, focus on sections discussing incentives or education. The environmental summary heading is probably in a paragraph discussing ecological impacts. Remember, the passage often emphasizes the importance of proper sorting and waste reduction—these are clues for the correct answer.",
+      "2": "Your errors stem from overlooking technological and environmental details, such as the main driver for renewable energy (likely in a section discussing advancements). The development limits of hydropower are probably addressed in a paragraph contrasting technological and environmental factors. When matching energy sources, focus on descriptions provided in the text. Challenges like 'intermittency' are explicitly mentioned; locate the section discussing issues faced by renewable sources. The environmental concerns related to hydropower are likely in a dedicated paragraph. For cost-related questions, identify sections discussing economic trends. The largest renewable energy source is probably specified with data or comparisons. Pay close attention to sections explaining the role and importance of renewable energy for sustainability.",
+      "3": "Your mistakes are due to missing specific details about CRISPR, such as its primary function ('mainly does' clues in the first paragraph). The origin of CRISPR discovery is likely clarified in early sections; look for statements about its initial use. Matching applications with benefits requires identifying explicit examples or benefits listed. The mention of genetic disorders like cystic fibrosis should be in a section on medical applications. Ethical concerns are often highlighted in a dedicated paragraph—look for keywords like 'ethical' or 'moral.' Off-target effects are discussed with caution; find sections emphasizing risks. The ongoing improvements are probably summarized in a paragraph about research developments. Regulatory frameworks are detailed in sections about oversight and safety. The promise of CRISPR is often justified with potential benefits—focus on optimistic statements. The impact summary is likely in a concluding paragraph. Organisms like humans are explicitly mentioned in the context of applications. Researchers developing variants are discussed where improvements are highlighted; look for phrases like 'developing' or 'enhancing.' Agricultural applications are typically in sections about food security or crop modification.",
+      "tips": [
+        "Always scan the passage for keywords related to the question before reading options or answers.",
+        "Highlight or underline key phrases in the passage that directly relate to the question prompts.",
+        "Practice summarizing each paragraph in your own words to better grasp main ideas and details."
+      ]
+    }
+  },
+  "feedback_ai_createdAt": "2026-03-04T12:00:01Z"
+}

@@ -1,0 +1,420 @@
+{
+  "attemptId": "d3fd0410420d43c391e4c12b3132a646",
+  "userId": "cp@gmail.com",
+  "createdAt": "2026-03-04T11:52:12Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Importance of Recycling in Daily Life",
+      "text": "Recycling has become an essential part of modern life as communities around the world seek sustainable solutions to environmental challenges. It involves processing used materials into new products to reduce waste and conserve natural resources. Everyday items such as paper, plastic bottles, glass jars, and aluminum cans can be recycled, helping to minimize the amount of waste sent to landfills. Recycling also reduces the need to extract raw materials from the earth, which can be a damaging and costly process. Many countries have established recycling programs and facilities to encourage citizens to participate. For individuals, simple actions like sorting waste correctly, using recycling bins, and avoiding single-use plastics can make a significant difference. Schools and organizations often promote awareness campaigns to educate people about the benefits of recycling. Overall, recycling is a practical way for everyone to contribute to environmental conservation and create a healthier planet for future generations."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "In recent decades, the development of renewable energy sources has gained momentum as concerns over climate change and fossil fuel depletion increase. Technologies such as solar panels, wind turbines, and bioenergy systems have evolved significantly, becoming more efficient and cost-effective. Solar energy, harnessed through photovoltaic cells, is now widely used in residential and commercial settings, providing a clean alternative to traditional electricity generation. Wind turbines, both onshore and offshore, have expanded in capacity and scale, generating substantial amounts of electricity in many countries. Bioenergy, derived from organic materials like crop waste and animal manure, offers another renewable option, especially in rural areas. The integration of smart grids and energy storage systems has further enhanced the reliability and flexibility of renewable energy supplies. Governments worldwide are implementing policies and incentives to promote the adoption of these technologies, aiming to reduce greenhouse gas emissions and transition to a low-carbon economy. Despite progress, challenges remain, including the need for improved storage solutions, grid integration, and the economic viability of renewable systems in different regions. Continued research and investment are essential to overcoming these hurdles and achieving a sustainable energy future."
+    },
+    {
+      "passageId": "3",
+      "title": "The Impact of Climate Change on Global Ecosystems",
+      "text": "Climate change represents one of the most significant threats to global ecosystems, affecting biodiversity, species distribution, and ecological balances. Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events have profound effects on natural habitats. For example, polar ice melting contributes to rising sea levels, threatening coastal ecosystems and human settlements. Many plant and animal species are forced to adapt quickly or face extinction, leading to shifts in biodiversity and ecosystem services. Coral reefs, vital to marine life, are particularly vulnerable to warming waters and ocean acidification, resulting in widespread coral bleaching and mortality. Terrestrial ecosystems also experience changes; forests may experience increased wildfires and pest outbreaks, while grasslands face desertification. These alterations disrupt food chains and reduce the resilience of ecosystems to environmental stresses. Governments and scientists worldwide are working to monitor these changes, develop conservation strategies, and implement policies to mitigate the effects of climate change. Addressing this global issue requires international cooperation and sustainable practices to preserve the planet’s ecological health for future generations."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one primary goal of recycling as mentioned in the passage?",
+          "options": [
+            "To reduce waste and conserve natural resources",
+            "To increase manufacturing costs",
+            "To eliminate the need for landfills",
+            "To produce more single-use plastics"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Recycling has become less important in modern life.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the items with their relevance to recycling:",
+          "options": [
+            "Paper",
+            "Plastic bottles",
+            "Glass jars",
+            "Aluminum cans"
+          ],
+          "correctAnswer": "All are recyclable materials"
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one simple action individuals can take to contribute to recycling.",
+          "correctAnswer": "Sorting waste correctly"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as part of recycling programs?",
+          "options": [
+            "Using recycling bins",
+            "Participating in awareness campaigns",
+            "Burning waste openly",
+            "Sorting waste correctly"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Recycling helps to increase the extraction of raw materials from the earth.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "matching_headings",
+          "prompt": "Identify the benefits of recycling:",
+          "options": [
+            "Minimizes landfill waste",
+            "Reduces need for raw material extraction",
+            "Promotes environmental conservation",
+            "All of the above"
+          ],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "Why do communities establish recycling programs?",
+          "correctAnswer": "To encourage participation and environmental benefits"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is a consequence of recycling?",
+          "options": [
+            "Damaging the environment",
+            "Reducing waste sent to landfills",
+            "Increasing raw material extraction",
+            "Decreasing environmental awareness"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Recycling has no impact on natural resource conservation.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "What role do schools and organizations play in recycling?",
+          "options": [
+            "Promote awareness campaigns",
+            "Manufacture recyclable items",
+            "Distribute waste",
+            "Build landfills"
+          ],
+          "correctAnswer": "Promote awareness campaigns"
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "Mention one environmental benefit of recycling.",
+          "correctAnswer": "Conservation of natural resources"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "How does recycling contribute to a healthier planet?",
+          "options": [
+            "By increasing waste",
+            "By reducing pollution",
+            "By promoting single-use plastics",
+            "By eliminating landfills"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What has contributed to the development of renewable energy sources?",
+          "options": [
+            "Concerns over climate change",
+            "Depletion of fossil fuels",
+            "Advancements in technology",
+            "All of the above"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are currently less efficient than traditional energy sources.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the energy technology with its description:",
+          "options": [
+            "Solar panels",
+            "Wind turbines",
+            "Bioenergy"
+          ],
+          "correctAnswer": [
+            "Photovoltaic cells for solar energy",
+            "Generating electricity from wind",
+            "Organic materials for bioenergy"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What is one advantage of solar energy?",
+          "correctAnswer": "It provides a clean alternative to traditional electricity."
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "Which renewable energy source is derived from crop waste and manure?",
+          "options": [
+            "Solar",
+            "Wind",
+            "Bioenergy",
+            "Hydropower"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Wind turbines are only used onshore.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "matching_headings",
+          "prompt": "What are some challenges in renewable energy adoption?",
+          "options": [
+            "Storage solutions",
+            "Grid integration",
+            "Economic viability",
+            "All of the above"
+          ],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "Why are governments promoting renewable energy?",
+          "correctAnswer": "To reduce greenhouse gas emissions and transition to a low-carbon economy"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "What is necessary for achieving a sustainable energy future?",
+          "options": [
+            "Continued research and investment",
+            "Reducing renewable energy use",
+            "Limiting technological development",
+            "Increasing fossil fuel extraction"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy systems are economically viable everywhere.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Identify the purpose of smart grids and energy storage:",
+          "options": [
+            "Enhance reliability",
+            "Reduce costs",
+            "Increase dependence on fossil fuels",
+            "Both A and B"
+          ],
+          "correctAnswer": "Both A and B"
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is one goal of policies promoting renewable energy?",
+          "correctAnswer": "To reduce greenhouse gas emissions"
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a renewable energy technology mentioned?",
+          "options": [
+            "Solar panels",
+            "Wind turbines",
+            "Nuclear reactors",
+            "Bioenergy"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one major effect of climate change on ecosystems?",
+          "options": [
+            "Increased biodiversity",
+            "Altered species distribution",
+            "Stabilized habitats",
+            "Decreased temperatures"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Rising sea levels do not threaten coastal ecosystems.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the environmental issue with its consequence:",
+          "options": [
+            "Polar ice melting",
+            "Coral bleaching",
+            "Wildfires"
+          ],
+          "correctAnswer": [
+            "Rising sea levels",
+            "Loss of marine habitats",
+            "Increased wildfires and pest outbreaks"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What is a direct consequence of polar ice melting?",
+          "correctAnswer": "Rising sea levels"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "Which species are particularly vulnerable to warming waters?",
+          "options": [
+            "Polar bears",
+            "Coral reefs",
+            "Penguins",
+            "Seals"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Forests are unaffected by climate change.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Identify the effects of climate change on terrestrial ecosystems:",
+          "options": [
+            "Increased wildfires",
+            "Desertification",
+            "Pest outbreaks",
+            "All of the above"
+          ],
+          "correctAnswer": "All of the above"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What do scientists do to address climate change impacts?",
+          "correctAnswer": "Monitor changes and develop conservation strategies"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "What is necessary to mitigate climate change effects?",
+          "options": [
+            "International cooperation",
+            "Ignoring ecological balances",
+            "Reducing renewable energy",
+            "Expanding fossil fuel use"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "Climate change only affects marine life.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "What is the significance of biodiversity shifts?",
+          "options": [
+            "They stabilize ecosystems",
+            "They lead to extinction or adaptation",
+            "They have no impact",
+            "They improve species diversity"
+          ],
+          "correctAnswer": "They lead to extinction or adaptation"
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "Why is international cooperation important in climate change?",
+          "correctAnswer": "To preserve ecological health globally"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What is a major threat posed by climate change to marine life?",
+          "options": [
+            "Coral bleaching",
+            "Increased fish populations",
+            "Decreased ocean acidity",
+            "Lower sea levels"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q14",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a change caused by climate change?",
+          "options": [
+            "Altered precipitation patterns",
+            "Increased biodiversity",
+            "More frequent extreme weather events",
+            "Rising temperatures"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to cover key points from each passage, ensuring a variety of question types and exact counts per passage. IDs are unique and follow the specified format.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40
+}

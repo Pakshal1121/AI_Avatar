@@ -1,0 +1,781 @@
+{
+  "attemptId": "d34d86854a934d46a992d34927ecbe51",
+  "userId": "divyapunna1206@gmail.com",
+  "createdAt": "2026-03-02T10:15:48Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Reading for Children",
+      "text": "Reading is a fundamental skill that plays a crucial role in a child's development. From a young age, children who are encouraged to read tend to perform better academically and develop a broader vocabulary. Reading also helps in improving concentration and fostering imagination. Parents and teachers often recommend reading as a fun activity that can be enjoyed alone or with others. Books for children cover a wide range of topics, from adventures and fairy tales to educational subjects like science and history. Developing a reading habit early in life can also promote a lifelong love of learning. Moreover, reading can serve as a means of relaxation and stress relief for children, providing an escape into different worlds and stories. Schools often incorporate reading programs to ensure children develop these essential skills. Overall, reading is not only entertaining but also provides numerous benefits that support a child's educational and personal growth."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Technology on Modern Education",
+      "text": "In recent decades, technology has transformed the landscape of education significantly. The advent of computers, the internet, and digital resources has enabled students to access vast amounts of information instantly. Online learning platforms and virtual classrooms have made education more flexible, allowing students from remote areas or with special needs to participate in courses that were previously inaccessible. Educational software and interactive tools enhance engagement and facilitate personalized learning experiences. Teachers now integrate multimedia presentations, quizzes, and online assessments to evaluate student progress effectively. However, this technological shift also presents challenges, such as ensuring equal access for all students and maintaining the quality of education. Additionally, there are concerns about screen time and the potential for digital distractions. Despite these issues, the overall impact of technology on education has been positive, providing innovative ways to teach and learn, and preparing students for a digital future. As technology continues to evolve, its role in education is expected to expand further, shaping how knowledge is transmitted and acquired in the 21st century."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of Climate Change in Shaping Global Ecosystems",
+      "text": "Climate change has emerged as one of the most pressing environmental issues affecting global ecosystems. The increase in greenhouse gases such as carbon dioxide, primarily due to human activities like fossil fuel combustion and deforestation, has led to a warming of the Earth's surface. This temperature rise has profound effects on ecosystems, influencing weather patterns, sea levels, and biodiversity. For instance, rising temperatures can cause the melting of polar ice caps, leading to habitat loss for species like polar bears and penguins. Changes in precipitation patterns can result in droughts or floods, disrupting the delicate balance of terrestrial and aquatic habitats. Additionally, many plant and animal species are forced to migrate to cooler areas or adapt quickly to survive. Scientists warn that if global temperatures continue to rise, the resulting ecological shifts could threaten biodiversity and human livelihoods. Mitigating climate change requires global cooperation to reduce emissions, transition to renewable energy sources, and implement sustainable practices. Understanding the complex interactions between climate variables and ecosystems is vital for developing effective conservation strategies to protect the planet's biodiversity for future generations."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, what is one benefit of reading for children?",
+          "options": [
+            "It improves concentration",
+            "It reduces physical activity",
+            "It decreases vocabulary",
+            "It limits imagination"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage states that reading helps in improving concentration."
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Reading is only beneficial when done in groups.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage mentions reading can be enjoyed alone or with others, implying it is beneficial in both contexts."
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following topics with the sections of the passage:",
+          "options": [
+            "Benefits of reading",
+            "Types of children's books",
+            "Reading in education"
+          ],
+          "matching": {
+            "Benefits of reading": "Paragraph 1",
+            "Types of children's books": "Paragraph 2",
+            "Reading in education": "Paragraph 3"
+          },
+          "correctAnswer": null,
+          "rationale": "The sections of the passage discuss these topics respectively."
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name two skills that reading helps develop in children.",
+          "options": [],
+          "correctAnswer": [
+            "Vocabulary",
+            "Concentration"
+          ],
+          "rationale": "The passage explicitly mentions vocabulary and concentration as skills developed through reading."
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "What do schools often do to promote reading skills?",
+          "options": [
+            "Hold exams",
+            "Incorporate reading programs",
+            "Reduce library hours",
+            "Limit access to books"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states schools incorporate reading programs to develop these skills."
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Reading is considered only an entertaining activity with no educational benefits.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage emphasizes that reading also provides educational and personal growth benefits."
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a topic covered by children's books?",
+          "options": [
+            "Science",
+            "Fairy tales",
+            "History",
+            "Mathematics"
+          ],
+          "correctAnswer": "D",
+          "rationale": "Mathematics is not listed; the passage mentions science, fairy tales, and history."
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "According to the passage, how does reading serve as a stress relief?",
+          "options": [],
+          "correctAnswer": [
+            "Provides an escape into stories and different worlds"
+          ],
+          "rationale": "The passage states that reading offers relaxation and stress relief by providing an escape."
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What is one reason parents are encouraged to promote reading early in life?",
+          "options": [
+            "To improve athletic skills",
+            "To foster a love of learning",
+            "To decrease screen time",
+            "To prepare for exams"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage mentions early reading can promote a lifelong love of learning."
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Reading can only be enjoyed by children when they are alone.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage states reading can be enjoyed alone or with others."
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Choose the heading that best fits the paragraph about the benefits of reading:",
+          "options": [
+            "Types of children's books",
+            "Benefits of reading",
+            "Reading in education"
+          ],
+          "matching": {
+            "Benefits of reading": "Paragraph 1"
+          },
+          "correctAnswer": null,
+          "rationale": "Paragraph 1 discusses the benefits of reading."
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What role do parents and teachers play in children’s reading habits?",
+          "options": [],
+          "correctAnswer": [
+            "Recommend reading as a fun activity"
+          ],
+          "rationale": "The passage states parents and teachers often recommend reading as enjoyable."
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "What is a long-term effect of developing a reading habit early in life?",
+          "options": [
+            "Lifelong love of learning",
+            "Immediate academic success",
+            "Reduced vocabulary",
+            "Limited imagination"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage notes early reading can promote a lifelong love of learning."
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What has enabled students to access information instantly?",
+          "options": [
+            "Libraries",
+            "Television",
+            "Computers and the internet",
+            "Textbooks"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage states that computers and the internet enable instant access to information."
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Online learning platforms have made education less flexible.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage indicates online platforms have made education more flexible."
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the technological tools with their purposes:",
+          "options": [
+            "Interactive tools",
+            "Assessment methods",
+            "Access to information"
+          ],
+          "matching": {
+            "Interactive tools": "Educational software and multimedia presentations",
+            "Assessment methods": "Online quizzes and assessments",
+            "Access to information": "Internet and digital resources"
+          },
+          "correctAnswer": null,
+          "rationale": "The passage describes these tools and their functions."
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Name one challenge associated with the technological shift in education.",
+          "options": [],
+          "correctAnswer": [
+            "Ensuring equal access for all students"
+          ],
+          "rationale": "The passage mentions ensuring equal access as a challenge."
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "Which of the following concerns is raised about technology in education?",
+          "options": [
+            "Decreased student engagement",
+            "Screen time and distractions",
+            "Lack of resources",
+            "Poor internet connection"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage discusses concerns about screen time and digital distractions."
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "The overall impact of technology on education has been negative.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage states the overall impact has been positive."
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What is expected to happen as technology continues to evolve?",
+          "options": [
+            "Its role in education will diminish",
+            "Its role will expand further",
+            "It will be replaced by traditional methods",
+            "It will become less relevant"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage predicts the role of technology in education will expand."
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "How do teachers now evaluate student progress?",
+          "options": [],
+          "correctAnswer": [
+            "Using online assessments and quizzes"
+          ],
+          "rationale": "The passage states teachers use online assessments to evaluate progress."
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of educational technology?",
+          "options": [
+            "Enhanced engagement",
+            "Personalized learning",
+            "Reduced access to resources",
+            "Flexible education"
+          ],
+          "correctAnswer": "C",
+          "rationale": "Reduced access to resources is not listed; benefits include engagement, personalization, and flexibility."
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Digital distractions are not a concern in modern education.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage mentions digital distractions as a concern."
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Select the heading that best summarizes the paragraph about challenges:",
+          "options": [
+            "Benefits of technology",
+            "Challenges of technological integration",
+            "Future of education"
+          ],
+          "matching": {
+            "Challenges of technological integration": "Paragraph 2"
+          },
+          "correctAnswer": null,
+          "rationale": "Paragraph 2 discusses challenges faced with technology in education."
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is one way technology has made education more accessible?",
+          "options": [],
+          "correctAnswer": [
+            "Virtual classrooms for remote areas"
+          ],
+          "rationale": "The passage states virtual classrooms help remote learners."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the main focus of the passage?",
+          "options": [
+            "The history of education",
+            "The impact of technology on education",
+            "Traditional teaching methods",
+            "Future technological innovations"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage centers on how technology has transformed education."
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a primary cause of climate change mentioned in the passage?",
+          "options": [
+            "Volcanic activity",
+            "Human activities like fossil fuel burning",
+            "Natural greenhouse effect",
+            "Solar flares"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage attributes climate change primarily to human activities such as fossil fuel combustion."
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Climate change has no effect on sea levels.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage states climate change influences sea levels."
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the environmental effects with their descriptions:",
+          "options": [
+            "Melting ice caps",
+            "Altered weather patterns",
+            "Species migration"
+          ],
+          "matching": {
+            "Melting ice caps": "Rising temperatures cause polar ice to melt.",
+            "Altered weather patterns": "Changes can lead to droughts or floods.",
+            "Species migration": "Animals move to cooler areas or adapt."
+          },
+          "correctAnswer": null,
+          "rationale": "The passage describes these effects of climate change."
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What could happen if global temperatures continue to rise?",
+          "options": [],
+          "correctAnswer": [
+            "Biodiversity loss and threats to human livelihoods"
+          ],
+          "rationale": "The passage warns ecological shifts could threaten biodiversity and human livelihoods."
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is necessary to combat climate change according to the passage?",
+          "options": [
+            "Reducing emissions",
+            "Increasing fossil fuel use",
+            "Ignoring international cooperation",
+            "Reducing renewable energy sources"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage emphasizes reducing emissions as part of mitigation."
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Mitigating climate change is solely the responsibility of individual countries.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage mentions global cooperation, implying shared responsibility."
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Choose the heading that best fits the paragraph about ecological impacts:",
+          "options": [
+            "Human activities and climate change",
+            "Effects on ecosystems",
+            "Climate change mitigation"
+          ],
+          "matching": {
+            "Effects on ecosystems": "Paragraph 3"
+          },
+          "correctAnswer": null,
+          "rationale": "Paragraph 3 discusses impacts on ecosystems."
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What role do scientists play in addressing climate change?",
+          "options": [],
+          "correctAnswer": [
+            "Warn about ecological shifts and threats"
+          ],
+          "rationale": "The passage states scientists warn about ecological impacts."
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a consequence of climate change mentioned in the passage?",
+          "options": [
+            "Habitat loss",
+            "Increased biodiversity",
+            "Sea level rise",
+            "Disrupted weather patterns"
+          ],
+          "correctAnswer": "B",
+          "rationale": "Increased biodiversity is not listed; habitat loss and other effects are mentioned."
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "The passage suggests that conserving biodiversity is unnecessary.",
+          "options": [],
+          "correctAnswer": "False",
+          "rationale": "The passage emphasizes the importance of conservation strategies."
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Select the heading that best summarizes the paragraph about mitigation:",
+          "options": [
+            "Climate change causes",
+            "Mitigation strategies",
+            "Impacts on biodiversity"
+          ],
+          "matching": {
+            "Mitigation strategies": "Paragraph 3"
+          },
+          "correctAnswer": null,
+          "rationale": "Paragraph 3 discusses strategies to reduce emissions and protect the planet."
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What is essential for developing effective conservation strategies?",
+          "options": [],
+          "correctAnswer": [
+            "Understanding interactions between climate variables and ecosystems"
+          ],
+          "rationale": "The passage states understanding these interactions is vital."
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the overall message of the passage?",
+          "options": [
+            "Climate change is a natural process",
+            "Human activities significantly impact the environment",
+            "Ecosystems are unaffected by climate change",
+            "Conservation efforts are unnecessary"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage emphasizes human impact and the need for actions to address climate change."
+        }
+      ]
+    }
+  ],
+  "notes": "The questions cover key details, main ideas, and implications from each passage, following IELTS reading question types and requirements.",
+  "questionsPerPassage": 13,
+  "overall_score": 17.95,
+  "passage_1_score": 15.38,
+  "passage_2_score": 15.38,
+  "passage_3_score": 23.08,
+  "total_questions": 39,
+  "correct_questions": 7,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "According to the passage, what is one benefit of reading for children?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Reading is only beneficial when done in groups.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name two skills that reading helps develop in children.",
+      "correctAnswer": [
+        "Vocabulary",
+        "Concentration"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "What do schools often do to promote reading skills?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Reading is considered only an entertaining activity with no educational benefits.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a topic covered by children's books?",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "According to the passage, how does reading serve as a stress relief?",
+      "correctAnswer": [
+        "Provides an escape into stories and different worlds"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What is one reason parents are encouraged to promote reading early in life?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Reading can only be enjoyed by children when they are alone.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What role do parents and teachers play in children’s reading habits?",
+      "correctAnswer": [
+        "Recommend reading as a fun activity"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "What is a long-term effect of developing a reading habit early in life?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What has enabled students to access information instantly?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Online learning platforms have made education less flexible.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Name one challenge associated with the technological shift in education.",
+      "correctAnswer": [
+        "Ensuring equal access for all students"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Which of the following concerns is raised about technology in education?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "The overall impact of technology on education has been negative.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What is expected to happen as technology continues to evolve?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "How do teachers now evaluate student progress?",
+      "correctAnswer": [
+        "Using online assessments and quizzes"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT mentioned as a benefit of educational technology?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Digital distractions are not a concern in modern education.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is one way technology has made education more accessible?",
+      "correctAnswer": [
+        "Virtual classrooms for remote areas"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What is the main focus of the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is a primary cause of climate change mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "Climate change has no effect on sea levels.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "What could happen if global temperatures continue to rise?",
+      "correctAnswer": [
+        "Biodiversity loss and threats to human livelihoods"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is necessary to combat climate change according to the passage?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Mitigating climate change is solely the responsibility of individual countries.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What role do scientists play in addressing climate change?",
+      "correctAnswer": [
+        "Warn about ecological shifts and threats"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "Which of the following is NOT a consequence of climate change mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "The passage suggests that conserving biodiversity is unnecessary.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What is essential for developing effective conservation strategies?",
+      "correctAnswer": [
+        "Understanding interactions between climate variables and ecosystems"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is the overall message of the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    }
+  ],
+  "scoredAt": "2026-03-02T10:16:24Z"
+}

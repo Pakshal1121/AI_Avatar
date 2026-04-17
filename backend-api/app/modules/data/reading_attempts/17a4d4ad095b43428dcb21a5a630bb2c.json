@@ -1,0 +1,1065 @@
+{
+  "attemptId": "17a4d4ad095b43428dcb21a5a630bb2c",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-06T06:55:16Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Urban Green Spaces",
+      "text": "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. These areas provide residents with places for recreation, relaxation, and social interaction. Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher. They also contribute to biodiversity by offering habitats for various species of birds, insects, and plants. Moreover, numerous studies have shown that access to green spaces can reduce stress, promote physical activity, and improve mental health. Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors. Aside from health benefits, green spaces can also enhance the aesthetic appeal of urban areas, making them more attractive to residents and visitors alike. However, challenges such as limited space, funding constraints, and urban development pressures can hinder the creation and preservation of these vital areas. Despite these obstacles, integrating green spaces into urban planning remains a key strategy for creating sustainable and livable cities."
+    },
+    {
+      "passageId": "2",
+      "title": "The Role of Renewable Energy in Modern Society",
+      "text": "In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels. These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass. The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources. Solar power, for example, harnesses sunlight using photovoltaic panels and has become increasingly affordable and efficient, making it suitable for both small-scale and large-scale applications. Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact. Hydroelectric plants utilize flowing water to produce electricity, often providing a reliable and consistent energy source. Geothermal energy taps into the Earth's internal heat, offering a steady supply of power especially in volcanic regions. Biomass, derived from organic materials, can be converted into biofuels or used directly for heating. The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems. Governments worldwide are implementing policies and incentives to promote renewable energy adoption, recognizing its importance for a sustainable future. As technology continues to improve, renewable energy is expected to play an increasingly dominant role in global energy production, reducing environmental impact and fostering economic growth."
+    },
+    {
+      "passageId": "3",
+      "title": "The Impact of Climate Change on Ocean Currents",
+      "text": "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. These currents are crucial for regulating global climate, distributing heat, and supporting marine ecosystems. As global temperatures rise, polar ice melts and seawater warms, leading to changes in water density and salinity that can disrupt established current systems. One of the most significant concerns is the potential weakening of the Atlantic Meridional Overturning Circulation (AMOC), a major component of the Atlantic Ocean's conveyor belt that transports warm water from the tropics to the North Atlantic. A slowdown of this circulation could lead to colder temperatures in Europe and North America, despite overall global warming. Additionally, altered currents can impact marine biodiversity by shifting habitats and migration patterns of fish and other marine species. The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide. Scientific research indicates that the pace of these changes is accelerating, driven by increased greenhouse gas emissions and the resulting thermal expansion of seawater. Understanding and predicting these alterations are critical for developing mitigation strategies and adapting to the evolving climate. The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main benefits of urban green spaces mentioned in the passage?",
+          "options": [
+            "They increase urban noise levels",
+            "They improve air quality",
+            "They reduce biodiversity",
+            "They decrease property values"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Green spaces are only beneficial for environmental reasons, not for social or health reasons.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits with the corresponding green space feature:",
+          "options": [
+            "A. Reduces stress",
+            "B. Enhances aesthetic appeal",
+            "C. Provides habitats",
+            "D. Improves air quality"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one challenge faced in maintaining urban green spaces.",
+          "correctAnswer": "Limited space, funding constraints, or urban development pressures"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, why are cities investing more in green spaces?",
+          "options": [
+            "To increase urban congestion",
+            "To create more commercial zones",
+            "To recognize their health and aesthetic benefits",
+            "To reduce urban population"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Green spaces can help in reducing urban heat islands.",
+          "correctAnswer": "Not Given"
+        },
+        {
+          "id": "p1_q7",
+          "type": "matching_headings",
+          "prompt": "Match the problem with its description:",
+          "options": [
+            "A. Limited space",
+            "B. Funding constraints",
+            "C. Urban development pressures",
+            "D. All of the above"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What is one way green spaces contribute to biodiversity?",
+          "correctAnswer": "Offering habitats for various species"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a key strategy for creating sustainable cities according to the passage?",
+          "options": [
+            "Reducing green spaces",
+            "Integrating green spaces into urban planning",
+            "Increasing urban traffic",
+            "Limiting public parks"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Green spaces are only beneficial in large cities, not small towns.",
+          "correctAnswer": "Not Given"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the benefit with its description:",
+          "options": [
+            "A. Promotes physical activity",
+            "B. Improves mental health",
+            "C. Enhances city attractiveness",
+            "D. Filters pollutants"
+          ],
+          "correctAnswer": [
+            "B",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What is one aesthetic benefit of green spaces mentioned in the passage?",
+          "correctAnswer": "Making urban areas more attractive"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a challenge to green space development?",
+          "options": [
+            "Limited space",
+            "Funding constraints",
+            "Urban development pressures",
+            "Lack of public interest"
+          ],
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "Which energy source is NOT listed as a renewable energy in the passage?",
+          "options": [
+            "Solar power",
+            "Nuclear energy",
+            "Wind energy",
+            "Geothermal energy"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are more expensive than fossil fuels.",
+          "correctAnswer": "Not Given"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match each renewable energy source with its description:",
+          "options": [
+            "A. Uses sunlight to generate electricity",
+            "B. Converts wind into power",
+            "C. Uses Earth's internal heat",
+            "D. Derived from organic materials"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What is one technical challenge associated with integrating renewable energy into power grids?",
+          "correctAnswer": "Storage and intermittency issues"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "Why are governments promoting renewable energy, according to the passage?",
+          "options": [
+            "To increase fossil fuel use",
+            "To reduce environmental impact",
+            "To limit technological development",
+            "To decrease energy efficiency"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are expected to become less important in the future.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "matching_headings",
+          "prompt": "Match the energy source with its characteristic:",
+          "options": [
+            "A. Suitable for small-scale applications",
+            "B. Provides reliable and consistent power",
+            "C. Uses organic materials",
+            "D. Harnesses sunlight"
+          ],
+          "correctAnswer": [
+            "D",
+            "B",
+            "C",
+            "A"
+          ]
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is one benefit of wind turbines mentioned in the passage?",
+          "correctAnswer": "Generate substantial power with minimal environmental impact"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a reason for the increased adoption of solar power?",
+          "options": [
+            "It is becoming more affordable and efficient",
+            "It is the only renewable source",
+            "It produces no electricity",
+            "It is heavily subsidized by fossil fuel companies"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Biomass can only be used for electricity generation, not heating.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the challenge with its description:",
+          "options": [
+            "A. Storage issues",
+            "B. Intermittency problems",
+            "C. Policy incentives",
+            "D. Technological improvements"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What role do battery technologies play in renewable energy integration?",
+          "correctAnswer": "Help address storage and intermittency issues"
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, what is a future expectation for renewable energy?",
+          "options": [
+            "It will be less important",
+            "It will dominate global energy production",
+            "It will be replaced by fossil fuels",
+            "It will only be used in small countries"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What do ocean currents primarily do according to the passage?",
+          "options": [
+            "Increase ocean salinity",
+            "Regulate global climate and distribute heat",
+            "Reduce marine biodiversity",
+            "Cause sea level rise"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Melting polar ice has no effect on ocean currents.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the ocean current system with its description:",
+          "options": [
+            "A. Atlantic Meridional Overturning Circulation",
+            "B. Pacific Ocean currents",
+            "C. Indian Ocean currents",
+            "D. Arctic currents"
+          ],
+          "correctAnswer": [
+            "A"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What could be a consequence of the weakening of the Atlantic Meridional Overturning Circulation?",
+          "correctAnswer": "Colder temperatures in Europe and North America"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is one effect of altered ocean currents on marine life?",
+          "options": [
+            "Increased biodiversity",
+            "Shifting habitats and migration patterns",
+            "No effect",
+            "Decreased ocean salinity"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Changes in ocean circulation do not influence weather patterns.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Match the cause with its effect:",
+          "options": [
+            "A. Rising global temperatures",
+            "B. Melting polar ice",
+            "C. Increased greenhouse gases",
+            "D. Thermal expansion of seawater"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What is one reason scientists are studying ocean currents in relation to climate change?",
+          "correctAnswer": "To develop mitigation strategies and adapt to climate change"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "What does the passage suggest about the pace of changes in ocean currents?",
+          "options": [
+            "It is slowing down",
+            "It is accelerating",
+            "It remains constant",
+            "It is unpredictable"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "Reducing greenhouse gas emissions has no impact on ocean currents.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the scientific activity with its purpose:",
+          "options": [
+            "A. Studying oceanographic data",
+            "B. Developing climate models",
+            "C. Reducing emissions",
+            "D. Protecting marine environments"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "Why is understanding ocean currents important for climate change adaptation?",
+          "correctAnswer": "To develop mitigation strategies and protect marine environments"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What is a key message of the passage?",
+          "options": [
+            "Ocean currents are unaffected by climate change",
+            "Climate change is accelerating and affecting ocean currents",
+            "Ocean currents only affect marine life",
+            "Reducing emissions has no effect on oceans"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q14",
+          "type": "short_answer",
+          "prompt": "What is one method scientists use to study ocean currents?",
+          "correctAnswer": "Analyzing climate models and oceanographic data"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are evenly distributed across passages with exact counts. IDs are unique and follow the specified format. All question types and counts are adhered to as instructed.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 0.0,
+  "passage_1_score": 0.0,
+  "passage_2_score": 0.0,
+  "passage_3_score": 0.0,
+  "total_questions": 40,
+  "correct_questions": 0,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main benefits of urban green spaces mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher.",
+        "Aside from health benefits, green spaces can also enhance the aesthetic appeal of urban areas, making them more attractive to residents and visitors alike."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher."
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Green spaces are only beneficial for environmental reasons, not for social or health reasons.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Moreover, numerous studies have shown that access to green spaces can reduce stress, promote physical activity, and improve mental health.",
+        "Aside from health benefits, green spaces can also enhance the aesthetic appeal of urban areas, making them more attractive to residents and visitors alike.",
+        "Despite these obstacles, integrating green spaces into urban planning remains a key strategy for creating sustainable and livable cities."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Moreover, numerous studies have shown that access to green spaces can reduce stress, promote physical activity, and improve mental health. Aside from health benefits, green spaces can also enhance the aesthetic appeal of urban areas, making them more attractive to residents and visitors alike."
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the following benefits with the corresponding green space feature:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors.",
+        "Aside from health benefits, green spaces can also enhance the aesthetic appeal of urban areas, making them more attractive to residents and visitors alike."
+      ],
+      "explanation": "The correct answer is '['A', 'B', 'C', 'D']' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one challenge faced in maintaining urban green spaces.",
+      "correctAnswer": "Limited space, funding constraints, or urban development pressures",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher.",
+        "However, challenges such as limited space, funding constraints, and urban development pressures can hinder the creation and preservation of these vital areas."
+      ],
+      "explanation": "The correct answer is 'Limited space, funding constraints, or urban development pressures' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "According to the passage, why are cities investing more in green spaces?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors.",
+        "Aside from health benefits, green spaces can also enhance the aesthetic appeal of urban areas, making them more attractive to residents and visitors alike."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors."
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Green spaces can help in reducing urban heat islands.",
+      "correctAnswer": "Not Given",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher.",
+        "Aside from health benefits, green spaces can also enhance the aesthetic appeal of urban areas, making them more attractive to residents and visitors alike."
+      ],
+      "explanation": "The correct answer is 'Not Given' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher."
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Match the problem with its description:",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "These areas provide residents with places for recreation, relaxation, and social interaction.",
+        "Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. These areas provide residents with places for recreation, relaxation, and social interaction."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What is one way green spaces contribute to biodiversity?",
+      "correctAnswer": "Offering habitats for various species",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "They also contribute to biodiversity by offering habitats for various species of birds, insects, and plants.",
+        "Despite these obstacles, integrating green spaces into urban planning remains a key strategy for creating sustainable and livable cities."
+      ],
+      "explanation": "The correct answer is 'Offering habitats for various species' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. They also contribute to biodiversity by offering habitats for various species of birds, insects, and plants."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What is a key strategy for creating sustainable cities according to the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors.",
+        "Despite these obstacles, integrating green spaces into urban planning remains a key strategy for creating sustainable and livable cities."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Green spaces are only beneficial in large cities, not small towns.",
+      "correctAnswer": "Not Given",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors.",
+        "Despite these obstacles, integrating green spaces into urban planning remains a key strategy for creating sustainable and livable cities."
+      ],
+      "explanation": "The correct answer is 'Not Given' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors."
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Match the benefit with its description:",
+      "correctAnswer": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "These areas provide residents with places for recreation, relaxation, and social interaction.",
+        "Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors."
+      ],
+      "explanation": "The correct answer is '['B', 'A', 'C', 'D']' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. These areas provide residents with places for recreation, relaxation, and social interaction."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What is one aesthetic benefit of green spaces mentioned in the passage?",
+      "correctAnswer": "Making urban areas more attractive",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher.",
+        "Aside from health benefits, green spaces can also enhance the aesthetic appeal of urban areas, making them more attractive to residents and visitors alike."
+      ],
+      "explanation": "The correct answer is 'Making urban areas more attractive' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Additionally, green spaces help improve air quality by filtering pollutants and producing oxygen, which is especially important in densely populated urban environments where pollution levels tend to be higher."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a challenge to green space development?",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities.",
+        "Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors.",
+        "However, challenges such as limited space, funding constraints, and urban development pressures can hinder the creation and preservation of these vital areas."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: Urban green spaces, such as parks, gardens, and tree-lined streets, play a vital role in enhancing the quality of life in cities. Cities around the world are increasingly recognizing these benefits and are investing in the development and maintenance of parks and green corridors."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "Which energy source is NOT listed as a renewable energy in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels.",
+        "The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources.",
+        "The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels. The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Renewable energy sources are more expensive than fossil fuels.",
+      "correctAnswer": "Not Given",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels.",
+        "The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, recognizing its importance for a sustainable future."
+      ],
+      "explanation": "The correct answer is 'Not Given' because the passage states: In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels. The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems."
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match each renewable energy source with its description:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels.",
+        "The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, recognizing its importance for a sustainable future."
+      ],
+      "explanation": "The correct answer is '['A', 'B', 'C', 'D']' because the passage states: In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels. The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What is one technical challenge associated with integrating renewable energy into power grids?",
+      "correctAnswer": "Storage and intermittency issues",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass.",
+        "Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact.",
+        "The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems."
+      ],
+      "explanation": "The correct answer is 'Storage and intermittency issues' because the passage states: These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass. Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Why are governments promoting renewable energy, according to the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources.",
+        "The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, recognizing its importance for a sustainable future."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources. The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems."
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Renewable energy sources are expected to become less important in the future.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels.",
+        "The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, recognizing its importance for a sustainable future."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: In recent years, renewable energy sources have gained significant attention as sustainable alternatives to traditional fossil fuels. The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Match the energy source with its characteristic:",
+      "correctAnswer": [
+        "D",
+        "B",
+        "C",
+        "A"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources.",
+        "Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact.",
+        "Hydroelectric plants utilize flowing water to produce electricity, often providing a reliable and consistent energy source."
+      ],
+      "explanation": "The correct answer is '['D', 'B', 'C', 'A']' because the passage states: The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources. Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is one benefit of wind turbines mentioned in the passage?",
+      "correctAnswer": "Generate substantial power with minimal environmental impact",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass.",
+        "Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact.",
+        "Geothermal energy taps into the Earth's internal heat, offering a steady supply of power especially in volcanic regions."
+      ],
+      "explanation": "The correct answer is 'Generate substantial power with minimal environmental impact' because the passage states: These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass. Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "What is a reason for the increased adoption of solar power?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass.",
+        "Solar power, for example, harnesses sunlight using photovoltaic panels and has become increasingly affordable and efficient, making it suitable for both small-scale and large-scale applications.",
+        "Geothermal energy taps into the Earth's internal heat, offering a steady supply of power especially in volcanic regions."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass. Solar power, for example, harnesses sunlight using photovoltaic panels and has become increasingly affordable and efficient, making it suitable for both small-scale and large-scale applications."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Biomass can only be used for electricity generation, not heating.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass.",
+        "Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact.",
+        "Biomass, derived from organic materials, can be converted into biofuels or used directly for heating."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: These sources include solar power, wind energy, hydroelectricity, geothermal energy, and biomass. Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact."
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the challenge with its description:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources.",
+        "Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact.",
+        "Geothermal energy taps into the Earth's internal heat, offering a steady supply of power especially in volcanic regions."
+      ],
+      "explanation": "The correct answer is '['A', 'B', 'C', 'D']' because the passage states: The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources. Wind turbines, often located in coastal or rural areas, convert wind energy into electricity and can generate substantial power with minimal environmental impact."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What role do battery technologies play in renewable energy integration?",
+      "correctAnswer": "Help address storage and intermittency issues",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources.",
+        "The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems.",
+        "As technology continues to improve, renewable energy is expected to play an increasingly dominant role in global energy production, reducing environmental impact and fostering economic growth."
+      ],
+      "explanation": "The correct answer is 'Help address storage and intermittency issues' because the passage states: The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources. The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "According to the passage, what is a future expectation for renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources.",
+        "The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, recognizing its importance for a sustainable future."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The shift towards renewable energy is driven by the need to reduce greenhouse gas emissions, combat climate change, and decrease reliance on finite resources. The integration of renewable energy into existing power grids presents technical challenges, including storage and intermittency issues, but advances in battery technology and grid management are helping to address these problems."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What do ocean currents primarily do according to the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "Melting polar ice has no effect on ocean currents.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "As global temperatures rise, polar ice melts and seawater warms, leading to changes in water density and salinity that can disrupt established current systems.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. As global temperatures rise, polar ice melts and seawater warms, leading to changes in water density and salinity that can disrupt established current systems."
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the ocean current system with its description:",
+      "correctAnswer": [
+        "A"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is '['A']' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "What could be a consequence of the weakening of the Atlantic Meridional Overturning Circulation?",
+      "correctAnswer": "Colder temperatures in Europe and North America",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "One of the most significant concerns is the potential weakening of the Atlantic Meridional Overturning Circulation (AMOC), a major component of the Atlantic Ocean's conveyor belt that transports warm water from the tropics to the North Atlantic.",
+        "A slowdown of this circulation could lead to colder temperatures in Europe and North America, despite overall global warming.",
+        "The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide."
+      ],
+      "explanation": "The correct answer is 'Colder temperatures in Europe and North America' because the passage states: One of the most significant concerns is the potential weakening of the Atlantic Meridional Overturning Circulation (AMOC), a major component of the Atlantic Ocean's conveyor belt that transports warm water from the tropics to the North Atlantic. A slowdown of this circulation could lead to colder temperatures in Europe and North America, despite overall global warming."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is one effect of altered ocean currents on marine life?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "Additionally, altered currents can impact marine biodiversity by shifting habitats and migration patterns of fish and other marine species.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. Additionally, altered currents can impact marine biodiversity by shifting habitats and migration patterns of fish and other marine species."
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Changes in ocean circulation do not influence weather patterns.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "As global temperatures rise, polar ice melts and seawater warms, leading to changes in water density and salinity that can disrupt established current systems.",
+        "The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. As global temperatures rise, polar ice melts and seawater warms, leading to changes in water density and salinity that can disrupt established current systems."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "Match the cause with its effect:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "One of the most significant concerns is the potential weakening of the Atlantic Meridional Overturning Circulation (AMOC), a major component of the Atlantic Ocean's conveyor belt that transports warm water from the tropics to the North Atlantic.",
+        "The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide."
+      ],
+      "explanation": "The correct answer is '['A', 'B', 'C', 'D']' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. One of the most significant concerns is the potential weakening of the Atlantic Meridional Overturning Circulation (AMOC), a major component of the Atlantic Ocean's conveyor belt that transports warm water from the tropics to the North Atlantic."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What is one reason scientists are studying ocean currents in relation to climate change?",
+      "correctAnswer": "To develop mitigation strategies and adapt to climate change",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "Understanding and predicting these alterations are critical for developing mitigation strategies and adapting to the evolving climate.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is 'To develop mitigation strategies and adapt to climate change' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. Understanding and predicting these alterations are critical for developing mitigation strategies and adapting to the evolving climate."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "What does the passage suggest about the pace of changes in ocean currents?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide.",
+        "Scientific research indicates that the pace of these changes is accelerating, driven by increased greenhouse gas emissions and the resulting thermal expansion of seawater."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "Reducing greenhouse gas emissions has no impact on ocean currents.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "Scientific research indicates that the pace of these changes is accelerating, driven by increased greenhouse gas emissions and the resulting thermal expansion of seawater.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. Scientific research indicates that the pace of these changes is accelerating, driven by increased greenhouse gas emissions and the resulting thermal expansion of seawater."
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the scientific activity with its purpose:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "Scientific research indicates that the pace of these changes is accelerating, driven by increased greenhouse gas emissions and the resulting thermal expansion of seawater.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is '['A', 'B', 'C', 'D']' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. Scientific research indicates that the pace of these changes is accelerating, driven by increased greenhouse gas emissions and the resulting thermal expansion of seawater."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "Why is understanding ocean currents important for climate change adaptation?",
+      "correctAnswer": "To develop mitigation strategies and protect marine environments",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "Understanding and predicting these alterations are critical for developing mitigation strategies and adapting to the evolving climate.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is 'To develop mitigation strategies and protect marine environments' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. Understanding and predicting these alterations are critical for developing mitigation strategies and adapting to the evolving climate."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is a key message of the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "One of the most significant concerns is the potential weakening of the Atlantic Meridional Overturning Circulation (AMOC), a major component of the Atlantic Ocean's conveyor belt that transports warm water from the tropics to the North Atlantic.",
+        "The changes in ocean circulation also influence weather patterns, potentially increasing the frequency and severity of storms, droughts, and floods worldwide."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. One of the most significant concerns is the potential weakening of the Atlantic Meridional Overturning Circulation (AMOC), a major component of the Atlantic Ocean's conveyor belt that transports warm water from the tropics to the North Atlantic."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "What is one method scientists use to study ocean currents?",
+      "correctAnswer": "Analyzing climate models and oceanographic data",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents.",
+        "These currents are crucial for regulating global climate, distributing heat, and supporting marine ecosystems.",
+        "The scientific community continues to study oceanographic data and climate models to better comprehend the complex interactions between climate change and ocean currents, emphasizing the importance of global efforts to reduce emissions and protect marine environments."
+      ],
+      "explanation": "The correct answer is 'Analyzing climate models and oceanographic data' because the passage states: Climate change has profound effects on the Earth's oceans, particularly on the patterns and strength of ocean currents. These currents are crucial for regulating global climate, distributing heat, and supporting marine ecosystems."
+    }
+  ],
+  "scoredAt": "2026-03-06T06:55:23Z",
+  "feedback_ai": {
+    "overall": "Your answers indicate a lack of comprehension of the passage details. Focus on locating explicit clues in the sentences that directly support the correct options. Pay attention to keywords like 'play a role,' 'can reduce,' or 'influence,' which often signal the correct answer. Review how specific sentences relate to the question prompts.",
+    "byPassage": {
+      "1": "You missed key benefits and challenges of green spaces, likely because you overlooked sentences mentioning 'enhance quality of life,' 'air quality,' and 'challenges such as limited space.' Practice scanning for benefit-related keywords and challenge indicators in the text.",
+      "2": "You failed to identify specific renewable sources and technical challenges, probably due to missing phrases like 'solar power,' 'wind energy,' and 'storage issues.' Focus on matching sources with their descriptions and technical terms in the sentences.",
+      "3": "You did not recognize the effects of climate change on ocean currents, missing clues such as 'profound effects,' 'disrupt established current systems,' and 'weaken of the Atlantic Meridional Overturning Circulation.' Practice linking cause-effect relationships and scientific impacts described explicitly."
+    },
+    "tips": [
+      "Practice skimming passages for keywords related to benefits, challenges, or effects to quickly locate relevant information.",
+      "Use highlighting or note-taking strategies to identify sentences that directly answer questions, especially for 'why,' 'how,' and 'what' type questions.",
+      "Regularly review vocabulary related to environmental issues, such as 'biodiversity,' 'intermittency,' 'disruption,' and 'mitigation,' to better understand passage details and answer accurately."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-06T06:55:27Z"
+}

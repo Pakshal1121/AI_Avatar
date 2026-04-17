@@ -1,0 +1,959 @@
+{
+  "attemptId": "cf2f034158bc487fb3ca25f855cf1eb2",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-05T11:36:19Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Urban Green Spaces",
+      "text": "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. These areas provide opportunities for recreation, relaxation, and social interaction, helping to reduce stress and promote physical activity. Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect. Cities around the world are increasingly recognizing the importance of integrating green spaces into urban planning. For example, many urban areas now prioritize the creation and maintenance of parks to enhance residents' well-being. The psychological benefits of spending time in nature are well-documented, with studies indicating that exposure to green environments can decrease feelings of anxiety and depression. Moreover, green spaces can serve as educational sites where communities learn about local flora and fauna. Despite these advantages, challenges such as limited space, funding constraints, and urban development pressures can hinder the development of green areas. Nonetheless, innovative solutions like rooftop gardens and urban forestry initiatives are helping cities overcome these barriers. In conclusion, urban green spaces are essential for fostering healthier, more sustainable cities, and their importance is expected to grow as urban populations continue to expand."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. Initially, reliance on fossil fuels dominated energy systems, but concerns about environmental pollution and climate change prompted a shift towards sustainable alternatives. Solar photovoltaic (PV) panels and wind turbines are now among the most widely adopted renewable sources. The efficiency of solar panels has increased dramatically due to improvements in materials and manufacturing processes, making solar power more accessible and cost-effective. Similarly, wind turbine technology has evolved with larger blades, higher towers, and better aerodynamic designs, resulting in greater energy output. Other emerging technologies include bioenergy from organic waste, geothermal energy harnessed from Earth's heat, and tidal power generated from ocean currents. These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources. Governments worldwide are implementing policies and incentives to encourage the adoption of renewables, aiming to reduce greenhouse gas emissions and reliance on fossil fuels. Despite progress, challenges remain, including the need for grid integration, storage solutions, and investment in infrastructure. As research continues, the future of renewable energy looks promising, with the potential to provide a significant portion of global electricity needs and contribute to a sustainable future."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of CRISPR in Modern Genetic Engineering",
+      "text": "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans. The process involves designing a guide RNA that matches the target DNA sequence, which directs the Cas9 enzyme to cut the DNA at a specific location. Once the DNA is cut, cellular repair mechanisms can be harnessed to insert, delete, or modify genetic material. This technology has opened up numerous possibilities in medicine, agriculture, and biological research. In medicine, CRISPR is being explored for treating genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer. In agriculture, it allows for the development of crops with improved yield, pest resistance, and drought tolerance. However, ethical concerns about gene editing, especially germline modifications that can be inherited, pose significant challenges. Researchers are also investigating off-target effects, where unintended parts of the genome are edited, which could lead to unforeseen consequences. Regulatory frameworks are being developed worldwide to oversee the responsible use of CRISPR technology. Despite these challenges, CRISPR remains one of the most promising tools in modern science, with ongoing research aiming to enhance its precision and safety, ultimately transforming our approach to health and sustainability."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main benefits of urban green spaces mentioned in the passage?",
+          "options": [
+            "Reducing traffic congestion",
+            "Providing opportunities for recreation",
+            "Increasing property prices",
+            "Decreasing urban population"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Green spaces can help to decrease feelings of anxiety and depression.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following green space features with their benefits:",
+          "options": [
+            "Rooftop gardens",
+            "Educational sites",
+            "Urban parks",
+            "Natural reserves"
+          ],
+          "headings": [
+            "Support biodiversity and environmental health",
+            "Provide social and recreational opportunities",
+            "Help overcome space limitations",
+            "Serve as educational sites for communities"
+          ],
+          "correctAnswers": [
+            "Rooftop gardens - Help overcome space limitations",
+            "Educational sites - Serve as educational sites for communities",
+            "Urban parks - Provide social and recreational opportunities",
+            "Natural reserves - Support biodiversity and environmental health"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one challenge faced in developing green spaces.",
+          "correctAnswer": "Limited space"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which innovative solution is mentioned for overcoming development barriers?",
+          "options": [
+            "Building underground tunnels",
+            "Rooftop gardens",
+            "Increasing taxes",
+            "Reducing green space maintenance"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Cities are not prioritizing green spaces in urban planning anymore.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a key environmental benefit of green spaces?",
+          "options": [
+            "Reducing noise pollution",
+            "Improving air quality",
+            "Increasing urban density",
+            "Reducing water usage"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q8",
+          "type": "matching_headings",
+          "prompt": "Match the benefit to the type of green space:",
+          "options": [
+            "Parks",
+            "Gardens",
+            "Natural reserves",
+            "Rooftop gardens"
+          ],
+          "headings": [
+            "Support biodiversity",
+            "Provide recreational space",
+            "Help with urban heat mitigation",
+            "Offer educational value"
+          ],
+          "correctAnswers": [
+            "Parks - Support biodiversity",
+            "Gardens - Offer educational value",
+            "Natural reserves - Support biodiversity",
+            "Rooftop gardens - Help with urban heat mitigation"
+          ]
+        },
+        {
+          "id": "p1_q9",
+          "type": "short_answer",
+          "prompt": "What is an environmental issue that green spaces help to address?",
+          "correctAnswer": "Urban heat island effect"
+        },
+        {
+          "id": "p1_q10",
+          "type": "multiple_choice",
+          "prompt": "Which is NOT mentioned as a challenge to developing green spaces?",
+          "options": [
+            "Funding constraints",
+            "Urban development pressures",
+            "Lack of public interest",
+            "Limited space"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q11",
+          "type": "true_false_not_given",
+          "prompt": "Green spaces are only beneficial for environmental health, not for social well-being.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "Name one innovative solution mentioned to expand green spaces in cities.",
+          "correctAnswer": "Rooftop gardens"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the overall conclusion about urban green spaces?",
+          "options": [
+            "They are unnecessary for modern cities",
+            "They are only useful for environmental reasons",
+            "They are essential for healthier, sustainable cities",
+            "They should be replaced with commercial development"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What was the dominant energy source before the shift to renewable energy?",
+          "options": [
+            "Nuclear power",
+            "Fossil fuels",
+            "Hydropower",
+            "Solar energy"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy technologies have seen little progress in the last few decades.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the renewable energy technology with its description:",
+          "options": [
+            "Solar PV panels",
+            "Wind turbines",
+            "Bioenergy",
+            "Geothermal energy"
+          ],
+          "headings": [
+            "Generated from organic waste",
+            "Harnessed from Earth's heat",
+            "Use of sunlight to generate electricity",
+            "Use of wind to produce power"
+          ],
+          "correctAnswers": [
+            "Solar PV panels - Use of sunlight to generate electricity",
+            "Wind turbines - Use of wind to produce power",
+            "Bioenergy - Generated from organic waste",
+            "Geothermal energy - Harnessed from Earth's heat"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "multiple_choice",
+          "prompt": "What technological advancement has improved solar panel efficiency?",
+          "options": [
+            "Better materials and manufacturing",
+            "Larger panels only",
+            "Cheaper transportation",
+            "More decorative designs"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q5",
+          "type": "true_false_not_given",
+          "prompt": "Energy storage solutions like lithium-ion batteries are not important for renewable energy.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q6",
+          "type": "matching_headings",
+          "prompt": "Match the technological development with its purpose:",
+          "options": [
+            "Larger blades on wind turbines",
+            "Advanced energy storage",
+            "Policy incentives",
+            "Improved manufacturing processes"
+          ],
+          "headings": [
+            "Increase energy output",
+            "Address intermittent renewable sources",
+            "Encourage renewable adoption",
+            "Make solar power more accessible"
+          ],
+          "correctAnswers": [
+            "Larger blades on wind turbines - Increase energy output",
+            "Advanced energy storage - Address intermittent renewable sources",
+            "Policy incentives - Encourage renewable adoption",
+            "Improved manufacturing processes - Make solar power more accessible"
+          ]
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "Which challenge is associated with integrating renewable energy into the grid?",
+          "options": [
+            "High costs",
+            "Limited technology",
+            "Grid stability",
+            "Lack of interest"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q8",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy will likely be the only energy source needed in the future.",
+          "correctAnswer": "Not given"
+        },
+        {
+          "id": "p2_q9",
+          "type": "matching_headings",
+          "prompt": "Match the goal of renewable energy policies with their description:",
+          "options": [
+            "Reduce greenhouse gases",
+            "Increase energy independence",
+            "Support economic growth",
+            "Protect the environment"
+          ],
+          "headings": [
+            "Lower reliance on imported fuels",
+            "Decrease emissions contributing to climate change",
+            "Create jobs in renewable sectors",
+            "Preserve natural ecosystems"
+          ],
+          "correctAnswers": [
+            "Reduce greenhouse gases - Decrease emissions contributing to climate change",
+            "Increase energy independence - Lower reliance on imported fuels",
+            "Support economic growth - Create jobs in renewable sectors",
+            "Protect the environment - Preserve natural ecosystems"
+          ]
+        },
+        {
+          "id": "p2_q10",
+          "type": "short_answer",
+          "prompt": "Name one type of renewable energy technology supported by policy incentives.",
+          "correctAnswer": "Solar PV panels or wind turbines"
+        },
+        {
+          "id": "p2_q11",
+          "type": "multiple_choice",
+          "prompt": "What is a future possibility for renewable energy, according to the passage?",
+          "options": [
+            "Complete replacement of all fossil fuels",
+            "Providing a significant portion of global electricity",
+            "Limited to small-scale projects",
+            "Being abandoned due to high costs"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q12",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy technologies are unlikely to improve further in the future.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q13",
+          "type": "short_answer",
+          "prompt": "What is one benefit of advancements in renewable energy technology?",
+          "correctAnswer": "Making renewable energy more cost-effective"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What does CRISPR originally functioned as in bacteria?",
+          "options": [
+            "A reproductive mechanism",
+            "A virus defense system",
+            "A nutrient absorption system",
+            "A genetic mutation process"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology was first discovered in humans.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the CRISPR component with its role:",
+          "options": [
+            "Guide RNA",
+            "Cas9 enzyme",
+            "Target DNA",
+            "Cellular repair mechanisms"
+          ],
+          "headings": [
+            "Cuts DNA at specific locations",
+            "Directs the cut to the correct DNA sequence",
+            "The DNA sequence to be edited",
+            "Modify genetic material after DNA is cut"
+          ],
+          "correctAnswers": [
+            "Guide RNA - Directs the cut to the correct DNA sequence",
+            "Cas9 enzyme - Cuts DNA at specific locations",
+            "Target DNA - The DNA sequence to be edited",
+            "Cellular repair mechanisms - Modify genetic material after DNA is cut"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "multiple_choice",
+          "prompt": "In which fields is CRISPR being used?",
+          "options": [
+            "Medicine, agriculture, research",
+            "Only medicine",
+            "Only agriculture",
+            "Only environmental science"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q5",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR can be used to treat genetic disorders like cystic fibrosis.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q6",
+          "type": "matching_headings",
+          "prompt": "Match the application with its benefit:",
+          "options": [
+            "Medicine",
+            "Agriculture",
+            "Research",
+            "Ethical concerns"
+          ],
+          "headings": [
+            "Developing pest-resistant crops",
+            "Treating inherited diseases",
+            "Understanding gene functions",
+            "Ethical challenges of germline editing"
+          ],
+          "correctAnswers": [
+            "Medicine - Treating inherited diseases",
+            "Agriculture - Developing pest-resistant crops",
+            "Research - Understanding gene functions",
+            "Ethical concerns - Ethical challenges of germline editing"
+          ]
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a major ethical concern related to CRISPR?",
+          "options": [
+            "Cost of technology",
+            "Off-target effects",
+            "Germline modifications",
+            "Lack of research"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q8",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR has no potential risks or unintended consequences.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q9",
+          "type": "matching_headings",
+          "prompt": "Match the challenge with its description:",
+          "options": [
+            "Off-target effects",
+            "Regulatory frameworks",
+            "Ethical debates",
+            "Technical limitations"
+          ],
+          "headings": [
+            "Unintended genetic modifications",
+            "Lack of global oversight",
+            "Moral concerns over germline editing",
+            "Difficulty in ensuring precise edits"
+          ],
+          "correctAnswers": [
+            "Off-target effects - Unintended genetic modifications",
+            "Regulatory frameworks - Lack of global oversight",
+            "Ethical debates - Moral concerns over germline editing",
+            "Technical limitations - Difficulty in ensuring precise edits"
+          ]
+        },
+        {
+          "id": "p3_q10",
+          "type": "short_answer",
+          "prompt": "What are researchers aiming to improve in CRISPR technology?",
+          "correctAnswer": "Precision and safety"
+        },
+        {
+          "id": "p3_q11",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is a potential application of CRISPR?",
+          "options": [
+            "Developing new medicines",
+            "Creating new species of animals",
+            "Replacing all traditional breeding methods",
+            "Eliminating all genetic diseases"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q12",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR will make genetic engineering completely risk-free in the near future.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q13",
+          "type": "short_answer",
+          "prompt": "What is one reason why regulation of CRISPR is necessary?",
+          "correctAnswer": "To oversee responsible use"
+        },
+        {
+          "id": "p3_q14",
+          "type": "multiple_choice",
+          "prompt": "What is the overall significance of CRISPR technology according to the passage?",
+          "options": [
+            "A minor scientific tool",
+            "A revolutionary and promising tool",
+            "An outdated method",
+            "A risky and unnecessary technology"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are evenly distributed across passages with exact counts. IDs are unique and follow the specified format. Questions include a variety of types as instructed.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 22.5,
+  "passage_1_score": 23.08,
+  "passage_2_score": 23.08,
+  "passage_3_score": 21.43,
+  "total_questions": 40,
+  "correct_questions": 9,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main benefits of urban green spaces mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect.",
+        "Cities around the world are increasingly recognizing the importance of integrating green spaces into urban planning."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one challenge faced in developing green spaces.",
+      "correctAnswer": "Limited space",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect.",
+        "Despite these advantages, challenges such as limited space, funding constraints, and urban development pressures can hinder the development of green areas."
+      ],
+      "explanation": "The correct answer is 'Limited space' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Which innovative solution is mentioned for overcoming development barriers?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "These areas provide opportunities for recreation, relaxation, and social interaction, helping to reduce stress and promote physical activity.",
+        "Nonetheless, innovative solutions like rooftop gardens and urban forestry initiatives are helping cities overcome these barriers."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. These areas provide opportunities for recreation, relaxation, and social interaction, helping to reduce stress and promote physical activity."
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Cities are not prioritizing green spaces in urban planning anymore.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Cities around the world are increasingly recognizing the importance of integrating green spaces into urban planning.",
+        "In conclusion, urban green spaces are essential for fostering healthier, more sustainable cities, and their importance is expected to grow as urban populations continue to expand."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Cities around the world are increasingly recognizing the importance of integrating green spaces into urban planning."
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "What is a key environmental benefit of green spaces?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect.",
+        "Cities around the world are increasingly recognizing the importance of integrating green spaces into urban planning."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What is an environmental issue that green spaces help to address?",
+      "correctAnswer": "Urban heat island effect",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect.",
+        "Cities around the world are increasingly recognizing the importance of integrating green spaces into urban planning."
+      ],
+      "explanation": "The correct answer is 'Urban heat island effect' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Which is NOT mentioned as a challenge to developing green spaces?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect.",
+        "Cities around the world are increasingly recognizing the importance of integrating green spaces into urban planning."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect."
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Green spaces are only beneficial for environmental health, not for social well-being.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect.",
+        "In conclusion, urban green spaces are essential for fostering healthier, more sustainable cities, and their importance is expected to grow as urban populations continue to expand."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "Name one innovative solution mentioned to expand green spaces in cities.",
+      "correctAnswer": "Rooftop gardens",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Nonetheless, innovative solutions like rooftop gardens and urban forestry initiatives are helping cities overcome these barriers.",
+        "In conclusion, urban green spaces are essential for fostering healthier, more sustainable cities, and their importance is expected to grow as urban populations continue to expand."
+      ],
+      "explanation": "The correct answer is 'Rooftop gardens' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Nonetheless, innovative solutions like rooftop gardens and urban forestry initiatives are helping cities overcome these barriers."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "What is the overall conclusion about urban green spaces?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents.",
+        "Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect.",
+        "Cities around the world are increasingly recognizing the importance of integrating green spaces into urban planning."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Urban green spaces such as parks, gardens, and natural reserves play a vital role in improving the quality of life for city residents. Additionally, green spaces contribute to environmental health by improving air quality, supporting biodiversity, and mitigating the urban heat island effect."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What was the dominant energy source before the shift to renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources.",
+        "As research continues, the future of renewable energy looks promising, with the potential to provide a significant portion of global electricity needs and contribute to a sustainable future."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Renewable energy technologies have seen little progress in the last few decades.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources.",
+        "As research continues, the future of renewable energy looks promising, with the potential to provide a significant portion of global electricity needs and contribute to a sustainable future."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What technological advancement has improved solar panel efficiency?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Solar photovoltaic (PV) panels and wind turbines are now among the most widely adopted renewable sources.",
+        "The efficiency of solar panels has increased dramatically due to improvements in materials and manufacturing processes, making solar power more accessible and cost-effective.",
+        "Similarly, wind turbine technology has evolved with larger blades, higher towers, and better aerodynamic designs, resulting in greater energy output."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Solar photovoltaic (PV) panels and wind turbines are now among the most widely adopted renewable sources. The efficiency of solar panels has increased dramatically due to improvements in materials and manufacturing processes, making solar power more accessible and cost-effective."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Energy storage solutions like lithium-ion batteries are not important for renewable energy.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources.",
+        "Despite progress, challenges remain, including the need for grid integration, storage solutions, and investment in infrastructure."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Which challenge is associated with integrating renewable energy into the grid?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources.",
+        "As research continues, the future of renewable energy looks promising, with the potential to provide a significant portion of global electricity needs and contribute to a sustainable future."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "Renewable energy will likely be the only energy source needed in the future.",
+      "correctAnswer": "Not given",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources.",
+        "As research continues, the future of renewable energy looks promising, with the potential to provide a significant portion of global electricity needs and contribute to a sustainable future."
+      ],
+      "explanation": "The correct answer is 'Not given' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Name one type of renewable energy technology supported by policy incentives.",
+      "correctAnswer": "Solar PV panels or wind turbines",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar photovoltaic (PV) panels and wind turbines are now among the most widely adopted renewable sources.",
+        "Similarly, wind turbine technology has evolved with larger blades, higher towers, and better aerodynamic designs, resulting in greater energy output.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+      ],
+      "explanation": "The correct answer is 'Solar PV panels or wind turbines' because the passage states: Solar photovoltaic (PV) panels and wind turbines are now among the most widely adopted renewable sources. Similarly, wind turbine technology has evolved with larger blades, higher towers, and better aerodynamic designs, resulting in greater energy output."
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "What is a future possibility for renewable energy, according to the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources.",
+        "As research continues, the future of renewable energy looks promising, with the potential to provide a significant portion of global electricity needs and contribute to a sustainable future."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "Renewable energy technologies are unlikely to improve further in the future.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources.",
+        "As research continues, the future of renewable energy looks promising, with the potential to provide a significant portion of global electricity needs and contribute to a sustainable future."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What is one benefit of advancements in renewable energy technology?",
+      "correctAnswer": "Making renewable energy more cost-effective",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production.",
+        "The efficiency of solar panels has increased dramatically due to improvements in materials and manufacturing processes, making solar power more accessible and cost-effective.",
+        "These innovations are supported by advancements in energy storage, such as lithium-ion batteries, which address the intermittent nature of renewable sources."
+      ],
+      "explanation": "The correct answer is 'Making renewable energy more cost-effective' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the landscape of global energy production. The efficiency of solar panels has increased dramatically due to improvements in materials and manufacturing processes, making solar power more accessible and cost-effective."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What does CRISPR originally functioned as in bacteria?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans.",
+        "In medicine, CRISPR is being explored for treating genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "CRISPR technology was first discovered in humans.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans.",
+        "Regulatory frameworks are being developed worldwide to oversee the responsible use of CRISPR technology."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "In which fields is CRISPR being used?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "In medicine, CRISPR is being explored for treating genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer.",
+        "Regulatory frameworks are being developed worldwide to oversee the responsible use of CRISPR technology."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. In medicine, CRISPR is being explored for treating genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "CRISPR can be used to treat genetic disorders like cystic fibrosis.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "Once the DNA is cut, cellular repair mechanisms can be harnessed to insert, delete, or modify genetic material.",
+        "In medicine, CRISPR is being explored for treating genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Once the DNA is cut, cellular repair mechanisms can be harnessed to insert, delete, or modify genetic material."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "What is a major ethical concern related to CRISPR?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans.",
+        "In medicine, CRISPR is being explored for treating genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "CRISPR has no potential risks or unintended consequences.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans.",
+        "Researchers are also investigating off-target effects, where unintended parts of the genome are edited, which could lead to unforeseen consequences."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "What are researchers aiming to improve in CRISPR technology?",
+      "correctAnswer": "Precision and safety",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "Regulatory frameworks are being developed worldwide to oversee the responsible use of CRISPR technology.",
+        "Despite these challenges, CRISPR remains one of the most promising tools in modern science, with ongoing research aiming to enhance its precision and safety, ultimately transforming our approach to health and sustainability."
+      ],
+      "explanation": "The correct answer is 'Precision and safety' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Regulatory frameworks are being developed worldwide to oversee the responsible use of CRISPR technology."
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Which of the following is a potential application of CRISPR?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "The process involves designing a guide RNA that matches the target DNA sequence, which directs the Cas9 enzyme to cut the DNA at a specific location.",
+        "Researchers are also investigating off-target effects, where unintended parts of the genome are edited, which could lead to unforeseen consequences."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. The process involves designing a guide RNA that matches the target DNA sequence, which directs the Cas9 enzyme to cut the DNA at a specific location."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "CRISPR will make genetic engineering completely risk-free in the near future.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "Once the DNA is cut, cellular repair mechanisms can be harnessed to insert, delete, or modify genetic material.",
+        "In medicine, CRISPR is being explored for treating genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Once the DNA is cut, cellular repair mechanisms can be harnessed to insert, delete, or modify genetic material."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is one reason why regulation of CRISPR is necessary?",
+      "correctAnswer": "To oversee responsible use",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans.",
+        "Regulatory frameworks are being developed worldwide to oversee the responsible use of CRISPR technology.",
+        "Despite these challenges, CRISPR remains one of the most promising tools in modern science, with ongoing research aiming to enhance its precision and safety, ultimately transforming our approach to health and sustainability."
+      ],
+      "explanation": "The correct answer is 'To oversee responsible use' because the passage states: Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans. Regulatory frameworks are being developed worldwide to oversee the responsible use of CRISPR technology."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "What is the overall significance of CRISPR technology according to the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences.",
+        "Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans.",
+        "Regulatory frameworks are being developed worldwide to oversee the responsible use of CRISPR technology."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) has revolutionized the field of genetic engineering by providing a precise and efficient method for editing DNA sequences. Originally discovered as a bacterial immune system against viruses, CRISPR-Cas9 technology has been adapted for use in various organisms, including humans."
+    }
+  ],
+  "scoredAt": "2026-03-05T11:37:24Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need for targeted practice in locating specific clues within passages and understanding question requirements. Many answers were not selected or were incorrect due to missing or misinterpreting key evidence sentences. Focus on developing skills to identify precise information and improve comprehension of question types.",
+    "byPassage": {
+      "1": "You missed the benefit of green spaces and challenges in development, likely due to overlooking sentences about environmental and social advantages. Pay attention to sentences highlighting benefits and obstacles, especially those mentioning 'improving quality of life' and 'challenges such as limited space.'",
+      "2": "Incorrect or missing answers suggest difficulty in recognizing technological advancements and future prospects. Clues are in sentences about 'transforming energy production' and 'advancements in materials.' Practice scanning for phrases indicating progress and future potential.",
+      "3": "Errors stem from not identifying the original function of CRISPR and ethical considerations. Clues are in sentences describing CRISPR as a 'bacterial immune system' and 'regulatory frameworks.' Focus on keywords like 'originally discovered' and 'ethical concerns' to locate answers."
+    },
+    "tips": [
+      "Practice skimming passages to quickly locate sentences that contain keywords related to questions.",
+      "Highlight or underline key phrases in the passage that directly answer the questions, especially for 'short answer' and 'true/false' questions.",
+      "Review question prompts carefully to understand exactly what information is being asked for, distinguishing between 'main idea,' 'details,' and 'inferences.'"
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T11:37:29Z"
+}

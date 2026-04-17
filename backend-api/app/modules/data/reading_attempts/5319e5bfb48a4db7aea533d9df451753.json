@@ -1,0 +1,973 @@
+{
+  "attemptId": "5319e5bfb48a4db7aea533d9df451753",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-05T10:51:00Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Reading Regularly",
+      "text": "Reading is a fundamental skill that many people enjoy engaging in during their leisure time. It offers numerous benefits that can enhance a person’s mental well-being and knowledge base. For starters, reading helps improve vocabulary and language skills, which are essential for effective communication. Additionally, it stimulates the brain, keeping it active and healthy, which may also reduce the risk of cognitive decline as people age. Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind. Many people find that reading fiction allows them to experience different worlds and perspectives, fostering empathy and understanding. Furthermore, reading regularly can contribute to academic and professional success, as it enhances comprehension skills and general knowledge. Whether reading a newspaper, a novel, or educational material, the act of reading encourages continuous learning. In conclusion, making reading a regular habit can have significant positive effects on an individual’s mental health, communication skills, and overall knowledge, making it an activity worth cultivating."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. Initially, reliance on fossil fuels led to environmental concerns and the search for cleaner alternatives. Solar and wind power emerged as the most promising options due to their abundance and sustainability. Early solar panels were relatively inefficient and expensive; however, technological advancements have dramatically improved their efficiency and reduced costs. Similarly, wind turbines have become more sophisticated, capable of generating electricity even at lower wind speeds. The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration. Additionally, other renewable sources like hydroelectric and geothermal energy continue to play vital roles in diverse regions worldwide. Governments and private companies have invested heavily in research and infrastructure, aiming to reduce reliance on fossil fuels and decrease greenhouse gas emissions. Despite these advances, challenges remain, including intermittency issues and high initial costs. Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+    },
+    {
+      "passageId": "3",
+      "title": "The Impact of Climate Change on Global Ecosystems",
+      "text": "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events have disrupted natural habitats and the delicate balance of ecosystems. Marine environments, for example, suffer from coral bleaching due to higher sea temperatures, which leads to the loss of biodiversity and affects fisheries. Terrestrial ecosystems are similarly affected; many plant and animal species are experiencing shifts in their geographical ranges as they seek suitable habitats. Additionally, the melting of polar ice caps contributes to rising sea levels, threatening coastal regions and island nations. These changes also impact the availability of freshwater resources, which are crucial for both ecosystems and human populations. The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere. Scientists warn that unless significant mitigation efforts are undertaken, the consequences will become increasingly severe, including the potential extinction of many species and irreversible damage to ecosystems. Addressing climate change requires a multifaceted approach, including reducing emissions, adopting sustainable land-use practices, and investing in renewable energy sources. Protecting ecosystems is vital not only for biodiversity but also for the well-being of humanity, as healthy ecosystems provide essential services such as clean air, water, and food."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main benefits of reading mentioned in the passage?",
+          "options": [
+            "It reduces physical activity",
+            "It improves vocabulary and language skills",
+            "It decreases mental alertness",
+            "It limits knowledge acquisition"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Reading can help prevent cognitive decline as people age.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits of reading with their descriptions:",
+          "options": [
+            "Enhances communication skills",
+            "Provides mental relaxation",
+            "Fosters empathy",
+            "Contributes to success"
+          ],
+          "correctAnswer": [
+            "Enhances communication skills",
+            "Provides mental relaxation",
+            "Fosters empathy",
+            "Contributes to success"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "According to the passage, what types of reading material can be beneficial?",
+          "correctAnswer": "Newspapers, novels, or educational material"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Why is reading considered a worthwhile activity?",
+          "options": [
+            "It lowers stress levels",
+            "It improves mental health and knowledge",
+            "It reduces social interactions",
+            "It requires minimal effort"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Reading fiction helps develop empathy and understanding.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "What does the passage suggest about reading habits?",
+          "options": [
+            "They should be occasional",
+            "They are only useful for students",
+            "They can be cultivated regularly",
+            "They are unnecessary for adults"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What is one mental benefit of reading related to brain activity?",
+          "correctAnswer": "It stimulates the brain and keeps it active and healthy"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of reading?",
+          "options": [
+            "Enhancing vocabulary",
+            "Reducing stress",
+            "Improving physical health",
+            "Supporting academic success"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Reading regularly can help in professional success.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the activity with its described benefit:",
+          "options": [
+            "Reading fiction",
+            "Reading educational material",
+            "Reading newspapers",
+            "Reading for relaxation"
+          ],
+          "correctAnswer": [
+            "Experiencing different worlds",
+            "Enhancing knowledge",
+            "Staying informed",
+            "Relaxing and escaping stress"
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What overall conclusion does the passage make about reading?",
+          "correctAnswer": "It has significant positive effects on mental health, communication, and knowledge."
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is a reason given for reading being beneficial?",
+          "options": [
+            "It reduces the need for social interaction",
+            "It promotes continuous learning",
+            "It is only enjoyable for young people",
+            "It discourages academic pursuits"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What prompted the development of renewable energy technologies?",
+          "options": [
+            "The abundance of fossil fuels",
+            "Environmental concerns and the search for cleaner alternatives",
+            "Decreasing costs of coal",
+            "Lack of technological progress"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Solar and wind power are the least promising renewable options.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the renewable energy source with its characteristic:",
+          "options": [
+            "Solar power",
+            "Wind power",
+            "Hydroelectric energy",
+            "Geothermal energy"
+          ],
+          "correctAnswer": [
+            "Abundant and sustainable",
+            "Capable at lower wind speeds",
+            "Diverse regional roles",
+            "Continually available underground heat"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What technological advancements have improved solar panels?",
+          "correctAnswer": "Increased efficiency and reduced costs"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What challenge is associated with integrating renewable energy into power grids?",
+          "options": [
+            "Excessive energy production",
+            "Intermittency issues",
+            "Lack of investment",
+            "Overproduction of fossil fuels"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Governments have not invested in renewable energy research.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What is one reason the trend toward renewable energy is considered promising?",
+          "options": [
+            "Decreasing costs and technological progress",
+            "Limited environmental benefits",
+            "High reliance on fossil fuels",
+            "Slow technological development"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "Name one of the renewable sources that continue to be important worldwide.",
+          "correctAnswer": "Hydroelectric or geothermal energy"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a challenge of renewable energy?",
+          "options": [
+            "Intermittency",
+            "High initial costs",
+            "Limited resource availability",
+            "Integration difficulties"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy is unlikely to replace fossil fuels in the future.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the statement with the appropriate reason:",
+          "options": [
+            "Environmental concerns",
+            "Technological advancements",
+            "Investment in research",
+            "Challenges faced"
+          ],
+          "correctAnswer": [
+            "Environmental concerns",
+            "Technological progress",
+            "Heavy investment",
+            "Intermittency and costs"
+          ]
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is the overall trend in renewable energy development?",
+          "correctAnswer": "It is moving towards a more sustainable future with decreasing costs and technological improvements."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the main environmental motivation for adopting renewable energy?",
+          "options": [
+            "Reducing greenhouse gas emissions",
+            "Increasing fossil fuel use",
+            "Expanding nuclear power",
+            "Limiting technological progress"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a major effect of climate change on ecosystems?",
+          "options": [
+            "Stabilization of habitats",
+            "Disruption of natural habitats",
+            "Increase in biodiversity",
+            "Reduction in weather extremes"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Marine environments are unaffected by climate change.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the environmental impact with its cause:",
+          "options": [
+            "Coral bleaching",
+            "Shifts in species ranges",
+            "Rising sea levels",
+            "Loss of biodiversity"
+          ],
+          "correctAnswer": [
+            "Higher sea temperatures",
+            "Seeking suitable habitats",
+            "Melting polar ice caps",
+            "Disruption of ecosystems"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What human activities are primarily responsible for climate change?",
+          "correctAnswer": "Burning fossil fuels and deforestation"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What do scientists warn will happen if climate change is not mitigated?",
+          "options": [
+            "Return to pre-industrial climate",
+            "Species extinction and ecosystem damage",
+            "Complete stabilization",
+            "Reduction in extreme weather"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Mitigation efforts are unnecessary to combat climate change.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a recommended approach to address climate change?",
+          "options": [
+            "Reducing emissions",
+            "Adopting sustainable land-use",
+            "Investing in renewable energy",
+            "Increasing fossil fuel extraction"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "Why is protecting ecosystems important for humans?",
+          "correctAnswer": "They provide essential services like clean air, water, and food."
+        },
+        {
+          "id": "p3_q9",
+          "type": "matching_headings",
+          "prompt": "Match each climate change effect with its description:",
+          "options": [
+            "Coral bleaching",
+            "Sea level rise",
+            "Species range shifts",
+            "Disrupted habitats"
+          ],
+          "correctAnswer": [
+            "Coral bleaching due to sea temperature rise",
+            "Melting ice caps raising sea levels",
+            "Species moving to new areas",
+            "Habitats becoming unsuitable"
+          ]
+        },
+        {
+          "id": "p3_q10",
+          "type": "multiple_choice",
+          "prompt": "What is a primary cause of the acceleration of climate change?",
+          "options": [
+            "Natural variability",
+            "Human activities",
+            "Solar cycles",
+            "Volcanic activity"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q11",
+          "type": "true_false_not_given",
+          "prompt": "Climate change has no impact on freshwater resources.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What is necessary to effectively combat climate change?",
+          "correctAnswer": "Reducing emissions, sustainable land-use, and renewable energy investment"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "Which statement best summarizes the importance of ecosystems in the context of climate change?",
+          "options": [
+            "Ecosystems are irrelevant",
+            "Healthy ecosystems are vital for biodiversity and human well-being",
+            "Ecosystems only benefit wildlife",
+            "Climate change does not affect ecosystems"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q14",
+          "type": "multiple_choice",
+          "prompt": "What can be a consequence of failing to address climate change?",
+          "options": [
+            "Increased biodiversity",
+            "Irreversible ecosystem damage",
+            "Stable climate conditions",
+            "Reduced natural disasters"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to assess comprehension of key points in each passage, with varied question types and exact counts as specified. IDs are unique and follow the required format.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 15.0,
+  "passage_1_score": 23.08,
+  "passage_2_score": 0.0,
+  "passage_3_score": 21.43,
+  "total_questions": 40,
+  "correct_questions": 6,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main benefits of reading mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that many people enjoy engaging in during their leisure time.",
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind.",
+        "Whether reading a newspaper, a novel, or educational material, the act of reading encourages continuous learning."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Reading is a fundamental skill that many people enjoy engaging in during their leisure time. Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind."
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the following benefits of reading with their descriptions:",
+      "correctAnswer": [
+        "Enhances communication skills",
+        "Provides mental relaxation",
+        "Fosters empathy",
+        "Contributes to success"
+      ],
+      "userAnswer": "  , , ,  , , , ,,  kakak",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that many people enjoy engaging in during their leisure time.",
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind.",
+        "In conclusion, making reading a regular habit can have significant positive effects on an individual’s mental health, communication skills, and overall knowledge, making it an activity worth cultivating."
+      ],
+      "explanation": "The correct answer is '['Enhances communication skills', 'Provides mental relaxation', 'Fosters empathy', 'Contributes to success']' because the passage states: Reading is a fundamental skill that many people enjoy engaging in during their leisure time. Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "According to the passage, what types of reading material can be beneficial?",
+      "correctAnswer": "Newspapers, novels, or educational material",
+      "userAnswer": "m m m ",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind.",
+        "Furthermore, reading regularly can contribute to academic and professional success, as it enhances comprehension skills and general knowledge.",
+        "Whether reading a newspaper, a novel, or educational material, the act of reading encourages continuous learning."
+      ],
+      "explanation": "The correct answer is 'Newspapers, novels, or educational material' because the passage states: Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind. Furthermore, reading regularly can contribute to academic and professional success, as it enhances comprehension skills and general knowledge."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Why is reading considered a worthwhile activity?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that many people enjoy engaging in during their leisure time.",
+        "For starters, reading helps improve vocabulary and language skills, which are essential for effective communication.",
+        "In conclusion, making reading a regular habit can have significant positive effects on an individual’s mental health, communication skills, and overall knowledge, making it an activity worth cultivating."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Reading is a fundamental skill that many people enjoy engaging in during their leisure time. For starters, reading helps improve vocabulary and language skills, which are essential for effective communication."
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Reading fiction helps develop empathy and understanding.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "For starters, reading helps improve vocabulary and language skills, which are essential for effective communication.",
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind.",
+        "Many people find that reading fiction allows them to experience different worlds and perspectives, fostering empathy and understanding."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: For starters, reading helps improve vocabulary and language skills, which are essential for effective communication. Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What is one mental benefit of reading related to brain activity?",
+      "correctAnswer": "It stimulates the brain and keeps it active and healthy",
+      "userAnswer": "   ,ll,lkml",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Additionally, it stimulates the brain, keeping it active and healthy, which may also reduce the risk of cognitive decline as people age.",
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind.",
+        "In conclusion, making reading a regular habit can have significant positive effects on an individual’s mental health, communication skills, and overall knowledge, making it an activity worth cultivating."
+      ],
+      "explanation": "The correct answer is 'It stimulates the brain and keeps it active and healthy' because the passage states: Additionally, it stimulates the brain, keeping it active and healthy, which may also reduce the risk of cognitive decline as people age. Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a benefit of reading?",
+      "correctAnswer": "C",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "For starters, reading helps improve vocabulary and language skills, which are essential for effective communication.",
+        "Additionally, it stimulates the brain, keeping it active and healthy, which may also reduce the risk of cognitive decline as people age.",
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: For starters, reading helps improve vocabulary and language skills, which are essential for effective communication. Additionally, it stimulates the brain, keeping it active and healthy, which may also reduce the risk of cognitive decline as people age."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Reading regularly can help in professional success.",
+      "correctAnswer": "True",
+      "userAnswer": "NOT GIVEN",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind.",
+        "Furthermore, reading regularly can contribute to academic and professional success, as it enhances comprehension skills and general knowledge.",
+        "In conclusion, making reading a regular habit can have significant positive effects on an individual’s mental health, communication skills, and overall knowledge, making it an activity worth cultivating."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind. Furthermore, reading regularly can contribute to academic and professional success, as it enhances comprehension skills and general knowledge."
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Match the activity with its described benefit:",
+      "correctAnswer": [
+        "Experiencing different worlds",
+        "Enhancing knowledge",
+        "Staying informed",
+        "Relaxing and escaping stress"
+      ],
+      "userAnswer": "kmkm",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Additionally, it stimulates the brain, keeping it active and healthy, which may also reduce the risk of cognitive decline as people age.",
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind.",
+        "Many people find that reading fiction allows them to experience different worlds and perspectives, fostering empathy and understanding."
+      ],
+      "explanation": "The correct answer is '['Experiencing different worlds', 'Enhancing knowledge', 'Staying informed', 'Relaxing and escaping stress']' because the passage states: Additionally, it stimulates the brain, keeping it active and healthy, which may also reduce the risk of cognitive decline as people age. Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What overall conclusion does the passage make about reading?",
+      "correctAnswer": "It has significant positive effects on mental health, communication, and knowledge.",
+      "userAnswer": "mkmkm",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "It offers numerous benefits that can enhance a person’s mental well-being and knowledge base.",
+        "Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind.",
+        "In conclusion, making reading a regular habit can have significant positive effects on an individual’s mental health, communication skills, and overall knowledge, making it an activity worth cultivating."
+      ],
+      "explanation": "The correct answer is 'It has significant positive effects on mental health, communication, and knowledge.' because the passage states: It offers numerous benefits that can enhance a person’s mental well-being and knowledge base. Moreover, reading can be a great way to relax and escape from daily stresses, providing a mental break that rejuvenates the mind."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What prompted the development of renewable energy technologies?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Solar and wind power are the least promising renewable options.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "Solar and wind power emerged as the most promising options due to their abundance and sustainability.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. Solar and wind power emerged as the most promising options due to their abundance and sustainability."
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the renewable energy source with its characteristic:",
+      "correctAnswer": [
+        "Abundant and sustainable",
+        "Capable at lower wind speeds",
+        "Diverse regional roles",
+        "Continually available underground heat"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "Solar and wind power emerged as the most promising options due to their abundance and sustainability.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is '['Abundant and sustainable', 'Capable at lower wind speeds', 'Diverse regional roles', 'Continually available underground heat']' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. Solar and wind power emerged as the most promising options due to their abundance and sustainability."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What technological advancements have improved solar panels?",
+      "correctAnswer": "Increased efficiency and reduced costs",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar and wind power emerged as the most promising options due to their abundance and sustainability.",
+        "Early solar panels were relatively inefficient and expensive; however, technological advancements have dramatically improved their efficiency and reduced costs.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'Increased efficiency and reduced costs' because the passage states: Solar and wind power emerged as the most promising options due to their abundance and sustainability. Early solar panels were relatively inefficient and expensive; however, technological advancements have dramatically improved their efficiency and reduced costs."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "What challenge is associated with integrating renewable energy into power grids?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration.",
+        "Additionally, other renewable sources like hydroelectric and geothermal energy continue to play vital roles in diverse regions worldwide."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration."
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Governments have not invested in renewable energy research.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration.",
+        "Governments and private companies have invested heavily in research and infrastructure, aiming to reduce reliance on fossil fuels and decrease greenhouse gas emissions."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What is one reason the trend toward renewable energy is considered promising?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "Solar and wind power emerged as the most promising options due to their abundance and sustainability.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. Solar and wind power emerged as the most promising options due to their abundance and sustainability."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "Name one of the renewable sources that continue to be important worldwide.",
+      "correctAnswer": "Hydroelectric or geothermal energy",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "Additionally, other renewable sources like hydroelectric and geothermal energy continue to play vital roles in diverse regions worldwide.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'Hydroelectric or geothermal energy' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. Additionally, other renewable sources like hydroelectric and geothermal energy continue to play vital roles in diverse regions worldwide."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT mentioned as a challenge of renewable energy?",
+      "correctAnswer": "C",
+      "userAnswer": "B",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Renewable energy is unlikely to replace fossil fuels in the future.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "Initially, reliance on fossil fuels led to environmental concerns and the search for cleaner alternatives.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. Initially, reliance on fossil fuels led to environmental concerns and the search for cleaner alternatives."
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the statement with the appropriate reason:",
+      "correctAnswer": [
+        "Environmental concerns",
+        "Technological progress",
+        "Heavy investment",
+        "Intermittency and costs"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Initially, reliance on fossil fuels led to environmental concerns and the search for cleaner alternatives.",
+        "Solar and wind power emerged as the most promising options due to their abundance and sustainability.",
+        "The integration of these technologies into existing power grids has posed challenges, but innovations such as smart grids and energy storage solutions have facilitated smoother integration."
+      ],
+      "explanation": "The correct answer is '['Environmental concerns', 'Technological progress', 'Heavy investment', 'Intermittency and costs']' because the passage states: Initially, reliance on fossil fuels led to environmental concerns and the search for cleaner alternatives. Solar and wind power emerged as the most promising options due to their abundance and sustainability."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is the overall trend in renewable energy development?",
+      "correctAnswer": "It is moving towards a more sustainable future with decreasing costs and technological improvements.",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "Early solar panels were relatively inefficient and expensive; however, technological advancements have dramatically improved their efficiency and reduced costs.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'It is moving towards a more sustainable future with decreasing costs and technological improvements.' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. Early solar panels were relatively inefficient and expensive; however, technological advancements have dramatically improved their efficiency and reduced costs."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What is the main environmental motivation for adopting renewable energy?",
+      "correctAnswer": "A",
+      "userAnswer": "B",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power.",
+        "Initially, reliance on fossil fuels led to environmental concerns and the search for cleaner alternatives.",
+        "Nevertheless, the trend toward renewable energy is clear, driven by environmental concerns, technological progress, and decreasing costs, promising a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Over the past few decades, renewable energy technologies have undergone significant development, transforming the way societies generate power. Initially, reliance on fossil fuels led to environmental concerns and the search for cleaner alternatives."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is a major effect of climate change on ecosystems?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere.",
+        "Addressing climate change requires a multifaceted approach, including reducing emissions, adopting sustainable land-use practices, and investing in renewable energy sources."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "Marine environments are unaffected by climate change.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "Marine environments, for example, suffer from coral bleaching due to higher sea temperatures, which leads to the loss of biodiversity and affects fisheries.",
+        "The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. Marine environments, for example, suffer from coral bleaching due to higher sea temperatures, which leads to the loss of biodiversity and affects fisheries."
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the environmental impact with its cause:",
+      "correctAnswer": [
+        "Higher sea temperatures",
+        "Seeking suitable habitats",
+        "Melting polar ice caps",
+        "Disruption of ecosystems"
+      ],
+      "userAnswer": "kmj",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "Marine environments, for example, suffer from coral bleaching due to higher sea temperatures, which leads to the loss of biodiversity and affects fisheries.",
+        "Additionally, the melting of polar ice caps contributes to rising sea levels, threatening coastal regions and island nations."
+      ],
+      "explanation": "The correct answer is '['Higher sea temperatures', 'Seeking suitable habitats', 'Melting polar ice caps', 'Disruption of ecosystems']' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. Marine environments, for example, suffer from coral bleaching due to higher sea temperatures, which leads to the loss of biodiversity and affects fisheries."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "What human activities are primarily responsible for climate change?",
+      "correctAnswer": "Burning fossil fuels and deforestation",
+      "userAnswer": "kmkm",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "These changes also impact the availability of freshwater resources, which are crucial for both ecosystems and human populations.",
+        "The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere.",
+        "Addressing climate change requires a multifaceted approach, including reducing emissions, adopting sustainable land-use practices, and investing in renewable energy sources."
+      ],
+      "explanation": "The correct answer is 'Burning fossil fuels and deforestation' because the passage states: These changes also impact the availability of freshwater resources, which are crucial for both ecosystems and human populations. The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What do scientists warn will happen if climate change is not mitigated?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere.",
+        "Scientists warn that unless significant mitigation efforts are undertaken, the consequences will become increasingly severe, including the potential extinction of many species and irreversible damage to ecosystems."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "Which of the following is NOT a recommended approach to address climate change?",
+      "correctAnswer": "D",
+      "userAnswer": "B",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere.",
+        "Addressing climate change requires a multifaceted approach, including reducing emissions, adopting sustainable land-use practices, and investing in renewable energy sources."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "Why is protecting ecosystems important for humans?",
+      "correctAnswer": "They provide essential services like clean air, water, and food.",
+      "userAnswer": "kmkm",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Terrestrial ecosystems are similarly affected; many plant and animal species are experiencing shifts in their geographical ranges as they seek suitable habitats.",
+        "These changes also impact the availability of freshwater resources, which are crucial for both ecosystems and human populations.",
+        "Protecting ecosystems is vital not only for biodiversity but also for the well-being of humanity, as healthy ecosystems provide essential services such as clean air, water, and food."
+      ],
+      "explanation": "The correct answer is 'They provide essential services like clean air, water, and food.' because the passage states: Terrestrial ecosystems are similarly affected; many plant and animal species are experiencing shifts in their geographical ranges as they seek suitable habitats. These changes also impact the availability of freshwater resources, which are crucial for both ecosystems and human populations."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "Match each climate change effect with its description:",
+      "correctAnswer": [
+        "Coral bleaching due to sea temperature rise",
+        "Melting ice caps raising sea levels",
+        "Species moving to new areas",
+        "Habitats becoming unsuitable"
+      ],
+      "userAnswer": "kmmkm",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "Marine environments, for example, suffer from coral bleaching due to higher sea temperatures, which leads to the loss of biodiversity and affects fisheries.",
+        "Additionally, the melting of polar ice caps contributes to rising sea levels, threatening coastal regions and island nations."
+      ],
+      "explanation": "The correct answer is '['Coral bleaching due to sea temperature rise', 'Melting ice caps raising sea levels', 'Species moving to new areas', 'Habitats becoming unsuitable']' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. Marine environments, for example, suffer from coral bleaching due to higher sea temperatures, which leads to the loss of biodiversity and affects fisheries."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What is necessary to effectively combat climate change?",
+      "correctAnswer": "Reducing emissions, sustainable land-use, and renewable energy investment",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere.",
+        "Addressing climate change requires a multifaceted approach, including reducing emissions, adopting sustainable land-use practices, and investing in renewable energy sources."
+      ],
+      "explanation": "The correct answer is 'Reducing emissions, sustainable land-use, and renewable energy investment' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "Which statement best summarizes the importance of ecosystems in the context of climate change?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "These changes also impact the availability of freshwater resources, which are crucial for both ecosystems and human populations.",
+        "The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. These changes also impact the availability of freshwater resources, which are crucial for both ecosystems and human populations."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "What can be a consequence of failing to address climate change?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide.",
+        "The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere.",
+        "Addressing climate change requires a multifaceted approach, including reducing emissions, adopting sustainable land-use practices, and investing in renewable energy sources."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change has emerged as one of the most pressing environmental issues of the 21st century, with profound effects on ecosystems worldwide. The acceleration of climate change is largely attributed to human activities, especially the burning of fossil fuels and deforestation, which release vast amounts of greenhouse gases into the atmosphere."
+    }
+  ],
+  "scoredAt": "2026-03-05T10:52:59Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need for targeted practice. Many answers were incorrect due to misreading key details or misunderstanding question types. Focus on locating specific evidence sentences and understanding the main ideas.",
+    "byPassage": {
+      "1": "You struggled mainly with matching benefits and identifying specific details like types of reading material. Clues were in sentences about relaxation and learning benefits. Practice scanning for keywords like 'relax,' 'learning,' and 'benefits.'",
+      "2": "Errors involved misconceptions about renewable options and technological advancements. Clues were in sentences about 'abundance,' 'sustainability,' and 'cost reduction.' Focus on identifying adjectives and phrases that describe features or trends.",
+      "3": "Mistakes occurred in understanding effects of climate change and causes. Clues were in sentences about 'coral bleaching,' 'melting ice,' and 'human activities.' Practice highlighting cause-effect relationships and matching them to specific impacts."
+    },
+    "tips": [
+      "Develop scanning skills to quickly locate key words and phrases in the passage that relate to questions.",
+      "Practice paraphrasing sentences to better understand how information is expressed differently in questions and answers.",
+      "Improve your ability to identify main ideas and supporting details by summarizing paragraphs in your own words after reading."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T10:53:04Z"
+}

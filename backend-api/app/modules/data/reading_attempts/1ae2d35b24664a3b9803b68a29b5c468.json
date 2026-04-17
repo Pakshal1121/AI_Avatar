@@ -1,0 +1,841 @@
+{
+  "attemptId": "1ae2d35b24664a3b9803b68a29b5c468",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-05T06:33:15Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Reading Regularly",
+      "text": "Reading is a fundamental skill that offers numerous benefits to individuals of all ages. Engaging in regular reading can improve vocabulary, enhance concentration, and provide a source of entertainment and relaxation. For children, reading helps develop language skills and fosters imagination. Adults who read regularly tend to have better cognitive function and memory retention. Moreover, reading can serve as a stress-reliever, allowing individuals to escape from daily pressures and immerse themselves in different worlds or ideas. Public libraries and bookstores have made access to books easier than ever, encouraging community engagement and lifelong learning. Whether fiction or non-fiction, reading broadens our understanding of the world and enhances critical thinking skills. In today’s digital age, traditional reading remains important despite the prevalence of screens, as it promotes focus and comprehension that is sometimes diminished by fast-paced digital content."
+    },
+    {
+      "passageId": "2",
+      "title": "The History and Impact of Renewable Energy Technologies",
+      "text": "Renewable energy technologies have been developed over the past century as a response to the growing concerns over fossil fuel depletion and environmental pollution. Early efforts focused on harnessing natural resources such as water, wind, and sunlight to generate power. Hydropower, one of the oldest renewable sources, has been used since ancient times, utilizing flowing water to turn turbines. Wind energy gained popularity in the 20th century with the advent of modern wind turbines capable of producing significant amounts of electricity. Solar power, initially limited to small-scale applications, has expanded rapidly with technological advancements, making it more affordable and efficient. The impact of renewable energy is profound, reducing greenhouse gas emissions and dependence on finite resources. Governments worldwide are investing heavily in renewable infrastructure to meet climate goals and promote sustainable development. Despite challenges such as intermittency and storage, innovations like battery technology and smart grids are improving the reliability of renewable energy systems. As these technologies continue to evolve, their integration into national energy grids is expected to increase, making renewable energy a cornerstone of future global energy strategies."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of CRISPR in Modern Genetic Engineering",
+      "text": "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) technology represents a revolutionary advancement in the field of genetic engineering. Originally discovered as a natural immune mechanism in bacteria, CRISPR allows scientists to make precise modifications to DNA sequences. The core component of this technology is the Cas9 enzyme, which acts as molecular scissors to cut DNA at specific locations determined by a guide RNA. This enables targeted gene editing, including gene deletion, insertion, or modification. The potential applications of CRISPR are vast, ranging from medical therapies for genetic disorders to agricultural improvements. For example, researchers are exploring its use to correct mutations responsible for diseases like cystic fibrosis and sickle cell anemia. In agriculture, CRISPR has been used to develop crops with enhanced resistance to pests and environmental stresses. However, ethical concerns remain, especially regarding germline editing, which could be passed on to future generations. Additionally, off-target effects and unintended genetic consequences pose technical challenges. Despite these issues, ongoing research continues to refine CRISPR’s precision and safety, positioning it as a powerful tool that could reshape medicine, agriculture, and biological research in the coming decades."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main benefits of regular reading mentioned in the passage?",
+          "options": [
+            "It helps develop physical strength",
+            "It improves vocabulary",
+            "It reduces the need for social interaction",
+            "It decreases concentration"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Reading can serve as a way to escape daily pressures.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits to the target group: (a) Improves language skills, (b) Better cognitive function, (c) Develops imagination, (d) Enhances critical thinking.",
+          "options": [
+            "Children",
+            "Adults",
+            "Children",
+            "All ages"
+          ],
+          "correctAnswer": [
+            "Children",
+            "Adults",
+            "Children",
+            "All ages"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "According to the passage, what role do public libraries play?",
+          "correctAnswer": "They make access to books easier and encourage community engagement."
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "What does the passage suggest about digital content compared to traditional reading?",
+          "options": [
+            "Digital content is more beneficial",
+            "Traditional reading is less important",
+            "Digital content may diminish focus and comprehension",
+            "Traditional reading is obsolete"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Reading for entertainment is considered a stress-reliever in the passage.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, how has digital age affected traditional reading?",
+          "options": [
+            "It has replaced traditional reading entirely",
+            "It has diminished the importance of traditional reading",
+            "Despite digital content, traditional reading remains important",
+            "It has made traditional reading unnecessary"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q8",
+          "type": "matching_headings",
+          "prompt": "Match the benefit to the relevant activity: (a) Enhances focus, (b) Improves memory, (c) Broadens understanding, (d) Promotes critical thinking.",
+          "options": [
+            "Reading",
+            "Reading",
+            "Reading",
+            "Reading"
+          ],
+          "correctAnswer": [
+            "Focus",
+            "Memory",
+            "Understanding",
+            "Critical thinking"
+          ]
+        },
+        {
+          "id": "p1_q9",
+          "type": "short_answer",
+          "prompt": "What is one reason given for reading's importance in today’s digital age?",
+          "correctAnswer": "It promotes focus and comprehension that digital content may diminish."
+        },
+        {
+          "id": "p1_q10",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of reading?",
+          "options": [
+            "Developing language skills",
+            "Enhancing imagination",
+            "Reducing physical activity",
+            "Improving concentration"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q11",
+          "type": "true_false_not_given",
+          "prompt": "The passage states that digital screens have made traditional reading less relevant.",
+          "correctAnswer": "Not Given"
+        },
+        {
+          "id": "p1_q12",
+          "type": "matching_headings",
+          "prompt": "Match the activity with its benefit: (a) Fosters imagination, (b) Enhances critical thinking, (c) Improves vocabulary, (d) Serves as entertainment.",
+          "options": [
+            "Reading",
+            "Reading",
+            "Reading",
+            "Reading"
+          ],
+          "correctAnswer": [
+            "Imagination",
+            "Critical thinking",
+            "Vocabulary",
+            "Entertainment"
+          ]
+        },
+        {
+          "id": "p1_q13",
+          "type": "short_answer",
+          "prompt": "How do public libraries contribute to lifelong learning according to the passage?",
+          "correctAnswer": "They make access to books easier and promote community engagement."
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What prompted the development of renewable energy technologies?",
+          "options": [
+            "Fossil fuel abundance",
+            "Concerns over fossil fuel depletion and pollution",
+            "Advancements in nuclear energy",
+            "Decline in global energy demand"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Hydropower has been used since ancient times to generate power.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the renewable energy source with its description: (a) Uses flowing water, (b) Uses wind turbines, (c) Uses sunlight, (d) Has expanded rapidly with technological advances.",
+          "options": [
+            "Hydropower",
+            "Wind energy",
+            "Solar power",
+            "Solar power"
+          ],
+          "correctAnswer": [
+            "Hydropower",
+            "Wind energy",
+            "Solar power",
+            "Solar power"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What is one environmental benefit of renewable energy mentioned in the passage?",
+          "correctAnswer": "Reduces greenhouse gas emissions."
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "Which challenge is associated with renewable energy systems?",
+          "options": [
+            "Excessive cost",
+            "Intermittency and storage issues",
+            "Lack of technological progress",
+            "Limited government support"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy technologies are expected to decrease in importance in future energy strategies.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "matching_headings",
+          "prompt": "Match the innovation with its purpose: (a) Improves reliability, (b) Facilitates integration into grids, (c) Reduces dependence on finite resources, (d) Promotes sustainable development.",
+          "options": [
+            "Battery technology",
+            "Smart grids",
+            "Investment in infrastructure",
+            "Government policies"
+          ],
+          "correctAnswer": [
+            "Battery technology",
+            "Smart grids",
+            "Investment in infrastructure",
+            "Sustainable development"
+          ]
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "According to the passage, why are governments investing heavily in renewable infrastructure?",
+          "correctAnswer": "To meet climate goals and promote sustainable development."
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a future expectation for renewable energy according to the passage?",
+          "options": [
+            "Its integration into national grids will decrease",
+            "Its role will diminish due to technological limits",
+            "Its integration into national energy grids will increase",
+            "It will be replaced by nuclear power"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "The passage suggests that renewable energy has no impact on climate change.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the challenge with the solution: (a) Intermittency, (b) Storage, (c) Dependence on resources, (d) Development costs.",
+          "options": [
+            "Battery technology and smart grids",
+            "Battery technology and smart grids",
+            "Technological innovations",
+            "Government investments"
+          ],
+          "correctAnswer": [
+            "Intermittency",
+            "Storage",
+            "Dependence",
+            "Costs"
+          ]
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is the significance of battery technology and smart grids in renewable energy?",
+          "correctAnswer": "They improve the reliability and integration of renewable energy systems."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "Which statement is true based on the passage?",
+          "options": [
+            "Renewable energy sources are limited to small-scale applications",
+            "Technological advancements have made renewable energy less affordable",
+            "Renewable energy is expected to become a cornerstone of future energy strategies",
+            "Fossil fuels are preferred over renewable sources"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is CRISPR technology primarily used for?",
+          "options": [
+            "Creating artificial intelligence",
+            "Genetic engineering and gene editing",
+            "Developing new medicines without genetic modification",
+            "Analyzing protein structures"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR was discovered as a natural immune mechanism in bacteria.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the component with its function: (a) Cas9 enzyme, (b) Guide RNA, (c) DNA modification, (d) Natural immune mechanism.",
+          "options": [
+            "Molecular scissors",
+            "Determines where to cut",
+            "Enables gene editing",
+            "Discovered in bacteria"
+          ],
+          "correctAnswer": [
+            "Cas9 enzyme",
+            "Guide RNA",
+            "DNA modification",
+            "Natural immune mechanism"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What are some potential applications of CRISPR mentioned in the passage?",
+          "correctAnswer": "Medical therapies for genetic disorders and agricultural improvements."
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "Which disease is NOT mentioned as a target for CRISPR-based correction?",
+          "options": [
+            "Cystic fibrosis",
+            "Sickle cell anemia",
+            "Alzheimer’s disease",
+            "Genetic disorders in general"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology has no ethical concerns associated with its use.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Match the challenge with its description: (a) Off-target effects, (b) Ethical concerns, (c) Technical challenges, (d) Future refinement.",
+          "options": [
+            "Unintended genetic consequences",
+            "Passing edits to future generations",
+            "Improving precision and safety",
+            "Current limitations of the technology"
+          ],
+          "correctAnswer": [
+            "Off-target effects",
+            "Ethical concerns",
+            "Technical challenges",
+            "Future refinement"
+          ]
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What ethical concern is associated with germline editing?",
+          "correctAnswer": "It could be passed on to future generations."
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, how is CRISPR expected to impact medicine and agriculture?",
+          "options": [
+            "It will have limited impact",
+            "It could reshape medicine, agriculture, and biological research",
+            "It will only be used for crop improvement",
+            "It will replace all traditional medical treatments"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR is a fully perfected technology with no remaining challenges.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the application with its goal: (a) Correct mutations, (b) Develop pest-resistant crops, (c) Improve safety, (d) Expand medical options.",
+          "options": [
+            "Medical therapies",
+            "Agricultural improvements",
+            "Refining technology",
+            "Research advancements"
+          ],
+          "correctAnswer": [
+            "Correct mutations",
+            "Pest-resistant crops",
+            "Safety",
+            "Medical options"
+          ]
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What does ongoing research aim to improve in CRISPR?",
+          "correctAnswer": "Its precision and safety."
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is a potential future application of CRISPR?",
+          "options": [
+            "Replacing all traditional breeding methods",
+            "Reshaping medicine, agriculture, and biological research",
+            "Eliminating the need for genetic testing",
+            "Creating new species artificially"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q14",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology is currently used without any technical or ethical issues.",
+          "correctAnswer": "False"
+        }
+      ]
+    }
+  ],
+  "notes": "Ensure question counts are exact and IDs are unique per passage.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 0.0,
+  "passage_1_score": 0.0,
+  "passage_2_score": 0.0,
+  "passage_3_score": 0.0,
+  "total_questions": 40,
+  "correct_questions": 0,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main benefits of regular reading mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Reading can serve as a way to escape daily pressures.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the following benefits to the target group: (a) Improves language skills, (b) Better cognitive function, (c) Develops imagination, (d) Enhances critical thinking.",
+      "correctAnswer": [
+        "Children",
+        "Adults",
+        "Children",
+        "All ages"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "According to the passage, what role do public libraries play?",
+      "correctAnswer": "They make access to books easier and encourage community engagement.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "What does the passage suggest about digital content compared to traditional reading?",
+      "correctAnswer": "C",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Reading for entertainment is considered a stress-reliever in the passage.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "According to the passage, how has digital age affected traditional reading?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "Match the benefit to the relevant activity: (a) Enhances focus, (b) Improves memory, (c) Broadens understanding, (d) Promotes critical thinking.",
+      "correctAnswer": [
+        "Focus",
+        "Memory",
+        "Understanding",
+        "Critical thinking"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What is one reason given for reading's importance in today’s digital age?",
+      "correctAnswer": "It promotes focus and comprehension that digital content may diminish.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a benefit of reading?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "The passage states that digital screens have made traditional reading less relevant.",
+      "correctAnswer": "Not Given",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "Match the activity with its benefit: (a) Fosters imagination, (b) Enhances critical thinking, (c) Improves vocabulary, (d) Serves as entertainment.",
+      "correctAnswer": [
+        "Imagination",
+        "Critical thinking",
+        "Vocabulary",
+        "Entertainment"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "How do public libraries contribute to lifelong learning according to the passage?",
+      "correctAnswer": "They make access to books easier and promote community engagement.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What prompted the development of renewable energy technologies?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Hydropower has been used since ancient times to generate power.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the renewable energy source with its description: (a) Uses flowing water, (b) Uses wind turbines, (c) Uses sunlight, (d) Has expanded rapidly with technological advances.",
+      "correctAnswer": [
+        "Hydropower",
+        "Wind energy",
+        "Solar power",
+        "Solar power"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What is one environmental benefit of renewable energy mentioned in the passage?",
+      "correctAnswer": "Reduces greenhouse gas emissions.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Which challenge is associated with renewable energy systems?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Renewable energy technologies are expected to decrease in importance in future energy strategies.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Match the innovation with its purpose: (a) Improves reliability, (b) Facilitates integration into grids, (c) Reduces dependence on finite resources, (d) Promotes sustainable development.",
+      "correctAnswer": [
+        "Battery technology",
+        "Smart grids",
+        "Investment in infrastructure",
+        "Sustainable development"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "According to the passage, why are governments investing heavily in renewable infrastructure?",
+      "correctAnswer": "To meet climate goals and promote sustainable development.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "What is a future expectation for renewable energy according to the passage?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "The passage suggests that renewable energy has no impact on climate change.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the challenge with the solution: (a) Intermittency, (b) Storage, (c) Dependence on resources, (d) Development costs.",
+      "correctAnswer": [
+        "Intermittency",
+        "Storage",
+        "Dependence",
+        "Costs"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is the significance of battery technology and smart grids in renewable energy?",
+      "correctAnswer": "They improve the reliability and integration of renewable energy systems.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "Which statement is true based on the passage?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is CRISPR technology primarily used for?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "CRISPR was discovered as a natural immune mechanism in bacteria.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the component with its function: (a) Cas9 enzyme, (b) Guide RNA, (c) DNA modification, (d) Natural immune mechanism.",
+      "correctAnswer": [
+        "Cas9 enzyme",
+        "Guide RNA",
+        "DNA modification",
+        "Natural immune mechanism"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "What are some potential applications of CRISPR mentioned in the passage?",
+      "correctAnswer": "Medical therapies for genetic disorders and agricultural improvements.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "Which disease is NOT mentioned as a target for CRISPR-based correction?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "CRISPR technology has no ethical concerns associated with its use.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "Match the challenge with its description: (a) Off-target effects, (b) Ethical concerns, (c) Technical challenges, (d) Future refinement.",
+      "correctAnswer": [
+        "Off-target effects",
+        "Ethical concerns",
+        "Technical challenges",
+        "Future refinement"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What ethical concern is associated with germline editing?",
+      "correctAnswer": "It could be passed on to future generations.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "According to the passage, how is CRISPR expected to impact medicine and agriculture?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "CRISPR is a fully perfected technology with no remaining challenges.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the application with its goal: (a) Correct mutations, (b) Develop pest-resistant crops, (c) Improve safety, (d) Expand medical options.",
+      "correctAnswer": [
+        "Correct mutations",
+        "Pest-resistant crops",
+        "Safety",
+        "Medical options"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What does ongoing research aim to improve in CRISPR?",
+      "correctAnswer": "Its precision and safety.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "Which of the following is a potential future application of CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "CRISPR technology is currently used without any technical or ethical issues.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    }
+  ],
+  "scoredAt": "2026-03-05T06:33:29Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need for focused review of the passage details and question types. You missed key clues that were often located in the specific sections discussing benefits, roles, or challenges. Pay attention to keywords and qualifiers that guide you to the correct answers.",
+    "byPassage": {
+      "1": "Incorrect answers suggest a misunderstanding of the main benefits and roles of reading, especially in distinguishing between true/false statements and matching benefits to groups. Clues were likely in sections describing 'benefits' and 'public libraries.' Focus on keywords like 'stress-reliever' and 'access.'",
+      "2": "Errors indicate difficulty with technological and environmental details, particularly in matching sources and challenges. Clues were in descriptions of 'rapid expansion' and 'climate goals.' Review how specific phrases relate to the correct options.",
+      "3": "Wrong responses show a lack of understanding of CRISPR's applications and ethical considerations. Clues were in sections about 'potential uses' and 'ethical concerns.' Pay close attention to the context around 'future developments' and 'ethical issues.'"
+    },
+    "tips": [
+      "Practice scanning for keywords related to benefits, roles, and challenges within each paragraph to locate clues efficiently.",
+      "Develop strategies for distinguishing between true/false and not given questions by focusing on qualifiers like 'according to the passage' or 'the passage states.'",
+      "Review matching question techniques, such as identifying key descriptors and matching them to specific sections or sentences in the passage."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T06:33:34Z"
+}

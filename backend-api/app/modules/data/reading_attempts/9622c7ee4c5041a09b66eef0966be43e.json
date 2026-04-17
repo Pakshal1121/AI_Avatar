@@ -1,0 +1,450 @@
+{
+  "attemptId": "9622c7ee4c5041a09b66eef0966be43e",
+  "userId": "chrisyadav@gmail.com",
+  "createdAt": "2026-03-04T10:35:56Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Urban Gardening",
+      "text": "Urban gardening has gained popularity in recent years as cities seek sustainable ways to improve quality of life. It involves cultivating plants, vegetables, and flowers in city environments, such as rooftops, balconies, and community plots. One of the main advantages of urban gardening is its contribution to environmental health. Green spaces help reduce air pollution by filtering pollutants and producing oxygen. Additionally, urban gardens can help mitigate the heat island effect, where cities tend to be warmer than surrounding rural areas due to concrete surfaces.\n\nBeyond environmental benefits, urban gardening promotes community engagement. Community gardens serve as gathering spots where residents can collaborate, share knowledge, and foster social bonds. This sense of community can lead to increased safety and a stronger neighborhood identity. Moreover, growing one's own food encourages healthier eating habits. Fresh vegetables and herbs are more accessible, reducing reliance on processed foods and supporting nutritional well-being.\n\nUrban gardens also have educational value. They provide opportunities for children and adults to learn about agriculture, ecology, and sustainability. Many schools incorporate gardening into their curricula to teach students about biology and environmental stewardship. Despite some challenges, such as limited space and soil quality, urban gardening remains a practical and beneficial activity for city dwellers seeking to connect with nature and improve their communities."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Climate Change on Coastal Ecosystems",
+      "text": "Coastal ecosystems, including mangroves, coral reefs, and salt marshes, are vital habitats that support a diverse range of marine and terrestrial species. These ecosystems also provide valuable services such as shoreline protection, water filtration, and carbon sequestration. However, climate change poses significant threats to their health and sustainability.\n\nRising global temperatures have led to increased sea levels, which can submerge coastal habitats and lead to erosion. This loss of land not only endangers the species that inhabit these areas but also affects human communities that rely on these ecosystems for protection and livelihood. Additionally, ocean temperatures are rising, leading to coral bleaching events where corals expel the symbiotic algae necessary for their survival. Prolonged bleaching can result in large-scale coral mortality, disrupting the entire reef ecosystem.\n\nOcean acidification, caused by increased carbon dioxide absorption, further jeopardizes marine life, particularly organisms with calcium carbonate shells or skeletons, such as mollusks and some plankton species. The decline of these species can have cascading effects throughout the food chain.\n\nEfforts to mitigate these impacts include establishing marine protected areas, restoring damaged habitats, and reducing greenhouse gas emissions globally. Scientific research continues to explore adaptive strategies, such as breeding climate-resilient corals and promoting natural defenses like mangrove reforestation. Addressing climate change is essential to preserving the integrity of coastal ecosystems for future generations."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of Quantum Mechanics in Modern Technology",
+      "text": "Quantum mechanics is a fundamental branch of physics that describes the behavior of matter and energy at atomic and subatomic scales. Its principles have led to revolutionary advances in various technologies, including semiconductors, quantum computing, and encryption.\n\nOne of the key concepts in quantum mechanics is superposition, where particles can exist in multiple states simultaneously until measured. This phenomenon underpins the operation of quantum computers, which can process complex calculations at speeds unattainable by classical computers. Quantum bits, or qubits, leverage superposition and entanglement to perform parallel computations, offering potential breakthroughs in cryptography, drug discovery, and optimization problems.\n\nQuantum entanglement, another critical principle, describes a situation where particles become linked such that the state of one instantly influences the state of another, regardless of distance. This property is exploited in quantum communication systems to develop ultra-secure data transmission channels resistant to hacking.\n\nDespite these promising applications, practical implementation faces significant challenges, including qubit stability and error correction. Researchers are actively developing methods to create stable qubits and extend coherence times, which are essential for reliable quantum computing. Additionally, ethical and security considerations surrounding quantum encryption are being addressed as the technology matures.\n\nThe ongoing integration of quantum mechanics into technological innovation promises to transform industries and redefine our understanding of information processing. Continued investment in research and development is crucial to unlocking the full potential of quantum technologies in the coming decades."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one main environmental benefit of urban gardening?",
+          "options": [
+            "It increases urban noise levels",
+            "It reduces air pollution",
+            "It uses non-renewable resources",
+            "It decreases green spaces"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardens contribute to reducing the heat island effect.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits with their descriptions:",
+          "options": [
+            "Environmental health",
+            "Community engagement",
+            "Educational value",
+            "Healthier eating habits"
+          ],
+          "matches": [
+            "A. Learning about sustainability and ecology",
+            "B. Improving air quality and reducing heat",
+            "C. Building social bonds and safety",
+            "D. Growing accessible fresh food"
+          ],
+          "correctAnswer": [
+            "B",
+            "C",
+            "A",
+            "D"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one challenge faced by urban gardeners.",
+          "correctAnswer": "Limited space or soil quality"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Where are urban gardens commonly located?",
+          "options": [
+            "In rural farmlands",
+            "On rooftops, balconies, and community plots",
+            "Underground tunnels",
+            "In industrial zones"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening can help reduce reliance on processed foods.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a benefit of urban gardening mentioned in the passage?",
+          "options": [
+            "Improved community safety",
+            "Enhanced social bonds",
+            "Increased noise pollution",
+            "Better access to fresh produce"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "How do urban gardens contribute to education?",
+          "correctAnswer": "They provide opportunities to learn about agriculture, ecology, and sustainability."
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "Which activity is commonly incorporated into school curricula through urban gardening?",
+          "options": [
+            "Mathematics classes",
+            "Biology and environmental stewardship",
+            "History lessons",
+            "Physical education"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening activities are generally discouraged due to space limitations.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the challenge with its description:",
+          "options": [
+            "Limited space",
+            "Soil quality issues"
+          ],
+          "matches": [
+            "A. Constraints for planting and growth",
+            "B. A major environmental benefit"
+          ],
+          "correctAnswer": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What is one activity that urban gardening promotes?",
+          "correctAnswer": "Community engagement or social bonds"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "What is a key reason people are encouraged to grow their own food in urban gardens?",
+          "options": [
+            "To increase food prices",
+            "To support nutritional well-being",
+            "To reduce urban green spaces",
+            "To promote processed food consumption"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "Which habitat is NOT mentioned as part of coastal ecosystems?",
+          "options": [
+            "Mangroves",
+            "Coral reefs",
+            "Salt marshes",
+            "Rainforests"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Coastal ecosystems provide shoreline protection and water filtration.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the threat with its description:",
+          "options": [
+            "Rising sea levels",
+            "Coral bleaching",
+            "Ocean acidification"
+          ],
+          "matches": [
+            "A. Caused by increased carbon dioxide absorption",
+            "B. Leads to erosion and land loss",
+            "C. Results in corals expelling algae and dying"
+          ],
+          "correctAnswer": [
+            "B",
+            "C",
+            "A"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What is one consequence of rising sea levels on coastal habitats?",
+          "correctAnswer": "Submersion and erosion"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What causes ocean acidification?",
+          "options": [
+            "Increased freshwater inflow",
+            "Absorption of carbon dioxide",
+            "Decreased ocean temperatures",
+            "Pollution from plastics"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Coral reefs are unaffected by climate change.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "Which strategy is NOT mentioned as a mitigation effort?",
+          "options": [
+            "Establishing marine protected areas",
+            "Restoring damaged habitats",
+            "Reducing greenhouse gas emissions",
+            "Building seawalls"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "Name one adaptive strategy discussed for protecting coral reefs.",
+          "correctAnswer": "Breeding climate-resilient corals"
+        },
+        {
+          "id": "p2_q9",
+          "type": "matching_headings",
+          "prompt": "Match the impact with its effect:",
+          "options": [
+            "Species decline",
+            "Food chain disruption",
+            "Habitat loss"
+          ],
+          "matches": [
+            "A. Due to ocean acidification",
+            "B. Caused by sea level rise and erosion",
+            "C. Resulting from coral bleaching"
+          ],
+          "correctAnswer": [
+            "B",
+            "C",
+            "A"
+          ]
+        },
+        {
+          "id": "p2_q10",
+          "type": "multiple_choice",
+          "prompt": "What is a goal of global efforts to address climate change in coastal areas?",
+          "options": [
+            "Increase fossil fuel use",
+            "Preserve coastal ecosystems",
+            "Expand urban development",
+            "Reduce marine protected areas"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q11",
+          "type": "true_false_not_given",
+          "prompt": "Restoring habitats is ineffective in protecting coastal ecosystems.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What role do mangroves play in coastal ecosystems?",
+          "correctAnswer": "They promote natural defenses like reforestation and protect shorelines."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "Why is scientific research important for coastal ecosystem preservation?",
+          "options": [
+            "To develop adaptive strategies",
+            "To promote urbanization",
+            "To increase pollution",
+            "To decrease habitat diversity"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a key concept in quantum mechanics?",
+          "options": [
+            "Superposition",
+            "Relativity",
+            "Classical physics",
+            "Newtonian mechanics"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Quantum superposition allows particles to exist in multiple states simultaneously.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the quantum principle with its description:",
+          "options": [
+            "Superposition",
+            "Entanglement"
+          ],
+          "matches": [
+            "A. Particles become linked, influencing each other instantly",
+            "B. Particles exist in multiple states until measured"
+          ],
+          "correctAnswer": [
+            "B",
+            "A"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What is a qubit?",
+          "correctAnswer": "A quantum bit that leverages superposition and entanglement"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "Which application is NOT mentioned as a benefit of quantum mechanics?",
+          "options": [
+            "Semiconductors",
+            "Quantum computing",
+            "Classical encryption",
+            "Cryptography"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Quantum entanglement can be used for secure data transmission.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "What is one challenge in developing quantum computers?",
+          "options": [
+            "Qubit stability",
+            "Lack of theoretical basis",
+            "Excessive energy consumption",
+            "Limited computational power"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "Why are error correction methods important in quantum computing?",
+          "correctAnswer": "To create stable qubits and extend coherence times"
+        },
+        {
+          "id": "p3_q9",
+          "type": "matching_headings",
+          "prompt": "Match the security concern with its application:",
+          "options": [
+            "Quantum encryption",
+            "Quantum computing"
+          ],
+          "matches": [
+            "A. Addresses security considerations",
+            "B. Faces challenges like qubit stability"
+          ],
+          "correctAnswer": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "id": "p3_q10",
+          "type": "multiple_choice",
+          "prompt": "What is a future potential of quantum technologies?",
+          "options": [
+            "Transforming industries and redefining information processing",
+            "Reducing the need for scientific research",
+            "Eliminating all classical computers",
+            "Stopping technological advancement"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q11",
+          "type": "true_false_not_given",
+          "prompt": "Investment in quantum research is unnecessary for technological progress.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What is essential for unlocking the full potential of quantum technologies?",
+          "correctAnswer": "Continued investment in research and development"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "Which industry is NOT explicitly mentioned as benefiting from quantum mechanics?",
+          "options": [
+            "Semiconductors",
+            "Quantum computing",
+            "Agriculture",
+            "Encryption"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q14",
+          "type": "short_answer",
+          "prompt": "What property of particles is exploited in quantum communication?",
+          "correctAnswer": "Entanglement"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to cover all passages with the specified counts. IDs are unique and follow the required format. Ensure all questions adhere strictly to the passage content.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40
+}

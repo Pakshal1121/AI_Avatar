@@ -1,0 +1,1012 @@
+{
+  "attemptId": "3fa129c6bde84a45bc58a2bd05d5ce33",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-06T08:57:00Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Reading Regularly",
+      "text": "Reading is a popular activity enjoyed by people of all ages. It offers numerous benefits that can positively impact individuals' lives. One of the main advantages of reading is that it helps improve vocabulary and language skills. When people read regularly, they are exposed to new words and phrases, which can enhance their ability to communicate effectively. Additionally, reading can be a great way to relax and reduce stress. Many find that immersing themselves in a good book provides a temporary escape from daily worries. Beyond entertainment, reading also stimulates the mind, keeping it active and engaged. This mental exercise can be beneficial for maintaining cognitive health as one ages. Furthermore, reading can expand knowledge on a wide range of topics, from history to science, making it an educational activity. It also fosters empathy by allowing readers to see the world from different perspectives through characters and stories. Schools and libraries promote reading as an essential skill and encourage students to develop a habit early on. Overall, reading regularly is a simple yet effective way to enhance mental well-being, improve language skills, and gain knowledge, making it a valuable activity for all."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Urbanization on Local Ecosystems",
+      "text": "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. As urban areas develop, they tend to replace forests, grasslands, and wetlands with concrete structures, roads, and other infrastructure. This transformation can have profound effects on local ecosystems. One major impact is habitat loss. Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity. Some species may become endangered or extinct if they cannot adapt to the altered environment. Urbanization also introduces pollution into the ecosystem. Air, water, and soil pollution from vehicles, factories, and construction activities can harm wildlife and degrade natural resources. Additionally, the increase in impervious surfaces, such as pavement, reduces groundwater recharge and increases surface runoff, leading to more frequent and severe flooding. The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure. This can further stress local species and alter natural processes. Despite these challenges, urban areas can also promote conservation efforts and create green spaces that support biodiversity. Urban planning that incorporates sustainable practices is essential to mitigate negative impacts and preserve the health of local ecosystems in the face of ongoing urban growth."
+    },
+    {
+      "passageId": "3",
+      "title": "Advances in Renewable Energy Technologies",
+      "text": "Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels. This shift is driven by concerns over climate change, environmental degradation, and the finite nature of traditional energy resources. Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements. Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications. Innovations such as perovskite solar cells promise even higher efficiencies and lower production costs in the future. Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations. Offshore wind farms are emerging as a promising source of renewable energy, taking advantage of stronger and more consistent winds at sea. Hydroelectric power remains a reliable source, but concerns about ecological impacts have prompted the development of small-scale and run-of-river systems that minimize environmental disruption. Geothermal energy harnesses heat from beneath the Earth's surface and is particularly valuable in volcanic regions. Advances in drilling techniques and heat exchange systems have improved the viability of geothermal projects. Despite these technological improvements, challenges remain, such as energy storage, grid integration, and the intermittent nature of some renewable sources. Researchers continue to work on solutions like advanced batteries and smart grid technologies to address these issues. The ongoing development of renewable energy technologies is crucial for reducing greenhouse gas emissions and transitioning toward a more sustainable energy future."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main benefits of reading mentioned in the passage?",
+          "options": [
+            "It helps improve vocabulary and language skills",
+            "It increases physical activity",
+            "It reduces the need for social interaction",
+            "It limits exposure to new ideas"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Reading can be a way to relax and reduce stress.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits of reading with their descriptions:",
+          "options": [
+            "Enhances empathy",
+            "Stimulates the mind",
+            "Provides knowledge",
+            "Supports mental well-being"
+          ],
+          "correctAnswer": [
+            "Allows readers to see different perspectives",
+            "Keeps the brain active and engaged",
+            "Expands understanding on various topics",
+            "Helps improve overall mental health"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "According to the passage, why do schools promote reading?",
+          "correctAnswer": "To develop a habit early on and promote essential skills"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which activity is NOT mentioned as a benefit of reading?",
+          "options": [
+            "Relaxation",
+            "Physical exercise",
+            "Knowledge expansion",
+            "Mental stimulation"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Reading is only beneficial for young people.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "How does reading contribute to cognitive health?",
+          "options": [
+            "By providing physical exercise",
+            "By stimulating mental activity",
+            "By improving eyesight",
+            "By increasing social interactions"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What is one way reading helps individuals in their daily lives?",
+          "correctAnswer": "It improves communication skills"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "Which is considered an educational aspect of reading?",
+          "options": [
+            "Relaxation",
+            "Knowledge on various topics",
+            "Physical health",
+            "Social networking"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Reading can help in developing empathy.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q11",
+          "type": "multiple_choice",
+          "prompt": "What do schools and libraries encourage to promote reading?",
+          "options": [
+            "Watching movies",
+            "Developing a habit early on",
+            "Playing sports",
+            "Reducing library visits"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "Name one activity that reading can help reduce according to the passage.",
+          "correctAnswer": "Stress or worries"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Overall, how is reading described in terms of its benefits?",
+          "options": [
+            "Complicated and difficult",
+            "Time-consuming",
+            "Simple yet effective",
+            "Limited in scope"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is urbanization primarily about?",
+          "options": [
+            "The decrease in city populations",
+            "The growth and expansion of cities",
+            "The decline of rural areas",
+            "The preservation of natural environments"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization often results in the replacement of natural landscapes with infrastructure.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the effects of urbanization with their descriptions:",
+          "options": [
+            "Habitat loss",
+            "Pollution",
+            "Flooding",
+            "Heat island effect"
+          ],
+          "correctAnswer": [
+            "Loss of natural habitats for plants and animals",
+            "Contamination of air, water, and soil",
+            "Increased surface runoff and groundwater issues",
+            "Urban areas becoming warmer than rural surroundings"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What environmental problem is caused by increased impervious surfaces?",
+          "correctAnswer": "Reduced groundwater recharge and increased flooding"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "How can urban areas help mitigate the negative effects of urbanization?",
+          "options": [
+            "By promoting conservation and green spaces",
+            "By increasing industrial activities",
+            "By expanding urban sprawl",
+            "By reducing public transportation"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization always harms biodiversity.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a consequence of the heat island effect?",
+          "options": [
+            "Lower temperatures in cities",
+            "More frequent storms",
+            "Urban areas becoming significantly warmer",
+            "Decreased energy consumption"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What can sustainable urban planning include to help the environment?",
+          "correctAnswer": "Creating green spaces and eco-friendly infrastructure"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a challenge of urbanization?",
+          "options": [
+            "Habitat loss",
+            "Pollution",
+            "Decreased population",
+            "Flooding"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization can contribute to the loss of biodiversity.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the urbanization impact with its description:",
+          "options": [
+            "Habitat destruction",
+            "Pollution",
+            "Flooding",
+            "Urban heat"
+          ],
+          "correctAnswer": [
+            "Loss of natural habitats for species",
+            "Contamination from human activities",
+            "Excess surface runoff causing water issues",
+            "Temperature increase in cities"
+          ]
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is one positive aspect of urbanization mentioned in the passage?",
+          "correctAnswer": "Promotion of conservation efforts and green spaces"
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "Why is sustainable urban planning important?",
+          "options": [
+            "To reduce city populations",
+            "To support biodiversity and environmental health",
+            "To increase urban sprawl",
+            "To promote industrial growth"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is the main reason for developing renewable energy sources?",
+          "options": [
+            "To increase fossil fuel consumption",
+            "To combat climate change and environmental issues",
+            "To reduce electricity costs for consumers",
+            "To promote nuclear power"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are entirely free of environmental impacts.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the renewable energy sources with their descriptions:",
+          "options": [
+            "Solar energy",
+            "Wind power",
+            "Hydroelectric power",
+            "Geothermal energy"
+          ],
+          "correctAnswer": [
+            "Uses sunlight and photovoltaic cells",
+            "Harnessed through turbines in windy areas",
+            "Generated from water flow, with ecological considerations",
+            "Utilizes heat from beneath Earth's surface"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What recent advancement has made solar energy more efficient?",
+          "correctAnswer": "Development of perovskite solar cells"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a challenge associated with wind power?",
+          "options": [
+            "High ecological impact",
+            "Limited to sunny regions",
+            "Intermittent nature and location dependency",
+            "Expensive to install"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Hydroelectric power has no ecological concerns.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "How does geothermal energy benefit certain regions?",
+          "options": [
+            "It is only available in cold regions",
+            "It provides heat from beneath the Earth's surface, especially in volcanic areas",
+            "It relies solely on surface conditions",
+            "It is unaffected by drilling techniques"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What technological development has improved geothermal energy projects?",
+          "correctAnswer": "Advances in drilling techniques and heat exchange systems"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "Which issue remains a challenge for renewable energy?",
+          "options": [
+            "Energy storage and grid integration",
+            "Lack of technological progress",
+            "High operational costs",
+            "Limited resource availability"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are completely reliable and consistent.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the technological advancement with its benefit:",
+          "options": [
+            "Photovoltaic cells",
+            "Larger turbines",
+            "Small-scale hydro systems",
+            "Enhanced drilling techniques"
+          ],
+          "correctAnswer": [
+            "More efficient solar panels",
+            "Generate more electricity in a wider range of locations",
+            "Minimize ecological impacts of hydroelectric power",
+            "Improve viability of geothermal projects"
+          ]
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What is a key reason for continued research in renewable energy?",
+          "correctAnswer": "To reduce greenhouse gas emissions and create a sustainable energy future"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What is an overall goal of developing renewable energy technologies?",
+          "options": [
+            "To replace all fossil fuels immediately",
+            "To make energy production more sustainable and environmentally friendly",
+            "To increase dependence on nuclear power",
+            "To limit energy access to developed countries"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q14",
+          "type": "short_answer",
+          "prompt": "Name one renewable technology mentioned in the passage.",
+          "correctAnswer": "Solar, wind, hydroelectric, or geothermal power"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to comprehensively cover each passage with the specified number of questions, ensuring variety in question types and clarity in options and prompts.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 5.0,
+  "passage_1_score": 15.38,
+  "passage_2_score": 0.0,
+  "passage_3_score": 0.0,
+  "total_questions": 40,
+  "correct_questions": 2,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the following benefits of reading with their descriptions:",
+      "correctAnswer": [
+        "Allows readers to see different perspectives",
+        "Keeps the brain active and engaged",
+        "Expands understanding on various topics",
+        "Helps improve overall mental health"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "One of the main advantages of reading is that it helps improve vocabulary and language skills.",
+        "It also fosters empathy by allowing readers to see the world from different perspectives through characters and stories.",
+        "Overall, reading regularly is a simple yet effective way to enhance mental well-being, improve language skills, and gain knowledge, making it a valuable activity for all."
+      ],
+      "explanation": "The correct answer is '['Allows readers to see different perspectives', 'Keeps the brain active and engaged', 'Expands understanding on various topics', 'Helps improve overall mental health']' because the passage states: One of the main advantages of reading is that it helps improve vocabulary and language skills. It also fosters empathy by allowing readers to see the world from different perspectives through characters and stories."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "According to the passage, why do schools promote reading?",
+      "correctAnswer": "To develop a habit early on and promote essential skills",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "One of the main advantages of reading is that it helps improve vocabulary and language skills.",
+        "Beyond entertainment, reading also stimulates the mind, keeping it active and engaged.",
+        "Schools and libraries promote reading as an essential skill and encourage students to develop a habit early on."
+      ],
+      "explanation": "The correct answer is 'To develop a habit early on and promote essential skills' because the passage states: One of the main advantages of reading is that it helps improve vocabulary and language skills. Beyond entertainment, reading also stimulates the mind, keeping it active and engaged."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Which activity is NOT mentioned as a benefit of reading?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a popular activity enjoyed by people of all ages.",
+        "Furthermore, reading can expand knowledge on a wide range of topics, from history to science, making it an educational activity.",
+        "Overall, reading regularly is a simple yet effective way to enhance mental well-being, improve language skills, and gain knowledge, making it a valuable activity for all."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Reading is a popular activity enjoyed by people of all ages. Furthermore, reading can expand knowledge on a wide range of topics, from history to science, making it an educational activity."
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Reading is only beneficial for young people.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Reading is a popular activity enjoyed by people of all ages.",
+        "This mental exercise can be beneficial for maintaining cognitive health as one ages.",
+        "Overall, reading regularly is a simple yet effective way to enhance mental well-being, improve language skills, and gain knowledge, making it a valuable activity for all."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Reading is a popular activity enjoyed by people of all ages. This mental exercise can be beneficial for maintaining cognitive health as one ages."
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "How does reading contribute to cognitive health?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a popular activity enjoyed by people of all ages.",
+        "One of the main advantages of reading is that it helps improve vocabulary and language skills.",
+        "This mental exercise can be beneficial for maintaining cognitive health as one ages."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Reading is a popular activity enjoyed by people of all ages. One of the main advantages of reading is that it helps improve vocabulary and language skills."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What is one way reading helps individuals in their daily lives?",
+      "correctAnswer": "It improves communication skills",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "One of the main advantages of reading is that it helps improve vocabulary and language skills.",
+        "Additionally, reading can be a great way to relax and reduce stress.",
+        "Overall, reading regularly is a simple yet effective way to enhance mental well-being, improve language skills, and gain knowledge, making it a valuable activity for all."
+      ],
+      "explanation": "The correct answer is 'It improves communication skills' because the passage states: One of the main advantages of reading is that it helps improve vocabulary and language skills. Additionally, reading can be a great way to relax and reduce stress."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "Which is considered an educational aspect of reading?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a popular activity enjoyed by people of all ages.",
+        "One of the main advantages of reading is that it helps improve vocabulary and language skills.",
+        "Furthermore, reading can expand knowledge on a wide range of topics, from history to science, making it an educational activity."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Reading is a popular activity enjoyed by people of all ages. One of the main advantages of reading is that it helps improve vocabulary and language skills."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Reading can help in developing empathy.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Reading is a popular activity enjoyed by people of all ages.",
+        "Additionally, reading can be a great way to relax and reduce stress.",
+        "Furthermore, reading can expand knowledge on a wide range of topics, from history to science, making it an educational activity."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: Reading is a popular activity enjoyed by people of all ages. Additionally, reading can be a great way to relax and reduce stress."
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "What do schools and libraries encourage to promote reading?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "One of the main advantages of reading is that it helps improve vocabulary and language skills.",
+        "Additionally, reading can be a great way to relax and reduce stress.",
+        "Schools and libraries promote reading as an essential skill and encourage students to develop a habit early on."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: One of the main advantages of reading is that it helps improve vocabulary and language skills. Additionally, reading can be a great way to relax and reduce stress."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "Name one activity that reading can help reduce according to the passage.",
+      "correctAnswer": "Stress or worries",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "One of the main advantages of reading is that it helps improve vocabulary and language skills.",
+        "Additionally, reading can be a great way to relax and reduce stress.",
+        "Furthermore, reading can expand knowledge on a wide range of topics, from history to science, making it an educational activity."
+      ],
+      "explanation": "The correct answer is 'Stress or worries' because the passage states: One of the main advantages of reading is that it helps improve vocabulary and language skills. Additionally, reading can be a great way to relax and reduce stress."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Overall, how is reading described in terms of its benefits?",
+      "correctAnswer": "C",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a popular activity enjoyed by people of all ages.",
+        "It offers numerous benefits that can positively impact individuals' lives.",
+        "Overall, reading regularly is a simple yet effective way to enhance mental well-being, improve language skills, and gain knowledge, making it a valuable activity for all."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Reading is a popular activity enjoyed by people of all ages. It offers numerous benefits that can positively impact individuals' lives."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What is urbanization primarily about?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "Urbanization also introduces pollution into the ecosystem."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. Urbanization also introduces pollution into the ecosystem."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Urbanization often results in the replacement of natural landscapes with infrastructure.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "As urban areas develop, they tend to replace forests, grasslands, and wetlands with concrete structures, roads, and other infrastructure.",
+        "Urbanization also introduces pollution into the ecosystem."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. As urban areas develop, they tend to replace forests, grasslands, and wetlands with concrete structures, roads, and other infrastructure."
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the effects of urbanization with their descriptions:",
+      "correctAnswer": [
+        "Loss of natural habitats for plants and animals",
+        "Contamination of air, water, and soil",
+        "Increased surface runoff and groundwater issues",
+        "Urban areas becoming warmer than rural surroundings"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity.",
+        "Additionally, the increase in impervious surfaces, such as pavement, reduces groundwater recharge and increases surface runoff, leading to more frequent and severe flooding.",
+        "The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure."
+      ],
+      "explanation": "The correct answer is '['Loss of natural habitats for plants and animals', 'Contamination of air, water, and soil', 'Increased surface runoff and groundwater issues', 'Urban areas becoming warmer than rural surroundings']' because the passage states: Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity. Additionally, the increase in impervious surfaces, such as pavement, reduces groundwater recharge and increases surface runoff, leading to more frequent and severe flooding."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What environmental problem is caused by increased impervious surfaces?",
+      "correctAnswer": "Reduced groundwater recharge and increased flooding",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "As urban areas develop, they tend to replace forests, grasslands, and wetlands with concrete structures, roads, and other infrastructure.",
+        "Additionally, the increase in impervious surfaces, such as pavement, reduces groundwater recharge and increases surface runoff, leading to more frequent and severe flooding."
+      ],
+      "explanation": "The correct answer is 'Reduced groundwater recharge and increased flooding' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. As urban areas develop, they tend to replace forests, grasslands, and wetlands with concrete structures, roads, and other infrastructure."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "How can urban areas help mitigate the negative effects of urbanization?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure.",
+        "Despite these challenges, urban areas can also promote conservation efforts and create green spaces that support biodiversity.",
+        "Urban planning that incorporates sustainable practices is essential to mitigate negative impacts and preserve the health of local ecosystems in the face of ongoing urban growth."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure. Despite these challenges, urban areas can also promote conservation efforts and create green spaces that support biodiversity."
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Urbanization always harms biodiversity.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity.",
+        "Urbanization also introduces pollution into the ecosystem."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What is a consequence of the heat island effect?",
+      "correctAnswer": "C",
+      "userAnswer": "B",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "Some species may become endangered or extinct if they cannot adapt to the altered environment.",
+        "The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. Some species may become endangered or extinct if they cannot adapt to the altered environment."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What can sustainable urban planning include to help the environment?",
+      "correctAnswer": "Creating green spaces and eco-friendly infrastructure",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure.",
+        "Despite these challenges, urban areas can also promote conservation efforts and create green spaces that support biodiversity.",
+        "Urban planning that incorporates sustainable practices is essential to mitigate negative impacts and preserve the health of local ecosystems in the face of ongoing urban growth."
+      ],
+      "explanation": "The correct answer is 'Creating green spaces and eco-friendly infrastructure' because the passage states: The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure. Despite these challenges, urban areas can also promote conservation efforts and create green spaces that support biodiversity."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT mentioned as a challenge of urbanization?",
+      "correctAnswer": "C",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity.",
+        "Urbanization also introduces pollution into the ecosystem."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Urbanization can contribute to the loss of biodiversity.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity.",
+        "Urbanization also introduces pollution into the ecosystem."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. Many plants and animals lose their natural habitats, which can lead to a decline in biodiversity."
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the urbanization impact with its description:",
+      "correctAnswer": [
+        "Loss of natural habitats for species",
+        "Contamination from human activities",
+        "Excess surface runoff causing water issues",
+        "Temperature increase in cities"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "Air, water, and soil pollution from vehicles, factories, and construction activities can harm wildlife and degrade natural resources.",
+        "Additionally, the increase in impervious surfaces, such as pavement, reduces groundwater recharge and increases surface runoff, leading to more frequent and severe flooding."
+      ],
+      "explanation": "The correct answer is '['Loss of natural habitats for species', 'Contamination from human activities', 'Excess surface runoff causing water issues', 'Temperature increase in cities']' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. Air, water, and soil pollution from vehicles, factories, and construction activities can harm wildlife and degrade natural resources."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is one positive aspect of urbanization mentioned in the passage?",
+      "correctAnswer": "Promotion of conservation efforts and green spaces",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment.",
+        "Urbanization also introduces pollution into the ecosystem.",
+        "Despite these challenges, urban areas can also promote conservation efforts and create green spaces that support biodiversity."
+      ],
+      "explanation": "The correct answer is 'Promotion of conservation efforts and green spaces' because the passage states: Urbanization refers to the process by which cities grow and expand, often resulting in significant changes to the natural environment. Urbanization also introduces pollution into the ecosystem."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "Why is sustainable urban planning important?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "As urban areas develop, they tend to replace forests, grasslands, and wetlands with concrete structures, roads, and other infrastructure.",
+        "The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure.",
+        "Urban planning that incorporates sustainable practices is essential to mitigate negative impacts and preserve the health of local ecosystems in the face of ongoing urban growth."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: As urban areas develop, they tend to replace forests, grasslands, and wetlands with concrete structures, roads, and other infrastructure. The heat island effect is another consequence, where urban areas become significantly warmer than surrounding rural regions due to human activities and infrastructure."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is the main reason for developing renewable energy sources?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels.",
+        "Despite these technological improvements, challenges remain, such as energy storage, grid integration, and the intermittent nature of some renewable sources.",
+        "The ongoing development of renewable energy technologies is crucial for reducing greenhouse gas emissions and transitioning toward a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels. Despite these technological improvements, challenges remain, such as energy storage, grid integration, and the intermittent nature of some renewable sources."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "Renewable energy sources are entirely free of environmental impacts.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels.",
+        "Offshore wind farms are emerging as a promising source of renewable energy, taking advantage of stronger and more consistent winds at sea.",
+        "Despite these technological improvements, challenges remain, such as energy storage, grid integration, and the intermittent nature of some renewable sources."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels. Offshore wind farms are emerging as a promising source of renewable energy, taking advantage of stronger and more consistent winds at sea."
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the renewable energy sources with their descriptions:",
+      "correctAnswer": [
+        "Uses sunlight and photovoltaic cells",
+        "Harnessed through turbines in windy areas",
+        "Generated from water flow, with ecological considerations",
+        "Utilizes heat from beneath Earth's surface"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels.",
+        "Geothermal energy harnesses heat from beneath the Earth's surface and is particularly valuable in volcanic regions.",
+        "Despite these technological improvements, challenges remain, such as energy storage, grid integration, and the intermittent nature of some renewable sources."
+      ],
+      "explanation": "The correct answer is '['Uses sunlight and photovoltaic cells', 'Harnessed through turbines in windy areas', 'Generated from water flow, with ecological considerations', \"Utilizes heat from beneath Earth's surface\"]' because the passage states: Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels. Geothermal energy harnesses heat from beneath the Earth's surface and is particularly valuable in volcanic regions."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "What recent advancement has made solar energy more efficient?",
+      "correctAnswer": "Development of perovskite solar cells",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications.",
+        "Innovations such as perovskite solar cells promise even higher efficiencies and lower production costs in the future.",
+        "Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations."
+      ],
+      "explanation": "The correct answer is 'Development of perovskite solar cells' because the passage states: Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications. Innovations such as perovskite solar cells promise even higher efficiencies and lower production costs in the future."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is a challenge associated with wind power?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements.",
+        "Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations.",
+        "Offshore wind farms are emerging as a promising source of renewable energy, taking advantage of stronger and more consistent winds at sea."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements. Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations."
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Hydroelectric power has no ecological concerns.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements.",
+        "Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations.",
+        "Hydroelectric power remains a reliable source, but concerns about ecological impacts have prompted the development of small-scale and run-of-river systems that minimize environmental disruption."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements. Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "How does geothermal energy benefit certain regions?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels.",
+        "This shift is driven by concerns over climate change, environmental degradation, and the finite nature of traditional energy resources.",
+        "Geothermal energy harnesses heat from beneath the Earth's surface and is particularly valuable in volcanic regions."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels. This shift is driven by concerns over climate change, environmental degradation, and the finite nature of traditional energy resources."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What technological development has improved geothermal energy projects?",
+      "correctAnswer": "Advances in drilling techniques and heat exchange systems",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications.",
+        "Geothermal energy harnesses heat from beneath the Earth's surface and is particularly valuable in volcanic regions.",
+        "Advances in drilling techniques and heat exchange systems have improved the viability of geothermal projects."
+      ],
+      "explanation": "The correct answer is 'Advances in drilling techniques and heat exchange systems' because the passage states: Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications. Geothermal energy harnesses heat from beneath the Earth's surface and is particularly valuable in volcanic regions."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "Which issue remains a challenge for renewable energy?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels.",
+        "Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications.",
+        "The ongoing development of renewable energy technologies is crucial for reducing greenhouse gas emissions and transitioning toward a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels. Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "Renewable energy sources are completely reliable and consistent.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels.",
+        "Offshore wind farms are emerging as a promising source of renewable energy, taking advantage of stronger and more consistent winds at sea.",
+        "Despite these technological improvements, challenges remain, such as energy storage, grid integration, and the intermittent nature of some renewable sources."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels. Offshore wind farms are emerging as a promising source of renewable energy, taking advantage of stronger and more consistent winds at sea."
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the technological advancement with its benefit:",
+      "correctAnswer": [
+        "More efficient solar panels",
+        "Generate more electricity in a wider range of locations",
+        "Minimize ecological impacts of hydroelectric power",
+        "Improve viability of geothermal projects"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements.",
+        "Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations.",
+        "Hydroelectric power remains a reliable source, but concerns about ecological impacts have prompted the development of small-scale and run-of-river systems that minimize environmental disruption."
+      ],
+      "explanation": "The correct answer is '['More efficient solar panels', 'Generate more electricity in a wider range of locations', 'Minimize ecological impacts of hydroelectric power', 'Improve viability of geothermal projects']' because the passage states: Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements. Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What is a key reason for continued research in renewable energy?",
+      "correctAnswer": "To reduce greenhouse gas emissions and create a sustainable energy future",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications.",
+        "Offshore wind farms are emerging as a promising source of renewable energy, taking advantage of stronger and more consistent winds at sea.",
+        "The ongoing development of renewable energy technologies is crucial for reducing greenhouse gas emissions and transitioning toward a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'To reduce greenhouse gas emissions and create a sustainable energy future' because the passage states: Solar energy, harnessed through photovoltaic cells, has become increasingly efficient and cost-effective, making it accessible for residential, commercial, and utility-scale applications. Offshore wind farms are emerging as a promising source of renewable energy, taking advantage of stronger and more consistent winds at sea."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is an overall goal of developing renewable energy technologies?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels.",
+        "Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements.",
+        "The ongoing development of renewable energy technologies is crucial for reducing greenhouse gas emissions and transitioning toward a more sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, there has been a concerted global effort to develop renewable energy sources as alternatives to fossil fuels. Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "Name one renewable technology mentioned in the passage.",
+      "correctAnswer": "Solar, wind, hydroelectric, or geothermal power",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements.",
+        "Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations.",
+        "Hydroelectric power remains a reliable source, but concerns about ecological impacts have prompted the development of small-scale and run-of-river systems that minimize environmental disruption."
+      ],
+      "explanation": "The correct answer is 'Solar, wind, hydroelectric, or geothermal power' because the passage states: Solar, wind, hydroelectric, and geothermal power are among the most prominent renewable technologies that have seen significant advancements. Wind power technology has also evolved, with larger and more efficient turbines capable of generating electricity in a wider range of locations."
+    }
+  ],
+  "scoredAt": "2026-03-06T08:57:39Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need to improve comprehension and detail recognition. Many answers were incorrect due to missing key clues in the passage. Focus on locating specific sentences that directly support the question, especially for 'benefits,' 'causes,' and 'effects' questions.",
+    "byPassage": {
+      "1": "Incorrect answers stem from overlooking explicit references to benefits like empathy and mental health. Clues were in sentences about vocabulary, empathy, and mental well-being. Practice scanning for phrases like 'helps improve' and 'fosters empathy.'",
+      "2": "Wrong answers occurred because of misinterpreting environmental impacts. The passage clearly states habitat loss, pollution, and temperature rise. Focus on keywords like 'replace,' 'reduce,' and 'consequences' for matching questions.",
+      "3": "Errors were due to missing technological details and goals. The passage emphasizes 'developing renewable sources,' 'reducing emissions,' and 'sustainable future.' Highlight sentences about 'advancements,' 'challenges,' and 'goals' for better comprehension."
+    },
+    "tips": [
+      "Practice skimming passages to quickly identify key ideas and specific details relevant to each question type.",
+      "Highlight or underline keywords in the passage that directly relate to the question prompts, especially for matching and detail questions.",
+      "Develop a habit of paraphrasing questions in your own words and locating similar language or synonyms in the passage to improve accuracy."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-06T08:57:43Z"
+}

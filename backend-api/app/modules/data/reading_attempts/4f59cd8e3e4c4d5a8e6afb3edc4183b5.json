@@ -1,0 +1,984 @@
+{
+  "attemptId": "4f59cd8e3e4c4d5a8e6afb3edc4183b5",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-05T09:25:35Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Gardening for Mental Health",
+      "text": "Gardening has long been regarded as a relaxing and enjoyable activity. In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health. Spending time outdoors and working with soil, plants, and flowers can reduce stress and anxiety levels. The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem. Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters. Community gardens also foster social interactions, helping to reduce feelings of loneliness and isolation. As a result, many therapists now recommend gardening therapy as a complementary treatment for depression and anxiety. Furthermore, exposure to natural environments has been linked to improved concentration and cognitive function. Overall, gardening offers a simple yet effective way to enhance mental well-being and promote a healthier lifestyle."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Urbanization on Local Ecosystems",
+      "text": "Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems. This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species. As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes. Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna. Additionally, the construction of roads and buildings fragments habitats, making it difficult for wildlife to migrate or find resources. The introduction of non-native species, often accidental, can disrupt existing ecological balances, sometimes leading to the decline of indigenous species. Despite these challenges, urbanization also offers opportunities for conservation and ecological research. Green roofs, urban parks, and wildlife corridors are examples of strategies aimed at mitigating negative impacts. Understanding and managing the complex interactions between urban development and ecosystems is crucial for sustainable growth and biodiversity preservation in the future."
+    },
+    {
+      "passageId": "3",
+      "title": "Advances in Renewable Energy Technologies and Their Global Impact",
+      "text": "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels. Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity. Moreover, research into bioenergy, geothermal, and tidal power has expanded the portfolio of sustainable options. These technological advancements have facilitated the transition towards cleaner energy systems worldwide, particularly in countries committed to meeting international climate targets like the Paris Agreement. The economic implications are also substantial; renewable energy sectors have created millions of jobs and encouraged investment in new infrastructure. However, challenges remain, including the need for improved grid integration, resource management, and ecological considerations related to large-scale installations. Overall, ongoing research and technological innovation are vital for achieving a sustainable energy future, reducing global dependence on fossil fuels, and mitigating the adverse effects of climate change."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the mental health benefits of gardening mentioned in the passage?",
+          "options": [
+            "It increases physical strength",
+            "It reduces stress and anxiety",
+            "It guarantees better sleep",
+            "It improves eyesight"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Gardening is only beneficial for mental health and has no physical health benefits.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Benefits of Gardening for Mental Health",
+            "Community and Gardening",
+            "Gardening and Physical Activity",
+            "Natural Environment and Cognitive Function"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one activity involved in gardening that can boost self-esteem.",
+          "correctAnswer": "Caring for plants"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, gardening can help reduce feelings of:",
+          "options": [
+            "Loneliness",
+            "Happiness",
+            "Wealth",
+            "Confusion"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Exposure to natural environments has no impact on concentration.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Physical Benefits of Gardening",
+            "Therapeutic Uses of Gardening",
+            "Social Aspects of Gardening",
+            "Natural Environment and Well-being"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What do therapists recommend as a treatment for depression and anxiety?",
+          "correctAnswer": "Gardening therapy"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of gardening?",
+          "options": [
+            "Improved concentration",
+            "Increased social isolation",
+            "Enhanced mood",
+            "Physical activity"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Gardening has no effect on cognitive function.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Gardening and Lifestyle",
+            "Mental Health Benefits of Gardening",
+            "Community Gardens",
+            "Natural Environments and Brain Function"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What activity in gardening releases endorphins?",
+          "correctAnswer": "Physical activity"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Community gardens mainly help to:",
+          "options": [
+            "Increase property prices",
+            "Foster social interactions",
+            "Reduce gardening activities",
+            "Limit access to green spaces"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a major impact of urbanization on ecosystems?",
+          "options": [
+            "Expansion of forests",
+            "Habitat loss",
+            "Increase in biodiversity",
+            "Reduction of pollution"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization always benefits local ecosystems.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Effects of Urbanization",
+            "Conservation Strategies",
+            "Urban Pollution",
+            "Habitat Fragmentation"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Name one environmental problem caused by urbanization.",
+          "correctAnswer": "Pollution"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "Which of the following helps mitigate the negative effects of urbanization?",
+          "options": [
+            "Deforestation",
+            "Green roofs and wildlife corridors",
+            "Increasing industrial activity",
+            "Expanding urban areas"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Urban development always leads to increased biodiversity.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Impact of Pollution",
+            "Ecosystem Resilience",
+            "Habitat Fragmentation",
+            "Urban Conservation Measures"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is one strategy mentioned for conserving biodiversity in urban areas?",
+          "correctAnswer": "Wildlife corridors"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "What does habitat fragmentation do?",
+          "options": [
+            "Creates new habitats",
+            "Helps wildlife migrate",
+            "Makes it difficult for wildlife to migrate",
+            "Increases biodiversity"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Non-native species have no impact on native ecosystems.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Urban Ecosystem Challenges",
+            "Benefits of Urban Green Spaces",
+            "Pollution and Wildlife",
+            "Ecological Research in Cities"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is one consequence of introducing non-native species?",
+          "correctAnswer": "Disruption of ecological balance"
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is an example of an ecological strategy to help urban environments?",
+          "options": [
+            "Building more roads",
+            "Creating wildlife corridors",
+            "Reducing green spaces",
+            "Expanding industrial zones"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What has driven the development of renewable energy technologies?",
+          "options": [
+            "Economic decline",
+            "The need to reduce greenhouse gases",
+            "Depletion of fossil fuels",
+            "Global economic growth"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy technologies are less efficient than fossil fuels.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Technological Advancements",
+            "Environmental Benefits",
+            "Economic Impact",
+            "Challenges in Renewable Energy"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Name one type of renewable energy source mentioned in the passage.",
+          "correctAnswer": "Solar, wind, bioenergy, geothermal, or tidal power"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What has improved the stability of renewable energy supply?",
+          "options": [
+            "Decreased energy demand",
+            "Advanced batteries for energy storage",
+            "Reduced research funding",
+            "Fossil fuel subsidies"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sectors have created no jobs.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Future Challenges",
+            "Research and Innovation",
+            "Global Climate Goals",
+            "Economic Benefits"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What is one challenge mentioned related to large-scale renewable installations?",
+          "correctAnswer": "Grid integration"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "Which international agreement is mentioned as a target for renewable energy development?",
+          "options": [
+            "Kyoto Protocol",
+            "Paris Agreement",
+            "Montreal Protocol",
+            "Copenhagen Accord"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "All countries are equally advanced in renewable energy technology.",
+          "correctAnswer": "Not given"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph:",
+          "options": [
+            "Environmental Impacts",
+            "Technological Progress",
+            "Policy and Investment",
+            "Future Outlook"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What has been a significant economic benefit of renewable energy sectors?",
+          "correctAnswer": "Created millions of jobs"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What is essential for achieving a sustainable energy future?",
+          "options": [
+            "More fossil fuel extraction",
+            "Ongoing research and innovation",
+            "Reducing renewable energy investments",
+            "Limiting technological development"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q14",
+          "type": "short_answer",
+          "prompt": "Name one ecological consideration related to large-scale renewable energy installations.",
+          "correctAnswer": "Ecological impact or environmental considerations"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are distributed as specified, with unique IDs, and all question types are included according to instructions. The questions are based solely on the provided passage texts.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 0.0,
+  "passage_1_score": 0.0,
+  "passage_2_score": 0.0,
+  "passage_3_score": 0.0,
+  "total_questions": 40,
+  "correct_questions": 0,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the mental health benefits of gardening mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health.",
+        "Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters.",
+        "Overall, gardening offers a simple yet effective way to enhance mental well-being and promote a healthier lifestyle."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health. Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Gardening is only beneficial for mental health and has no physical health benefits.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Gardening has long been regarded as a relaxing and enjoyable activity.",
+        "In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health.",
+        "As a result, many therapists now recommend gardening therapy as a complementary treatment for depression and anxiety."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Gardening has long been regarded as a relaxing and enjoyable activity. In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health."
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem.",
+        "Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem. Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one activity involved in gardening that can boost self-esteem.",
+      "correctAnswer": "Caring for plants",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Gardening has long been regarded as a relaxing and enjoyable activity.",
+        "In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health.",
+        "The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem."
+      ],
+      "explanation": "The correct answer is 'Caring for plants' because the passage states: Gardening has long been regarded as a relaxing and enjoyable activity. In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "According to the passage, gardening can help reduce feelings of:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health.",
+        "Spending time outdoors and working with soil, plants, and flowers can reduce stress and anxiety levels.",
+        "The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health. Spending time outdoors and working with soil, plants, and flowers can reduce stress and anxiety levels."
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Exposure to natural environments has no impact on concentration.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Gardening has long been regarded as a relaxing and enjoyable activity.",
+        "Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters.",
+        "Furthermore, exposure to natural environments has been linked to improved concentration and cognitive function."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Gardening has long been regarded as a relaxing and enjoyable activity. Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem.",
+        "Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem. Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What do therapists recommend as a treatment for depression and anxiety?",
+      "correctAnswer": "Gardening therapy",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Gardening has long been regarded as a relaxing and enjoyable activity.",
+        "Spending time outdoors and working with soil, plants, and flowers can reduce stress and anxiety levels.",
+        "As a result, many therapists now recommend gardening therapy as a complementary treatment for depression and anxiety."
+      ],
+      "explanation": "The correct answer is 'Gardening therapy' because the passage states: Gardening has long been regarded as a relaxing and enjoyable activity. Spending time outdoors and working with soil, plants, and flowers can reduce stress and anxiety levels."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a benefit of gardening?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening has long been regarded as a relaxing and enjoyable activity.",
+        "The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem.",
+        "Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Gardening has long been regarded as a relaxing and enjoyable activity. The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Gardening has no effect on cognitive function.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Gardening has long been regarded as a relaxing and enjoyable activity.",
+        "In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health.",
+        "Furthermore, exposure to natural environments has been linked to improved concentration and cognitive function."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Gardening has long been regarded as a relaxing and enjoyable activity. In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health."
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem.",
+        "Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The act of caring for plants provides a sense of achievement and purpose, which can boost self-esteem. Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What activity in gardening releases endorphins?",
+      "correctAnswer": "Physical activity",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Gardening has long been regarded as a relaxing and enjoyable activity.",
+        "In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health.",
+        "Additionally, gardening encourages physical activity, which releases endorphins, the body's natural mood lifters."
+      ],
+      "explanation": "The correct answer is 'Physical activity' because the passage states: Gardening has long been regarded as a relaxing and enjoyable activity. In recent years, scientific studies have shown that engaging in gardening can significantly improve mental health."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Community gardens mainly help to:",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Community gardens also foster social interactions, helping to reduce feelings of loneliness and isolation."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Community gardens also foster social interactions, helping to reduce feelings of loneliness and isolation."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What is a major impact of urbanization on ecosystems?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems.",
+        "As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes.",
+        "Despite these challenges, urbanization also offers opportunities for conservation and ecological research."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems. As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Urbanization always benefits local ecosystems.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems.",
+        "As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes.",
+        "Despite these challenges, urbanization also offers opportunities for conservation and ecological research."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems. As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes."
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species.",
+        "Additionally, the construction of roads and buildings fragments habitats, making it difficult for wildlife to migrate or find resources.",
+        "The introduction of non-native species, often accidental, can disrupt existing ecological balances, sometimes leading to the decline of indigenous species."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species. Additionally, the construction of roads and buildings fragments habitats, making it difficult for wildlife to migrate or find resources."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Name one environmental problem caused by urbanization.",
+      "correctAnswer": "Pollution",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems.",
+        "As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes.",
+        "Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna."
+      ],
+      "explanation": "The correct answer is 'Pollution' because the passage states: Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems. As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Which of the following helps mitigate the negative effects of urbanization?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems.",
+        "This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species.",
+        "Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems. This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species."
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Urban development always leads to increased biodiversity.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes.",
+        "Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna.",
+        "Understanding and managing the complex interactions between urban development and ecosystems is crucial for sustainable growth and biodiversity preservation in the future."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: As green spaces diminish, biodiversity declines, and ecosystems become less resilient to environmental changes. Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species.",
+        "Additionally, the construction of roads and buildings fragments habitats, making it difficult for wildlife to migrate or find resources.",
+        "The introduction of non-native species, often accidental, can disrupt existing ecological balances, sometimes leading to the decline of indigenous species."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species. Additionally, the construction of roads and buildings fragments habitats, making it difficult for wildlife to migrate or find resources."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is one strategy mentioned for conserving biodiversity in urban areas?",
+      "correctAnswer": "Wildlife corridors",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna.",
+        "Green roofs, urban parks, and wildlife corridors are examples of strategies aimed at mitigating negative impacts.",
+        "Understanding and managing the complex interactions between urban development and ecosystems is crucial for sustainable growth and biodiversity preservation in the future."
+      ],
+      "explanation": "The correct answer is 'Wildlife corridors' because the passage states: Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna. Green roofs, urban parks, and wildlife corridors are examples of strategies aimed at mitigating negative impacts."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "What does habitat fragmentation do?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Non-native species have no impact on native ecosystems.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems.",
+        "This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species.",
+        "The introduction of non-native species, often accidental, can disrupt existing ecological balances, sometimes leading to the decline of indigenous species."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Urbanization has rapidly transformed natural landscapes into built environments, profoundly affecting local ecosystems. This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species."
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species.",
+        "Additionally, the construction of roads and buildings fragments habitats, making it difficult for wildlife to migrate or find resources.",
+        "The introduction of non-native species, often accidental, can disrupt existing ecological balances, sometimes leading to the decline of indigenous species."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species. Additionally, the construction of roads and buildings fragments habitats, making it difficult for wildlife to migrate or find resources."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is one consequence of introducing non-native species?",
+      "correctAnswer": "Disruption of ecological balance",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species.",
+        "Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna.",
+        "The introduction of non-native species, often accidental, can disrupt existing ecological balances, sometimes leading to the decline of indigenous species."
+      ],
+      "explanation": "The correct answer is 'Disruption of ecological balance' because the passage states: This process involves the expansion of cities and towns, leading to habitat loss for many plant and animal species. Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "Which of the following is an example of an ecological strategy to help urban environments?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna.",
+        "The introduction of non-native species, often accidental, can disrupt existing ecological balances, sometimes leading to the decline of indigenous species.",
+        "Understanding and managing the complex interactions between urban development and ecosystems is crucial for sustainable growth and biodiversity preservation in the future."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urban areas often introduce pollution—air, water, and soil—which further harms native flora and fauna. The introduction of non-native species, often accidental, can disrupt existing ecological balances, sometimes leading to the decline of indigenous species."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What has driven the development of renewable energy technologies?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity.",
+        "The economic implications are also substantial; renewable energy sectors have created millions of jobs and encouraged investment in new infrastructure."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "Renewable energy technologies are less efficient than fossil fuels.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels.",
+        "Overall, ongoing research and technological innovation are vital for achieving a sustainable energy future, reducing global dependence on fossil fuels, and mitigating the adverse effects of climate change."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels."
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity.",
+        "Moreover, research into bioenergy, geothermal, and tidal power has expanded the portfolio of sustainable options."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Name one type of renewable energy source mentioned in the passage.",
+      "correctAnswer": "Solar, wind, bioenergy, geothermal, or tidal power",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels.",
+        "Moreover, research into bioenergy, geothermal, and tidal power has expanded the portfolio of sustainable options."
+      ],
+      "explanation": "The correct answer is 'Solar, wind, bioenergy, geothermal, or tidal power' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What has improved the stability of renewable energy supply?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity.",
+        "The economic implications are also substantial; renewable energy sectors have created millions of jobs and encouraged investment in new infrastructure."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity."
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Renewable energy sectors have created no jobs.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity.",
+        "The economic implications are also substantial; renewable energy sectors have created millions of jobs and encouraged investment in new infrastructure."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity.",
+        "Moreover, research into bioenergy, geothermal, and tidal power has expanded the portfolio of sustainable options."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What is one challenge mentioned related to large-scale renewable installations?",
+      "correctAnswer": "Grid integration",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels.",
+        "However, challenges remain, including the need for improved grid integration, resource management, and ecological considerations related to large-scale installations."
+      ],
+      "explanation": "The correct answer is 'Grid integration' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "Which international agreement is mentioned as a target for renewable energy development?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels.",
+        "These technological advancements have facilitated the transition towards cleaner energy systems worldwide, particularly in countries committed to meeting international climate targets like the Paris Agreement."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "All countries are equally advanced in renewable energy technology.",
+      "correctAnswer": "Not given",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels.",
+        "Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity.",
+        "The economic implications are also substantial; renewable energy sectors have created millions of jobs and encouraged investment in new infrastructure."
+      ],
+      "explanation": "The correct answer is 'Not given' because the passage states: Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels. Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity."
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the heading to the paragraph:",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity.",
+        "Moreover, research into bioenergy, geothermal, and tidal power has expanded the portfolio of sustainable options."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Innovations in energy storage, such as advanced batteries, have addressed the intermittent nature of renewable sources, enabling a stable supply of electricity."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What has been a significant economic benefit of renewable energy sectors?",
+      "correctAnswer": "Created millions of jobs",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels.",
+        "The economic implications are also substantial; renewable energy sectors have created millions of jobs and encouraged investment in new infrastructure."
+      ],
+      "explanation": "The correct answer is 'Created millions of jobs' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is essential for achieving a sustainable energy future?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels.",
+        "Overall, ongoing research and technological innovation are vital for achieving a sustainable energy future, reducing global dependence on fossil fuels, and mitigating the adverse effects of climate change."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "Name one ecological consideration related to large-scale renewable energy installations.",
+      "correctAnswer": "Ecological impact or environmental considerations",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels.",
+        "However, challenges remain, including the need for improved grid integration, resource management, and ecological considerations related to large-scale installations."
+      ],
+      "explanation": "The correct answer is 'Ecological impact or environmental considerations' because the passage states: The development of renewable energy technologies has accelerated significantly over the past few decades, driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar photovoltaic (PV) panels and wind turbines are now more efficient and cost-effective than ever before, making renewable energy a viable alternative to fossil fuels."
+    }
+  ],
+  "scoredAt": "2026-03-05T09:30:02Z",
+  "feedback_ai": {
+    "overall": "Your answers indicate a lack of comprehension of key details and clues within the passages. Focus on locating specific sentences that directly support the correct options. Pay attention to keywords and phrases that signal the main idea of each paragraph.",
+    "byPassage": {
+      "1": "You missed the explicit mention that gardening improves mental health and encourages physical activity by endorphin release. Clue: sentences about scientific studies and physical activity benefits. Remember, keywords like 'scientific studies' and 'endorphins' are crucial clues.",
+      "2": "Your responses show a misunderstanding of urbanization's impact. The passage clearly states that urbanization diminishes green spaces and biodiversity. Look for words like 'diminish', 'decline', and 'affect'. Recognize that 'no impact' or 'benefits' are often contradicted by the text.",
+      "3": "You failed to identify the driving factors behind renewable energy development. The passage emphasizes environmental concerns, climate change, and technological innovation. Focus on phrases like 'urgent need', 'reduce emissions', and 'technological advancements' as clues."
+    },
+    "tips": [
+      "Practice scanning passages for keywords that match question prompts, especially for details and main ideas.",
+      "Highlight or underline key sentences in the passage that directly relate to each question to improve locating evidence quickly.",
+      "Develop a habit of paraphrasing questions and options to better match them with the passage content, reducing misinterpretation."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T09:30:11Z"
+}

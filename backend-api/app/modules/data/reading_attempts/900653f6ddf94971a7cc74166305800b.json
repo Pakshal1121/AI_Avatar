@@ -1,0 +1,1008 @@
+{
+  "attemptId": "900653f6ddf94971a7cc74166305800b",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-05T11:53:32Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Importance of Reading in Daily Life",
+      "text": "Reading is a fundamental skill that plays a vital role in our daily lives. From childhood to adulthood, reading helps us acquire knowledge, improve our vocabulary, and develop critical thinking skills. Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making. In today's digital age, the way we read has evolved with the advent of e-books and online articles, making information more accessible than ever before. Regular reading has been linked to numerous health benefits, including improved focus, reduced stress, and enhanced memory. Schools and educational programs emphasize reading as a core component of learning, recognizing its importance in academic success. Moreover, reading also fosters empathy by exposing readers to different cultures, perspectives, and experiences. Despite the rise of visual and audio media, traditional reading remains a valuable habit that supports lifelong learning. Developing good reading habits can positively influence various aspects of life, including career advancement, social interactions, and personal fulfillment. As we continue to integrate reading into our routines, it is clear that this activity remains a cornerstone of a well-rounded and informed lifestyle."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. These innovations have been driven by the urgent need to reduce greenhouse gas emissions and combat climate change. Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development. Solar panels have become more efficient and affordable, enabling widespread adoption both in residential and commercial sectors. Wind turbines, similarly, have increased in size and capacity, allowing for greater energy production from wind farms situated offshore and on land. Hydroelectric power remains a reliable and large-scale energy source, although environmental concerns about dam construction have prompted the search for more sustainable solutions. Geothermal energy harnesses the Earth's internal heat for electricity generation and heating purposes, offering a stable and sustainable option. The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels. Governments worldwide are implementing policies and incentives to promote renewable energy deployment, aiming to achieve carbon neutrality by mid-century. Despite these advancements, challenges such as intermittency, high initial costs, and resource location still need to be addressed. Ongoing research and technological innovations continue to improve the viability and scalability of renewable energy, promising a cleaner and more sustainable future for the planet."
+    },
+    {
+      "passageId": "3",
+      "title": "The Impact of Climate Change on Global Ecosystems",
+      "text": "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. Scientific research indicates that rising temperatures, changing precipitation patterns, and increased frequency of extreme weather events are disrupting natural habitats and species distributions. In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity. Tropical rainforests, often called the lungs of the Earth, are experiencing deforestation and altered rainfall patterns that compromise their ability to support diverse flora and fauna. These ecosystems are interconnected; the loss of one can have cascading effects on others, impacting global biodiversity and human livelihoods. For example, changes in pollinator populations due to climate stress threaten food security by affecting crop pollination. Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change. Conservation efforts are increasingly focused on habitat preservation, sustainable resource management, and reducing greenhouse gas emissions. International agreements such as the Paris Accord aim to mitigate these impacts through coordinated global action. However, the complexity of ecological interactions and the scale of climate change require a multifaceted approach that combines scientific research, policy-making, and community engagement. The resilience of ecosystems depends on our ability to implement effective strategies that address both climate change mitigation and adaptation, ensuring the preservation of biodiversity for future generations."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the health benefits associated with regular reading?",
+          "options": [
+            "Improved eyesight",
+            "Increased stress",
+            "Reduced focus",
+            "Enhanced memory"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Reading can help improve critical thinking skills.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the headings with the corresponding parts of the passage:",
+          "options": [
+            "The evolution of reading in the digital age",
+            "The benefits of reading for personal growth",
+            "The role of reading in education",
+            "The importance of reading for health"
+          ],
+          "correctAnswer": [
+            "The evolution of reading in the digital age",
+            "The benefits of reading for personal growth",
+            "The role of reading in education",
+            "The importance of reading for health"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name two activities mentioned that involve reading.",
+          "correctAnswer": [
+            "Reading a newspaper",
+            "Cooking with a recipe"
+          ]
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, traditional reading remains:",
+          "options": [
+            "Less important than visual media",
+            "A valuable habit",
+            "Mostly obsolete",
+            "Only useful for students"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Reading contributes to informed decision-making.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of reading?",
+          "options": [
+            "Improving vocabulary",
+            "Developing empathy",
+            "Physical strength",
+            "Enhancing memory"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q8",
+          "type": "matching_headings",
+          "prompt": "Match the activity with its description:",
+          "options": [
+            "Reading a novel for leisure",
+            "Reading a recipe while cooking",
+            "Reading a newspaper in the morning",
+            "Reading online articles"
+          ],
+          "correctAnswer": [
+            "Leisure activity",
+            "Cooking activity",
+            "Daily news update",
+            "Accessing information digitally"
+          ]
+        },
+        {
+          "id": "p1_q9",
+          "type": "short_answer",
+          "prompt": "What are some aspects of life positively influenced by good reading habits?",
+          "correctAnswer": [
+            "Career advancement",
+            "Social interactions",
+            "Personal fulfillment"
+          ]
+        },
+        {
+          "id": "p1_q10",
+          "type": "multiple_choice",
+          "prompt": "The passage states that reading helps in:",
+          "options": [
+            "Developing critical thinking",
+            "Reducing physical activity",
+            "Limiting cultural exposure",
+            "Decreasing vocabulary"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q11",
+          "type": "true_false_not_given",
+          "prompt": "The digital age has made information less accessible.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q12",
+          "type": "multiple_choice",
+          "prompt": "What role do schools emphasize regarding reading?",
+          "options": [
+            "As a core component of learning",
+            "As an optional activity",
+            "As a leisure activity only",
+            "As a subject to be replaced by digital media"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q13",
+          "type": "short_answer",
+          "prompt": "Why does traditional reading remain important despite new media?",
+          "correctAnswer": [
+            "Supports lifelong learning",
+            "Preserves critical thinking skills"
+          ]
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "Which renewable energy source has become more efficient and affordable?",
+          "options": [
+            "Hydroelectricity",
+            "Solar power",
+            "Geothermal",
+            "Wind energy"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Wind turbines have decreased in size over recent years.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the energy source with its description:",
+          "options": [
+            "Solar power",
+            "Wind energy",
+            "Hydroelectricity",
+            "Geothermal energy"
+          ],
+          "correctAnswer": [
+            "Uses sunlight to generate electricity",
+            "Uses wind to produce energy",
+            "Harnesses water flow for power",
+            "Utilizes Earth's internal heat"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What is a challenge associated with hydroelectric power?",
+          "correctAnswer": [
+            "Environmental concerns about dams"
+          ]
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What technology has improved the efficiency of renewable energy systems?",
+          "options": [
+            "Smart grid technology",
+            "Coal turbines",
+            "Nuclear reactors",
+            "Fossil fuel subsidies"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "High initial costs are not a concern for renewable energy deployment.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What is one of the goals of governments regarding renewable energy?",
+          "options": [
+            "Achieve carbon neutrality",
+            "Reduce energy prices only",
+            "Eliminate wind farms",
+            "Increase fossil fuel use"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q8",
+          "type": "matching_headings",
+          "prompt": "Match the challenge with its description:",
+          "options": [
+            "Intermittency",
+            "High initial costs",
+            "Resource location",
+            "Scalability"
+          ],
+          "correctAnswer": [
+            "Energy supply variability",
+            "Upfront investment needed",
+            "Availability of suitable sites",
+            "Expanding capacity to meet demand"
+          ]
+        },
+        {
+          "id": "p2_q9",
+          "type": "short_answer",
+          "prompt": "What is a promising aspect of ongoing research in renewable energy?",
+          "correctAnswer": [
+            "Improving viability and scalability"
+          ]
+        },
+        {
+          "id": "p2_q10",
+          "type": "multiple_choice",
+          "prompt": "Renewable energy aims to create a future that is:",
+          "options": [
+            "More polluted",
+            "Cleaner and more sustainable",
+            "Dependent on fossil fuels",
+            "Limited to small-scale use"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q11",
+          "type": "true_false_not_given",
+          "prompt": "Technological innovations are hindering renewable energy development.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q12",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is a reason for policy support in renewable energy?",
+          "options": [
+            "To promote fossil fuels",
+            "To achieve carbon neutrality",
+            "To increase energy costs",
+            "To limit technological innovation"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q13",
+          "type": "short_answer",
+          "prompt": "What do ongoing innovations aim to improve in renewable energy?",
+          "correctAnswer": [
+            "Viability and scalability"
+          ]
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the consequences of climate change in polar regions?",
+          "options": [
+            "Increasing ice formation",
+            "Melting ice caps",
+            "More stable ecosystems",
+            "Decreased sea levels"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Ocean acidification benefits marine life.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the ecosystem with the climate change impact:",
+          "options": [
+            "Polar regions",
+            "Tropical rainforests",
+            "Coral reefs",
+            "Permafrost"
+          ],
+          "correctAnswer": [
+            "Melting ice caps and habitat loss",
+            "Deforestation and altered rainfall",
+            "Ocean acidification and coral damage",
+            "Thawing releases greenhouse gases"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Why are tropical rainforests called the lungs of the Earth?",
+          "correctAnswer": [
+            "Because they produce oxygen and support biodiversity"
+          ]
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What can the loss of one ecosystem cause?",
+          "options": [
+            "No significant effects",
+            "Cascading effects on others",
+            "Immediate global warming",
+            "Reduction in human population"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Climate change does not affect pollinator populations.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a consequence of thawing permafrost?",
+          "options": [
+            "Absorption of greenhouse gases",
+            "Release of methane",
+            "Decrease in global temperatures",
+            "Stability of ecosystems"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q8",
+          "type": "matching_headings",
+          "prompt": "Match the conservation effort with its focus:",
+          "options": [
+            "Habitat preservation",
+            "Reducing greenhouse gases",
+            "Sustainable resource management",
+            "International agreements"
+          ],
+          "correctAnswer": [
+            "Protecting ecosystems from destruction",
+            "Lowering emissions to combat climate change",
+            "Managing resources responsibly",
+            "Global cooperation efforts like the Paris Accord"
+          ]
+        },
+        {
+          "id": "p3_q9",
+          "type": "short_answer",
+          "prompt": "What does the resilience of ecosystems depend on?",
+          "correctAnswer": [
+            "Effective strategies for mitigation and adaptation"
+          ]
+        },
+        {
+          "id": "p3_q10",
+          "type": "multiple_choice",
+          "prompt": "What is necessary to address climate change impacts?",
+          "options": [
+            "Scientific research only",
+            "Policy-making and community engagement",
+            "Ignoring ecological interactions",
+            "Reducing international cooperation"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q11",
+          "type": "true_false_not_given",
+          "prompt": "Mitigating climate change is straightforward and easy.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q12",
+          "type": "multiple_choice",
+          "prompt": "The paragraph suggests that preserving biodiversity requires:",
+          "options": [
+            "Ignoring climate change",
+            "Multifaceted approaches",
+            "Focusing only on local actions",
+            "Reducing scientific research"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q13",
+          "type": "short_answer",
+          "prompt": "What is a key goal of climate change strategies?",
+          "correctAnswer": [
+            "Ensure the preservation of biodiversity"
+          ]
+        },
+        {
+          "id": "p3_q14",
+          "type": "matching_headings",
+          "prompt": "Match the climate impact with the ecosystem affected:",
+          "options": [
+            "Polar regions",
+            "Marine ecosystems",
+            "Tropical rainforests",
+            "Permafrost"
+          ],
+          "correctAnswer": [
+            "Melting ice and habitat loss",
+            "Ocean acidification and coral reef damage",
+            "Deforestation and rainfall changes",
+            "Methane release from thawing"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to cover key information from each passage, with exact counts and unique IDs as specified. All question types and counts are adhered to.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 17.5,
+  "passage_1_score": 15.38,
+  "passage_2_score": 23.08,
+  "passage_3_score": 14.29,
+  "total_questions": 40,
+  "correct_questions": 7,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the health benefits associated with regular reading?",
+      "correctAnswer": "D",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making.",
+        "In today's digital age, the way we read has evolved with the advent of e-books and online articles, making information more accessible than ever before.",
+        "Regular reading has been linked to numerous health benefits, including improved focus, reduced stress, and enhanced memory."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making. In today's digital age, the way we read has evolved with the advent of e-books and online articles, making information more accessible than ever before."
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the headings with the corresponding parts of the passage:",
+      "correctAnswer": [
+        "The evolution of reading in the digital age",
+        "The benefits of reading for personal growth",
+        "The role of reading in education",
+        "The importance of reading for health"
+      ],
+      "userAnswer": "kmmk",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that plays a vital role in our daily lives.",
+        "Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making.",
+        "In today's digital age, the way we read has evolved with the advent of e-books and online articles, making information more accessible than ever before."
+      ],
+      "explanation": "The correct answer is '['The evolution of reading in the digital age', 'The benefits of reading for personal growth', 'The role of reading in education', 'The importance of reading for health']' because the passage states: Reading is a fundamental skill that plays a vital role in our daily lives. Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name two activities mentioned that involve reading.",
+      "correctAnswer": [
+        "Reading a newspaper",
+        "Cooking with a recipe"
+      ],
+      "userAnswer": "jnnj",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that plays a vital role in our daily lives.",
+        "Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making.",
+        "Despite the rise of visual and audio media, traditional reading remains a valuable habit that supports lifelong learning."
+      ],
+      "explanation": "The correct answer is '['Reading a newspaper', 'Cooking with a recipe']' because the passage states: Reading is a fundamental skill that plays a vital role in our daily lives. Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "According to the passage, traditional reading remains:",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making.",
+        "Despite the rise of visual and audio media, traditional reading remains a valuable habit that supports lifelong learning.",
+        "As we continue to integrate reading into our routines, it is clear that this activity remains a cornerstone of a well-rounded and informed lifestyle."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making. Despite the rise of visual and audio media, traditional reading remains a valuable habit that supports lifelong learning."
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a benefit of reading?",
+      "correctAnswer": "C",
+      "userAnswer": "B",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that plays a vital role in our daily lives.",
+        "Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making.",
+        "Despite the rise of visual and audio media, traditional reading remains a valuable habit that supports lifelong learning."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Reading is a fundamental skill that plays a vital role in our daily lives. Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "Match the activity with its description:",
+      "correctAnswer": [
+        "Leisure activity",
+        "Cooking activity",
+        "Daily news update",
+        "Accessing information digitally"
+      ],
+      "userAnswer": "nknj",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making.",
+        "In today's digital age, the way we read has evolved with the advent of e-books and online articles, making information more accessible than ever before.",
+        "Schools and educational programs emphasize reading as a core component of learning, recognizing its importance in academic success."
+      ],
+      "explanation": "The correct answer is '['Leisure activity', 'Cooking activity', 'Daily news update', 'Accessing information digitally']' because the passage states: Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making. In today's digital age, the way we read has evolved with the advent of e-books and online articles, making information more accessible than ever before."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What are some aspects of life positively influenced by good reading habits?",
+      "correctAnswer": [
+        "Career advancement",
+        "Social interactions",
+        "Personal fulfillment"
+      ],
+      "userAnswer": "kkmkm",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that plays a vital role in our daily lives.",
+        "From childhood to adulthood, reading helps us acquire knowledge, improve our vocabulary, and develop critical thinking skills.",
+        "Developing good reading habits can positively influence various aspects of life, including career advancement, social interactions, and personal fulfillment."
+      ],
+      "explanation": "The correct answer is '['Career advancement', 'Social interactions', 'Personal fulfillment']' because the passage states: Reading is a fundamental skill that plays a vital role in our daily lives. From childhood to adulthood, reading helps us acquire knowledge, improve our vocabulary, and develop critical thinking skills."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "The passage states that reading helps in:",
+      "correctAnswer": "A",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that plays a vital role in our daily lives.",
+        "Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making.",
+        "Despite the rise of visual and audio media, traditional reading remains a valuable habit that supports lifelong learning."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Reading is a fundamental skill that plays a vital role in our daily lives. Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making."
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "The digital age has made information less accessible.",
+      "correctAnswer": "False",
+      "userAnswer": "NOT GIVEN",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making.",
+        "In today's digital age, the way we read has evolved with the advent of e-books and online articles, making information more accessible than ever before.",
+        "Regular reading has been linked to numerous health benefits, including improved focus, reduced stress, and enhanced memory."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Whether it is reading a newspaper in the morning, a recipe while cooking, or a novel for leisure, reading is a versatile activity that contributes to our personal growth and informed decision-making. In today's digital age, the way we read has evolved with the advent of e-books and online articles, making information more accessible than ever before."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What role do schools emphasize regarding reading?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that plays a vital role in our daily lives.",
+        "From childhood to adulthood, reading helps us acquire knowledge, improve our vocabulary, and develop critical thinking skills.",
+        "Schools and educational programs emphasize reading as a core component of learning, recognizing its importance in academic success."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Reading is a fundamental skill that plays a vital role in our daily lives. From childhood to adulthood, reading helps us acquire knowledge, improve our vocabulary, and develop critical thinking skills."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Why does traditional reading remain important despite new media?",
+      "correctAnswer": [
+        "Supports lifelong learning",
+        "Preserves critical thinking skills"
+      ],
+      "userAnswer": "okookko",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Reading is a fundamental skill that plays a vital role in our daily lives.",
+        "From childhood to adulthood, reading helps us acquire knowledge, improve our vocabulary, and develop critical thinking skills.",
+        "Despite the rise of visual and audio media, traditional reading remains a valuable habit that supports lifelong learning."
+      ],
+      "explanation": "The correct answer is '['Supports lifelong learning', 'Preserves critical thinking skills']' because the passage states: Reading is a fundamental skill that plays a vital role in our daily lives. From childhood to adulthood, reading helps us acquire knowledge, improve our vocabulary, and develop critical thinking skills."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "Which renewable energy source has become more efficient and affordable?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Solar panels have become more efficient and affordable, enabling widespread adoption both in residential and commercial sectors.",
+        "Hydroelectric power remains a reliable and large-scale energy source, although environmental concerns about dam construction have prompted the search for more sustainable solutions.",
+        "The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Solar panels have become more efficient and affordable, enabling widespread adoption both in residential and commercial sectors. Hydroelectric power remains a reliable and large-scale energy source, although environmental concerns about dam construction have prompted the search for more sustainable solutions."
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the energy source with its description:",
+      "correctAnswer": [
+        "Uses sunlight to generate electricity",
+        "Uses wind to produce energy",
+        "Harnesses water flow for power",
+        "Utilizes Earth's internal heat"
+      ],
+      "userAnswer": "mmomom",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development.",
+        "Hydroelectric power remains a reliable and large-scale energy source, although environmental concerns about dam construction have prompted the search for more sustainable solutions.",
+        "Geothermal energy harnesses the Earth's internal heat for electricity generation and heating purposes, offering a stable and sustainable option."
+      ],
+      "explanation": "The correct answer is '['Uses sunlight to generate electricity', 'Uses wind to produce energy', 'Harnesses water flow for power', \"Utilizes Earth's internal heat\"]' because the passage states: Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development. Hydroelectric power remains a reliable and large-scale energy source, although environmental concerns about dam construction have prompted the search for more sustainable solutions."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What is a challenge associated with hydroelectric power?",
+      "correctAnswer": [
+        "Environmental concerns about dams"
+      ],
+      "userAnswer": "mlmlooo",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development.",
+        "Hydroelectric power remains a reliable and large-scale energy source, although environmental concerns about dam construction have prompted the search for more sustainable solutions."
+      ],
+      "explanation": "The correct answer is '['Environmental concerns about dams']' because the passage states: Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development. Hydroelectric power remains a reliable and large-scale energy source, although environmental concerns about dam construction have prompted the search for more sustainable solutions."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "What technology has improved the efficiency of renewable energy systems?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development.",
+        "The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What is one of the goals of governments regarding renewable energy?",
+      "correctAnswer": "A",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development.",
+        "The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "Match the challenge with its description:",
+      "correctAnswer": [
+        "Energy supply variability",
+        "Upfront investment needed",
+        "Availability of suitable sites",
+        "Expanding capacity to meet demand"
+      ],
+      "userAnswer": "mmokokok",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "These innovations have been driven by the urgent need to reduce greenhouse gas emissions and combat climate change.",
+        "Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development."
+      ],
+      "explanation": "The correct answer is '['Energy supply variability', 'Upfront investment needed', 'Availability of suitable sites', 'Expanding capacity to meet demand']' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. These innovations have been driven by the urgent need to reduce greenhouse gas emissions and combat climate change."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "What is a promising aspect of ongoing research in renewable energy?",
+      "correctAnswer": [
+        "Improving viability and scalability"
+      ],
+      "userAnswer": "momoko",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development.",
+        "The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels.",
+        "Ongoing research and technological innovations continue to improve the viability and scalability of renewable energy, promising a cleaner and more sustainable future for the planet."
+      ],
+      "explanation": "The correct answer is '['Improving viability and scalability']' because the passage states: Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development. The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Renewable energy aims to create a future that is:",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development.",
+        "Ongoing research and technological innovations continue to improve the viability and scalability of renewable energy, promising a cleaner and more sustainable future for the planet."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "Which of the following is a reason for policy support in renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape.",
+        "The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels.",
+        "Ongoing research and technological innovations continue to improve the viability and scalability of renewable energy, promising a cleaner and more sustainable future for the planet."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, renewable energy technologies have undergone significant advancements, transforming the global energy landscape. The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What do ongoing innovations aim to improve in renewable energy?",
+      "correctAnswer": [
+        "Viability and scalability"
+      ],
+      "userAnswer": "kmmll",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development.",
+        "The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels.",
+        "Ongoing research and technological innovations continue to improve the viability and scalability of renewable energy, promising a cleaner and more sustainable future for the planet."
+      ],
+      "explanation": "The correct answer is '['Viability and scalability']' because the passage states: Solar power, wind energy, hydroelectricity, and geothermal energy are among the most prominent renewable sources that have seen rapid development. The integration of smart grid technology and energy storage solutions has further enhanced the efficiency of renewable systems, making them more viable substitutes for fossil fuels."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is one of the consequences of climate change in polar regions?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe.",
+        "Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change.",
+        "However, the complexity of ecological interactions and the scale of climate change require a multifaceted approach that combines scientific research, policy-making, and community engagement."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "Ocean acidification benefits marine life.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity."
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the ecosystem with the climate change impact:",
+      "correctAnswer": [
+        "Melting ice caps and habitat loss",
+        "Deforestation and altered rainfall",
+        "Ocean acidification and coral damage",
+        "Thawing releases greenhouse gases"
+      ],
+      "userAnswer": " k k k k k",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe.",
+        "In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity.",
+        "Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change."
+      ],
+      "explanation": "The correct answer is '['Melting ice caps and habitat loss', 'Deforestation and altered rainfall', 'Ocean acidification and coral damage', 'Thawing releases greenhouse gases']' because the passage states: Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Why are tropical rainforests called the lungs of the Earth?",
+      "correctAnswer": [
+        "Because they produce oxygen and support biodiversity"
+      ],
+      "userAnswer": "kpppkpk",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity.",
+        "Tropical rainforests, often called the lungs of the Earth, are experiencing deforestation and altered rainfall patterns that compromise their ability to support diverse flora and fauna.",
+        "These ecosystems are interconnected; the loss of one can have cascading effects on others, impacting global biodiversity and human livelihoods."
+      ],
+      "explanation": "The correct answer is '['Because they produce oxygen and support biodiversity']' because the passage states: In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity. Tropical rainforests, often called the lungs of the Earth, are experiencing deforestation and altered rainfall patterns that compromise their ability to support diverse flora and fauna."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What can the loss of one ecosystem cause?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe.",
+        "Tropical rainforests, often called the lungs of the Earth, are experiencing deforestation and altered rainfall patterns that compromise their ability to support diverse flora and fauna.",
+        "These ecosystems are interconnected; the loss of one can have cascading effects on others, impacting global biodiversity and human livelihoods."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. Tropical rainforests, often called the lungs of the Earth, are experiencing deforestation and altered rainfall patterns that compromise their ability to support diverse flora and fauna."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "What is a consequence of thawing permafrost?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "Match the conservation effort with its focus:",
+      "correctAnswer": [
+        "Protecting ecosystems from destruction",
+        "Lowering emissions to combat climate change",
+        "Managing resources responsibly",
+        "Global cooperation efforts like the Paris Accord"
+      ],
+      "userAnswer": "mkkkmk",
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe.",
+        "Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change.",
+        "Conservation efforts are increasingly focused on habitat preservation, sustainable resource management, and reducing greenhouse gas emissions."
+      ],
+      "explanation": "The correct answer is '['Protecting ecosystems from destruction', 'Lowering emissions to combat climate change', 'Managing resources responsibly', 'Global cooperation efforts like the Paris Accord']' because the passage states: Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "What does the resilience of ecosystems depend on?",
+      "correctAnswer": [
+        "Effective strategies for mitigation and adaptation"
+      ],
+      "userAnswer": ",  kkmkmkmkmkm",
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe.",
+        "These ecosystems are interconnected; the loss of one can have cascading effects on others, impacting global biodiversity and human livelihoods.",
+        "The resilience of ecosystems depends on our ability to implement effective strategies that address both climate change mitigation and adaptation, ensuring the preservation of biodiversity for future generations."
+      ],
+      "explanation": "The correct answer is '['Effective strategies for mitigation and adaptation']' because the passage states: Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. These ecosystems are interconnected; the loss of one can have cascading effects on others, impacting global biodiversity and human livelihoods."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "What is necessary to address climate change impacts?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe.",
+        "Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change.",
+        "The resilience of ecosystems depends on our ability to implement effective strategies that address both climate change mitigation and adaptation, ensuring the preservation of biodiversity for future generations."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "The paragraph suggests that preserving biodiversity requires:",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Tropical rainforests, often called the lungs of the Earth, are experiencing deforestation and altered rainfall patterns that compromise their ability to support diverse flora and fauna.",
+        "These ecosystems are interconnected; the loss of one can have cascading effects on others, impacting global biodiversity and human livelihoods.",
+        "The resilience of ecosystems depends on our ability to implement effective strategies that address both climate change mitigation and adaptation, ensuring the preservation of biodiversity for future generations."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Tropical rainforests, often called the lungs of the Earth, are experiencing deforestation and altered rainfall patterns that compromise their ability to support diverse flora and fauna. These ecosystems are interconnected; the loss of one can have cascading effects on others, impacting global biodiversity and human livelihoods."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is a key goal of climate change strategies?",
+      "correctAnswer": [
+        "Ensure the preservation of biodiversity"
+      ],
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe.",
+        "Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change.",
+        "The resilience of ecosystems depends on our ability to implement effective strategies that address both climate change mitigation and adaptation, ensuring the preservation of biodiversity for future generations."
+      ],
+      "explanation": "The correct answer is '['Ensure the preservation of biodiversity']' because the passage states: Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. Additionally, the thawing of permafrost releases stored greenhouse gases like methane, further accelerating climate change."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "Match the climate impact with the ecosystem affected:",
+      "correctAnswer": [
+        "Melting ice and habitat loss",
+        "Ocean acidification and coral reef damage",
+        "Deforestation and rainfall changes",
+        "Methane release from thawing"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to the stability and diversity of ecosystems across the globe.",
+        "In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity.",
+        "Tropical rainforests, often called the lungs of the Earth, are experiencing deforestation and altered rainfall patterns that compromise their ability to support diverse flora and fauna."
+      ],
+      "explanation": "The correct answer is '['Melting ice and habitat loss', 'Ocean acidification and coral reef damage', 'Deforestation and rainfall changes', 'Methane release from thawing']' because the passage states: Climate change poses a significant threat to the stability and diversity of ecosystems across the globe. In polar regions, melting ice caps threaten the survival of native species such as polar bears and seals, while ocean acidification adversely affects marine life, including coral reefs, which are vital to marine biodiversity."
+    }
+  ],
+  "scoredAt": "2026-03-05T11:54:59Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need to improve comprehension and detail recognition. Many errors stem from missing key clues or misinterpreting the passage's main ideas. Focus on locating specific evidence sentences that directly support answers, especially in matching and multiple-choice questions. Pay attention to keywords like 'remains,' 'linked,' 'linked to,' and 'because' that often signal the correct answer.",
+    "byPassage": {
+      "1": "Incorrect answer for Q1, Q5, Q11, Q12, Q13, Q14; clues were in sentences about the benefits of reading and its role in personal growth and education. For Q3 and Q4, the clues were in examples of activities involving reading, such as newspapers and recipes. The mismatch in headings suggests a need to better connect passage sections with their themes.",
+      "2": "Incorrect choice for Q1, Q3, Q4, Q5, Q8, Q9, Q10, Q12, Q13, Q14; clues were in sentences about solar panels, wind, hydro, geothermal, and technological advancements. Pay attention to phrases like 'more efficient,' 'sustainable solutions,' and 'improve viability' to identify correct options.",
+      "3": "Incorrect answers for Q1, Q2, Q3, Q4, Q7, Q8, Q9, Q10, Q13, Q14; clues were in descriptions of climate change impacts such as melting ice, ocean acidification, and deforestation. Focus on sentences detailing specific ecosystem effects and their causes, especially those mentioning 'thawing,' 'acidification,' and 'deforestation.'"
+    },
+    "tips": [
+      "Practice skimming passages for keywords that directly relate to questions, especially for matching and detail questions.",
+      "Highlight or underline evidence sentences during practice to improve locating supporting details quickly.",
+      "Develop a strategy to identify signal words like 'because,' 'linked to,' 'causes,' and 'effects,' which often lead to correct answers."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T11:55:04Z"
+}

@@ -1,0 +1,937 @@
+{
+  "attemptId": "c566015bb37c4a54ab21d016ff84adc6",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-05T12:35:22Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Urban Green Spaces",
+      "text": "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. These areas provide residents with opportunities for recreation, relaxation, and social interaction. Furthermore, green spaces contribute to environmental benefits by improving air quality, reducing urban heat, and supporting biodiversity. In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects. Not only do these areas offer physical health benefits through encouraging outdoor activities, but they also have positive effects on mental health, reducing stress and promoting well-being. Cities worldwide are investing in parks and green corridors to ensure that residents have access to natural environments despite the dense urban landscape. The presence of greenery has been linked to lower levels of pollution and better temperature regulation, making cities more livable. Moreover, green spaces can increase property values and attract tourism, contributing to economic growth. As urban populations continue to grow, the importance of designing sustainable and accessible green areas becomes even more critical. Governments and communities are working together to create innovative solutions, such as green rooftops and vertical gardens, to maximize the use of limited space. Overall, urban green spaces are essential for fostering healthier, more sustainable cities and improving the overall quality of urban life."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. Initially, reliance was primarily on traditional sources like hydroelectric power and biomass. However, concerns over fossil fuel depletion and climate change have driven the development of alternative sources such as solar, wind, geothermal, and tidal energy. Solar power, in particular, has seen rapid growth due to improvements in photovoltaic cell efficiency and reductions in manufacturing costs. Wind energy has become increasingly viable, with large-scale turbines installed on land and offshore, harnessing the kinetic energy of wind to generate electricity. Geothermal energy, derived from heat stored beneath the Earth's surface, offers a reliable and consistent power source, especially in volcanic regions. Tidal and wave energy, though still in experimental stages, hold potential due to the predictable nature of ocean currents. The integration of renewable energy into existing power grids presents challenges, including intermittency and storage issues. Advances in battery technology and grid management are crucial to overcoming these obstacles. Governments worldwide are implementing policies and incentives to promote renewable energy adoption, aiming for a transition to a low-carbon economy. Investment in research and development continues to push the boundaries of efficiency and cost-effectiveness. As technological innovations progress, renewable energy sources are expected to play an increasingly central role in meeting global energy demands while reducing greenhouse gas emissions."
+    },
+    {
+      "passageId": "3",
+      "title": "The Impact of Climate Change on Global Agriculture",
+      "text": "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events such as droughts and floods have already begun to impact agricultural productivity in many regions. In temperate zones, warmer conditions can extend growing seasons, potentially increasing crop yields; however, in tropical and subtropical areas, higher temperatures often lead to heat stress, reduced soil moisture, and lower productivity. Changes in rainfall patterns can disrupt planting schedules and reduce water availability for irrigation, further stressing crops and livestock. Additionally, the increased prevalence of pests and plant diseases, facilitated by warmer temperatures, threatens crop health and yields. Smallholder farmers, who depend heavily on traditional farming practices, are particularly vulnerable to these changes. Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties. International organizations and governments are investing in research to develop drought-resistant and flood-tolerant crops, as well as promoting sustainable farming practices. Addressing the impacts of climate change on agriculture requires a comprehensive approach that combines technological innovation, policy support, and community engagement to ensure food security for future generations."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one environmental benefit of urban green spaces mentioned in the passage?",
+          "options": [
+            "A) They increase urban noise levels",
+            "B) They reduce air pollution",
+            "C) They decrease biodiversity",
+            "D) They promote urban sprawl"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Green spaces are only beneficial for mental health, not physical health.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following initiatives with their purpose:",
+          "options": [
+            "Green rooftops",
+            "Vertical gardens",
+            "Creating parks",
+            "Implementing green corridors"
+          ],
+          "headings": [
+            "Maximize limited space",
+            "Enhance biodiversity",
+            "Provide recreational areas",
+            "Improve city aesthetics"
+          ],
+          "correctAnswers": [
+            "Green rooftops - Maximize limited space",
+            "Vertical gardens - Maximize limited space",
+            "Creating parks - Provide recreational areas",
+            "Implementing green corridors - Enhance biodiversity"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one economic benefit of green spaces in cities.",
+          "correctAnswer": "Increase property values or attract tourism"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a way cities are investing in green spaces?",
+          "options": [
+            "A) Green rooftops",
+            "B) Vertical gardens",
+            "C) Building underground tunnels",
+            "D) Green corridors"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Cities worldwide are investing less in green spaces now than before.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "matching_headings",
+          "prompt": "Select the heading that best fits this statement: 'Green spaces help in temperature regulation in cities.'",
+          "options": [
+            "Environmental benefits",
+            "Urban development",
+            "Economic growth",
+            "Community health"
+          ],
+          "correctAnswers": [
+            "Environmental benefits"
+          ]
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What is one way green spaces contribute to environmental sustainability?",
+          "correctAnswer": "Supporting biodiversity"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What role do city planners play regarding green spaces?",
+          "options": [
+            "A) They ignore green space development",
+            "B) They focus only on commercial buildings",
+            "C) They integrate green spaces into urban development",
+            "D) They reduce the number of parks"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Green spaces can help in attracting tourists to a city.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the benefits to the correct statement:",
+          "options": [
+            "Lower pollution levels",
+            "Better temperature regulation",
+            "Increased property values",
+            "Reduced stress"
+          ],
+          "headings": [
+            "Environmental",
+            "Climate",
+            "Economic",
+            "Health"
+          ],
+          "correctAnswers": [
+            "Lower pollution levels - Environmental",
+            "Better temperature regulation - Climate",
+            "Increased property values - Economic",
+            "Reduced stress - Health"
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What is one challenge city planners face when creating green spaces?",
+          "correctAnswer": "Limited space"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is an example of an innovative green solution mentioned?",
+          "options": [
+            "A) Green rooftops",
+            "B) Solar panels",
+            "C) Wind turbines",
+            "D) Hydroelectric dams"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "Which renewable energy source has seen rapid growth due to improvements in efficiency?",
+          "options": [
+            "A) Hydroelectric power",
+            "B) Biomass",
+            "C) Solar power",
+            "D) Tidal energy"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Fossil fuels are considered a renewable energy source.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the energy source with its characteristic:",
+          "options": [
+            "Solar power",
+            "Wind energy",
+            "Geothermal energy",
+            "Tidal and wave energy"
+          ],
+          "headings": [
+            "Harnesses ocean currents",
+            "Derived from Earth's heat",
+            "Uses sunlight",
+            "Uses wind's kinetic energy"
+          ],
+          "correctAnswers": [
+            "Solar power - Uses sunlight",
+            "Wind energy - Uses wind's kinetic energy",
+            "Geothermal energy - Derived from Earth's heat",
+            "Tidal and wave energy - Harnesses ocean currents"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "multiple_choice",
+          "prompt": "What is a challenge in integrating renewable energy into power grids?",
+          "options": [
+            "A) Excessive energy storage",
+            "B) Intermittency and storage issues",
+            "C) Too much government support",
+            "D) Overproduction of renewable energy"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q5",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are expected to decrease in importance in the future.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q6",
+          "type": "matching_headings",
+          "prompt": "Select the heading that best describes this statement: 'Innovations in battery technology are vital for renewable energy.'",
+          "options": [
+            "Technological challenges",
+            "Policy initiatives",
+            "Global energy transition",
+            "Environmental benefits"
+          ],
+          "correctAnswers": [
+            "Technological challenges"
+          ]
+        },
+        {
+          "id": "p2_q7",
+          "type": "short_answer",
+          "prompt": "Name one policy measure mentioned that promotes renewable energy adoption.",
+          "correctAnswer": "Incentives or policies"
+        },
+        {
+          "id": "p2_q8",
+          "type": "multiple_choice",
+          "prompt": "What has contributed to the growth of solar power?",
+          "options": [
+            "A) Decrease in photovoltaic efficiency",
+            "B) Reductions in manufacturing costs",
+            "C) Lack of government support",
+            "D) Increased reliance on fossil fuels"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q9",
+          "type": "true_false_not_given",
+          "prompt": "Large-scale offshore wind turbines are less effective than land-based ones.",
+          "correctAnswer": "Not Given"
+        },
+        {
+          "id": "p2_q10",
+          "type": "matching_headings",
+          "prompt": "Match the energy type with its main benefit:",
+          "options": [
+            "Hydroelectric power",
+            "Biomass",
+            "Geothermal",
+            "Tidal energy"
+          ],
+          "headings": [
+            "Reliable and consistent",
+            "Utilizes organic material",
+            "Harnesses Earth's internal heat",
+            "Predictable ocean currents"
+          ],
+          "correctAnswers": [
+            "Hydroelectric power - Reliable and consistent",
+            "Biomass - Utilizes organic material",
+            "Geothermal - Harnesses Earth's internal heat",
+            "Tidal energy - Predictable ocean currents"
+          ]
+        },
+        {
+          "id": "p2_q11",
+          "type": "short_answer",
+          "prompt": "What is one obstacle to increasing renewable energy use?",
+          "correctAnswer": "Intermittency or storage issues"
+        },
+        {
+          "id": "p2_q12",
+          "type": "multiple_choice",
+          "prompt": "Which statement best summarizes the future outlook for renewable energy?",
+          "options": [
+            "A) It will become less important",
+            "B) It is expected to play a central role",
+            "C) It will be replaced by fossil fuels",
+            "D) Its development will stagnate"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q13",
+          "type": "true_false_not_given",
+          "prompt": "Investments in renewable energy are decreasing worldwide.",
+          "correctAnswer": "False"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one effect of rising temperatures on agriculture in temperate zones?",
+          "options": [
+            "A) Shorter growing seasons",
+            "B) Extended growing seasons",
+            "C) Increased soil moisture",
+            "D) Reduced crop yields"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Higher temperatures always lead to increased crop productivity worldwide.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the weather event with its impact on agriculture:",
+          "options": [
+            "Droughts",
+            "Floods",
+            "Heat stress",
+            "Pest outbreaks"
+          ],
+          "headings": [
+            "Reduce soil moisture",
+            "Damage crops directly",
+            "Increase crop yields",
+            "Facilitate pest spread"
+          ],
+          "correctAnswers": [
+            "Droughts - Reduce soil moisture",
+            "Floods - Damage crops directly",
+            "Heat stress - Damage crops directly",
+            "Pest outbreaks - Facilitate pest spread"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "multiple_choice",
+          "prompt": "Which group is especially vulnerable to climate change impacts on agriculture?",
+          "options": [
+            "A) Large commercial farms",
+            "B) Smallholder farmers",
+            "C) Urban residents",
+            "D) Industrial manufacturers"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q5",
+          "type": "true_false_not_given",
+          "prompt": "Climate change has no effect on livestock health.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q6",
+          "type": "matching_headings",
+          "prompt": "Select the heading that best fits this statement: 'Development of drought-resistant crops is a key strategy.'",
+          "options": [
+            "Technological adaptation",
+            "Economic impact",
+            "Environmental impact",
+            "Community engagement"
+          ],
+          "correctAnswers": [
+            "Technological adaptation"
+          ]
+        },
+        {
+          "id": "p3_q7",
+          "type": "short_answer",
+          "prompt": "What is one measure promoted to improve farming resilience?",
+          "correctAnswer": "Crop diversification or climate-resilient crops"
+        },
+        {
+          "id": "p3_q8",
+          "type": "multiple_choice",
+          "prompt": "Which weather event is likely to increase due to climate change?",
+          "options": [
+            "A) Droughts",
+            "B) Floods",
+            "C) Both A and B",
+            "D) Neither A nor B"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q9",
+          "type": "true_false_not_given",
+          "prompt": "Climate change will only affect crop yields, not livestock.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q10",
+          "type": "matching_headings",
+          "prompt": "Match the strategy with its purpose:",
+          "options": [
+            "Developing new crop varieties",
+            "Implementing sustainable farming",
+            "Investing in research",
+            "Community engagement"
+          ],
+          "headings": [
+            "Reduce vulnerability",
+            "Promote sustainability",
+            "Enhance resilience",
+            "Raise awareness"
+          ],
+          "correctAnswers": [
+            "Developing new crop varieties - Reduce vulnerability",
+            "Implementing sustainable farming - Promote sustainability",
+            "Investing in research - Enhance resilience",
+            "Community engagement - Raise awareness"
+          ]
+        },
+        {
+          "id": "p3_q11",
+          "type": "short_answer",
+          "prompt": "What is one economic consequence of climate change on agriculture?",
+          "correctAnswer": "Increased costs for adaptation"
+        },
+        {
+          "id": "p3_q12",
+          "type": "multiple_choice",
+          "prompt": "Which approach is necessary to address climate change impacts on agriculture?",
+          "options": [
+            "A) Technological innovation only",
+            "B) Policy support only",
+            "C) Community engagement only",
+            "D) A comprehensive approach combining technology, policy, and community"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p3_q13",
+          "type": "true_false_not_given",
+          "prompt": "Addressing climate change impacts on agriculture is straightforward and quick.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q14",
+          "type": "short_answer",
+          "prompt": "Name one type of crop that research is developing to resist climate stresses.",
+          "correctAnswer": "Drought-resistant or flood-tolerant crops"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are distributed to meet the exact required counts per passage, with all question IDs unique and questions varied in type.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 22.5,
+  "passage_1_score": 23.08,
+  "passage_2_score": 23.08,
+  "passage_3_score": 21.43,
+  "total_questions": 40,
+  "correct_questions": 9,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one environmental benefit of urban green spaces mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "Furthermore, green spaces contribute to environmental benefits by improving air quality, reducing urban heat, and supporting biodiversity.",
+        "In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. Furthermore, green spaces contribute to environmental benefits by improving air quality, reducing urban heat, and supporting biodiversity."
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Green spaces are only beneficial for mental health, not physical health.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "Not only do these areas offer physical health benefits through encouraging outdoor activities, but they also have positive effects on mental health, reducing stress and promoting well-being.",
+        "Overall, urban green spaces are essential for fostering healthier, more sustainable cities and improving the overall quality of urban life."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. Not only do these areas offer physical health benefits through encouraging outdoor activities, but they also have positive effects on mental health, reducing stress and promoting well-being."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one economic benefit of green spaces in cities.",
+      "correctAnswer": "Increase property values or attract tourism",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "Moreover, green spaces can increase property values and attract tourism, contributing to economic growth.",
+        "Overall, urban green spaces are essential for fostering healthier, more sustainable cities and improving the overall quality of urban life."
+      ],
+      "explanation": "The correct answer is 'Increase property values or attract tourism' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. Moreover, green spaces can increase property values and attract tourism, contributing to economic growth."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a way cities are investing in green spaces?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "Cities worldwide are investing in parks and green corridors to ensure that residents have access to natural environments despite the dense urban landscape.",
+        "Overall, urban green spaces are essential for fostering healthier, more sustainable cities and improving the overall quality of urban life."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. Cities worldwide are investing in parks and green corridors to ensure that residents have access to natural environments despite the dense urban landscape."
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Cities worldwide are investing less in green spaces now than before.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "Cities worldwide are investing in parks and green corridors to ensure that residents have access to natural environments despite the dense urban landscape.",
+        "Overall, urban green spaces are essential for fostering healthier, more sustainable cities and improving the overall quality of urban life."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. Cities worldwide are investing in parks and green corridors to ensure that residents have access to natural environments despite the dense urban landscape."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What is one way green spaces contribute to environmental sustainability?",
+      "correctAnswer": "Supporting biodiversity",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "Furthermore, green spaces contribute to environmental benefits by improving air quality, reducing urban heat, and supporting biodiversity.",
+        "In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects."
+      ],
+      "explanation": "The correct answer is 'Supporting biodiversity' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. Furthermore, green spaces contribute to environmental benefits by improving air quality, reducing urban heat, and supporting biodiversity."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What role do city planners play regarding green spaces?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "Furthermore, green spaces contribute to environmental benefits by improving air quality, reducing urban heat, and supporting biodiversity.",
+        "In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. Furthermore, green spaces contribute to environmental benefits by improving air quality, reducing urban heat, and supporting biodiversity."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Green spaces can help in attracting tourists to a city.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects.",
+        "Moreover, green spaces can increase property values and attract tourism, contributing to economic growth."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What is one challenge city planners face when creating green spaces?",
+      "correctAnswer": "Limited space",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects.",
+        "Governments and communities are working together to create innovative solutions, such as green rooftops and vertical gardens, to maximize the use of limited space."
+      ],
+      "explanation": "The correct answer is 'Limited space' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Which of the following is an example of an innovative green solution mentioned?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents.",
+        "In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects.",
+        "Governments and communities are working together to create innovative solutions, such as green rooftops and vertical gardens, to maximize the use of limited space."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Urban green spaces, such as parks, gardens, and natural reserves, play a crucial role in enhancing the quality of life for city residents. In recent years, city planners and environmentalists have increasingly recognized the importance of integrating green spaces into urban development projects."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "Which renewable energy source has seen rapid growth due to improvements in efficiency?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape.",
+        "Solar power, in particular, has seen rapid growth due to improvements in photovoltaic cell efficiency and reductions in manufacturing costs.",
+        "Wind energy has become increasingly viable, with large-scale turbines installed on land and offshore, harnessing the kinetic energy of wind to generate electricity."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. Solar power, in particular, has seen rapid growth due to improvements in photovoltaic cell efficiency and reductions in manufacturing costs."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Fossil fuels are considered a renewable energy source.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, aiming for a transition to a low-carbon economy.",
+        "As technological innovations progress, renewable energy sources are expected to play an increasingly central role in meeting global energy demands while reducing greenhouse gas emissions."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. Governments worldwide are implementing policies and incentives to promote renewable energy adoption, aiming for a transition to a low-carbon economy."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What is a challenge in integrating renewable energy into power grids?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape.",
+        "Geothermal energy, derived from heat stored beneath the Earth's surface, offers a reliable and consistent power source, especially in volcanic regions.",
+        "The integration of renewable energy into existing power grids presents challenges, including intermittency and storage issues."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. Geothermal energy, derived from heat stored beneath the Earth's surface, offers a reliable and consistent power source, especially in volcanic regions."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Renewable energy sources are expected to decrease in importance in the future.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape.",
+        "However, concerns over fossil fuel depletion and climate change have driven the development of alternative sources such as solar, wind, geothermal, and tidal energy.",
+        "As technological innovations progress, renewable energy sources are expected to play an increasingly central role in meeting global energy demands while reducing greenhouse gas emissions."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. However, concerns over fossil fuel depletion and climate change have driven the development of alternative sources such as solar, wind, geothermal, and tidal energy."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Name one policy measure mentioned that promotes renewable energy adoption.",
+      "correctAnswer": "Incentives or policies",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape.",
+        "The integration of renewable energy into existing power grids presents challenges, including intermittency and storage issues.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, aiming for a transition to a low-carbon economy."
+      ],
+      "explanation": "The correct answer is 'Incentives or policies' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. The integration of renewable energy into existing power grids presents challenges, including intermittency and storage issues."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What has contributed to the growth of solar power?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "However, concerns over fossil fuel depletion and climate change have driven the development of alternative sources such as solar, wind, geothermal, and tidal energy.",
+        "Solar power, in particular, has seen rapid growth due to improvements in photovoltaic cell efficiency and reductions in manufacturing costs.",
+        "Wind energy has become increasingly viable, with large-scale turbines installed on land and offshore, harnessing the kinetic energy of wind to generate electricity."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: However, concerns over fossil fuel depletion and climate change have driven the development of alternative sources such as solar, wind, geothermal, and tidal energy. Solar power, in particular, has seen rapid growth due to improvements in photovoltaic cell efficiency and reductions in manufacturing costs."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Large-scale offshore wind turbines are less effective than land-based ones.",
+      "correctAnswer": "Not Given",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "However, concerns over fossil fuel depletion and climate change have driven the development of alternative sources such as solar, wind, geothermal, and tidal energy.",
+        "Wind energy has become increasingly viable, with large-scale turbines installed on land and offshore, harnessing the kinetic energy of wind to generate electricity.",
+        "Advances in battery technology and grid management are crucial to overcoming these obstacles."
+      ],
+      "explanation": "The correct answer is 'Not Given' because the passage states: However, concerns over fossil fuel depletion and climate change have driven the development of alternative sources such as solar, wind, geothermal, and tidal energy. Wind energy has become increasingly viable, with large-scale turbines installed on land and offshore, harnessing the kinetic energy of wind to generate electricity."
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "What is one obstacle to increasing renewable energy use?",
+      "correctAnswer": "Intermittency or storage issues",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape.",
+        "The integration of renewable energy into existing power grids presents challenges, including intermittency and storage issues.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, aiming for a transition to a low-carbon economy."
+      ],
+      "explanation": "The correct answer is 'Intermittency or storage issues' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. The integration of renewable energy into existing power grids presents challenges, including intermittency and storage issues."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "Which statement best summarizes the future outlook for renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape.",
+        "The integration of renewable energy into existing power grids presents challenges, including intermittency and storage issues.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, aiming for a transition to a low-carbon economy."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. The integration of renewable energy into existing power grids presents challenges, including intermittency and storage issues."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "Investments in renewable energy are decreasing worldwide.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape.",
+        "Governments worldwide are implementing policies and incentives to promote renewable energy adoption, aiming for a transition to a low-carbon economy.",
+        "As technological innovations progress, renewable energy sources are expected to play an increasingly central role in meeting global energy demands while reducing greenhouse gas emissions."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Renewable energy technologies have undergone significant advancements over the past few decades, transforming the global energy landscape. Governments worldwide are implementing policies and incentives to promote renewable energy adoption, aiming for a transition to a low-carbon economy."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is one effect of rising temperatures on agriculture in temperate zones?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events such as droughts and floods have already begun to impact agricultural productivity in many regions.",
+        "In temperate zones, warmer conditions can extend growing seasons, potentially increasing crop yields; however, in tropical and subtropical areas, higher temperatures often lead to heat stress, reduced soil moisture, and lower productivity."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events such as droughts and floods have already begun to impact agricultural productivity in many regions."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "Higher temperatures always lead to increased crop productivity worldwide.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events such as droughts and floods have already begun to impact agricultural productivity in many regions.",
+        "In temperate zones, warmer conditions can extend growing seasons, potentially increasing crop yields; however, in tropical and subtropical areas, higher temperatures often lead to heat stress, reduced soil moisture, and lower productivity.",
+        "Additionally, the increased prevalence of pests and plant diseases, facilitated by warmer temperatures, threatens crop health and yields."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events such as droughts and floods have already begun to impact agricultural productivity in many regions. In temperate zones, warmer conditions can extend growing seasons, potentially increasing crop yields; however, in tropical and subtropical areas, higher temperatures often lead to heat stress, reduced soil moisture, and lower productivity."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Which group is especially vulnerable to climate change impacts on agriculture?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Smallholder farmers, who depend heavily on traditional farming practices, are particularly vulnerable to these changes.",
+        "Addressing the impacts of climate change on agriculture requires a comprehensive approach that combines technological innovation, policy support, and community engagement to ensure food security for future generations."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Smallholder farmers, who depend heavily on traditional farming practices, are particularly vulnerable to these changes."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "Climate change has no effect on livestock health.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Changes in rainfall patterns can disrupt planting schedules and reduce water availability for irrigation, further stressing crops and livestock.",
+        "Addressing the impacts of climate change on agriculture requires a comprehensive approach that combines technological innovation, policy support, and community engagement to ensure food security for future generations."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Changes in rainfall patterns can disrupt planting schedules and reduce water availability for irrigation, further stressing crops and livestock."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "What is one measure promoted to improve farming resilience?",
+      "correctAnswer": "Crop diversification or climate-resilient crops",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties.",
+        "International organizations and governments are investing in research to develop drought-resistant and flood-tolerant crops, as well as promoting sustainable farming practices."
+      ],
+      "explanation": "The correct answer is 'Crop diversification or climate-resilient crops' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "Which weather event is likely to increase due to climate change?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events such as droughts and floods have already begun to impact agricultural productivity in many regions.",
+        "Addressing the impacts of climate change on agriculture requires a comprehensive approach that combines technological innovation, policy support, and community engagement to ensure food security for future generations."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events such as droughts and floods have already begun to impact agricultural productivity in many regions."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "Climate change will only affect crop yields, not livestock.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Additionally, the increased prevalence of pests and plant diseases, facilitated by warmer temperatures, threatens crop health and yields.",
+        "Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Additionally, the increased prevalence of pests and plant diseases, facilitated by warmer temperatures, threatens crop health and yields."
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "What is one economic consequence of climate change on agriculture?",
+      "correctAnswer": "Increased costs for adaptation",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties.",
+        "Addressing the impacts of climate change on agriculture requires a comprehensive approach that combines technological innovation, policy support, and community engagement to ensure food security for future generations."
+      ],
+      "explanation": "The correct answer is 'Increased costs for adaptation' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "Which approach is necessary to address climate change impacts on agriculture?",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties.",
+        "Addressing the impacts of climate change on agriculture requires a comprehensive approach that combines technological innovation, policy support, and community engagement to ensure food security for future generations."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "Addressing climate change impacts on agriculture is straightforward and quick.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties.",
+        "Addressing the impacts of climate change on agriculture requires a comprehensive approach that combines technological innovation, policy support, and community engagement to ensure food security for future generations."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "Name one type of crop that research is developing to resist climate stresses.",
+      "correctAnswer": "Drought-resistant or flood-tolerant crops",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security.",
+        "Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties.",
+        "International organizations and governments are investing in research to develop drought-resistant and flood-tolerant crops, as well as promoting sustainable farming practices."
+      ],
+      "explanation": "The correct answer is 'Drought-resistant or flood-tolerant crops' because the passage states: Climate change poses a significant threat to global agriculture, affecting crop yields, livestock health, and food security. Climate-induced stresses also have economic implications, including increased costs for adaptation measures such as irrigation systems, crop diversification, and development of climate-resilient crop varieties."
+    }
+  ],
+  "scoredAt": "2026-03-05T12:35:26Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need to improve comprehension and detail recognition. Many answers were missed due to overlooking specific clues or misinterpreting statements. Focus on locating key sentences that directly support answers, especially those containing keywords or synonyms related to the questions.",
+    "byPassage": {
+      "1": "You missed the environmental benefits of green spaces, such as improving air quality and supporting biodiversity, which were clearly highlighted. Pay attention to sentences listing multiple benefits, as they often contain the answer. For example, the sentence mentioning 'improving air quality, reducing urban heat, and supporting biodiversity' is crucial for environmental benefits questions. Also, the mention of green spaces increasing property values and attracting tourism is central for economic benefits. Practice scanning for such specific details in the passage.",
+      "2": "Many questions about renewable energy growth and challenges were missed because answers are often summarized in the sentences discussing technological advancements and policy measures. The phrase 'improvements in photovoltaic cell efficiency and reductions in manufacturing costs' is key for growth reasons. For challenges, look for sentences mentioning 'intermittency and storage issues.' Recognize that statements about future trends are often summarized at the end of paragraphs, so read those carefully.",
+      "3": "Questions on climate change impacts on agriculture hinge on understanding effects like 'extended growing seasons' versus 'heat stress' and identifying vulnerable groups like 'smallholder farmers.' The sentences discussing 'altered precipitation patterns' and 'economic implications' are critical. When questions involve measures or future developments, focus on sentences mentioning 'research,' 'development of drought-resistant crops,' or 'comprehensive approaches.'"
+    },
+    "tips": [
+      "Develop your scanning skills to quickly locate keywords and phrases that directly answer questions.",
+      "Practice identifying sentence clues that specify 'effects,' 'examples,' or 'statistics,' which are often the answer sources.",
+      "Review practice passages to familiarize yourself with how information is structured, especially how benefits, challenges, and future outlooks are presented."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T12:35:32Z"
+}

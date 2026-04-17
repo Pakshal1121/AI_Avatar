@@ -1,0 +1,931 @@
+{
+  "attemptId": "bac228f37ff8475689b0fdbdf58e8d1e",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-06T06:28:13Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Importance of Sunlight for Our Health",
+      "text": "Sunlight plays a vital role in maintaining good health for humans. When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function. Many people spend a significant amount of time indoors, which can lead to a deficiency in vitamin D. This deficiency has been linked to various health problems, including osteoporosis, depression, and weakened immune responses.\n\nIn addition to vitamin D synthesis, sunlight can also help regulate our sleep-wake cycle, known as the circadian rhythm. Exposure to natural light during the day helps to keep our internal clock synchronized, promoting better sleep at night. Conversely, lack of sunlight exposure can lead to sleep disorders and mood disturbances.\n\nWhile sunlight has many benefits, it is also important to be cautious about overexposure. Excessive sunlight can cause skin damage and increase the risk of skin cancer. Health experts recommend spending moderate time outdoors, especially during the early morning or late afternoon when the sun’s rays are less intense. Wearing protective clothing and applying sunscreen can help reduce the risk of skin damage.\n\nOverall, sunlight is a natural resource that offers numerous health benefits when enjoyed responsibly. Regular, moderate exposure is enough to help maintain vitamin D levels and support overall well-being, while avoiding the harmful effects of too much ultraviolet radiation."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Renewable Energy Technologies",
+      "text": "Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production. Historically, reliance on fossil fuels has led to environmental pollution and climate change, prompting a shift towards cleaner sources such as solar, wind, hydroelectric, and geothermal energy.\n\nSolar power has become one of the most rapidly growing sectors within renewable energy. Improvements in photovoltaic cell efficiency and reductions in manufacturing costs have made solar panels more accessible to consumers and industries alike. Solar farms are now a common sight in many regions, harnessing sunlight to generate electricity on a large scale.\n\nWind energy has also experienced substantial growth, especially in areas with high wind speeds. Modern wind turbines are designed to be more efficient and capable of generating electricity even at lower wind speeds. Offshore wind farms are emerging as a promising option for harnessing wind energy over large bodies of water, where wind conditions tend to be more consistent.\n\nHydroelectric power remains one of the oldest and most established renewable sources, utilizing the flow of water from rivers or dams to generate electricity. Advances in turbine technology and environmental management practices have helped mitigate some of the ecological impacts associated with hydroelectric projects.\n\nGeothermal energy, which exploits heat from beneath the Earth’s surface, offers a reliable and steady power source. Recent innovations have improved the efficiency of geothermal plants and expanded their geographic reach, making geothermal a more viable option in diverse locations.\n\nDespite these advancements, challenges remain, including the intermittency of solar and wind power, the environmental impact of large-scale infrastructure, and the need for energy storage solutions. Continued research and development are essential to overcoming these hurdles and ensuring a sustainable energy future."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of CRISPR in Modern Genetic Engineering",
+      "text": "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.\n\nThe CRISPR-Cas9 system works by using a guide RNA to locate a specific DNA sequence within the genome. The Cas9 enzyme then introduces a cut at this precise location. Once the DNA is cut, cellular repair mechanisms are activated, which can be harnessed to insert, delete, or replace genetic material. This ability to make targeted modifications has opened up numerous possibilities in medicine, agriculture, and biological research.\n\nIn medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer. Researchers are also investigating its use in developing gene therapies that could correct mutations at the embryonic stage, potentially eliminating inherited diseases.\n\nIn agriculture, CRISPR has been used to develop crops with improved yield, resistance to pests and diseases, and enhanced nutritional content. For example, gene-edited rice and wheat varieties are being tested to withstand harsh environmental conditions, which could help address food security issues amid climate change.\n\nDespite its promising applications, CRISPR technology raises ethical concerns, particularly regarding the potential for germline modifications that can be inherited by future generations. There are debates about the regulation and oversight necessary to prevent misuse, such as creating genetically modified organisms with unforeseen consequences.\n\nFurthermore, off-target effects—unintended edits in the genome—pose a challenge to ensuring safety and precision. Researchers are actively working to improve the accuracy of CRISPR systems and develop new tools for more controlled gene editing. As the technology advances, ongoing discussions about its ethical, legal, and social implications are essential to guide responsible use."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one benefit of sunlight mentioned in the passage?",
+          "options": [
+            "It helps produce vitamin D",
+            "It causes skin cancer",
+            "It reduces sleep quality",
+            "It decreases immune responses"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Sunlight exposure can help regulate sleep patterns.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits of sunlight with their descriptions:",
+          "options": [
+            "Vitamin D production",
+            "Regulating circadian rhythm",
+            "Causing skin damage",
+            "Supporting immune function"
+          ],
+          "correctAnswer": [
+            "Vitamin D synthesis",
+            "Maintains sleep-wake cycle",
+            "Harmful overexposure effects",
+            "Enhances immune health"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "According to the passage, what can help prevent skin damage from sunlight?",
+          "correctAnswer": "Wearing protective clothing and applying sunscreen"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Why do health experts recommend moderate sunlight exposure?",
+          "options": [
+            "To increase vitamin D levels without harm",
+            "To avoid sleep disorders",
+            "To prevent depression",
+            "To eliminate immune responses"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Too much ultraviolet radiation has no harmful effects.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a recommended time for outdoor activity to gain sunlight benefits?",
+          "options": [
+            "Midday",
+            "Early morning or late afternoon",
+            "Nighttime",
+            "Midnight"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What health problems are linked to vitamin D deficiency?",
+          "correctAnswer": "Osteoporosis, depression, weakened immune responses"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a potential risk of excessive sunlight exposure?",
+          "options": [
+            "Skin cancer",
+            "Increased sleep quality",
+            "Enhanced immune responses",
+            "Reduced vitamin D"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Sunlight can help improve sleep quality.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the sunlight benefit with its effect:",
+          "options": [
+            "Vitamin D synthesis",
+            "Sleep regulation",
+            "Skin damage risk",
+            "Immune support"
+          ],
+          "correctAnswer": [
+            "Supports bone health",
+            "Maintains sleep cycle",
+            "Harmful overexposure effects",
+            "Enhances immune responses"
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What measures can reduce the risk of skin damage from sunlight?",
+          "correctAnswer": "Wearing protective clothing and applying sunscreen"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Which statement best summarizes the overall message about sunlight?",
+          "options": [
+            "Sunlight has only benefits",
+            "Sunlight should be avoided entirely",
+            "Moderate sunlight exposure offers health benefits while avoiding harms",
+            "Sunlight exposure has no impact on health"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What has driven the shift towards renewable energy sources?",
+          "options": [
+            "Environmental pollution and climate change",
+            "Increased reliance on nuclear power",
+            "Depletion of fossil fuels",
+            "Advancements in coal technology"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Fossil fuels are considered environmentally friendly.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match each renewable energy source with a key characteristic:",
+          "options": [
+            "Solar power",
+            "Wind energy",
+            "Hydroelectric power",
+            "Geothermal energy"
+          ],
+          "correctAnswer": [
+            "Rapidly growing sector, solar panels",
+            "Effective in high wind areas, offshore farms",
+            "Uses water flow, established technology",
+            "Uses Earth's heat, reliable source"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What is a challenge associated with solar and wind power?",
+          "correctAnswer": "Intermittency and storage issues"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "Which renewable energy source is described as having a steady and reliable power supply?",
+          "options": [
+            "Solar",
+            "Wind",
+            "Hydroelectric",
+            "Geothermal"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Environmental impacts are negligible for hydroelectric power.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a current limitation for renewable energy development?",
+          "options": [
+            "High costs of all renewable technologies",
+            "Intermittency and infrastructure impacts",
+            "Lack of technological advancement",
+            "Unlimited availability of resources"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "Why is continued research important for renewable energy?",
+          "correctAnswer": "To overcome challenges and ensure sustainability"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a renewable energy source mentioned?",
+          "options": [
+            "Solar",
+            "Coal",
+            "Wind",
+            "Geothermal"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources have no environmental impact.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match each challenge with the corresponding renewable energy source:",
+          "options": [
+            "Intermittency issues",
+            "Environmental impacts",
+            "High costs",
+            "Limited resource availability"
+          ],
+          "correctAnswer": [
+            "Solar and wind",
+            "Hydroelectric and geothermal",
+            "All renewable sources",
+            "Limited in some locations"
+          ]
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is essential for a sustainable energy future?",
+          "correctAnswer": "Ongoing research and development"
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "What is a reason for the growth of solar power?",
+          "options": [
+            "Decrease in manufacturing costs",
+            "Increased pollution",
+            "Limited sunlight availability",
+            "High installation costs"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is CRISPR-Cas9 originally known for?",
+          "options": [
+            "A bacterial immune system",
+            "A plant breeding tool",
+            "A virus",
+            "A type of DNA mutation"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR was first discovered as a human immune system.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the CRISPR function with its description:",
+          "options": [
+            "Guide RNA",
+            "Cas9 enzyme",
+            "DNA cut site",
+            "Cellular repair mechanisms"
+          ],
+          "correctAnswer": [
+            "Locates specific DNA sequences",
+            "Introduces cuts in DNA",
+            "Targeted gene editing",
+            "Fixes DNA after cuts"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "In medicine, what genetic disorder is CRISPR being explored to treat?",
+          "correctAnswer": "Sickle cell anemia, cystic fibrosis, certain cancers"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "How is CRISPR used in agriculture?",
+          "options": [
+            "To develop pest-resistant crops",
+            "To increase pesticide use",
+            "To eliminate all pests",
+            "To reduce crop yields"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR modifications can be passed to future generations.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "What ethical concern is associated with CRISPR?",
+          "options": [
+            "Creating genetically modified organisms with unforeseen effects",
+            "Reducing crop yields",
+            "Increased pesticide use",
+            "Decreasing DNA diversity"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What is a technical challenge of CRISPR mentioned in the passage?",
+          "correctAnswer": "Off-target effects"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "What is being improved in CRISPR technology?",
+          "options": [
+            "Accuracy and control",
+            "Cost of production",
+            "Speed of DNA sequencing",
+            "Size of DNA molecules"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology has no ethical or social implications.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the application with its field:",
+          "options": [
+            "Gene therapy",
+            "Crop development",
+            "Genetic research",
+            "Ethical debates"
+          ],
+          "correctAnswer": [
+            "Medicine",
+            "Agriculture",
+            "Biology",
+            "Society"
+          ]
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "Why is responsible use of CRISPR important?",
+          "correctAnswer": "To prevent misuse and unforeseen consequences"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What does ongoing research aim to improve in CRISPR?",
+          "options": [
+            "Precision and safety",
+            "Cost reduction",
+            "Speed of editing",
+            "Ease of use"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q14",
+          "type": "multiple_choice",
+          "prompt": "What is the main concern about germline modifications?",
+          "options": [
+            "They can be inherited by future generations",
+            "They are easy to detect",
+            "They are reversible",
+            "They do not affect the organism"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are evenly distributed with exact counts per passage, covering all key points and requiring a variety of question types as specified.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 22.5,
+  "passage_1_score": 46.15,
+  "passage_2_score": 23.08,
+  "passage_3_score": 0.0,
+  "total_questions": 40,
+  "correct_questions": 9,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the following benefits of sunlight with their descriptions:",
+      "correctAnswer": [
+        "Vitamin D synthesis",
+        "Maintains sleep-wake cycle",
+        "Harmful overexposure effects",
+        "Enhances immune health"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function.",
+        "In addition to vitamin D synthesis, sunlight can also help regulate our sleep-wake cycle, known as the circadian rhythm.",
+        "While sunlight has many benefits, it is also important to be cautious about overexposure."
+      ],
+      "explanation": "The correct answer is '['Vitamin D synthesis', 'Maintains sleep-wake cycle', 'Harmful overexposure effects', 'Enhances immune health']' because the passage states: When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function. In addition to vitamin D synthesis, sunlight can also help regulate our sleep-wake cycle, known as the circadian rhythm."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "According to the passage, what can help prevent skin damage from sunlight?",
+      "correctAnswer": "Wearing protective clothing and applying sunscreen",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function.",
+        "Excessive sunlight can cause skin damage and increase the risk of skin cancer.",
+        "Wearing protective clothing and applying sunscreen can help reduce the risk of skin damage."
+      ],
+      "explanation": "The correct answer is 'Wearing protective clothing and applying sunscreen' because the passage states: When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function. Excessive sunlight can cause skin damage and increase the risk of skin cancer."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Why do health experts recommend moderate sunlight exposure?",
+      "correctAnswer": "A",
+      "userAnswer": "B",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Sunlight plays a vital role in maintaining good health for humans.",
+        "Conversely, lack of sunlight exposure can lead to sleep disorders and mood disturbances.",
+        "Health experts recommend spending moderate time outdoors, especially during the early morning or late afternoon when the sun’s rays are less intense."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Sunlight plays a vital role in maintaining good health for humans. Conversely, lack of sunlight exposure can lead to sleep disorders and mood disturbances."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What health problems are linked to vitamin D deficiency?",
+      "correctAnswer": "Osteoporosis, depression, weakened immune responses",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function.",
+        "Many people spend a significant amount of time indoors, which can lead to a deficiency in vitamin D.",
+        "This deficiency has been linked to various health problems, including osteoporosis, depression, and weakened immune responses."
+      ],
+      "explanation": "The correct answer is 'Osteoporosis, depression, weakened immune responses' because the passage states: When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function. Many people spend a significant amount of time indoors, which can lead to a deficiency in vitamin D."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Sunlight can help improve sleep quality.",
+      "correctAnswer": "True",
+      "userAnswer": "NOT GIVEN",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In addition to vitamin D synthesis, sunlight can also help regulate our sleep-wake cycle, known as the circadian rhythm.",
+        "Conversely, lack of sunlight exposure can lead to sleep disorders and mood disturbances.",
+        "Excessive sunlight can cause skin damage and increase the risk of skin cancer."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: In addition to vitamin D synthesis, sunlight can also help regulate our sleep-wake cycle, known as the circadian rhythm. Conversely, lack of sunlight exposure can lead to sleep disorders and mood disturbances."
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Match the sunlight benefit with its effect:",
+      "correctAnswer": [
+        "Supports bone health",
+        "Maintains sleep cycle",
+        "Harmful overexposure effects",
+        "Enhances immune responses"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function.",
+        "In addition to vitamin D synthesis, sunlight can also help regulate our sleep-wake cycle, known as the circadian rhythm.",
+        "Exposure to natural light during the day helps to keep our internal clock synchronized, promoting better sleep at night."
+      ],
+      "explanation": "The correct answer is '['Supports bone health', 'Maintains sleep cycle', 'Harmful overexposure effects', 'Enhances immune responses']' because the passage states: When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function. In addition to vitamin D synthesis, sunlight can also help regulate our sleep-wake cycle, known as the circadian rhythm."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What measures can reduce the risk of skin damage from sunlight?",
+      "correctAnswer": "Wearing protective clothing and applying sunscreen",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function.",
+        "Excessive sunlight can cause skin damage and increase the risk of skin cancer.",
+        "Wearing protective clothing and applying sunscreen can help reduce the risk of skin damage."
+      ],
+      "explanation": "The correct answer is 'Wearing protective clothing and applying sunscreen' because the passage states: When our skin is exposed to sunlight, it triggers the production of vitamin D, which is essential for healthy bones and immune function. Excessive sunlight can cause skin damage and increase the risk of skin cancer."
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match each renewable energy source with a key characteristic:",
+      "correctAnswer": [
+        "Rapidly growing sector, solar panels",
+        "Effective in high wind areas, offshore farms",
+        "Uses water flow, established technology",
+        "Uses Earth's heat, reliable source"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Solar power has become one of the most rapidly growing sectors within renewable energy.",
+        "Wind energy has also experienced substantial growth, especially in areas with high wind speeds.",
+        "Offshore wind farms are emerging as a promising option for harnessing wind energy over large bodies of water, where wind conditions tend to be more consistent."
+      ],
+      "explanation": "The correct answer is '['Rapidly growing sector, solar panels', 'Effective in high wind areas, offshore farms', 'Uses water flow, established technology', \"Uses Earth's heat, reliable source\"]' because the passage states: Solar power has become one of the most rapidly growing sectors within renewable energy. Wind energy has also experienced substantial growth, especially in areas with high wind speeds."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What is a challenge associated with solar and wind power?",
+      "correctAnswer": "Intermittency and storage issues",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Historically, reliance on fossil fuels has led to environmental pollution and climate change, prompting a shift towards cleaner sources such as solar, wind, hydroelectric, and geothermal energy.",
+        "Advances in turbine technology and environmental management practices have helped mitigate some of the ecological impacts associated with hydroelectric projects.",
+        "Despite these advancements, challenges remain, including the intermittency of solar and wind power, the environmental impact of large-scale infrastructure, and the need for energy storage solutions."
+      ],
+      "explanation": "The correct answer is 'Intermittency and storage issues' because the passage states: Historically, reliance on fossil fuels has led to environmental pollution and climate change, prompting a shift towards cleaner sources such as solar, wind, hydroelectric, and geothermal energy. Advances in turbine technology and environmental management practices have helped mitigate some of the ecological impacts associated with hydroelectric projects."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Which renewable energy source is described as having a steady and reliable power supply?",
+      "correctAnswer": "D",
+      "userAnswer": "B",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Solar power has become one of the most rapidly growing sectors within renewable energy.",
+        "Hydroelectric power remains one of the oldest and most established renewable sources, utilizing the flow of water from rivers or dams to generate electricity.",
+        "Geothermal energy, which exploits heat from beneath the Earth’s surface, offers a reliable and steady power source."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: Solar power has become one of the most rapidly growing sectors within renewable energy. Hydroelectric power remains one of the oldest and most established renewable sources, utilizing the flow of water from rivers or dams to generate electricity."
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Environmental impacts are negligible for hydroelectric power.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Historically, reliance on fossil fuels has led to environmental pollution and climate change, prompting a shift towards cleaner sources such as solar, wind, hydroelectric, and geothermal energy.",
+        "Advances in turbine technology and environmental management practices have helped mitigate some of the ecological impacts associated with hydroelectric projects.",
+        "Despite these advancements, challenges remain, including the intermittency of solar and wind power, the environmental impact of large-scale infrastructure, and the need for energy storage solutions."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Historically, reliance on fossil fuels has led to environmental pollution and climate change, prompting a shift towards cleaner sources such as solar, wind, hydroelectric, and geothermal energy. Advances in turbine technology and environmental management practices have helped mitigate some of the ecological impacts associated with hydroelectric projects."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What is a current limitation for renewable energy development?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production.",
+        "Solar power has become one of the most rapidly growing sectors within renewable energy.",
+        "Offshore wind farms are emerging as a promising option for harnessing wind energy over large bodies of water, where wind conditions tend to be more consistent."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production. Solar power has become one of the most rapidly growing sectors within renewable energy."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "Why is continued research important for renewable energy?",
+      "correctAnswer": "To overcome challenges and ensure sustainability",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production.",
+        "Despite these advancements, challenges remain, including the intermittency of solar and wind power, the environmental impact of large-scale infrastructure, and the need for energy storage solutions.",
+        "Continued research and development are essential to overcoming these hurdles and ensuring a sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'To overcome challenges and ensure sustainability' because the passage states: Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production. Despite these advancements, challenges remain, including the intermittency of solar and wind power, the environmental impact of large-scale infrastructure, and the need for energy storage solutions."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT a renewable energy source mentioned?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production.",
+        "Solar power has become one of the most rapidly growing sectors within renewable energy.",
+        "Geothermal energy, which exploits heat from beneath the Earth’s surface, offers a reliable and steady power source."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production. Solar power has become one of the most rapidly growing sectors within renewable energy."
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match each challenge with the corresponding renewable energy source:",
+      "correctAnswer": [
+        "Solar and wind",
+        "Hydroelectric and geothermal",
+        "All renewable sources",
+        "Limited in some locations"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production.",
+        "Advances in turbine technology and environmental management practices have helped mitigate some of the ecological impacts associated with hydroelectric projects.",
+        "Geothermal energy, which exploits heat from beneath the Earth’s surface, offers a reliable and steady power source."
+      ],
+      "explanation": "The correct answer is '['Solar and wind', 'Hydroelectric and geothermal', 'All renewable sources', 'Limited in some locations']' because the passage states: Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production. Advances in turbine technology and environmental management practices have helped mitigate some of the ecological impacts associated with hydroelectric projects."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is essential for a sustainable energy future?",
+      "correctAnswer": "Ongoing research and development",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production.",
+        "Despite these advancements, challenges remain, including the intermittency of solar and wind power, the environmental impact of large-scale infrastructure, and the need for energy storage solutions.",
+        "Continued research and development are essential to overcoming these hurdles and ensuring a sustainable energy future."
+      ],
+      "explanation": "The correct answer is 'Ongoing research and development' because the passage states: Renewable energy technologies have seen significant advancements over the past few decades as the world seeks sustainable solutions to energy production. Despite these advancements, challenges remain, including the intermittency of solar and wind power, the environmental impact of large-scale infrastructure, and the need for energy storage solutions."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What is a reason for the growth of solar power?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Solar power has become one of the most rapidly growing sectors within renewable energy.",
+        "Hydroelectric power remains one of the oldest and most established renewable sources, utilizing the flow of water from rivers or dams to generate electricity.",
+        "Despite these advancements, challenges remain, including the intermittency of solar and wind power, the environmental impact of large-scale infrastructure, and the need for energy storage solutions."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Solar power has become one of the most rapidly growing sectors within renewable energy. Hydroelectric power remains one of the oldest and most established renewable sources, utilizing the flow of water from rivers or dams to generate electricity."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is CRISPR-Cas9 originally known for?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.",
+        "The CRISPR-Cas9 system works by using a guide RNA to locate a specific DNA sequence within the genome."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "CRISPR was first discovered as a human immune system.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.",
+        "The CRISPR-Cas9 system works by using a guide RNA to locate a specific DNA sequence within the genome."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms."
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the CRISPR function with its description:",
+      "correctAnswer": [
+        "Locates specific DNA sequences",
+        "Introduces cuts in DNA",
+        "Targeted gene editing",
+        "Fixes DNA after cuts"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.",
+        "The CRISPR-Cas9 system works by using a guide RNA to locate a specific DNA sequence within the genome.",
+        "Researchers are also investigating its use in developing gene therapies that could correct mutations at the embryonic stage, potentially eliminating inherited diseases."
+      ],
+      "explanation": "The correct answer is '['Locates specific DNA sequences', 'Introduces cuts in DNA', 'Targeted gene editing', 'Fixes DNA after cuts']' because the passage states: Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms. The CRISPR-Cas9 system works by using a guide RNA to locate a specific DNA sequence within the genome."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "In medicine, what genetic disorder is CRISPR being explored to treat?",
+      "correctAnswer": "Sickle cell anemia, cystic fibrosis, certain cancers",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.",
+        "In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+      ],
+      "explanation": "The correct answer is 'Sickle cell anemia, cystic fibrosis, certain cancers' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "How is CRISPR used in agriculture?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.",
+        "In agriculture, CRISPR has been used to develop crops with improved yield, resistance to pests and diseases, and enhanced nutritional content."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms."
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "CRISPR modifications can be passed to future generations.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.",
+        "Despite its promising applications, CRISPR technology raises ethical concerns, particularly regarding the potential for germline modifications that can be inherited by future generations."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "What ethical concern is associated with CRISPR?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "In agriculture, CRISPR has been used to develop crops with improved yield, resistance to pests and diseases, and enhanced nutritional content.",
+        "Despite its promising applications, CRISPR technology raises ethical concerns, particularly regarding the potential for germline modifications that can be inherited by future generations."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. In agriculture, CRISPR has been used to develop crops with improved yield, resistance to pests and diseases, and enhanced nutritional content."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What is a technical challenge of CRISPR mentioned in the passage?",
+      "correctAnswer": "Off-target effects",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.",
+        "Furthermore, off-target effects—unintended edits in the genome—pose a challenge to ensuring safety and precision."
+      ],
+      "explanation": "The correct answer is 'Off-target effects' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "What is being improved in CRISPR technology?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer.",
+        "In agriculture, CRISPR has been used to develop crops with improved yield, resistance to pests and diseases, and enhanced nutritional content."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "CRISPR technology has no ethical or social implications.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Despite its promising applications, CRISPR technology raises ethical concerns, particularly regarding the potential for germline modifications that can be inherited by future generations.",
+        "As the technology advances, ongoing discussions about its ethical, legal, and social implications are essential to guide responsible use."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Despite its promising applications, CRISPR technology raises ethical concerns, particularly regarding the potential for germline modifications that can be inherited by future generations."
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the application with its field:",
+      "correctAnswer": [
+        "Medicine",
+        "Agriculture",
+        "Biology",
+        "Society"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Researchers are also investigating its use in developing gene therapies that could correct mutations at the embryonic stage, potentially eliminating inherited diseases.",
+        "Despite its promising applications, CRISPR technology raises ethical concerns, particularly regarding the potential for germline modifications that can be inherited by future generations."
+      ],
+      "explanation": "The correct answer is '['Medicine', 'Agriculture', 'Biology', 'Society']' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Researchers are also investigating its use in developing gene therapies that could correct mutations at the embryonic stage, potentially eliminating inherited diseases."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "Why is responsible use of CRISPR important?",
+      "correctAnswer": "To prevent misuse and unforeseen consequences",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "There are debates about the regulation and oversight necessary to prevent misuse, such as creating genetically modified organisms with unforeseen consequences.",
+        "As the technology advances, ongoing discussions about its ethical, legal, and social implications are essential to guide responsible use."
+      ],
+      "explanation": "The correct answer is 'To prevent misuse and unforeseen consequences' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. There are debates about the regulation and oversight necessary to prevent misuse, such as creating genetically modified organisms with unforeseen consequences."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What does ongoing research aim to improve in CRISPR?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes.",
+        "Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms.",
+        "Researchers are actively working to improve the accuracy of CRISPR systems and develop new tools for more controlled gene editing."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing a precise, efficient, and relatively simple method for editing genes. Originally discovered as a bacterial immune system that defends against viruses, CRISPR has been adapted by scientists to target and modify specific DNA sequences in various organisms."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "What is the main concern about germline modifications?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Despite its promising applications, CRISPR technology raises ethical concerns, particularly regarding the potential for germline modifications that can be inherited by future generations.",
+        "There are debates about the regulation and oversight necessary to prevent misuse, such as creating genetically modified organisms with unforeseen consequences.",
+        "As the technology advances, ongoing discussions about its ethical, legal, and social implications are essential to guide responsible use."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Despite its promising applications, CRISPR technology raises ethical concerns, particularly regarding the potential for germline modifications that can be inherited by future generations. There are debates about the regulation and oversight necessary to prevent misuse, such as creating genetically modified organisms with unforeseen consequences."
+    }
+  ],
+  "scoredAt": "2026-03-06T06:29:00Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need for focused review on passage details and inference skills. Many errors stem from missing clues or misinterpreting the passage's emphasis. Pay close attention to keywords and the specific sentences that support answers.",
+    "byPassage": {
+      "1": "Incorrectly answered questions about benefits and skin protection suggest you overlooked sentences detailing sunlight's role in vitamin D production and skin damage prevention. Revisit the sentences highlighting 'triggering vitamin D synthesis' and 'wearing protective clothing.'",
+      "2": "Errors in renewable energy questions point to missing the distinctions between energy sources and their characteristics. Focus on sentences describing 'rapid growth,' 'effectiveness in high wind areas,' and 'reliability of hydro and geothermal.' Pay attention to words like 'most rapidly growing' and 'steady power source.'",
+      "3": "Mistakes in the CRISPR section indicate a failure to connect functions with their descriptions and ethical implications. Review sentences about 'targeting DNA,' 'germline modifications,' and 'ethical concerns.' Notice phrases like 'originally discovered as' and 'raises ethical concerns.'"
+    },
+    "tips": [
+      "Practice locating and highlighting key sentences that directly answer questions, especially those with explicit details or definitions.",
+      "Develop inference skills by asking yourself what the sentence implies beyond its literal meaning, helping to answer 'True/False' or 'Not Given' questions more accurately.",
+      "Create summary notes for each paragraph, focusing on main ideas, key terms, and their supporting sentences to improve comprehension and retention."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-06T06:29:05Z"
+}

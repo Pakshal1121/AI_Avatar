@@ -1,0 +1,707 @@
+{
+  "attemptId": "88b55555d60a43259c4c219637b1ba60",
+  "userId": "divyapunna1206@gmail.com",
+  "createdAt": "2026-03-02T12:57:23Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Reading Books",
+      "text": "Reading books is a popular activity enjoyed by people of all ages. It offers numerous benefits, including mental stimulation, stress reduction, and knowledge acquisition. When you read, your brain engages in complex processes such as comprehension, imagination, and critical thinking. This mental exercise helps keep the brain active and healthy. Moreover, reading can be a great way to relax and escape from daily worries. Many people find that reading a good book before bed can help them unwind and improve sleep quality. In addition to mental health benefits, reading also broadens vocabulary and enhances language skills. It exposes readers to new ideas, cultures, and perspectives, fostering empathy and understanding. Children who develop a habit of reading early in life tend to perform better academically and develop stronger communication skills. Libraries and bookstores provide easy access to a wide variety of books, making reading an accessible activity for everyone. Whether it's fiction, non-fiction, or poetry, reading enriches our lives and helps us grow as individuals."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Climate Change on Global Agriculture",
+      "text": "Climate change has become one of the most pressing issues facing the modern world, with significant implications for global agriculture. Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events threaten crop yields and food security across many regions. For example, prolonged droughts in parts of Africa and Asia have led to declining harvests, exacerbating hunger and malnutrition. Conversely, some areas may experience more favorable conditions, potentially increasing productivity; however, these benefits are often offset by the risks of pests and diseases that thrive in warmer climates. Additionally, changing weather patterns can disrupt planting and harvesting schedules, affecting supply chains and market prices. Farmers are increasingly adopting innovative practices, such as drought-resistant crops and advanced irrigation techniques, to adapt to these changes. Governments and international organizations are also working to develop policies that promote sustainable agriculture and mitigate climate impacts. Despite these efforts, the challenge remains formidable, requiring a coordinated global response to ensure food security for a growing population in the face of a changing climate."
+    },
+    {
+      "passageId": "3",
+      "title": "Advances in Renewable Energy Technologies and Their Role in Sustainable Development",
+      "text": "In recent decades, the pursuit of renewable energy sources has gained momentum as a crucial strategy for addressing climate change and promoting sustainable development. Technologies such as solar photovoltaic panels, wind turbines, hydroelectric power, and bioenergy have become more efficient and cost-effective, enabling wider adoption worldwide. Solar energy, in particular, has experienced rapid growth due to declining costs and technological improvements, making it accessible for both large-scale power plants and individual households. Wind energy has also expanded significantly, especially in regions with strong, consistent winds, providing a clean alternative to fossil fuels. Hydroelectric power remains a major contributor to global energy production, although its environmental impact requires careful management. Bioenergy, derived from organic materials, offers a renewable option that can be integrated into existing energy systems. These advancements are vital for reducing greenhouse gas emissions and decreasing dependence on non-renewable resources. Moreover, the development of energy storage solutions, smart grids, and decentralized energy systems enhances the reliability and accessibility of renewable energy. As countries commit to climate goals outlined in international agreements such as the Paris Accord, investment in renewable technologies continues to grow. Future research focuses on improving efficiency, reducing costs, and ensuring sustainable land and water use to maximize the benefits of renewable energy in achieving a resilient and sustainable global energy system."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one benefit of reading mentioned in the passage?",
+          "options": [
+            "Mental stimulation",
+            "Physical exercise",
+            "Financial gain",
+            "Medical treatment"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage states that reading offers mental stimulation among other benefits."
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Reading can help improve sleep quality.",
+          "options": [],
+          "correctAnswer": "TRUE",
+          "rationale": "The passage mentions that reading before bed can help improve sleep quality."
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph to its main idea:",
+          "options": [
+            "Benefits of reading",
+            "Access to books",
+            "Children and reading",
+            "Mental health advantages"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The paragraph mainly discusses the benefits of reading, including mental health and personal growth."
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name two skills that reading helps to develop.",
+          "options": [],
+          "correctAnswer": "Vocabulary and language skills",
+          "rationale": "The passage states that reading broadens vocabulary and enhances language skills."
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, children who develop a reading habit early tend to:",
+          "options": [
+            "Perform worse academically",
+            "Develop stronger communication skills",
+            "Lose interest in books",
+            "Avoid social activities"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage notes that children who read early tend to develop stronger communication skills."
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Reading is only beneficial for children.",
+          "options": [],
+          "correctAnswer": "FALSE",
+          "rationale": "The passage states that reading is enjoyed by people of all ages, not just children."
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "What do libraries and bookstores provide?",
+          "options": [
+            "Limited access to books",
+            "Easy access to a wide variety of books",
+            "Exclusive books for members",
+            "Digital books only"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage mentions that libraries and bookstores provide easy access to a wide variety of books."
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "How does reading help in stressful situations?",
+          "options": [],
+          "correctAnswer": "It helps to relax and escape from worries",
+          "rationale": "The passage states that reading can be a great way to relax and escape from daily worries."
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of reading?",
+          "options": [
+            "Knowledge acquisition",
+            "Physical fitness",
+            "Stress reduction",
+            "Imagination development"
+          ],
+          "correctAnswer": "B",
+          "rationale": "Physical fitness is not mentioned; the other options are benefits listed in the passage."
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Reading can help to develop empathy.",
+          "options": [],
+          "correctAnswer": "TRUE",
+          "rationale": "The passage states that reading exposes readers to new ideas, cultures, and perspectives, fostering empathy."
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph to its focus:",
+          "options": [
+            "Mental processes involved in reading",
+            "Reading and academic performance",
+            "Accessibility of reading",
+            "Reading for relaxation"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The paragraph about access discusses how libraries and bookstores make reading accessible."
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What is one way reading helps mental health?",
+          "options": [],
+          "correctAnswer": "Stress reduction or relaxation",
+          "rationale": "The passage mentions that reading helps reduce stress and can be relaxing."
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "What does the passage suggest about fiction, non-fiction, and poetry?",
+          "options": [
+            "They are all forms of reading that enrich our lives",
+            "They are outdated genres",
+            "Only fiction is beneficial",
+            "Poetry is the most popular genre"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage states that whether it's fiction, non-fiction, or poetry, reading enriches our lives."
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a major concern related to climate change and agriculture?",
+          "options": [
+            "Increased crop yields",
+            "Threats to food security",
+            "Reduced weather variability",
+            "Stable harvests"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage discusses threats to crop yields and food security due to climate change."
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Some regions may experience increased productivity due to climate change.",
+          "options": [],
+          "correctAnswer": "TRUE",
+          "rationale": "The passage mentions that some areas may benefit with increased productivity."
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph to its main theme:",
+          "options": [
+            "Negative impacts of climate change",
+            "Adaptation strategies in agriculture",
+            "Global efforts to combat climate change",
+            "Challenges in food supply chains"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The paragraph primarily discusses the negative impacts of climate change on agriculture."
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Name one practice farmers are adopting to adapt to climate change.",
+          "options": [],
+          "correctAnswer": "Drought-resistant crops or advanced irrigation techniques",
+          "rationale": "The passage states that farmers are adopting drought-resistant crops and advanced irrigation."
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What role do governments and organizations play?",
+          "options": [
+            "Ignore climate impacts",
+            "Develop policies for sustainable agriculture",
+            "Reduce agricultural productivity",
+            "Promote fossil fuel use"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that governments and organizations develop policies to promote sustainable agriculture."
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "All regions are equally affected by climate change.",
+          "options": [],
+          "correctAnswer": "NOT_GIVEN",
+          "rationale": "The passage indicates that impacts vary across regions, with some experiencing declines and others potential benefits."
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What is a consequence of disrupted planting and harvesting schedules?",
+          "options": [
+            "Improved supply chains",
+            "Affecting market prices",
+            "Stabilizing food supplies",
+            "Reducing pests"
+          ],
+          "correctAnswer": "B",
+          "rationale": "Disruptions affect supply chains and market prices as per the passage."
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "Why are innovative agricultural practices important?",
+          "options": [],
+          "correctAnswer": "To adapt to climate changes and ensure food security",
+          "rationale": "The passage emphasizes adopting new practices to cope with climate change."
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a challenge?",
+          "options": [
+            "Declining harvests",
+            "Food security threats",
+            "Stable climate conditions",
+            "Disrupted supply chains"
+          ],
+          "correctAnswer": "C",
+          "rationale": "Stable climate conditions are not mentioned; challenges involve disruptions and declines."
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Mitigating climate change in agriculture is straightforward.",
+          "options": [],
+          "correctAnswer": "FALSE",
+          "rationale": "The passage suggests that addressing these challenges is complex and requires a coordinated effort."
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph to its focus:",
+          "options": [
+            "Impacts of climate change",
+            "Adaptation practices",
+            "Global policy efforts",
+            "Challenges faced"
+          ],
+          "correctAnswer": "D",
+          "rationale": "The paragraph discusses various challenges faced by agriculture due to climate change."
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is necessary to address the challenges of climate change and agriculture?",
+          "options": [],
+          "correctAnswer": "A coordinated global response",
+          "rationale": "The passage states that a coordinated response is required."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "How does climate change affect planting and harvesting?",
+          "options": [
+            "It stabilizes schedules",
+            "It disrupts schedules",
+            "It has no effect",
+            "It speeds up processes"
+          ],
+          "correctAnswer": "B",
+          "rationale": "Changing weather patterns disrupt planting and harvesting schedules."
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What has gained momentum as a strategy for addressing climate change?",
+          "options": [
+            "Fossil fuel use",
+            "Renewable energy sources",
+            "Nuclear energy",
+            "Coal power"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that the pursuit of renewable energy sources has gained momentum."
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy technologies are becoming less efficient.",
+          "options": [],
+          "correctAnswer": "FALSE",
+          "rationale": "The passage mentions that renewable technologies are becoming more efficient."
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph to its main idea:",
+          "options": [
+            "Growth of solar energy",
+            "Wind energy expansion",
+            "Environmental impact of hydroelectric power",
+            "Advantages of bioenergy"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The paragraph discusses the rapid growth of solar energy due to decreasing costs."
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Why has wind energy expanded significantly?",
+          "options": [],
+          "correctAnswer": "Regions with strong, consistent winds",
+          "rationale": "The passage states wind energy has expanded in areas with reliable winds."
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a consideration when using hydroelectric power?",
+          "options": [
+            "Its environmental impact",
+            "Its high cost",
+            "Its dependence on fossil fuels",
+            "Limited availability"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage notes that hydroelectric power's environmental impact requires careful management."
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Bioenergy cannot be integrated into existing energy systems.",
+          "options": [],
+          "correctAnswer": "FALSE",
+          "rationale": "The passage states that bioenergy can be integrated into existing systems."
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "What do advancements in renewable energy include?",
+          "options": [
+            "Energy storage",
+            "Smart grids",
+            "Decentralized systems",
+            "All of the above"
+          ],
+          "correctAnswer": "D",
+          "rationale": "The passage lists all these advancements as part of renewable energy development."
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "How do international agreements influence renewable energy development?",
+          "options": [],
+          "correctAnswer": "They promote investment and commitment to climate goals",
+          "rationale": "The passage mentions that international agreements like the Paris Accord encourage renewable investments."
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a focus of future research in renewable energy?",
+          "options": [
+            "Increasing efficiency",
+            "Reducing costs",
+            "Sustainable land and water use",
+            "All of the above"
+          ],
+          "correctAnswer": "D",
+          "rationale": "The passage states that future research aims at all these aspects."
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "Current renewable energy technologies are already perfect.",
+          "options": [],
+          "correctAnswer": "FALSE",
+          "rationale": "The passage indicates ongoing improvements and research are needed."
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph to its theme:",
+          "options": [
+            "Growth of renewable energy",
+            "Technological advancements",
+            "Global climate commitments",
+            "Future challenges"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The paragraph discusses technological improvements in renewable energy."
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What is one benefit of developing renewable energy systems?",
+          "options": [],
+          "correctAnswer": "Reducing greenhouse gas emissions",
+          "rationale": "The passage emphasizes that renewable energy helps decrease emissions."
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "Why is sustainable land and water use important in renewable energy?",
+          "options": [
+            "To maximize environmental benefits",
+            "To reduce costs",
+            "To increase dependence on fossil fuels",
+            "To limit technological development"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage states that sustainable land and water use is vital for maximizing benefits."
+        }
+      ]
+    }
+  ],
+  "notes": "Questions cover main ideas, details, inferences, and vocabulary based on the passages, following IELTS reading question types and structure.",
+  "questionsPerPassage": 13,
+  "overall_score": 23.08,
+  "passage_1_score": 30.77,
+  "passage_2_score": 23.08,
+  "passage_3_score": 15.38,
+  "total_questions": 39,
+  "correct_questions": 9,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Reading can help improve sleep quality.",
+      "correctAnswer": "TRUE",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the paragraph to its main idea:",
+      "correctAnswer": "A",
+      "userAnswer": "hdsdvjcvsjd",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name two skills that reading helps to develop.",
+      "correctAnswer": "Vocabulary and language skills",
+      "userAnswer": "nkcnlncld",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Reading is only beneficial for children.",
+      "correctAnswer": "FALSE",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "How does reading help in stressful situations?",
+      "correctAnswer": "It helps to relax and escape from worries",
+      "userAnswer": "dnlnlandsl",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Reading can help to develop empathy.",
+      "correctAnswer": "TRUE",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Match the paragraph to its focus:",
+      "correctAnswer": "C",
+      "userAnswer": "sdbasbdkasbdk",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What is one way reading helps mental health?",
+      "correctAnswer": "Stress reduction or relaxation",
+      "userAnswer": "sjka ljcacall",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "What does the passage suggest about fiction, non-fiction, and poetry?",
+      "correctAnswer": "A",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Some regions may experience increased productivity due to climate change.",
+      "correctAnswer": "TRUE",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the paragraph to its main theme:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Name one practice farmers are adopting to adapt to climate change.",
+      "correctAnswer": "Drought-resistant crops or advanced irrigation techniques",
+      "userAnswer": "ssssss",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "What role do governments and organizations play?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "All regions are equally affected by climate change.",
+      "correctAnswer": "NOT_GIVEN",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What is a consequence of disrupted planting and harvesting schedules?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "Why are innovative agricultural practices important?",
+      "correctAnswer": "To adapt to climate changes and ensure food security",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the paragraph to its focus:",
+      "correctAnswer": "D",
+      "userAnswer": "ssssss",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is necessary to address the challenges of climate change and agriculture?",
+      "correctAnswer": "A coordinated global response",
+      "userAnswer": "sssss",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "How does climate change affect planting and harvesting?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What has gained momentum as a strategy for addressing climate change?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the paragraph to its main idea:",
+      "correctAnswer": "A",
+      "userAnswer": "skhvbljsb",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Why has wind energy expanded significantly?",
+      "correctAnswer": "Regions with strong, consistent winds",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is a consideration when using hydroelectric power?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Bioenergy cannot be integrated into existing energy systems.",
+      "correctAnswer": "FALSE",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "What do advancements in renewable energy include?",
+      "correctAnswer": "D",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "How do international agreements influence renewable energy development?",
+      "correctAnswer": "They promote investment and commitment to climate goals",
+      "userAnswer": "ssosnnslkn",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "What is a focus of future research in renewable energy?",
+      "correctAnswer": "D",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the paragraph to its theme:",
+      "correctAnswer": "B",
+      "userAnswer": "sbdnpnopjw",
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What is one benefit of developing renewable energy systems?",
+      "correctAnswer": "Reducing greenhouse gas emissions",
+      "userAnswer": "owjojj",
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "Why is sustainable land and water use important in renewable energy?",
+      "correctAnswer": "A",
+      "userAnswer": "B",
+      "type": "multiple_choice"
+    }
+  ],
+  "scoredAt": "2026-03-02T12:58:46Z"
+}

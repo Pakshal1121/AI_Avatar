@@ -1,0 +1,695 @@
+{
+  "attemptId": "9e39a2ff4986459797d17c736c685f8d",
+  "userId": "cp@gmail.com",
+  "createdAt": "2026-03-05T04:45:22Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Gardening for Well-being",
+      "text": "Gardening is a popular hobby enjoyed by many people around the world. Not only does it provide an opportunity to grow flowers, vegetables, and herbs, but it also offers numerous health benefits. Engaging in gardening activities can help reduce stress and improve mental health. When people spend time outdoors tending to plants, they often experience a sense of relaxation and accomplishment. Additionally, gardening encourages physical activity, which is beneficial for cardiovascular health and helps build strength and flexibility. For children, gardening can be an educational activity that teaches responsibility and environmental awareness. Furthermore, growing your own food can promote healthier eating habits since home-grown produce is fresh and free from preservatives. Many studies have shown that spending time in green spaces can lower cortisol levels, a hormone associated with stress. Despite its many advantages, gardening requires some effort and patience, especially for beginners. It is important to start with simple projects and gradually learn about different plants and gardening techniques. Overall, gardening is a rewarding activity that can contribute to a healthier and happier lifestyle."
+    },
+    {
+      "passageId": "2",
+      "title": "The Role of Renewable Energy in Modern Power Systems",
+      "text": "In recent decades, the increasing demand for sustainable and environmentally friendly energy sources has led to the rapid development of renewable energy technologies. These include solar power, wind power, hydroelectricity, and biomass. Renewable energy plays a crucial role in reducing greenhouse gas emissions and decreasing dependence on fossil fuels, which are finite resources contributing to climate change. The integration of renewable energy into existing power systems presents both opportunities and challenges. On one hand, renewable sources can provide clean and abundant energy, often with lower operational costs once infrastructure is established. On the other hand, their intermittent nature—such as the variability of sunlight and wind—requires advanced grid management and energy storage solutions to ensure a stable supply. Innovations in battery technology and smart grid systems are helping to address these issues by balancing supply and demand more effectively. Governments worldwide are implementing policies and incentives to promote renewable energy adoption. For example, feed-in tariffs and tax credits encourage investment in renewable projects. The transition to renewable energy is also driven by technological advancements that have made these sources more efficient and affordable. Despite these progressions, there remain obstacles, including high initial costs and the need for extensive infrastructure upgrades. Nevertheless, the shift towards renewable energy is essential for achieving global climate goals and ensuring long-term energy security."
+    },
+    {
+      "passageId": "3",
+      "title": "The Impact of Climate Change on Coral Reefs: An Ecological Perspective",
+      "text": "Coral reefs are among the most biologically diverse and valuable ecosystems on Earth, supporting approximately 25% of all marine species despite covering less than 0.1% of the ocean floor. These ecosystems are highly sensitive to environmental changes, making them particularly vulnerable to the impacts of climate change. Rising sea temperatures, a direct consequence of global warming, cause coral bleaching—a stress response where corals expel the symbiotic algae (zooxanthellae) living within their tissues, leading to a loss of color and vital energy sources. Prolonged bleaching events can result in widespread coral mortality, disrupting the entire reef ecosystem. Additionally, increased levels of atmospheric carbon dioxide (CO2) contribute to ocean acidification, which hampers coral calcification processes essential for reef growth and maintenance. The combination of bleaching, acidification, and other stressors such as overfishing and pollution accelerates reef degradation. The loss of coral reefs has far-reaching ecological and economic consequences, including the decline of fish populations and the collapse of tourism industries dependent on healthy reefs. Scientific research emphasizes the importance of reducing greenhouse gas emissions to mitigate these impacts. Conservation efforts include establishing marine protected areas, restoring damaged reefs through coral farming techniques, and promoting sustainable fishing practices. However, addressing the root causes of climate change remains the most critical challenge for preserving coral reef ecosystems for future generations."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main health benefits of gardening mentioned in the passage?",
+          "options": [
+            "A. It enhances eyesight",
+            "B. It reduces stress and improves mental health",
+            "C. It increases sleep quality",
+            "D. It prevents common colds"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Gardening activities are only suitable for adults.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which heading best fits the paragraph about children and gardening?",
+          "options": [
+            "A. Gardening and Physical Health",
+            "B. Gardening as an Educational Activity",
+            "C. The Economic Benefits of Gardening",
+            "D. Gardening Techniques for Beginners"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one environmental benefit of growing your own food.",
+          "correctAnswer": "It promotes healthier eating habits and reduces preservatives."
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, what is necessary for beginners to do when starting gardening?",
+          "options": [
+            "A. Use advanced gardening techniques immediately",
+            "B. Start with complex projects",
+            "C. Begin with simple projects and learn gradually",
+            "D. Avoid outdoor activities"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Gardening requires no effort or patience.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which heading relates to health benefits of gardening?",
+          "options": [
+            "A. Gardening and Mental Well-being",
+            "B. Gardening and Environmental Education",
+            "C. Gardening and Economic Growth",
+            "D. Gardening for Beginners"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What hormone associated with stress can be lowered by spending time in green spaces?",
+          "correctAnswer": "Cortisol"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a challenge for new gardeners mentioned in the passage?",
+          "options": [
+            "A. Finding enough outdoor space",
+            "B. Lack of interest in gardening",
+            "C. Gardening requires effort and patience",
+            "D. Difficulty in growing flowers"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Gardening activities can help build strength and flexibility.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which heading best describes the overall benefits of gardening?",
+          "options": [
+            "A. Gardening for Mental and Physical Health",
+            "B. Gardening as a Hobby",
+            "C. Gardening and Climate Change",
+            "D. Gardening Techniques"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "Why is it important to start with simple gardening projects?",
+          "correctAnswer": "To learn gradually and avoid frustration."
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of gardening?",
+          "options": [
+            "A. Reducing stress",
+            "B. Improving mental health",
+            "C. Increasing income",
+            "D. Promoting physical activity"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one reason for the development of renewable energy technologies?",
+          "options": [
+            "A. To increase fossil fuel dependence",
+            "B. To reduce greenhouse gas emissions",
+            "C. To make energy sources more expensive",
+            "D. To decrease energy efficiency"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are completely reliable without any challenges.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which heading relates to the challenges of renewable energy?",
+          "options": [
+            "A. Cost and Infrastructure Challenges",
+            "B. Benefits of Renewable Energy",
+            "C. Renewable Energy Policy Incentives",
+            "D. Future of Renewable Energy"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What is one technological advancement helping renewable energy integration?",
+          "correctAnswer": "Battery technology and smart grid systems"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "Which policy is mentioned as encouraging renewable energy?",
+          "options": [
+            "A. Carbon taxes",
+            "B. Feed-in tariffs and tax credits",
+            "C. Import tariffs",
+            "D. Subsidies for fossil fuels"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "The initial costs of renewable energy are generally low.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which heading discusses environmental benefits?",
+          "options": [
+            "A. Reducing Dependence on Fossil Fuels",
+            "B. Environmental Benefits of Renewable Energy",
+            "C. Challenges in Grid Management",
+            "D. Future Technological Developments"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "Why is energy storage important for renewable energy?",
+          "correctAnswer": "To manage intermittency and ensure a stable supply."
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a major obstacle to adopting renewable energy?",
+          "options": [
+            "A. Excessive sunlight",
+            "B. High initial costs and infrastructure needs",
+            "C. Lack of technological innovation",
+            "D. Too much government support"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are becoming more affordable due to technological progress.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which relates to the importance of renewable energy for climate goals?",
+          "options": [
+            "A. Achieving Global Climate Goals",
+            "B. Economic Incentives for Renewable Energy",
+            "C. Challenges of Grid Interconnection",
+            "D. Future of Fossil Fuels"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is one benefit of lower operational costs after infrastructure is established?",
+          "correctAnswer": "It makes renewable energy more economically viable."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT an example of renewable energy sources mentioned?",
+          "options": [
+            "A. Solar power",
+            "B. Wind power",
+            "C. Natural gas",
+            "D. Hydroelectricity"
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What percentage of marine species do coral reefs support?",
+          "options": [
+            "A. 10%",
+            "B. 25%",
+            "C. 50%",
+            "D. 75%"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Coral reefs cover more than 1% of the ocean floor.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which heading relates to coral bleaching?",
+          "options": [
+            "A. Causes of Coral Bleaching",
+            "B. Coral Reef Ecosystems",
+            "C. Impacts of Climate Change",
+            "D. Coral Reef Conservation"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What do corals expel during bleaching?",
+          "correctAnswer": "Symbiotic algae (zooxanthellae)"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a consequence of prolonged coral bleaching?",
+          "options": [
+            "A. Increased fish populations",
+            "B. Coral mortality and ecosystem disruption",
+            "C. Enhanced reef growth",
+            "D. Reduced ocean acidity"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Ocean acidification helps coral calcification.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which relates to the effects of increased CO2?",
+          "options": [
+            "A. Ocean Acidification",
+            "B. Coral Bleaching",
+            "C. Overfishing",
+            "D. Pollution"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "Name one stressor, besides bleaching, that affects coral reefs.",
+          "correctAnswer": "Overfishing or pollution"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "What are some consequences of reef degradation?",
+          "options": [
+            "A. Increased tourism",
+            "B. Decline of fish populations and tourism industries",
+            "C. Improved ocean health",
+            "D. Increased coral growth"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "Reducing greenhouse gases is crucial for reef preservation.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the heading to the paragraph: Which discusses efforts to protect coral reefs?",
+          "options": [
+            "A. Marine Protected Areas",
+            "B. Coral Farming Techniques",
+            "C. Sustainable Fishing",
+            "D. All of the above"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What is considered the most critical challenge for reef conservation?",
+          "correctAnswer": "Reducing greenhouse gas emissions to mitigate climate change."
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "Which action is NOT mentioned as a conservation effort?",
+          "options": [
+            "A. Establishing marine protected areas",
+            "B. Restoring damaged reefs",
+            "C. Promoting sustainable fishing",
+            "D. Increasing fossil fuel use"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p3_q14",
+          "type": "short_answer",
+          "prompt": "Why is addressing climate change essential for coral reefs?",
+          "correctAnswer": "It helps prevent bleaching and reef degradation."
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to cover key points from each passage, with a mix of question types. All question counts meet the specified numbers, and IDs are unique and consistent.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 17.5,
+  "passage_1_score": 23.08,
+  "passage_2_score": 7.69,
+  "passage_3_score": 21.43,
+  "total_questions": 40,
+  "correct_questions": 7,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Gardening activities are only suitable for adults.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the heading to the paragraph: Which heading best fits the paragraph about children and gardening?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one environmental benefit of growing your own food.",
+      "correctAnswer": "It promotes healthier eating habits and reduces preservatives.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "According to the passage, what is necessary for beginners to do when starting gardening?",
+      "correctAnswer": "C",
+      "userAnswer": "B",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Gardening requires no effort or patience.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Match the heading to the paragraph: Which heading relates to health benefits of gardening?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What hormone associated with stress can be lowered by spending time in green spaces?",
+      "correctAnswer": "Cortisol",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What is a challenge for new gardeners mentioned in the passage?",
+      "correctAnswer": "C",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Match the heading to the paragraph: Which heading best describes the overall benefits of gardening?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "Why is it important to start with simple gardening projects?",
+      "correctAnswer": "To learn gradually and avoid frustration.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What is one reason for the development of renewable energy technologies?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Renewable energy sources are completely reliable without any challenges.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the heading to the paragraph: Which heading relates to the challenges of renewable energy?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "What is one technological advancement helping renewable energy integration?",
+      "correctAnswer": "Battery technology and smart grid systems",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "The initial costs of renewable energy are generally low.",
+      "correctAnswer": "False",
+      "userAnswer": "NOT GIVEN",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Match the heading to the paragraph: Which heading discusses environmental benefits?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "Why is energy storage important for renewable energy?",
+      "correctAnswer": "To manage intermittency and ensure a stable supply.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "What is a major obstacle to adopting renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Renewable energy sources are becoming more affordable due to technological progress.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the heading to the paragraph: Which relates to the importance of renewable energy for climate goals?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is one benefit of lower operational costs after infrastructure is established?",
+      "correctAnswer": "It makes renewable energy more economically viable.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT an example of renewable energy sources mentioned?",
+      "correctAnswer": "C",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "Coral reefs cover more than 1% of the ocean floor.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the heading to the paragraph: Which heading relates to coral bleaching?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "What do corals expel during bleaching?",
+      "correctAnswer": "Symbiotic algae (zooxanthellae)",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Ocean acidification helps coral calcification.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "Match the heading to the paragraph: Which relates to the effects of increased CO2?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "Name one stressor, besides bleaching, that affects coral reefs.",
+      "correctAnswer": "Overfishing or pollution",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "Reducing greenhouse gases is crucial for reef preservation.",
+      "correctAnswer": "True",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the heading to the paragraph: Which discusses efforts to protect coral reefs?",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What is considered the most critical challenge for reef conservation?",
+      "correctAnswer": "Reducing greenhouse gas emissions to mitigate climate change.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "Which action is NOT mentioned as a conservation effort?",
+      "correctAnswer": "D",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "Why is addressing climate change essential for coral reefs?",
+      "correctAnswer": "It helps prevent bleaching and reef degradation.",
+      "userAnswer": null,
+      "type": "short_answer"
+    }
+  ],
+  "scoredAt": "2026-03-05T04:47:36Z",
+  "feedback_ai": {
+    "overall": "Your overall score indicates significant gaps in comprehension and detail recognition. Focus on locating specific clues within the passage to improve accuracy.",
+    "byPassage": {
+      "1": "Incorrect answers suggest difficulty with true/false statements and matching headings. Clues were often in the paragraph's main idea or specific details. Pay attention to keywords like 'only,' 'necessary,' and 'benefit.'",
+      "2": "Misunderstanding of technological and economic aspects led to wrong choices. Look for explicit statements about costs, challenges, and advancements. Keywords like 'initial,' 'affordable,' and 'intermittency' are key clues.",
+      "3": " Errors stem from misinterpreting facts about coral reefs and climate effects. Focus on specific facts like 'more than 1%' and effects of CO2. Keywords such as 'bleaching,' 'acidification,' and 'stressors' are crucial."
+    },
+    "tips": [
+      "Practice skimming for keywords related to true/false and matching headings to quickly locate relevant information.",
+      "Develop a habit of identifying and highlighting key details or numbers in the passage to answer specific questions accurately.",
+      "Review vocabulary related to the topics (e.g., environmental terms, technological advancements, coral biology) to improve comprehension and reduce misinterpretation."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T04:47:39Z"
+}

@@ -1,0 +1,953 @@
+{
+  "attemptId": "c51012740a294bb685c8a3be8fe5994b",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-06T06:53:46Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Daily Walking",
+      "text": "Walking is one of the simplest and most accessible forms of exercise available to people of all ages. Engaging in daily walks can have numerous health benefits, both physically and mentally. Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity. It also aids in maintaining a healthy weight, as it burns calories and helps regulate metabolism. Additionally, walking can strengthen muscles and joints, reducing the risk of osteoporosis and arthritis. Mentally, daily walks can serve as a form of relaxation and stress relief. Many individuals find that walking outdoors in nature or in their neighborhood provides a break from daily stressors and improves mood. Furthermore, walking can boost mental clarity and concentration, making it easier to focus on tasks. The simplicity of walking means it requires no special equipment or gym memberships, making it an affordable and sustainable activity. Experts recommend that adults aim for at least 30 minutes of moderate walking most days of the week to enjoy these benefits. Incorporating walking into daily routines might include choosing stairs over elevators, parking further from store entrances, or taking short walks during breaks at work. Overall, regular walking is a small but effective way to improve health and well-being, contributing to a healthier lifestyle over time."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Urbanization on Local Ecosystems",
+      "text": "Urbanization refers to the process by which cities and towns expand as more people move into urban areas. While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems. As cities grow, natural habitats such as forests, wetlands, and grasslands are often cleared to make way for buildings, roads, and other infrastructure. This habitat destruction can lead to the decline or extinction of native plant and animal species that rely on these environments. Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife. The increased use of resources, such as water and energy, further strains local ecosystems. Urban areas also create 'urban heat islands,' where temperatures are higher than surrounding rural areas, affecting local climate and biodiversity. Despite these challenges, many cities are adopting sustainable development practices. These include creating green spaces like parks and green roofs, implementing pollution control measures, and preserving natural habitats within urban plans. Efforts to restore ecosystems and promote biodiversity are crucial for maintaining ecological balance amid ongoing urban expansion. Understanding the complex relationship between urbanization and ecosystems is essential for developing strategies that support both economic development and environmental conservation."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of CRISPR in Modern Genetic Engineering",
+      "text": "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence. The process involves designing a guide RNA (gRNA) that matches the specific DNA sequence to be edited. The Cas9 enzyme, guided by this RNA, then introduces a cut at the targeted location. This cut activates the cell’s natural repair mechanisms, which can be harnessed to insert, delete, or replace genetic material. The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research. In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia and cystic fibrosis. It also holds promise for developing personalized cancer therapies and combating infectious diseases. In agriculture, CRISPR has been used to create crops with improved yield, pest resistance, and tolerance to environmental stresses. However, the technology also raises ethical concerns, particularly regarding the potential for germline editing—changes that can be passed on to future generations. There is ongoing debate about the regulation and safe application of CRISPR, especially in humans. Despite these challenges, CRISPR remains one of the most groundbreaking advancements in genetic science, with ongoing research aimed at improving its precision and reducing unintended effects. As the technology continues to evolve, it is likely to transform various fields and redefine our approach to genetic modification and disease treatment."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main physical health benefits of walking mentioned in the passage?",
+          "options": [
+            "Improving eyesight",
+            "Strengthening the heart",
+            "Reducing hair loss",
+            "Increasing bone density"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, what mental benefit can daily walking provide?",
+          "options": [
+            "Memory loss",
+            "Stress relief",
+            "Sleep disturbances",
+            "Decreased concentration"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q3",
+          "type": "true_false_not_given",
+          "prompt": "Walking requires special equipment to be effective.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q4",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph to its main focus:",
+          "options": [
+            "Physical health benefits of walking",
+            "Mental health benefits of walking",
+            "Practical ways to incorporate walking into daily life",
+            "Cost and accessibility of walking"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q5",
+          "type": "short_answer",
+          "prompt": "What is the minimum daily duration of walking recommended by experts?",
+          "correctAnswer": "30 minutes"
+        },
+        {
+          "id": "p1_q6",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT suggested as a way to incorporate walking into daily routines?",
+          "options": [
+            "Using stairs instead of elevators",
+            "Parking closer to stores",
+            "Taking short walks during breaks",
+            "Watching television for extended periods"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p1_q7",
+          "type": "true_false_not_given",
+          "prompt": "Walking can help improve mental clarity.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q8",
+          "type": "multiple_choice",
+          "prompt": "What makes walking an affordable activity?",
+          "options": [
+            "It requires a gym membership",
+            "It needs special equipment",
+            "It requires no special equipment",
+            "It is only done outdoors"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q9",
+          "type": "short_answer",
+          "prompt": "Name one physical condition that regular walking can help prevent.",
+          "correctAnswer": "Osteoporosis"
+        },
+        {
+          "id": "p1_q10",
+          "type": "multiple_choice",
+          "prompt": "Which is a mental health advantage of walking outdoors?",
+          "options": [
+            "Increased stress",
+            "Mood improvement",
+            "Reduced alertness",
+            "Decreased focus"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q11",
+          "type": "true_false_not_given",
+          "prompt": "Walking can help regulate metabolism.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q12",
+          "type": "multiple_choice",
+          "prompt": "What aspect of walking makes it sustainable over time?",
+          "options": [
+            "It requires expensive equipment",
+            "It is simple and accessible",
+            "It is only suitable for young people",
+            "It needs professional supervision"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q13",
+          "type": "short_answer",
+          "prompt": "According to the passage, what is a benefit of walking outdoors?",
+          "correctAnswer": "Provides a break from stressors"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What does urbanization primarily involve?",
+          "options": [
+            "Expansion of rural areas",
+            "Expansion of cities and towns",
+            "Decline of technological development",
+            "Reduction of population"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is a negative environmental impact of urbanization?",
+          "options": [
+            "Increased biodiversity",
+            "Habitat destruction",
+            "Restoration of ecosystems",
+            "Reduction in pollution"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q3",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization always leads to economic decline.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q4",
+          "type": "matching_headings",
+          "prompt": "Match each challenge to its description:",
+          "options": [
+            "Habitat destruction",
+            "Pollution increase",
+            "Urban heat islands",
+            "Resource strain"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p2_q5",
+          "type": "short_answer",
+          "prompt": "Name one type of natural habitat that is often destroyed due to urbanization.",
+          "correctAnswer": "Forests"
+        },
+        {
+          "id": "p2_q6",
+          "type": "multiple_choice",
+          "prompt": "What is one way cities are trying to promote sustainable development?",
+          "options": [
+            "Reducing green spaces",
+            "Creating parks and green roofs",
+            "Increasing pollution",
+            "Removing natural habitats"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q7",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization can increase local temperatures, creating heat islands.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q8",
+          "type": "multiple_choice",
+          "prompt": "What is a consequence of increased resource use in cities?",
+          "options": [
+            "Less pollution",
+            "Strain on ecosystems",
+            "Decreased biodiversity",
+            "Both B and C"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p2_q9",
+          "type": "short_answer",
+          "prompt": "What is one environmental challenge caused by pollution from urban areas?",
+          "correctAnswer": "Water contamination"
+        },
+        {
+          "id": "p2_q10",
+          "type": "multiple_choice",
+          "prompt": "Which measure is NOT mentioned as part of sustainable urban development?",
+          "options": [
+            "Creating green spaces",
+            "Implementing pollution controls",
+            "Expanding industrial areas",
+            "Preserving natural habitats"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q11",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization can negatively impact biodiversity.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q12",
+          "type": "multiple_choice",
+          "prompt": "Why is understanding the relationship between urbanization and ecosystems important?",
+          "options": [
+            "To promote urban sprawl",
+            "To develop strategies supporting both growth and conservation",
+            "To eliminate natural habitats",
+            "To increase pollution levels"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q13",
+          "type": "short_answer",
+          "prompt": "What is one benefit of urban development?",
+          "correctAnswer": "Economic growth"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is CRISPR-Cas9 primarily used for?",
+          "options": [
+            "Cooking recipes",
+            "Genetic editing",
+            "Building robots",
+            "Measuring DNA length"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "multiple_choice",
+          "prompt": "From what natural system is CRISPR derived?",
+          "options": [
+            "Plant immune system",
+            "Bacterial immune system",
+            "Animal nervous system",
+            "Fungal reproduction system"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q3",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR can only be used for medical purposes.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q4",
+          "type": "matching_headings",
+          "prompt": "Match the component to its function in CRISPR:",
+          "options": [
+            "Guide RNA (gRNA)",
+            "Cas9 enzyme",
+            "DNA cut site",
+            "Repair mechanisms"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q5",
+          "type": "short_answer",
+          "prompt": "What is the role of guide RNA in CRISPR?",
+          "correctAnswer": "To match the DNA sequence to be edited"
+        },
+        {
+          "id": "p3_q6",
+          "type": "multiple_choice",
+          "prompt": "Which disease is NOT mentioned as a target for CRISPR therapy?",
+          "options": [
+            "Sickle cell anemia",
+            "Cystic fibrosis",
+            "Alzheimer's disease",
+            "Cancer"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q7",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology can be used to improve crop yields.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q8",
+          "type": "multiple_choice",
+          "prompt": "What is a major ethical concern associated with CRISPR?",
+          "options": [
+            "Cost of technology",
+            "Germline editing",
+            "Ease of use",
+            "Lack of research"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q9",
+          "type": "short_answer",
+          "prompt": "What is one potential risk of using CRISPR?",
+          "correctAnswer": "Unintended genetic effects"
+        },
+        {
+          "id": "p3_q10",
+          "type": "multiple_choice",
+          "prompt": "In which field has CRISPR NOT been applied, according to the passage?",
+          "options": [
+            "Medicine",
+            "Agriculture",
+            "Biological research",
+            "Space exploration"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p3_q11",
+          "type": "true_false_not_given",
+          "prompt": "Research on CRISPR is still ongoing and aims to improve its safety.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p3_q12",
+          "type": "multiple_choice",
+          "prompt": "What is one reason CRISPR is considered revolutionary?",
+          "options": [
+            "It is very expensive",
+            "It provides a quick, precise method for gene editing",
+            "It replaces all existing genetic methods",
+            "It is only used in bacteria"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q13",
+          "type": "short_answer",
+          "prompt": "What is one goal of ongoing CRISPR research?",
+          "correctAnswer": "To improve its precision and reduce unintended effects"
+        },
+        {
+          "id": "p3_q14",
+          "type": "matching_headings",
+          "prompt": "Match the application to its description:",
+          "options": [
+            "Medical treatment",
+            "Agricultural improvement",
+            "Biological research",
+            "Ethical considerations"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to cover key points from each passage, with exact counts and unique IDs as specified. All question types are included according to instructions.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 7.5,
+  "passage_1_score": 23.08,
+  "passage_2_score": 0.0,
+  "passage_3_score": 0.0,
+  "total_questions": 40,
+  "correct_questions": 3,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main physical health benefits of walking mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Walking is one of the simplest and most accessible forms of exercise available to people of all ages.",
+        "Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity.",
+        "Experts recommend that adults aim for at least 30 minutes of moderate walking most days of the week to enjoy these benefits."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Walking is one of the simplest and most accessible forms of exercise available to people of all ages. Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity."
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "According to the passage, what mental benefit can daily walking provide?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Walking is one of the simplest and most accessible forms of exercise available to people of all ages.",
+        "Additionally, walking can strengthen muscles and joints, reducing the risk of osteoporosis and arthritis.",
+        "Furthermore, walking can boost mental clarity and concentration, making it easier to focus on tasks."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Walking is one of the simplest and most accessible forms of exercise available to people of all ages. Additionally, walking can strengthen muscles and joints, reducing the risk of osteoporosis and arthritis."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Match the paragraph to its main focus:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Walking is one of the simplest and most accessible forms of exercise available to people of all ages.",
+        "Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity.",
+        "Additionally, walking can strengthen muscles and joints, reducing the risk of osteoporosis and arthritis."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Walking is one of the simplest and most accessible forms of exercise available to people of all ages. Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "What is the minimum daily duration of walking recommended by experts?",
+      "correctAnswer": "30 minutes",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Walking is one of the simplest and most accessible forms of exercise available to people of all ages.",
+        "Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity.",
+        "Experts recommend that adults aim for at least 30 minutes of moderate walking most days of the week to enjoy these benefits."
+      ],
+      "explanation": "The correct answer is '30 minutes' because the passage states: Walking is one of the simplest and most accessible forms of exercise available to people of all ages. Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What makes walking an affordable activity?",
+      "correctAnswer": "C",
+      "userAnswer": "B",
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Walking is one of the simplest and most accessible forms of exercise available to people of all ages.",
+        "Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity.",
+        "The simplicity of walking means it requires no special equipment or gym memberships, making it an affordable and sustainable activity."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Walking is one of the simplest and most accessible forms of exercise available to people of all ages. Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "Name one physical condition that regular walking can help prevent.",
+      "correctAnswer": "Osteoporosis",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Walking is one of the simplest and most accessible forms of exercise available to people of all ages.",
+        "Additionally, walking can strengthen muscles and joints, reducing the risk of osteoporosis and arthritis.",
+        "Many individuals find that walking outdoors in nature or in their neighborhood provides a break from daily stressors and improves mood."
+      ],
+      "explanation": "The correct answer is 'Osteoporosis' because the passage states: Walking is one of the simplest and most accessible forms of exercise available to people of all ages. Additionally, walking can strengthen muscles and joints, reducing the risk of osteoporosis and arthritis."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Which is a mental health advantage of walking outdoors?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity.",
+        "Many individuals find that walking outdoors in nature or in their neighborhood provides a break from daily stressors and improves mood.",
+        "Furthermore, walking can boost mental clarity and concentration, making it easier to focus on tasks."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity. Many individuals find that walking outdoors in nature or in their neighborhood provides a break from daily stressors and improves mood."
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Walking can help regulate metabolism.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "It also aids in maintaining a healthy weight, as it burns calories and helps regulate metabolism.",
+        "Additionally, walking can strengthen muscles and joints, reducing the risk of osteoporosis and arthritis.",
+        "Furthermore, walking can boost mental clarity and concentration, making it easier to focus on tasks."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: It also aids in maintaining a healthy weight, as it burns calories and helps regulate metabolism. Additionally, walking can strengthen muscles and joints, reducing the risk of osteoporosis and arthritis."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What aspect of walking makes it sustainable over time?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "The simplicity of walking means it requires no special equipment or gym memberships, making it an affordable and sustainable activity.",
+        "Incorporating walking into daily routines might include choosing stairs over elevators, parking further from store entrances, or taking short walks during breaks at work.",
+        "Overall, regular walking is a small but effective way to improve health and well-being, contributing to a healthier lifestyle over time."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: The simplicity of walking means it requires no special equipment or gym memberships, making it an affordable and sustainable activity. Incorporating walking into daily routines might include choosing stairs over elevators, parking further from store entrances, or taking short walks during breaks at work."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "According to the passage, what is a benefit of walking outdoors?",
+      "correctAnswer": "Provides a break from stressors",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Walking is one of the simplest and most accessible forms of exercise available to people of all ages.",
+        "Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity.",
+        "Many individuals find that walking outdoors in nature or in their neighborhood provides a break from daily stressors and improves mood."
+      ],
+      "explanation": "The correct answer is 'Provides a break from stressors' because the passage states: Walking is one of the simplest and most accessible forms of exercise available to people of all ages. Physically, walking helps improve cardiovascular health by strengthening the heart and increasing lung capacity."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What does urbanization primarily involve?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife.",
+        "Understanding the complex relationship between urbanization and ecosystems is essential for developing strategies that support both economic development and environmental conservation."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Which of the following is a negative environmental impact of urbanization?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "This habitat destruction can lead to the decline or extinction of native plant and animal species that rely on these environments.",
+        "Understanding the complex relationship between urbanization and ecosystems is essential for developing strategies that support both economic development and environmental conservation."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. This habitat destruction can lead to the decline or extinction of native plant and animal species that rely on these environments."
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Urbanization always leads to economic decline.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems.",
+        "Understanding the complex relationship between urbanization and ecosystems is essential for developing strategies that support both economic development and environmental conservation."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Match each challenge to its description:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Name one type of natural habitat that is often destroyed due to urbanization.",
+      "correctAnswer": "Forests",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "As cities grow, natural habitats such as forests, wetlands, and grasslands are often cleared to make way for buildings, roads, and other infrastructure.",
+        "This habitat destruction can lead to the decline or extinction of native plant and animal species that rely on these environments.",
+        "Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife."
+      ],
+      "explanation": "The correct answer is 'Forests' because the passage states: As cities grow, natural habitats such as forests, wetlands, and grasslands are often cleared to make way for buildings, roads, and other infrastructure. This habitat destruction can lead to the decline or extinction of native plant and animal species that rely on these environments."
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "What is one way cities are trying to promote sustainable development?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "As cities grow, natural habitats such as forests, wetlands, and grasslands are often cleared to make way for buildings, roads, and other infrastructure.",
+        "Despite these challenges, many cities are adopting sustainable development practices.",
+        "Efforts to restore ecosystems and promote biodiversity are crucial for maintaining ecological balance amid ongoing urban expansion."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: As cities grow, natural habitats such as forests, wetlands, and grasslands are often cleared to make way for buildings, roads, and other infrastructure. Despite these challenges, many cities are adopting sustainable development practices."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Urbanization can increase local temperatures, creating heat islands.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems.",
+        "Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife.",
+        "Urban areas also create 'urban heat islands,' where temperatures are higher than surrounding rural areas, affecting local climate and biodiversity."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems. Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is a consequence of increased resource use in cities?",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems.",
+        "The increased use of resources, such as water and energy, further strains local ecosystems."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "What is one environmental challenge caused by pollution from urban areas?",
+      "correctAnswer": "Water contamination",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife.",
+        "Urban areas also create 'urban heat islands,' where temperatures are higher than surrounding rural areas, affecting local climate and biodiversity."
+      ],
+      "explanation": "The correct answer is 'Water contamination' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Which measure is NOT mentioned as part of sustainable urban development?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems.",
+        "Despite these challenges, many cities are adopting sustainable development practices."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems."
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Urbanization can negatively impact biodiversity.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems.",
+        "Additionally, urbanization introduces pollution in various forms, including air emissions from vehicles and factories, water contamination from runoff, and noise pollution that can disturb wildlife."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "Why is understanding the relationship between urbanization and ecosystems important?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "The increased use of resources, such as water and energy, further strains local ecosystems.",
+        "Understanding the complex relationship between urbanization and ecosystems is essential for developing strategies that support both economic development and environmental conservation."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. The increased use of resources, such as water and energy, further strains local ecosystems."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What is one benefit of urban development?",
+      "correctAnswer": "Economic growth",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Urbanization refers to the process by which cities and towns expand as more people move into urban areas.",
+        "While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems.",
+        "Understanding the complex relationship between urbanization and ecosystems is essential for developing strategies that support both economic development and environmental conservation."
+      ],
+      "explanation": "The correct answer is 'Economic growth' because the passage states: Urbanization refers to the process by which cities and towns expand as more people move into urban areas. While urban development can bring economic growth, improved infrastructure, and increased job opportunities, it also poses significant challenges to local ecosystems."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is CRISPR-Cas9 primarily used for?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence.",
+        "In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia and cystic fibrosis."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "From what natural system is CRISPR derived?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence.",
+        "This cut activates the cell’s natural repair mechanisms, which can be harnessed to insert, delete, or replace genetic material."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence."
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "CRISPR can only be used for medical purposes.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence.",
+        "In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia and cystic fibrosis."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Match the component to its function in CRISPR:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research.",
+        "Despite these challenges, CRISPR remains one of the most groundbreaking advancements in genetic science, with ongoing research aimed at improving its precision and reducing unintended effects."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is the role of guide RNA in CRISPR?",
+      "correctAnswer": "To match the DNA sequence to be edited",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence.",
+        "The process involves designing a guide RNA (gRNA) that matches the specific DNA sequence to be edited."
+      ],
+      "explanation": "The correct answer is 'To match the DNA sequence to be edited' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence."
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Which disease is NOT mentioned as a target for CRISPR therapy?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence.",
+        "In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia and cystic fibrosis."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "CRISPR technology can be used to improve crop yields.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "In agriculture, CRISPR has been used to create crops with improved yield, pest resistance, and tolerance to environmental stresses.",
+        "However, the technology also raises ethical concerns, particularly regarding the potential for germline editing—changes that can be passed on to future generations."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. In agriculture, CRISPR has been used to create crops with improved yield, pest resistance, and tolerance to environmental stresses."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What is a major ethical concern associated with CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "In agriculture, CRISPR has been used to create crops with improved yield, pest resistance, and tolerance to environmental stresses.",
+        "Despite these challenges, CRISPR remains one of the most groundbreaking advancements in genetic science, with ongoing research aimed at improving its precision and reducing unintended effects."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. In agriculture, CRISPR has been used to create crops with improved yield, pest resistance, and tolerance to environmental stresses."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "What is one potential risk of using CRISPR?",
+      "correctAnswer": "Unintended genetic effects",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia and cystic fibrosis.",
+        "Despite these challenges, CRISPR remains one of the most groundbreaking advancements in genetic science, with ongoing research aimed at improving its precision and reducing unintended effects."
+      ],
+      "explanation": "The correct answer is 'Unintended genetic effects' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. In medicine, CRISPR is being explored as a potential treatment for genetic disorders such as sickle cell anemia and cystic fibrosis."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "In which field has CRISPR NOT been applied, according to the passage?",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research.",
+        "In agriculture, CRISPR has been used to create crops with improved yield, pest resistance, and tolerance to environmental stresses."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research."
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Research on CRISPR is still ongoing and aims to improve its safety.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research.",
+        "There is ongoing debate about the regulation and safe application of CRISPR, especially in humans.",
+        "Despite these challenges, CRISPR remains one of the most groundbreaking advancements in genetic science, with ongoing research aimed at improving its precision and reducing unintended effects."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research. There is ongoing debate about the regulation and safe application of CRISPR, especially in humans."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What is one reason CRISPR is considered revolutionary?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence.",
+        "Despite these challenges, CRISPR remains one of the most groundbreaking advancements in genetic science, with ongoing research aimed at improving its precision and reducing unintended effects."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. Derived from a natural immune system found in bacteria, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) allows for targeted modifications to an organism’s DNA sequence."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is one goal of ongoing CRISPR research?",
+      "correctAnswer": "To improve its precision and reduce unintended effects",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research.",
+        "There is ongoing debate about the regulation and safe application of CRISPR, especially in humans.",
+        "Despite these challenges, CRISPR remains one of the most groundbreaking advancements in genetic science, with ongoing research aimed at improving its precision and reducing unintended effects."
+      ],
+      "explanation": "The correct answer is 'To improve its precision and reduce unintended effects' because the passage states: The versatility of CRISPR has opened up numerous possibilities in medicine, agriculture, and biological research. There is ongoing debate about the regulation and safe application of CRISPR, especially in humans."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "Match the application to its description:",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "matching_headings",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes.",
+        "There is ongoing debate about the regulation and safe application of CRISPR, especially in humans.",
+        "Despite these challenges, CRISPR remains one of the most groundbreaking advancements in genetic science, with ongoing research aimed at improving its precision and reducing unintended effects."
+      ],
+      "explanation": "The correct answer is 'A' because the passage states: CRISPR-Cas9 technology has revolutionized the field of genetic engineering by providing scientists with a precise, efficient, and relatively simple method for editing genes. There is ongoing debate about the regulation and safe application of CRISPR, especially in humans."
+    }
+  ],
+  "scoredAt": "2026-03-06T06:53:57Z",
+  "feedback_ai": {
+    "overall": "Your score of 7.5 indicates a good understanding, but there are notable gaps in comprehension, especially in passage 2 and 3. Focus on locating explicit clues in the text that directly support your answers. Pay attention to keywords and phrases that clarify the main ideas and specific details.",
+    "byPassage": {
+      "1": "Incorrectly answered question 2 and 8 suggest a misunderstanding of the mental benefits and affordability aspects. The clues were in sentences mentioning 'boost mental clarity' and 'no special equipment,' respectively. Review how to identify key phrases that specify benefits and reasons for affordability.",
+      "2": "Questions about environmental impacts and urban challenges were missed, likely due to overlooking sentences about habitat destruction and 'urban heat islands.' Practice scanning for cause-effect language and specific examples that clarify negative impacts.",
+      "3": "Errors in questions about CRISPR functions and applications stem from missing details about its origin and uses. The clues were in sentences describing 'natural immune system' and 'used in agriculture.' Focus on understanding definitions and examples within the paragraph to answer accurately."
+    },
+    "tips": [
+      "Practice skimming for keywords that signal the main idea or specific details, especially in complex passages.",
+      "Develop the habit of highlighting or noting evidence sentences that directly support each answer choice.",
+      "Review question types to identify when answers are explicitly stated versus inferred, and adjust your reading strategies accordingly."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-06T06:54:00Z"
+}

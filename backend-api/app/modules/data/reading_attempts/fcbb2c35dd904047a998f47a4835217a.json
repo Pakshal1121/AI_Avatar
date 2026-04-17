@@ -1,0 +1,413 @@
+{
+  "attemptId": "fcbb2c35dd904047a998f47a4835217a",
+  "userId": "nilesh@gmail.com",
+  "createdAt": "2026-03-02T05:25:45Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The World of Whales",
+      "text": "Whales are among the largest creatures on Earth, occupying a fascinating niche in the marine ecosystem. These majestic mammals are not fish; they are warm-blooded, air-breathing animals that give birth to live young. Whales belong to the order Cetacea, which is divided into two main groups: baleen whales and toothed whales. Baleen whales, such as the blue whale, filter feed by taking in large amounts of water and then pushing it out through baleen plates, trapping small organisms such as krill and plankton. On the other hand, toothed whales, including species like orcas and sperm whales, hunt for larger prey, relying on echolocation to find their food. \n\nWhales are known for their complex behaviors and social structures. Many species travel in pods, communicating through a series of vocalizations known as whale songs. These songs can travel long distances underwater, allowing whales to share information about food sources or mating calls. Whales also display remarkable intelligence, with problem-solving skills and emotional depth that resemble those of humans. \n\nUnfortunately, the populations of many whale species have dramatically decreased due to whaling, climate change, and ocean pollution. International efforts like the International Whaling Commission (IWC) aim to protect these gentle giants and promote sustainable practices. Conservationists are working to raise awareness and protect whale habitats to ensure that future generations can continue to marvel at these incredible animals."
+    },
+    {
+      "passageId": "2",
+      "title": "Urban Gardening: A Growing Trend",
+      "text": "Urban gardening is an innovative practice that has gained popularity in cities around the world. As urbanization continues to expand, more individuals are seeking ways to grow their own food amidst the concrete jungle. This trend not only enhances food security but also contributes to environmental sustainability. \n\nThere are various types of urban gardening, ranging from community gardens to rooftop farms. Community gardens involve shared plots where residents can cultivate fruits, vegetables, and flowers. This approach fosters a sense of community and encourages local engagement, allowing participants to connect with their neighbors while improving their nutrition. Rooftop gardens, on the other hand, utilize the unused space on top of buildings, transforming barren rooftops into green havens. These gardens help to mitigate the urban heat island effect, improve air quality, and provide insulation for buildings. \n\nUrban gardening also has psychological benefits. Studies indicate that gardening can reduce stress, promote physical activity, and improve mental health. Connecting with nature, even in small urban settings, encourages mindfulness and well-being. Additionally, urban gardens often serve as educational platforms where individuals can learn about sustainable horticultural practices, biodiversity, and the importance of pollinators. \n\nDespite the many advantages, urban gardening faces challenges such as limited space, soil contamination, and access to water. Innovative solutions, such as vertical gardening and aquaponics, are being implemented to overcome these obstacles. As cities continue to evolve, urban gardening appears poised to play a crucial role in creating sustainable, healthy urban environments."
+    },
+    {
+      "passageId": "3",
+      "title": "The Neuroscience of Memory: Understanding the Brain's Encoding and Retrieval Processes",
+      "text": "Memory is a fundamental cognitive function that underlies our ability to learn, adapt, and navigate the world. Neuroscience has made significant strides in unraveling the complex mechanisms by which memories are formed, stored, and retrieved. At its core, memory can be categorized into three major processes: encoding, storage, and retrieval. \n\nEncoding refers to the initial learning of information, where sensory input is transformed into a construct that can be stored within the brain. This process can be influenced by various factors including attention, emotional significance, and the context in which the information is presented. The hippocampus, a critical region of the brain, plays a vital role in this process by facilitating the formation of new memories while interacting with other structures that are responsible for long-term memory storage. \n\nOnce information is encoded, it enters the storage phase, where it is retained over time. This retention involves the strengthening of synaptic connections between neurons, known as synaptic plasticity. Long-term potentiation (LTP) is one of the key mechanisms associated with the storage of long-term memories, enabling the brain to increase the efficiency of neurotransmission in response to repeated stimulation. Furthermore, different types of memories—declarative (explicit) and procedural (implicit)—are managed by distinct neural pathways. Declarative memories, which include facts and events, primarily involve the hippocampus and neocortex, while procedural memories, such as skills and habits, are primarily linked to the basal ganglia and cerebellum. \n\nRetrieval is the final process, enabling us to access stored memories when needed. This process can be influenced by cues, context, and even the emotional state of the individual at the time of retrieval. Research has shown that the brain does not retrieve memories in a perfect snapshot; instead, it reconstructs them, which can lead to distortions and false memories. \n\nUnderstanding the neuroscience of memory has profound implications for various fields, including education, psychology, and the treatment of memory-related disorders. As our comprehension of memory continues to evolve, researchers are exploring innovative techniques to enhance memory retention and retrieval, which may eventually pave the way for therapeutic interventions in conditions such as Alzheimer’s disease and other forms of cognitive decline."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What are whales classified as?",
+          "options": [
+            "Fish",
+            "Mammals",
+            "Reptiles",
+            "Amphibians"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that whales are warm-blooded, air-breathing animals that give birth to live young, indicating they are mammals."
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Baleen whales hunt larger prey.",
+          "correctAnswer": "False",
+          "rationale": "The passage explains that baleen whales filter feed and do not hunt larger prey; this is the role of toothed whales."
+        },
+        {
+          "id": "p1_q3",
+          "type": "short_answer",
+          "prompt": "Name one method used by toothed whales to find food.",
+          "correctAnswer": "Echolocation",
+          "rationale": "The passage mentions that toothed whales rely on echolocation to find their food."
+        },
+        {
+          "id": "p1_q4",
+          "type": "multiple_choice",
+          "prompt": "What is one consequence mentioned that has affected whale populations?",
+          "options": [
+            "Increased food availability",
+            "Technological advancements",
+            "Whaling",
+            "Invasive species"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage notes that whale populations have dramatically decreased due to whaling."
+        },
+        {
+          "id": "p1_q5",
+          "type": "true_false_not_given",
+          "prompt": "Whales communicate through body language.",
+          "correctAnswer": "Not Given",
+          "rationale": "The passage mentions vocalizations known as whale songs but does not specify body language."
+        },
+        {
+          "id": "p1_q6",
+          "type": "short_answer",
+          "prompt": "What organization is mentioned as aiming to protect whale populations?",
+          "correctAnswer": "International Whaling Commission (IWC)",
+          "rationale": "The passage states that international efforts like the IWC aim to protect whale species."
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "What do baleen plates help baleen whales do?",
+          "options": [
+            "Hunt larger fish",
+            "Fly underwater",
+            "Filter feed",
+            "Swim faster"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage explains that baleen plates are used for filter feeding."
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What type of social structure do many whale species have?",
+          "correctAnswer": "Pods",
+          "rationale": "The passage mentions that many species travel in pods, indicating their social structure."
+        },
+        {
+          "id": "p1_q9",
+          "type": "true_false_not_given",
+          "prompt": "Whales are not capable of emotional depth.",
+          "correctAnswer": "False",
+          "rationale": "The passage states that whales display emotional depth that resembles humans."
+        },
+        {
+          "id": "p1_q10",
+          "type": "multiple_choice",
+          "prompt": "What has led to the decline of whale populations, according to the passage?",
+          "options": [
+            "Increased tourism",
+            "Climate change",
+            "Technology",
+            "All of the above"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage lists whaling, climate change, and ocean pollution as reasons for the decline."
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the following headings with the appropriate sections from the passage.",
+          "options": {
+            "1": "Social Structures of Whales",
+            "2": "Feeding Mechanisms",
+            "3": "Conservation Efforts"
+          },
+          "correctAnswer": {
+            "1": "A",
+            "2": "B",
+            "3": "C"
+          },
+          "rationale": "These sections specifically discuss social structures, feeding mechanisms, and conservation efforts."
+        },
+        {
+          "id": "p1_q12",
+          "type": "true_false_not_given",
+          "prompt": "Whales do not play a role in their marine ecosystem.",
+          "correctAnswer": "False",
+          "rationale": "The passage indicates that whales occupy a fascinating niche in the marine ecosystem."
+        },
+        {
+          "id": "p1_q13",
+          "type": "short_answer",
+          "prompt": "What do whales use to share information about food sources?",
+          "correctAnswer": "Whale songs",
+          "rationale": "The passage describes how whales communicate through vocalizations known as whale songs."
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one benefit of urban gardening mentioned in the passage?",
+          "options": [
+            "Decreases property values",
+            "Enhances food security",
+            "Promotes crime",
+            "Increases pollution"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that urban gardening enhances food security."
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening is only for individual gardeners.",
+          "correctAnswer": "False",
+          "rationale": "The passage discusses community gardens where residents share plots."
+        },
+        {
+          "id": "p2_q3",
+          "type": "short_answer",
+          "prompt": "What type of gardening involves transforming rooftops?",
+          "correctAnswer": "Rooftop gardens",
+          "rationale": "The passage mentions rooftop gardens utilize the unused space on buildings."
+        },
+        {
+          "id": "p2_q4",
+          "type": "multiple_choice",
+          "prompt": "What environmental issue do rooftop gardens help mitigate?",
+          "options": [
+            "Soil contamination",
+            "Urban heat island effect",
+            "Invasive species",
+            "Noise pollution"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that rooftop gardens help to mitigate the urban heat island effect."
+        },
+        {
+          "id": "p2_q5",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardens do not provide educational opportunities.",
+          "correctAnswer": "False",
+          "rationale": "The passage notes that urban gardens serve as educational platforms."
+        },
+        {
+          "id": "p2_q6",
+          "type": "short_answer",
+          "prompt": "Name one psychological benefit of gardening mentioned in the passage.",
+          "correctAnswer": "Reduces stress",
+          "rationale": "The passage indicates that gardening can reduce stress."
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "Which challenge is faced by urban gardening?",
+          "options": [
+            "Abundance of land",
+            "Soil contamination",
+            "Excess water",
+            "Lack of interest"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage identifies limited space and soil contamination as challenges of urban gardening."
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What innovative solutions are being implemented in urban gardening?",
+          "correctAnswer": "Vertical gardening and aquaponics",
+          "rationale": "The passage mentions innovative solutions such as vertical gardening and aquaponics."
+        },
+        {
+          "id": "p2_q9",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening is only important for food production.",
+          "correctAnswer": "False",
+          "rationale": "The passage states that urban gardening contributes to environmental sustainability and has psychological benefits."
+        },
+        {
+          "id": "p2_q10",
+          "type": "multiple_choice",
+          "prompt": "What does the term 'concrete jungle' refer to in the context of urban gardening?",
+          "options": [
+            "Rural areas",
+            "Gardening techniques",
+            "Urban areas",
+            "Forest environments"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The term 'concrete jungle' refers to urban areas, indicating the setting of urban gardening."
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the following headings with the appropriate sections from the passage.",
+          "options": {
+            "1": "Types of Urban Gardening",
+            "2": "Benefits of Urban Gardening",
+            "3": "Challenges of Urban Gardening"
+          },
+          "correctAnswer": {
+            "1": "A",
+            "2": "B",
+            "3": "C"
+          },
+          "rationale": "These headings correspond to the sections discussing types, benefits, and challenges of urban gardening."
+        },
+        {
+          "id": "p2_q12",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening practices have no impact on community engagement.",
+          "correctAnswer": "False",
+          "rationale": "The passage mentions that community gardens encourage local engagement and connection."
+        },
+        {
+          "id": "p2_q13",
+          "type": "short_answer",
+          "prompt": "What do individuals learn about in urban gardens?",
+          "correctAnswer": "Sustainable horticultural practices",
+          "rationale": "The passage states that urban gardens serve as educational platforms for sustainable practices."
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What are the three major processes of memory?",
+          "options": [
+            "Encoding, storage, retrieval",
+            "Learning, recalling, forgetting",
+            "Attention, storage, recall",
+            "Input, processing, output"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage states that memory can be categorized into encoding, storage, and retrieval."
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Memory is solely a function of the hippocampus.",
+          "correctAnswer": "False",
+          "rationale": "The passage describes the role of the hippocampus but also mentions other structures involved in long-term memory storage."
+        },
+        {
+          "id": "p3_q3",
+          "type": "short_answer",
+          "prompt": "What is the term for the process of learning information?",
+          "correctAnswer": "Encoding",
+          "rationale": "The passage defines encoding as the initial learning of information."
+        },
+        {
+          "id": "p3_q4",
+          "type": "multiple_choice",
+          "prompt": "What enhances the efficiency of neurotransmission in memory storage?",
+          "options": [
+            "Long-term potentiation",
+            "Short-term memory",
+            "Immediate recall",
+            "Neural decay"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage states that long-term potentiation (LTP) is associated with memory storage."
+        },
+        {
+          "id": "p3_q5",
+          "type": "true_false_not_given",
+          "prompt": "Declarative memories are linked to the basal ganglia.",
+          "correctAnswer": "False",
+          "rationale": "The passage states that declarative memories primarily involve the hippocampus and neocortex, not the basal ganglia."
+        },
+        {
+          "id": "p3_q6",
+          "type": "short_answer",
+          "prompt": "What influences the retrieval of memories?",
+          "correctAnswer": "Cues, context, emotional state",
+          "rationale": "The passage mentions that retrieval can be influenced by various factors including cues and emotional state."
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "Which type of memory involves skills and habits?",
+          "options": [
+            "Declarative memories",
+            "Procedural memories",
+            "Sensory memories",
+            "Working memories"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that procedural memories, which include skills and habits, are linked to the basal ganglia."
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What is one implication of understanding memory science?",
+          "correctAnswer": "Therapeutic interventions for cognitive decline",
+          "rationale": "The passage indicates that understanding memory has implications for treatment of memory-related disorders."
+        },
+        {
+          "id": "p3_q9",
+          "type": "true_false_not_given",
+          "prompt": "Memories are retrieved as perfect snapshots.",
+          "correctAnswer": "False",
+          "rationale": "The passage states that the brain reconstructs memories, which can lead to distortions."
+        },
+        {
+          "id": "p3_q10",
+          "type": "multiple_choice",
+          "prompt": "What is synaptic plasticity associated with?",
+          "options": [
+            "Memory retrieval",
+            "Emotional learning",
+            "Memory storage",
+            "Learning new languages"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage states that synaptic plasticity is involved in the retention of memories."
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the following headings with the appropriate sections from the passage.",
+          "options": {
+            "1": "Memory Processes",
+            "2": "Role of the Hippocampus",
+            "3": "Implications of Memory Research"
+          },
+          "correctAnswer": {
+            "1": "A",
+            "2": "B",
+            "3": "C"
+          },
+          "rationale": "These match the sections discussing memory processes, the role of the hippocampus, and implications of memory research."
+        },
+        {
+          "id": "p3_q12",
+          "type": "true_false_not_given",
+          "prompt": "Retrieval is the first process of memory.",
+          "correctAnswer": "False",
+          "rationale": "The passage states that encoding is the initial process of memory."
+        },
+        {
+          "id": "p3_q13",
+          "type": "short_answer",
+          "prompt": "What can influence the process of encoding?",
+          "correctAnswer": "Attention, emotional significance, context",
+          "rationale": "The passage states various factors like attention and emotional significance can influence encoding."
+        }
+      ]
+    }
+  ],
+  "notes": null,
+  "questionsPerPassage": 13
+}

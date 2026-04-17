@@ -1,0 +1,942 @@
+{
+  "attemptId": "f075355a96fa474389fa1ad833a5e928",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-06T06:51:43Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Gardening for Urban Residents",
+      "text": "Gardening is a popular activity enjoyed by many people around the world. In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being. Small gardens, balcony planters, and community gardens provide city residents with opportunities to grow flowers, herbs, and vegetables. These activities not only enhance the aesthetic appeal of neighborhoods but also promote healthier eating habits by encouraging the consumption of home-grown produce. Additionally, gardening has been shown to reduce stress and improve mood, making it an excellent recreational activity for busy city dwellers. Community gardens also foster social interactions, helping to strengthen neighborhood ties. Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity. Despite challenges like limited space and pollution, urban gardening continues to grow in popularity as more people recognize its numerous benefits."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Renewable Energy Adoption on National Economies",
+      "text": "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. Countries are increasingly investing in solar, wind, hydroelectric, and other sustainable energy technologies to reduce dependence on fossil fuels and decrease greenhouse gas emissions. This transition has profound economic implications. On one hand, expanding renewable energy sectors create new jobs, stimulate technological innovation, and can lead to energy price stabilization. For example, countries like Denmark and Germany have made substantial progress in integrating renewable sources into their national grids, resulting in economic growth and increased energy security. On the other hand, the transition poses challenges, including the high initial investment costs and the need for updated infrastructure. Additionally, regions that depend heavily on fossil fuel industries may experience economic downturns and job losses. Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities. Overall, the adoption of renewable energy is reshaping national economies by fostering sustainable growth and reducing environmental impact, but it requires careful planning and policy support to maximize benefits."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of CRISPR Technology in Modern Genetics and Medicine",
+      "text": "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing. Its applications range from fundamental biological research to potential therapies for genetic disorders. In medicine, CRISPR has shown promise in treating conditions such as sickle cell anemia, cystic fibrosis, and certain types of cancer. By allowing scientists to target and correct faulty genes, CRISPR offers the possibility of curing previously untreatable diseases. However, the technology also raises ethical concerns regarding gene editing in human embryos and the potential for unintended genetic consequences. Researchers are actively working to improve the accuracy and safety of CRISPR systems, developing strategies to minimize off-target effects. As the technology continues to evolve, regulatory frameworks are being established to guide responsible use. The future of CRISPR in medicine holds great potential, but it also necessitates careful ethical considerations and rigorous scientific validation to ensure safe and equitable application."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one benefit of urban gardening mentioned in the passage?",
+          "options": [
+            "It increases air pollution",
+            "It reduces air pollution",
+            "It decreases neighborhood interaction",
+            "It limits access to fresh produce"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening activities are only beneficial for aesthetic purposes.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the paragraph sections with their main ideas.",
+          "options": [
+            "Environmental benefits of urban gardening",
+            "Challenges faced in urban gardening",
+            "Social and health benefits of gardening",
+            "Types of urban gardens"
+          ],
+          "correctAnswers": [
+            "3",
+            "2",
+            "1",
+            "4"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one type of urban garden described in the passage.",
+          "correctAnswer": "Community garden"
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a benefit of gardening?",
+          "options": [
+            "Improved mood",
+            "Reduced stress",
+            "Increased pollution",
+            "Healthier eating"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Community gardens help to strengthen neighborhood ties.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "What challenge is associated with urban gardening?",
+          "options": [
+            "Excess space",
+            "Lack of interest",
+            "Limited space",
+            "Overabundance of resources"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "What environmental benefit does urban gardening support?",
+          "correctAnswer": "Supporting local biodiversity"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "How does gardening promote healthier eating habits?",
+          "options": [
+            "By encouraging fast food",
+            "By promoting home-grown produce",
+            "By reducing food options",
+            "By decreasing vegetable consumption"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardening is declining in popularity due to pollution.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the benefits with their descriptions.",
+          "options": [
+            "Reduces stress",
+            "Enhances neighborhood aesthetics",
+            "Supports local biodiversity",
+            "Promotes healthier eating"
+          ],
+          "correctAnswers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "type": "multiple_choice",
+          "prompt": "Which activity is NOT mentioned as part of urban gardening?",
+          "options": [
+            "Growing herbs",
+            "Growing vegetables",
+            "Planting trees",
+            "Balcony planting"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p1_q13",
+          "type": "short_answer",
+          "prompt": "What is one reason urban gardening is growing in popularity?",
+          "correctAnswer": "Recognition of its benefits"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What has been a major focus of the shift towards renewable energy?",
+          "options": [
+            "Increasing fossil fuel use",
+            "Reducing dependence on fossil fuels",
+            "Reducing renewable energy sources",
+            "Increasing coal power"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Countries investing in renewable energy are doing so mainly to decrease greenhouse gas emissions.",
+          "correctAnswer": "True"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the benefits and challenges of renewable energy transition.",
+          "options": [
+            "Economic growth and job creation",
+            "High initial costs and infrastructure needs",
+            "Economic downturns in fossil fuel regions",
+            "Environmental impact reduction"
+          ],
+          "correctAnswers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Name one country mentioned that has made progress in renewable energy.",
+          "correctAnswer": "Denmark or Germany"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a negative economic impact of transitioning to renewable energy?",
+          "options": [
+            "Job creation in fossil fuel industries",
+            "Job losses in fossil fuel industries",
+            "Decreased technological innovation",
+            "Lower energy prices"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "The transition to renewable energy has no economic challenges.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What must governments do to support renewable energy adoption?",
+          "options": [
+            "Ignore socio-economic impacts",
+            "Promote fossil fuels",
+            "Balance policy and planning",
+            "Reduce investments"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is one benefit of renewable energy for national economies?",
+          "correctAnswer": "Sustainable growth"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a renewable energy source mentioned?",
+          "options": [
+            "Solar",
+            "Wind",
+            "Nuclear",
+            "Hydroelectric"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Regions dependent on fossil fuels are unaffected by the energy transition.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the economic implications with their descriptions.",
+          "options": [
+            "Job creation",
+            "Infrastructure costs",
+            "Economic downturns",
+            "Energy security"
+          ],
+          "correctAnswers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "p2_q12",
+          "type": "multiple_choice",
+          "prompt": "What is a common obstacle in adopting renewable energy?",
+          "options": [
+            "Low initial costs",
+            "Infrastructure updates",
+            "High investment costs",
+            "Immediate benefits"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q13",
+          "type": "short_answer",
+          "prompt": "What does renewable energy adoption aim to reduce environmentally?",
+          "correctAnswer": "Greenhouse gas emissions"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What does CRISPR-Cas9 technology primarily do?",
+          "options": [
+            "Creates new genes",
+            "Modifies DNA sequences",
+            "Removes all genes",
+            "Prevents gene expression"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR was originally discovered as a gene therapy tool.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the applications with their descriptions.",
+          "options": [
+            "Treating genetic disorders",
+            "Research in biology",
+            "Potential cancer therapies",
+            "Gene editing in embryos"
+          ],
+          "correctAnswers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Name one genetic disorder mentioned that CRISPR could treat.",
+          "correctAnswer": "Sickle cell anemia or cystic fibrosis"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is a major ethical concern regarding CRISPR?",
+          "options": [
+            "Cost of technology",
+            "Gene editing in human embryos",
+            "Limited applications",
+            "Lack of research"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology has no risks of unintended genetic effects.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "What are scientists working to improve in CRISPR technology?",
+          "options": [
+            "Reducing cost",
+            "Increasing off-target effects",
+            "Improving accuracy and safety",
+            "Limiting its use"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What kind of framework is being developed for CRISPR use?",
+          "correctAnswer": "Regulatory frameworks"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a potential future application of CRISPR?",
+          "options": [
+            "Uncontrolled gene editing",
+            "Treating genetic diseases",
+            "Reducing gene editing accuracy",
+            "Eliminating all genetic modification"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR is only used in medicine and has no other applications.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the concerns and efforts related to CRISPR.",
+          "options": [
+            "Ethical concerns",
+            "Improving safety",
+            "Gene editing in humans",
+            "Scientific validation"
+          ],
+          "correctAnswers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ]
+        },
+        {
+          "id": "p3_q12",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a focus of CRISPR research?",
+          "options": [
+            "Safety improvements",
+            "Gene therapy",
+            "Gene editing in bacteria",
+            "Reducing scientific validation"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p3_q13",
+          "type": "short_answer",
+          "prompt": "What does CRISPR stand for?",
+          "correctAnswer": "Clustered Regularly Interspaced Short Palindromic Repeats"
+        },
+        {
+          "id": "p3_q14",
+          "type": "multiple_choice",
+          "prompt": "What is a key consideration for the responsible use of CRISPR?",
+          "options": [
+            "Speed of editing",
+            "Ethical considerations",
+            "Cost reduction",
+            "Speed of research"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to cover main ideas, details, and implications from each passage, with exact counts and unique IDs.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 15.0,
+  "passage_1_score": 15.38,
+  "passage_2_score": 15.38,
+  "passage_3_score": 14.29,
+  "total_questions": 40,
+  "correct_questions": 6,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one benefit of urban gardening mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Gardening is a popular activity enjoyed by many people around the world. In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being."
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Urban gardening activities are only beneficial for aesthetic purposes.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "These activities not only enhance the aesthetic appeal of neighborhoods but also promote healthier eating habits by encouraging the consumption of home-grown produce.",
+        "Additionally, gardening has been shown to reduce stress and improve mood, making it an excellent recreational activity for busy city dwellers."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being. These activities not only enhance the aesthetic appeal of neighborhoods but also promote healthier eating habits by encouraging the consumption of home-grown produce."
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name one type of urban garden described in the passage.",
+      "correctAnswer": "Community garden",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "Small gardens, balcony planters, and community gardens provide city residents with opportunities to grow flowers, herbs, and vegetables."
+      ],
+      "explanation": "The correct answer is 'Community garden' because the passage states: Gardening is a popular activity enjoyed by many people around the world. In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being."
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Which of the following is NOT mentioned as a benefit of gardening?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "These activities not only enhance the aesthetic appeal of neighborhoods but also promote healthier eating habits by encouraging the consumption of home-grown produce."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Gardening is a popular activity enjoyed by many people around the world. In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being."
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Community gardens help to strengthen neighborhood ties.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Small gardens, balcony planters, and community gardens provide city residents with opportunities to grow flowers, herbs, and vegetables.",
+        "Community gardens also foster social interactions, helping to strengthen neighborhood ties."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: Small gardens, balcony planters, and community gardens provide city residents with opportunities to grow flowers, herbs, and vegetables. Community gardens also foster social interactions, helping to strengthen neighborhood ties."
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "What challenge is associated with urban gardening?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity.",
+        "Despite challenges like limited space and pollution, urban gardening continues to grow in popularity as more people recognize its numerous benefits."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being. Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity."
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "What environmental benefit does urban gardening support?",
+      "correctAnswer": "Supporting local biodiversity",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity.",
+        "Despite challenges like limited space and pollution, urban gardening continues to grow in popularity as more people recognize its numerous benefits."
+      ],
+      "explanation": "The correct answer is 'Supporting local biodiversity' because the passage states: In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being. Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity."
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "How does gardening promote healthier eating habits?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "These activities not only enhance the aesthetic appeal of neighborhoods but also promote healthier eating habits by encouraging the consumption of home-grown produce."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Gardening is a popular activity enjoyed by many people around the world. In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being."
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Urban gardening is declining in popularity due to pollution.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity.",
+        "Despite challenges like limited space and pollution, urban gardening continues to grow in popularity as more people recognize its numerous benefits."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being. Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity."
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "Which activity is NOT mentioned as part of urban gardening?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Gardening is a popular activity enjoyed by many people around the world.",
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "Additionally, gardening has been shown to reduce stress and improve mood, making it an excellent recreational activity for busy city dwellers."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Gardening is a popular activity enjoyed by many people around the world. In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being."
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "What is one reason urban gardening is growing in popularity?",
+      "correctAnswer": "Recognition of its benefits",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being.",
+        "Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity.",
+        "Despite challenges like limited space and pollution, urban gardening continues to grow in popularity as more people recognize its numerous benefits."
+      ],
+      "explanation": "The correct answer is 'Recognition of its benefits' because the passage states: In urban areas, where space is limited, gardening can be a wonderful way to connect with nature and improve mental well-being. Moreover, urban gardening can contribute to environmental benefits such as reducing air pollution and supporting local biodiversity."
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What has been a major focus of the shift towards renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities.",
+        "Overall, the adoption of renewable energy is reshaping national economies by fostering sustainable growth and reducing environmental impact, but it requires careful planning and policy support to maximize benefits."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities."
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Countries investing in renewable energy are doing so mainly to decrease greenhouse gas emissions.",
+      "correctAnswer": "True",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "Countries are increasingly investing in solar, wind, hydroelectric, and other sustainable energy technologies to reduce dependence on fossil fuels and decrease greenhouse gas emissions.",
+        "For example, countries like Denmark and Germany have made substantial progress in integrating renewable sources into their national grids, resulting in economic growth and increased energy security."
+      ],
+      "explanation": "The correct answer is 'True' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. Countries are increasingly investing in solar, wind, hydroelectric, and other sustainable energy technologies to reduce dependence on fossil fuels and decrease greenhouse gas emissions."
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Name one country mentioned that has made progress in renewable energy.",
+      "correctAnswer": "Denmark or Germany",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "On one hand, expanding renewable energy sectors create new jobs, stimulate technological innovation, and can lead to energy price stabilization.",
+        "For example, countries like Denmark and Germany have made substantial progress in integrating renewable sources into their national grids, resulting in economic growth and increased energy security."
+      ],
+      "explanation": "The correct answer is 'Denmark or Germany' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. On one hand, expanding renewable energy sectors create new jobs, stimulate technological innovation, and can lead to energy price stabilization."
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "What is a negative economic impact of transitioning to renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "For example, countries like Denmark and Germany have made substantial progress in integrating renewable sources into their national grids, resulting in economic growth and increased energy security.",
+        "Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities.",
+        "Overall, the adoption of renewable energy is reshaping national economies by fostering sustainable growth and reducing environmental impact, but it requires careful planning and policy support to maximize benefits."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: For example, countries like Denmark and Germany have made substantial progress in integrating renewable sources into their national grids, resulting in economic growth and increased energy security. Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities."
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "The transition to renewable energy has no economic challenges.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "This transition has profound economic implications.",
+        "Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. This transition has profound economic implications."
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What must governments do to support renewable energy adoption?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities.",
+        "Overall, the adoption of renewable energy is reshaping national economies by fostering sustainable growth and reducing environmental impact, but it requires careful planning and policy support to maximize benefits."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities."
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is one benefit of renewable energy for national economies?",
+      "correctAnswer": "Sustainable growth",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "On one hand, expanding renewable energy sectors create new jobs, stimulate technological innovation, and can lead to energy price stabilization.",
+        "For example, countries like Denmark and Germany have made substantial progress in integrating renewable sources into their national grids, resulting in economic growth and increased energy security.",
+        "Overall, the adoption of renewable energy is reshaping national economies by fostering sustainable growth and reducing environmental impact, but it requires careful planning and policy support to maximize benefits."
+      ],
+      "explanation": "The correct answer is 'Sustainable growth' because the passage states: On one hand, expanding renewable energy sectors create new jobs, stimulate technological innovation, and can lead to energy price stabilization. For example, countries like Denmark and Germany have made substantial progress in integrating renewable sources into their national grids, resulting in economic growth and increased energy security."
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT a renewable energy source mentioned?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities.",
+        "Overall, the adoption of renewable energy is reshaping national economies by fostering sustainable growth and reducing environmental impact, but it requires careful planning and policy support to maximize benefits."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. Governments must therefore balance promoting renewable energy with managing the socio-economic impacts on affected communities."
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Regions dependent on fossil fuels are unaffected by the energy transition.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "Countries are increasingly investing in solar, wind, hydroelectric, and other sustainable energy technologies to reduce dependence on fossil fuels and decrease greenhouse gas emissions.",
+        "On the other hand, the transition poses challenges, including the high initial investment costs and the need for updated infrastructure."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. Countries are increasingly investing in solar, wind, hydroelectric, and other sustainable energy technologies to reduce dependence on fossil fuels and decrease greenhouse gas emissions."
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is a common obstacle in adopting renewable energy?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "On one hand, expanding renewable energy sectors create new jobs, stimulate technological innovation, and can lead to energy price stabilization.",
+        "For example, countries like Denmark and Germany have made substantial progress in integrating renewable sources into their national grids, resulting in economic growth and increased energy security."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. On one hand, expanding renewable energy sectors create new jobs, stimulate technological innovation, and can lead to energy price stabilization."
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What does renewable energy adoption aim to reduce environmentally?",
+      "correctAnswer": "Greenhouse gas emissions",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "Over the past few decades, the global shift towards renewable energy sources has gained significant momentum.",
+        "Countries are increasingly investing in solar, wind, hydroelectric, and other sustainable energy technologies to reduce dependence on fossil fuels and decrease greenhouse gas emissions.",
+        "Overall, the adoption of renewable energy is reshaping national economies by fostering sustainable growth and reducing environmental impact, but it requires careful planning and policy support to maximize benefits."
+      ],
+      "explanation": "The correct answer is 'Greenhouse gas emissions' because the passage states: Over the past few decades, the global shift towards renewable energy sources has gained significant momentum. Countries are increasingly investing in solar, wind, hydroelectric, and other sustainable energy technologies to reduce dependence on fossil fuels and decrease greenhouse gas emissions."
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What does CRISPR-Cas9 technology primarily do?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "In medicine, CRISPR has shown promise in treating conditions such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing."
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "CRISPR was originally discovered as a gene therapy tool.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "In medicine, CRISPR has shown promise in treating conditions such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing."
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Name one genetic disorder mentioned that CRISPR could treat.",
+      "correctAnswer": "Sickle cell anemia or cystic fibrosis",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "In medicine, CRISPR has shown promise in treating conditions such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+      ],
+      "explanation": "The correct answer is 'Sickle cell anemia or cystic fibrosis' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing."
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is a major ethical concern regarding CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "However, the technology also raises ethical concerns regarding gene editing in human embryos and the potential for unintended genetic consequences.",
+        "The future of CRISPR in medicine holds great potential, but it also necessitates careful ethical considerations and rigorous scientific validation to ensure safe and equitable application."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. However, the technology also raises ethical concerns regarding gene editing in human embryos and the potential for unintended genetic consequences."
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "CRISPR technology has no risks of unintended genetic effects.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "However, the technology also raises ethical concerns regarding gene editing in human embryos and the potential for unintended genetic consequences."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing."
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "What are scientists working to improve in CRISPR technology?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "By allowing scientists to target and correct faulty genes, CRISPR offers the possibility of curing previously untreatable diseases.",
+        "Researchers are actively working to improve the accuracy and safety of CRISPR systems, developing strategies to minimize off-target effects."
+      ],
+      "explanation": "The correct answer is 'C' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. By allowing scientists to target and correct faulty genes, CRISPR offers the possibility of curing previously untreatable diseases."
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What kind of framework is being developed for CRISPR use?",
+      "correctAnswer": "Regulatory frameworks",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "As the technology continues to evolve, regulatory frameworks are being established to guide responsible use."
+      ],
+      "explanation": "The correct answer is 'Regulatory frameworks' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing."
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "What is a potential future application of CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "The future of CRISPR in medicine holds great potential, but it also necessitates careful ethical considerations and rigorous scientific validation to ensure safe and equitable application."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing."
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "CRISPR is only used in medicine and has no other applications.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given",
+      "evidence_sentences": [
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "In medicine, CRISPR has shown promise in treating conditions such as sickle cell anemia, cystic fibrosis, and certain types of cancer.",
+        "The future of CRISPR in medicine holds great potential, but it also necessitates careful ethical considerations and rigorous scientific validation to ensure safe and equitable application."
+      ],
+      "explanation": "The correct answer is 'False' because the passage states: Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing. In medicine, CRISPR has shown promise in treating conditions such as sickle cell anemia, cystic fibrosis, and certain types of cancer."
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "Which of the following is NOT mentioned as a focus of CRISPR research?",
+      "correctAnswer": "D",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "By allowing scientists to target and correct faulty genes, CRISPR offers the possibility of curing previously untreatable diseases.",
+        "Researchers are actively working to improve the accuracy and safety of CRISPR systems, developing strategies to minimize off-target effects."
+      ],
+      "explanation": "The correct answer is 'D' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. By allowing scientists to target and correct faulty genes, CRISPR offers the possibility of curing previously untreatable diseases."
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What does CRISPR stand for?",
+      "correctAnswer": "Clustered Regularly Interspaced Short Palindromic Repeats",
+      "userAnswer": null,
+      "type": "short_answer",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "Its applications range from fundamental biological research to potential therapies for genetic disorders."
+      ],
+      "explanation": "The correct answer is 'Clustered Regularly Interspaced Short Palindromic Repeats' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing."
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "What is a key consideration for the responsible use of CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice",
+      "evidence_sentences": [
+        "CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms.",
+        "Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing.",
+        "As the technology continues to evolve, regulatory frameworks are being established to guide responsible use."
+      ],
+      "explanation": "The correct answer is 'B' because the passage states: CRISPR-Cas9 technology represents a groundbreaking advancement in the field of genetics, enabling precise modifications to DNA sequences within living organisms. Originating from a natural immune system found in bacteria, CRISPR has been adapted as a powerful tool for gene editing."
+    }
+  ],
+  "scoredAt": "2026-03-06T06:51:58Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a need for more focused practice on locating specific details and understanding implied meanings. Many answers were missed due to overlooking key sentences or misinterpreting the scope of information.",
+    "byPassage": {
+      "1": "You often missed the explicit mention of mental well-being and environmental benefits in urban gardening. Clues were in sentences about connecting with nature and supporting biodiversity. Focus on keywords like 'mental well-being' and 'supporting local biodiversity' for future questions.",
+      "2": "You failed to recognize the emphasis on economic and environmental impacts of renewable energy. Look for sentences discussing 'momentum,' 'progress,' and 'economic growth' to identify main ideas. Pay attention to words like 'decrease' and 'reduce' in context of emissions.",
+      "3": "You overlooked the origin and ethical concerns associated with CRISPR. The clues were in sentences about 'natural immune system' and 'ethical concerns.' Focus on understanding the main function and ethical implications described in each paragraph."
+    },
+    "tips": [
+      "Practice scanning passages quickly to locate keywords related to the question prompt, such as 'benefits,' 'challenges,' or specific terms like 'biodiversity' or 'emissions.'",
+      "Develop the habit of paraphrasing sentences in your mind to better grasp implied meanings and avoid missing subtle details.",
+      "Review practice questions with explanations to understand why certain options are correct or incorrect, focusing on how evidence sentences support the answer."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-06T06:52:02Z"
+}

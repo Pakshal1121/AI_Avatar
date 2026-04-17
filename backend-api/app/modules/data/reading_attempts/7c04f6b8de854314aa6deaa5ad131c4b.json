@@ -1,0 +1,827 @@
+{
+  "attemptId": "7c04f6b8de854314aa6deaa5ad131c4b",
+  "userId": "dom@gmail.com",
+  "createdAt": "2026-03-05T09:13:10Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Gardens in Urban Areas",
+      "text": "Urban gardens have become increasingly popular in cities around the world. These green spaces provide residents with a place to relax, enjoy nature, and engage in outdoor activities. Gardens can be found on rooftops, vacant lots, and alongside streets, transforming otherwise dull environments into vibrant areas. They offer numerous benefits, including improving air quality by filtering pollutants and producing oxygen. Additionally, gardens help to reduce the urban heat island effect, where cities tend to be much hotter than surrounding rural areas due to concrete and asphalt absorbing heat. Beyond environmental advantages, urban gardens contribute to mental health. Spending time in green spaces has been shown to reduce stress, improve mood, and increase overall well-being. They also encourage community interaction, fostering a sense of belonging among residents. Many cities promote gardening projects through local governments and community organizations, recognizing their importance. These initiatives often include educational programs for children and workshops for adults, promoting sustainable practices and environmental awareness. Overall, urban gardens are a simple yet effective way to enhance city life, making urban environments healthier and more enjoyable for everyone."
+    },
+    {
+      "passageId": "2",
+      "title": "Renewable Energy Sources and Their Impact on the Environment",
+      "text": "In recent decades, there has been a significant shift towards renewable energy sources as countries aim to reduce their reliance on fossil fuels and mitigate climate change. Renewable energy encompasses various technologies such as solar power, wind power, hydroelectricity, geothermal energy, and biomass. These sources are considered sustainable because they are naturally replenished and produce little to no greenhouse gas emissions. Solar panels convert sunlight directly into electricity, making solar energy one of the most accessible and rapidly growing sectors. Wind turbines harness the kinetic energy of the wind to generate power, often installed in large wind farms on land or offshore. Hydroelectric plants use flowing water to turn turbines, producing substantial amounts of electricity but also raising concerns about ecological impacts on aquatic ecosystems. Geothermal energy taps into the Earth's internal heat, providing a reliable source of power in regions with volcanic activity. Biomass involves using organic materials like wood, crop waste, and animal manure to produce energy, which can help reduce waste and provide a renewable alternative to fossil fuels. Transitioning to renewable energy has significant environmental benefits, including reducing air pollution and decreasing greenhouse gas emissions. However, it also presents challenges such as high initial costs, technological limitations, and potential impacts on local wildlife and habitats. Despite these obstacles, the global movement toward renewable energy continues to accelerate, driven by technological advancements and increasing awareness of environmental issues. Ultimately, expanding renewable energy sources is seen as a vital step in creating a sustainable and cleaner future for the planet."
+    },
+    {
+      "passageId": "3",
+      "title": "Advances in CRISPR Technology and Gene Editing",
+      "text": "CRISPR-Cas9 has revolutionized the field of genetic engineering, offering unprecedented precision and efficiency in editing DNA sequences. Originally discovered as a bacterial immune system, CRISPR technology has been adapted to target specific genes within living organisms. The process involves designing a small RNA molecule that guides the Cas9 enzyme to a particular sequence of DNA. Once there, Cas9 acts as molecular scissors, cutting the DNA at the targeted location. This allows scientists to remove, insert, or modify genetic material with high accuracy. The potential applications of CRISPR are vast, ranging from developing gene therapies for genetic disorders to improving crop resilience in agriculture. For instance, researchers are exploring CRISPR-based treatments for diseases like sickle cell anemia, cystic fibrosis, and certain types of cancer. In agriculture, gene editing can produce crops that are more resistant to pests, diseases, and environmental stresses, potentially reducing the need for chemical pesticides and fertilizers. Despite its promise, CRISPR technology raises ethical concerns, particularly regarding germline editing, which involves altering genes in eggs, sperm, or embryos. Such changes can be inherited by future generations, prompting debates about safety, consent, and the possibility of creating 'designer babies.' Additionally, off-target effects, where unintended parts of the genome are edited, remain a challenge. Scientific communities worldwide are working to establish guidelines and regulations to ensure responsible use of gene editing technologies. As research advances, CRISPR continues to hold the potential to transform medicine, agriculture, and biological sciences, offering solutions to some of the most pressing global issues."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one primary benefit of urban gardens mentioned in the passage?",
+          "options": [
+            "They increase traffic congestion",
+            "They improve air quality",
+            "They reduce city population",
+            "They eliminate the need for parks"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardens are only found on rooftops.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the benefits with their descriptions:",
+          "options": [
+            "Reducing urban heat island effect",
+            "Enhancing community interaction",
+            "Improving mental health",
+            "Providing environmental education"
+          ],
+          "headings": [
+            "Helps cities stay cooler during hot weather",
+            "Encourages residents to socialize and work together",
+            "Reduces stress and boosts mood",
+            "Teaches sustainable practices to residents"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name two locations where urban gardens can be found.",
+          "correctAnswer": [
+            "rooftops",
+            "vacant lots"
+          ]
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which organization is likely to promote urban gardening projects?",
+          "options": [
+            "Local governments",
+            "Private corporations only",
+            "International banks",
+            "Fashion companies"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardens do not contribute to environmental sustainability.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "What type of educational programs might be included in urban gardening initiatives?",
+          "options": [
+            "Cooking classes",
+            "Environmental awareness workshops",
+            "Music lessons",
+            "Financial planning seminars"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "How do urban gardens impact city residents' mental health?",
+          "correctAnswer": "Reduce stress and improve mood"
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What environmental problem do urban gardens help mitigate?",
+          "options": [
+            "Air pollution",
+            "Water scarcity",
+            "Deforestation",
+            "Soil erosion"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Urban gardens have no effect on air quality.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Match the benefit with its description:",
+          "options": [
+            "Reducing urban heat",
+            "Enhancing community well-being",
+            "Supporting environmental education"
+          ],
+          "headings": [
+            "Helps cities stay cooler",
+            "Fosters a sense of community",
+            "Provides learning opportunities about sustainability"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What do urban gardens promote besides environmental benefits?",
+          "correctAnswer": "Community interaction"
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "Why do cities promote gardening projects?",
+          "options": [
+            "To increase property prices",
+            "To promote environmental awareness and community health",
+            "To reduce the number of parks",
+            "To attract tourists"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT a renewable energy source mentioned?",
+          "options": [
+            "Solar power",
+            "Wind power",
+            "Natural gas",
+            "Geothermal energy"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources produce significant greenhouse gas emissions.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match each renewable energy technology with its description:",
+          "options": [
+            "Solar panels",
+            "Wind turbines",
+            "Hydroelectricity",
+            "Geothermal energy",
+            "Biomass"
+          ],
+          "headings": [
+            "Convert sunlight into electricity",
+            "Use wind's kinetic energy to generate power",
+            "Use flowing water to produce electricity",
+            "Use Earth's internal heat",
+            "Use organic materials for energy"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Name one challenge of transitioning to renewable energy.",
+          "correctAnswer": "High initial costs"
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "What environmental benefit is associated with renewable energy?",
+          "options": [
+            "Increases air pollution",
+            "Reduces greenhouse gas emissions",
+            "Depletes natural resources",
+            "Increases fossil fuel use"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Renewable energy sources are unlimited and free of technological limitations.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "Which renewable energy source is often used in regions with volcanic activity?",
+          "options": [
+            "Solar power",
+            "Wind power",
+            "Geothermal energy",
+            "Biomass"
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is a common concern related to hydroelectric plants?",
+          "correctAnswer": "Ecological impacts on aquatic ecosystems"
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "Why is expanding renewable energy important?",
+          "options": [
+            "To create more jobs in fossil fuel industries",
+            "To reduce reliance on non-renewable resources and combat climate change",
+            "To increase energy costs",
+            "To decrease energy efficiency"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "All countries are equally advanced in renewable energy technology.",
+          "correctAnswer": "Not given"
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Match the challenge with the corresponding description:",
+          "options": [
+            "High costs",
+            "Technological limitations",
+            "Environmental impacts"
+          ],
+          "headings": [
+            "Expensive to implement initial infrastructure",
+            "Current technology may not be sufficient for all needs",
+            "Potential harm to ecosystems and wildlife"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "What is a key reason for the global movement towards renewable energy?",
+          "correctAnswer": "Mitigating climate change"
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "What is a benefit of renewable energy that helps reduce waste?",
+          "options": [
+            "Produces organic waste",
+            "Helps reduce waste through biomass",
+            "Increases landfill use",
+            "Requires more packaging"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is CRISPR-Cas9 originally discovered as?",
+          "options": [
+            "A human immune system",
+            "A bacterial immune system",
+            "A plant growth regulator",
+            "A virus defense in animals"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology was first used for gene editing in humans.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the process with its description:",
+          "options": [
+            "Designing guide RNA",
+            "Cas9 enzyme action",
+            "Gene modification",
+            "Off-target effects"
+          ],
+          "headings": [
+            "Creating a small RNA molecule to target DNA",
+            "Cas9 cuts DNA at specific sites",
+            "Inserting or removing genetic material",
+            "Unintended edits in the genome"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Name one application of CRISPR technology in medicine.",
+          "correctAnswer": "Gene therapies for genetic disorders"
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "Which disease is mentioned as being potentially treatable with CRISPR?",
+          "options": [
+            "Diabetes",
+            "Sickle cell anemia",
+            "Alzheimer's",
+            "Asthma"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR can only be used in medical applications.",
+          "correctAnswer": "False"
+        },
+        {
+          "id": "p3_q7",
+          "type": "multiple_choice",
+          "prompt": "In agriculture, CRISPR can be used to produce crops that are:",
+          "options": [
+            "Less resistant to pests",
+            "More resistant to pests and environmental stresses",
+            "Less nutritious",
+            "More dependent on chemical pesticides"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "What is a major ethical concern related to germline editing?",
+          "correctAnswer": "Inheritance of changes by future generations"
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a challenge associated with CRISPR?",
+          "options": [
+            "High cost of DNA sequencing",
+            "Off-target effects",
+            "Lack of scientific interest",
+            "Limited applications"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "CRISPR technology is fully regulated worldwide.",
+          "correctAnswer": "Not given"
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Match the application with its purpose:",
+          "options": [
+            "Medical treatments",
+            "Agricultural improvements",
+            "Ethical considerations"
+          ],
+          "headings": [
+            "Developing gene therapies for diseases",
+            "Creating pest-resistant crops",
+            "Debates about safety and morality"
+          ],
+          "correctAnswer": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What does CRISPR's high precision allow scientists to do?",
+          "correctAnswer": "Edit DNA sequences accurately"
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What does the passage suggest about the future of CRISPR?",
+          "options": [
+            "It will be banned worldwide",
+            "It has the potential to transform medicine and agriculture",
+            "It is unlikely to be used further",
+            "It will only be used for research purposes"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q14",
+          "type": "multiple_choice",
+          "prompt": "What is a reason for establishing guidelines and regulations for CRISPR?",
+          "options": [
+            "To make gene editing more expensive",
+            "To ensure responsible use and safety",
+            "To limit research in the field",
+            "To promote illegal practices"
+          ],
+          "correctAnswer": "B"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions are designed to comprehensively assess understanding of each passage, with exact counts and unique IDs as specified. All question types and formats are included per instructions.",
+  "questionsPerPassage": 13,
+  "totalQuestions": 40,
+  "overall_score": 7.5,
+  "passage_1_score": 15.38,
+  "passage_2_score": 7.69,
+  "passage_3_score": 0.0,
+  "total_questions": 40,
+  "correct_questions": 3,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one primary benefit of urban gardens mentioned in the passage?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the benefits with their descriptions:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q4",
+      "passageId": "1",
+      "prompt": "Name two locations where urban gardens can be found.",
+      "correctAnswer": [
+        "rooftops",
+        "vacant lots"
+      ],
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Which organization is likely to promote urban gardening projects?",
+      "correctAnswer": "A",
+      "userAnswer": "B",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Urban gardens do not contribute to environmental sustainability.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "What type of educational programs might be included in urban gardening initiatives?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "How do urban gardens impact city residents' mental health?",
+      "correctAnswer": "Reduce stress and improve mood",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What environmental problem do urban gardens help mitigate?",
+      "correctAnswer": "A",
+      "userAnswer": "B",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Match the benefit with its description:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "What do urban gardens promote besides environmental benefits?",
+      "correctAnswer": "Community interaction",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "Why do cities promote gardening projects?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "Which of the following is NOT a renewable energy source mentioned?",
+      "correctAnswer": "C",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Renewable energy sources produce significant greenhouse gas emissions.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match each renewable energy technology with its description:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q4",
+      "passageId": "2",
+      "prompt": "Name one challenge of transitioning to renewable energy.",
+      "correctAnswer": "High initial costs",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "What environmental benefit is associated with renewable energy?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q6",
+      "passageId": "2",
+      "prompt": "Renewable energy sources are unlimited and free of technological limitations.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "What is a common concern related to hydroelectric plants?",
+      "correctAnswer": "Ecological impacts on aquatic ecosystems",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "Why is expanding renewable energy important?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "All countries are equally advanced in renewable energy technology.",
+      "correctAnswer": "Not given",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Match the challenge with the corresponding description:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q12",
+      "passageId": "2",
+      "prompt": "What is a key reason for the global movement towards renewable energy?",
+      "correctAnswer": "Mitigating climate change",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q13",
+      "passageId": "2",
+      "prompt": "What is a benefit of renewable energy that helps reduce waste?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What is CRISPR-Cas9 originally discovered as?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q2",
+      "passageId": "3",
+      "prompt": "CRISPR technology was first used for gene editing in humans.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the process with its description:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q4",
+      "passageId": "3",
+      "prompt": "Name one application of CRISPR technology in medicine.",
+      "correctAnswer": "Gene therapies for genetic disorders",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "Which disease is mentioned as being potentially treatable with CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "CRISPR can only be used in medical applications.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "In agriculture, CRISPR can be used to produce crops that are:",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q8",
+      "passageId": "3",
+      "prompt": "What is a major ethical concern related to germline editing?",
+      "correctAnswer": "Inheritance of changes by future generations",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "What is a challenge associated with CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "CRISPR technology is fully regulated worldwide.",
+      "correctAnswer": "Not given",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Match the application with its purpose:",
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q12",
+      "passageId": "3",
+      "prompt": "What does CRISPR's high precision allow scientists to do?",
+      "correctAnswer": "Edit DNA sequences accurately",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What does the passage suggest about the future of CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q14",
+      "passageId": "3",
+      "prompt": "What is a reason for establishing guidelines and regulations for CRISPR?",
+      "correctAnswer": "B",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    }
+  ],
+  "scoredAt": "2026-03-05T09:21:53Z",
+  "feedback_ai": {
+    "overall": "Your score indicates a solid understanding, but there are key areas for improvement. Focus on locating explicit clues in the passage to avoid misinterpretation, especially for true/false and matching questions. Pay attention to detail in matching benefits and descriptions, and ensure you understand the main ideas for short-answer questions.",
+    "byPassage": {
+      "1": "You missed the primary benefit of urban gardens, likely found in the introductory sentences describing their environmental and social advantages. Remember to scan for keywords like 'benefit' or 'advantage.' For matching questions, carefully read each benefit and description to match correctly. The question about promoting organizations was answered incorrectly; look for organizational roles in the passage. The mental health impact was not answered; locate the specific effects described. Be cautious with true/false questions—look for explicit statements. For location questions, scan for mentions of 'rooftops' and 'vacant lots.' The question about educational programs was answered incorrectly; check for specific program types mentioned. Overall, focus on keywords and details in the first paragraph.",
+      "2": "You answered incorrectly about renewable energy sources and environmental impacts. The passage states that renewable sources produce minimal greenhouse gases; look for explicit statements about emissions. The challenge of transition is high initial costs, often highlighted near discussions of economic barriers. The ecological impacts of hydroelectric plants are detailed in the section on environmental concerns; locate that paragraph. The importance of expanding renewable energy is linked to climate change mitigation—find that in the conclusion or summary sentences. Be attentive to words like 'not' or 'except' to avoid false assumptions. For technological limitations, check for phrases indicating technological or infrastructural challenges. For global advancements, the passage states the disparity among countries—look for comparative statements.",
+      "3": "You answered incorrectly about CRISPR's discovery and applications. The passage states CRISPR was originally discovered as a bacterial immune mechanism; locate that in the introduction. The ethical concern about inheritance is explicitly mentioned; find that in the ethics section. The future prospects are discussed in the concluding paragraphs—look for predictions or future directions. The regulation status is not explicitly given; be cautious with 'not given' questions. For matching processes and purposes, carefully read each description and match accordingly. The high precision of CRISPR is emphasized in the technical explanation; focus on the benefits of accuracy. Remember to identify keywords like 'discovered,' 'used,' 'applications,' and 'challenges' for precise answers."
+    },
+    "tips": [
+      "Practice skimming passages to quickly locate keywords related to questions, especially for true/false and matching tasks.",
+      "Highlight or underline key phrases when reading to better connect details with questions.",
+      "Review question types and strategies for matching, ensuring you understand how to identify main ideas versus details."
+    ]
+  },
+  "feedback_ai_createdAt": "2026-03-05T09:22:00Z"
+}

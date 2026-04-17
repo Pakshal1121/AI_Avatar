@@ -1,0 +1,21 @@
+fastapi==0.115.8
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+openai==1.55.3
+
+# Auth
+python-jose[cryptography]==3.3.0
+
+bcrypt==3.2.2
+passlib[bcrypt]==1.7.4
+
+# Reading log DB insert (optional; API still works without DB configured)
+mysql-connector-python==9.6.0
+
+# LiveKit token minting
+livekit==1.0.23
+livekit-api==1.1.0
+
+dnspython==2.8.0
+email-validator==2.3.0

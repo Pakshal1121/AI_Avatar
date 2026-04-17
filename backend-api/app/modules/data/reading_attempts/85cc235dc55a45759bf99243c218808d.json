@@ -1,0 +1,417 @@
+{
+  "attemptId": "85cc235dc55a45759bf99243c218808d",
+  "userId": "nilesh@gmail.com",
+  "createdAt": "2026-03-02T05:27:44Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Importance of Daily Exercise",
+      "text": "Daily exercise is an essential part of leading a healthy lifestyle. Engaging in regular physical activity can have numerous benefits for both the mind and body. For instance, exercise helps in maintaining a healthy weight, reducing the risk of chronic diseases such as diabetes and heart disease, and improving overall mental well-being. \n\nMost health experts recommend at least thirty minutes of moderate exercise most days of the week. This can include walking, jogging, swimming, or even dancing. The key is to find an activity that you enjoy, as this will make it easier to stick to a routine. Exercise not only boosts your physical health but also enhances your mood by releasing endorphins, often referred to as 'feel-good' hormones. \n\nIn addition to the physical benefits, daily exercise can improve cognitive function. Studies have shown that regular physical activity increases blood flow to the brain, which can help improve memory and concentration. Furthermore, exercise can reduce stress and anxiety, making it a vital part of mental health management. \n\nIncorporating exercise into your daily routine doesn’t necessarily mean hitting the gym every day. Simple changes, like taking the stairs instead of the elevator, walking or cycling to work, or even doing household chores can contribute significantly to your daily physical activity. As such, finding ways to be active throughout the day is crucial. \n\nIn conclusion, making time for daily exercise is worth the effort. The benefits far outweigh the challenges, and with a little creativity, anyone can find ways to stay active and improve their quality of life."
+    },
+    {
+      "passageId": "2",
+      "title": "The Evolution of Communication Technology",
+      "text": "Communication technology has undergone significant transformations over the last century, radically altering the way humans interact. From the invention of the telegraph in the 19th century to today's advanced digital communication systems, these innovations have shaped social dynamics, businesses, and cultures globally.\n\nThe telegraph revolutionized long-distance communication, allowing messages to be sent almost instantaneously for the first time. This breakthrough laid the foundation for further advancements, leading to the telephone, which further bridged the gap between people across vast distances. With the advent of the mobile phone in the late 20th century, communication became even more portable, enabling individuals to connect anytime and anywhere.\n\nThe rise of the internet in the 1990s brought about an unprecedented change in communication methodologies. Emails quickly became a primary mode of communication for both personal and professional use, overshadowing postal services. Social media platforms emerged in the early 2000s, creating new avenues for sharing information, opinions, and experiences. This shift has not only transformed individual communication but has also revolutionized marketing, news dissemination, and public opinion formation.\n\nToday, technologies such as video conferencing and instant messaging have made face-to-face communication possible across the globe without physical presence. The COVID-19 pandemic further accelerated the adoption of such technologies, as remote work and virtual social gatherings became necessary for maintaining connections.\n\nHowever, these advancements present challenges, including misinformation and decreased face-to-face interactions. The digital divide also highlights issues of accessibility, where not everyone has equal access to these technologies.\n\nIn conclusion, communication technology continues to evolve, shaping societal interactions in profound ways. As new innovations emerge, society must navigate the complexities that accompany these advancements to foster inclusive and effective communication."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of Microplastics in Marine Ecosystems",
+      "text": "Microplastics, defined as plastic particles measuring less than five millimeters in diameter, have emerged as a significant environmental concern, particularly in marine ecosystems. These particles can originate from various sources, including the breakdown of larger plastic debris, the shedding of synthetic fibers from textiles during washing, and even from personal care products. Once in the marine environment, microplastics pose a range of ecological threats.\n\nThe sheer volume of microplastics in the oceans is alarming. Studies estimate that millions of tons of plastic waste enter the marine environment annually, with varying concentrations of microplastics found in oceanic areas known as gyres, coastal regions, and even in deep-sea sediments. The global distribution of microplastics indicates that no part of the world's oceans remains untouched.\n\nMicroplastics impact marine life in several ways. Small organisms such as plankton can ingest these particles, mistaking them for food. This ingestion can result in physical harm, impaired growth, and reproductive issues. Moreover, microplastics can act as vectors for harmful pollutants, including heavy metals and persistent organic pollutants, which adsorb onto their surfaces. When marine organisms consume microplastics, these toxic substances may bioaccumulate in their tissues, potentially impacting the entire food web, including human health as seafood consumption increases.\n\nResearch has also shown that larger marine animals, such as fish and sea turtles, are not immune to the effects of microplastics. Ingested particles can lead to digestive blockages, reduced nutrient absorption, and even death. Additionally, microplastics have been observed in the stomachs of seabirds and marine mammals, highlighting the pervasive nature of this issue.\n\nScientists are actively researching strategies to mitigate the impacts of microplastics on marine ecosystems. These include improving waste management practices, increasing public awareness about plastic pollution, and advocating for policy changes that limit plastic production and consumption. Additionally, innovative technologies are being developed to capture microplastics from wastewater before they enter natural water bodies.\n\nIn conclusion, microplastics represent a pervasive threat to marine ecosystems that must be addressed through collaborative global efforts. Understanding their sources, impacts, and developing effective mitigation strategies will be essential in protecting our oceans and the myriad of life they support."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is the minimum recommended duration of moderate exercise most days of the week?",
+          "options": [
+            "15 minutes",
+            "30 minutes",
+            "45 minutes",
+            "60 minutes"
+          ],
+          "correctAnswer": "30 minutes",
+          "rationale": "The passage states that 'Most health experts recommend at least thirty minutes of moderate exercise most days of the week.'"
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Exercise can only be beneficial if done in a gym.",
+          "correctAnswer": "False",
+          "rationale": "The passage mentions that exercise can include activities not done in a gym, such as walking or doing household chores."
+        },
+        {
+          "id": "p1_q3",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, what do endorphins do?",
+          "options": [
+            "Help improve physical health",
+            "Enhance mood",
+            "Reduce stress",
+            "All of the above"
+          ],
+          "correctAnswer": "All of the above",
+          "rationale": "The passage states that exercise enhances mood by releasing endorphins and boosts physical health."
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name one chronic disease that exercise helps reduce the risk of.",
+          "correctAnswer": "Diabetes",
+          "rationale": "The passage lists 'reducing the risk of chronic diseases such as diabetes and heart disease' as a benefit of exercise."
+        },
+        {
+          "id": "p1_q5",
+          "type": "matching_headings",
+          "prompt": "Match the following headings to their respective paragraphs.",
+          "options": [
+            "A. The importance of exercise",
+            "B. Cognitive benefits of exercise",
+            "C. Incorporating exercise into daily life",
+            "D. The emotional effects of exercise"
+          ],
+          "correctAnswer": "C: Incorporating exercise into daily life",
+          "rationale": "The paragraph discusses ways to include exercise in one's daily routine."
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Exercise has no impact on mental health.",
+          "correctAnswer": "False",
+          "rationale": "The passage mentions that exercise can reduce stress and anxiety, indicating it impacts mental health."
+        },
+        {
+          "id": "p1_q7",
+          "type": "short_answer",
+          "prompt": "What is recommended to help stick to an exercise routine?",
+          "correctAnswer": "Finding an activity that you enjoy",
+          "rationale": "The passage states that finding an enjoyable activity makes it easier to stick to a routine."
+        },
+        {
+          "id": "p1_q8",
+          "type": "multiple_choice",
+          "prompt": "Which of the following is NOT mentioned as a form of exercise?",
+          "options": [
+            "Swimming",
+            "Walking",
+            "Reading",
+            "Dancing"
+          ],
+          "correctAnswer": "Reading",
+          "rationale": "The passage lists walking, jogging, swimming, and dancing as forms of exercise but does not mention reading."
+        },
+        {
+          "id": "p1_q9",
+          "type": "true_false_not_given",
+          "prompt": "Daily exercise is only beneficial for physical health.",
+          "correctAnswer": "False",
+          "rationale": "The passage emphasizes that daily exercise is beneficial for both physical and mental health."
+        },
+        {
+          "id": "p1_q10",
+          "type": "short_answer",
+          "prompt": "What term is often used to describe endorphins?",
+          "correctAnswer": "'Feel-good' hormones",
+          "rationale": "The passage refers to endorphins as 'feel-good' hormones."
+        },
+        {
+          "id": "p1_q11",
+          "type": "multiple_choice",
+          "prompt": "What is one of the physical benefits of exercise mentioned in the passage?",
+          "options": [
+            "Improving sleep",
+            "Maintaining a healthy weight",
+            "Enhancing creativity",
+            "Increasing social connections"
+          ],
+          "correctAnswer": "Maintaining a healthy weight",
+          "rationale": "The passage states that exercise helps in maintaining a healthy weight."
+        },
+        {
+          "id": "p1_q12",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits to their descriptions.",
+          "options": [
+            "1. Physical health",
+            "2. Mental well-being",
+            "3. Cognitive function"
+          ],
+          "correctAnswer": "2: Mental well-being - Enhances mood",
+          "rationale": "The passage connects exercise with enhancing mood, which relates to mental well-being."
+        },
+        {
+          "id": "p1_q13",
+          "type": "true_false_not_given",
+          "prompt": "The passage suggests that exercise can be easily incorporated into everyday activities.",
+          "correctAnswer": "True",
+          "rationale": "The passage explicitly states that simple changes can contribute significantly to daily physical activity."
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "Which invention is cited as the starting point for modern communication technology?",
+          "options": [
+            "The telephone",
+            "The telegraph",
+            "Social media",
+            "The internet"
+          ],
+          "correctAnswer": "The telegraph",
+          "rationale": "The passage states that the telegraph revolutionized long-distance communication."
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Communication technology has remained unchanged for the past century.",
+          "correctAnswer": "False",
+          "rationale": "The passage indicates that communication technology has undergone significant transformations over the last century."
+        },
+        {
+          "id": "p2_q3",
+          "type": "multiple_choice",
+          "prompt": "What was one key development in the 1990s related to communication?",
+          "options": [
+            "The invention of the mobile phone",
+            "The rise of the internet",
+            "The invention of the telegraph",
+            "The introduction of postal services"
+          ],
+          "correctAnswer": "The rise of the internet",
+          "rationale": "The passage mentions the rise of the internet in the 1990s as a significant change in communication."
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "What type of platform emerged in the early 2000s that changed communication?",
+          "correctAnswer": "Social media platforms",
+          "rationale": "The passage states that social media platforms emerged in the early 2000s."
+        },
+        {
+          "id": "p2_q5",
+          "type": "matching_headings",
+          "prompt": "Match the following innovations to their respective impacts.",
+          "options": [
+            "A. Mobile phone",
+            "B. Internet",
+            "C. Social media"
+          ],
+          "correctAnswer": "B: Internet - Revolutionized marketing",
+          "rationale": "The passage describes how the internet transformed marketing and news dissemination."
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Video conferencing became popular before the COVID-19 pandemic.",
+          "correctAnswer": "Not Given",
+          "rationale": "The passage mentions that the COVID-19 pandemic accelerated the adoption of video conferencing but does not specify its popularity prior."
+        },
+        {
+          "id": "p2_q7",
+          "type": "short_answer",
+          "prompt": "What is one challenge posed by advancements in communication technology?",
+          "correctAnswer": "Misinformation",
+          "rationale": "The passage notes that advancements present challenges, including misinformation."
+        },
+        {
+          "id": "p2_q8",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, what does the digital divide refer to?",
+          "options": [
+            "Access to communication technology",
+            "Quality of communication",
+            "Speed of communication",
+            "Types of communication tools"
+          ],
+          "correctAnswer": "Access to communication technology",
+          "rationale": "The passage discusses issues of accessibility, indicating that the digital divide refers to unequal access to technologies."
+        },
+        {
+          "id": "p2_q9",
+          "type": "true_false_not_given",
+          "prompt": "The passage states that all parts of society have adapted equally to new communication technologies.",
+          "correctAnswer": "False",
+          "rationale": "The passage describes the digital divide, indicating unequal adaptation to new technologies."
+        },
+        {
+          "id": "p2_q10",
+          "type": "short_answer",
+          "prompt": "What has changed in how businesses operate due to communication technology?",
+          "correctAnswer": "Marketing",
+          "rationale": "The passage mentions that communication technology has revolutionized marketing practices."
+        },
+        {
+          "id": "p2_q11",
+          "type": "multiple_choice",
+          "prompt": "What does the passage imply is necessary for effective communication as technology evolves?",
+          "options": [
+            "More face-to-face interactions",
+            "Navigating complexities",
+            "Focus on traditional methods",
+            "Ignoring new innovations"
+          ],
+          "correctAnswer": "Navigating complexities",
+          "rationale": "The passage concludes that society must navigate the complexities that come with technological advancements."
+        },
+        {
+          "id": "p2_q12",
+          "type": "matching_headings",
+          "prompt": "Match the following technologies to their descriptions.",
+          "options": [
+            "1. Instant messaging",
+            "2. Video conferencing",
+            "3. Social media"
+          ],
+          "correctAnswer": "2: Video conferencing - Enables face-to-face communication remotely",
+          "rationale": "The passage states that video conferencing allows for face-to-face communication without physical presence."
+        },
+        {
+          "id": "p2_q13",
+          "type": "true_false_not_given",
+          "prompt": "The passage suggests that communication technology will stop evolving.",
+          "correctAnswer": "False",
+          "rationale": "The passage indicates that communication technology continues to evolve."
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What size are microplastics defined as?",
+          "options": [
+            "Less than 1 millimeter",
+            "Less than 5 millimeters",
+            "Less than 10 millimeters",
+            "Less than 2 millimeters"
+          ],
+          "correctAnswer": "Less than 5 millimeters",
+          "rationale": "The passage defines microplastics as plastic particles measuring less than five millimeters in diameter."
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Microplastics come only from the breakdown of larger plastic items.",
+          "correctAnswer": "False",
+          "rationale": "The passage states that microplastics originate from various sources, including the shedding of synthetic fibers."
+        },
+        {
+          "id": "p3_q3",
+          "type": "multiple_choice",
+          "prompt": "Where are microplastics predominantly found?",
+          "options": [
+            "In freshwater systems",
+            "In marine ecosystems",
+            "In urban areas",
+            "In the atmosphere"
+          ],
+          "correctAnswer": "In marine ecosystems",
+          "rationale": "The passage mentions that microplastics have emerged as a significant environmental concern, particularly in marine ecosystems."
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "Name one way microplastics impact marine life.",
+          "correctAnswer": "Ingestion by small organisms",
+          "rationale": "The passage notes that small organisms can ingest microplastics, mistaking them for food."
+        },
+        {
+          "id": "p3_q5",
+          "type": "matching_headings",
+          "prompt": "Match the following impacts to their descriptions.",
+          "options": [
+            "A. Bioaccumulation",
+            "B. Physical harm",
+            "C. Digestive blockages"
+          ],
+          "correctAnswer": "B: Physical harm - Ingestion can result in impaired growth",
+          "rationale": "The passage describes how ingestion of microplastics can lead to physical harm and impaired growth."
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Microplastics can carry harmful pollutants.",
+          "correctAnswer": "True",
+          "rationale": "The passage states that microplastics can act as vectors for harmful pollutants."
+        },
+        {
+          "id": "p3_q7",
+          "type": "short_answer",
+          "prompt": "What is one method being researched to mitigate microplastics' impact?",
+          "correctAnswer": "Improving waste management practices",
+          "rationale": "The passage mentions researching strategies including improving waste management practices."
+        },
+        {
+          "id": "p3_q8",
+          "type": "multiple_choice",
+          "prompt": "Which of the following are NOT affected by microplastics according to the passage?",
+          "options": [
+            "Plankton",
+            "Fish",
+            "Seabirds",
+            "Coral reefs"
+          ],
+          "correctAnswer": "Coral reefs",
+          "rationale": "The passage discusses effects on plankton, fish, and seabirds, but does not mention coral reefs."
+        },
+        {
+          "id": "p3_q9",
+          "type": "true_false_not_given",
+          "prompt": "Microplastics have been found in seabirds and marine mammals.",
+          "correctAnswer": "True",
+          "rationale": "The passage states that microplastics have been observed in the stomachs of seabirds and marine mammals."
+        },
+        {
+          "id": "p3_q10",
+          "type": "short_answer",
+          "prompt": "What is a significant consequence of microplastics for the food web?",
+          "correctAnswer": "Bioaccumulation of toxic substances",
+          "rationale": "The passage explains that microplastics can lead to the bioaccumulation of toxic substances in marine organisms."
+        },
+        {
+          "id": "p3_q11",
+          "type": "multiple_choice",
+          "prompt": "What is the main environmental issue discussed in the passage?",
+          "options": [
+            "Air pollution",
+            "Microplastics",
+            "Climate change",
+            "Overfishing"
+          ],
+          "correctAnswer": "Microplastics",
+          "rationale": "The passage is focused on microplastics as a significant environmental concern."
+        },
+        {
+          "id": "p3_q12",
+          "type": "matching_headings",
+          "prompt": "Match the following descriptions to their corresponding main ideas.",
+          "options": [
+            "1. Sources of microplastics",
+            "2. Impact on marine organisms",
+            "3. Mitigation strategies"
+          ],
+          "correctAnswer": "2: Impact on marine organisms - Ingestion leads to harmful effects",
+          "rationale": "The passage highlights the impact on marine life from ingestion of microplastics."
+        },
+        {
+          "id": "p3_q13",
+          "type": "true_false_not_given",
+          "prompt": "The passage concludes that addressing microplastics requires global cooperation.",
+          "correctAnswer": "True",
+          "rationale": "The passage states that collaborative global efforts are essential in addressing the issue of microplastics."
+        }
+      ]
+    }
+  ],
+  "notes": null,
+  "questionsPerPassage": 13
+}

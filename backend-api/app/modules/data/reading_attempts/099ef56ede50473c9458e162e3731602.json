@@ -1,0 +1,711 @@
+{
+  "attemptId": "099ef56ede50473c9458e162e3731602",
+  "userId": "nilesh@gmail.com",
+  "createdAt": "2026-03-02T06:40:10Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Reading Books",
+      "text": "Reading books is a popular activity enjoyed by people of all ages around the world. It offers numerous benefits, both mental and emotional. For children, reading helps develop language skills and fosters imagination. Adults benefit from increased knowledge, improved focus, and stress reduction. In today's digital age, books remain a valuable source of information and entertainment. Many people find that reading before bed helps them relax and improve their sleep quality. Additionally, books can provide a temporary escape from everyday worries, transporting readers to different worlds through stories and adventures. Libraries and bookstores continue to be vital places for community engagement and access to diverse literature. Overall, reading is a simple yet powerful activity that can enrich people's lives in many ways."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Climate Change on Global Agriculture",
+      "text": "Climate change has become a significant concern for global agriculture, affecting crop yields and food security worldwide. Rising temperatures, altered precipitation patterns, and increased frequency of extreme weather events such as droughts and floods pose challenges for farmers. For instance, prolonged droughts can reduce water availability for irrigation, leading to lower crop production, while heavy floods can destroy fields and wash away nutrients. Changes in climate also influence the types of crops that can be grown in certain regions, potentially causing a shift in agricultural zones. Scientists have observed that some crops, like wheat and maize, are particularly sensitive to temperature increases, which can shorten their growing seasons and reduce yields. Moreover, pests and plant diseases tend to thrive in warmer, more humid conditions, further threatening crop health. To mitigate these effects, researchers are exploring new farming techniques, crop varieties resistant to extreme weather, and sustainable water management practices. Addressing climate change's impact on agriculture is crucial for ensuring food security for a growing global population."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of Quantum Computing in Modern Science",
+      "text": "Quantum computing represents a groundbreaking advancement in computational technology, leveraging the principles of quantum mechanics to process information in ways that classical computers cannot. Unlike traditional bits, which are either 0 or 1, quantum bits or qubits can exist in multiple states simultaneously through superposition. This property allows quantum computers to perform complex calculations at unprecedented speeds. One of the key areas where quantum computing shows promise is in simulating molecular and atomic interactions, which are essential for material science, pharmaceuticals, and chemical engineering. Additionally, quantum algorithms can optimize complex systems such as financial models, traffic flow, and logistics networks more efficiently than classical algorithms. Despite its potential, the field faces significant challenges, including maintaining qubit stability and developing scalable architectures. Researchers worldwide are actively working on creating error-correcting codes and new quantum hardware. As the technology matures, it is expected to revolutionize various scientific disciplines by providing insights and solutions that are currently unattainable with classical computers, ultimately leading to innovations across multiple sectors."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main benefits of reading for children?",
+          "options": [
+            "Developing language skills",
+            "Improving physical strength",
+            "Enhancing athletic abilities",
+            "Learning to cook"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage states that reading helps children develop language skills."
+        },
+        {
+          "id": "p1_q2",
+          "type": "multiple_choice",
+          "prompt": "According to the passage, what activity can help adults reduce stress?",
+          "options": [
+            "Watching television",
+            "Reading before bed",
+            "Exercising outdoors",
+            "Cooking dinner"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage mentions that reading before bed helps adults relax and reduce stress."
+        },
+        {
+          "id": "p1_q3",
+          "type": "true_false_not_given",
+          "prompt": "Reading books can replace all forms of entertainment.",
+          "correctAnswer": "False",
+          "rationale": "The passage states that books are a valuable source of information and entertainment but does not claim they can replace all forms."
+        },
+        {
+          "id": "p1_q4",
+          "type": "matching_headings",
+          "prompt": "Match the following benefits with the correct group:",
+          "options": [
+            "Mental benefits",
+            "Emotional benefits"
+          ],
+          "items": [
+            "Developing language skills",
+            "Fostering imagination",
+            "Stress reduction",
+            "Relaxation before sleep"
+          ],
+          "correctAnswers": {
+            "Developing language skills": "Mental benefits",
+            "Fostering imagination": "Emotional benefits",
+            "Stress reduction": "Emotional benefits",
+            "Relaxation before sleep": "Emotional benefits"
+          }
+        },
+        {
+          "id": "p1_q5",
+          "type": "short_answer",
+          "prompt": "Why do libraries and bookstores remain important today?",
+          "correctAnswer": "They provide access to diverse literature and community engagement.",
+          "rationale": "The passage states that libraries and bookstores are vital for access to literature and community involvement."
+        },
+        {
+          "id": "p1_q6",
+          "type": "multiple_choice",
+          "prompt": "Which activity is suggested as a way to enjoy stories and adventures?",
+          "options": [
+            "Watching movies",
+            "Reading books",
+            "Playing sports",
+            "Listening to music"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage mentions that books can transport readers through stories and adventures."
+        },
+        {
+          "id": "p1_q7",
+          "type": "multiple_choice",
+          "prompt": "What age groups does the passage mention as enjoying reading?",
+          "options": [
+            "Children only",
+            "Adults only",
+            "People of all ages",
+            "Teenagers only"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage states that reading is enjoyed by people of all ages."
+        },
+        {
+          "id": "p1_q8",
+          "type": "true_false_not_given",
+          "prompt": "Reading is a complex activity that requires significant effort.",
+          "correctAnswer": "Not Given",
+          "rationale": "The passage describes reading as a simple activity but does not comment on its difficulty."
+        },
+        {
+          "id": "p1_q9",
+          "type": "matching_headings",
+          "prompt": "Identify the main theme of the passage:",
+          "options": [
+            "Benefits of reading",
+            "Digital age and books",
+            "Libraries and community",
+            "Stress and relaxation"
+          ],
+          "items": [
+            "Reading benefits for children",
+            "Adults and stress reduction",
+            "Role of libraries",
+            "Books as entertainment"
+          ],
+          "correctAnswers": {
+            "Reading benefits for children": "Benefits of reading",
+            "Adults and stress reduction": "Benefits of reading",
+            "Role of libraries": "Libraries and community",
+            "Books as entertainment": "Benefits of reading"
+          }
+        },
+        {
+          "id": "p1_q10",
+          "type": "short_answer",
+          "prompt": "How do books help in stressful situations?",
+          "correctAnswer": "They provide a temporary escape and help relax readers.",
+          "rationale": "The passage states that books can offer a temporary escape and relaxation."
+        },
+        {
+          "id": "p1_q11",
+          "type": "multiple_choice",
+          "prompt": "In what way do books contribute to community engagement?",
+          "options": [
+            "By providing online forums",
+            "Through libraries and bookstores",
+            "By hosting sports events",
+            "Via social media platforms"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage mentions libraries and bookstores as vital places for community engagement."
+        },
+        {
+          "id": "p1_q12",
+          "type": "true_false_not_given",
+          "prompt": "All forms of digital entertainment are better than reading books.",
+          "correctAnswer": "Not Given",
+          "rationale": "The passage states that books remain valuable but does not compare them to digital entertainment."
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the overall message about reading in the passage?",
+          "options": [
+            "It is outdated",
+            "It is a harmful activity",
+            "It enriches people's lives",
+            "It is only for children"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage concludes that reading is a simple yet powerful activity that can enrich lives."
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a major impact of climate change on agriculture?",
+          "options": [
+            "Increased crop yields",
+            "Reduced crop yields",
+            "No effect on crops",
+            "Improved soil quality"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states that climate change affects crop yields negatively, reducing them."
+        },
+        {
+          "id": "p2_q2",
+          "type": "multiple_choice",
+          "prompt": "Which weather events are linked to challenges in farming?",
+          "options": [
+            "Snowstorms and hurricanes",
+            "Droughts and floods",
+            "Tornadoes and blizzards",
+            "Mild rain and sunshine"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage mentions droughts and floods as extreme weather events challenging farmers."
+        },
+        {
+          "id": "p2_q3",
+          "type": "true_false_not_given",
+          "prompt": "Climate change has no effect on the types of crops that can be grown.",
+          "correctAnswer": "False",
+          "rationale": "The passage states that climate change influences crop types and regions."
+        },
+        {
+          "id": "p2_q4",
+          "type": "matching_headings",
+          "prompt": "Match the climate impact with its consequence:",
+          "options": [
+            "Reduced water for irrigation",
+            "Crop damage from floods",
+            "Shift in agricultural zones",
+            "Increase in pests"
+          ],
+          "items": [
+            "Prolonged droughts",
+            "Heavy floods",
+            "Climate change effects",
+            "Warmer conditions"
+          ],
+          "correctAnswers": {
+            "Prolonged droughts": "Reduced water for irrigation",
+            "Heavy floods": "Crop damage from floods",
+            "Climate change effects": "Shift in agricultural zones",
+            "Warmer conditions": "Increase in pests"
+          }
+        },
+        {
+          "id": "p2_q5",
+          "type": "short_answer",
+          "prompt": "Which crops are mentioned as being sensitive to temperature increases?",
+          "correctAnswer": "Wheat and maize",
+          "rationale": "The passage specifies wheat and maize as crops sensitive to temperature increases."
+        },
+        {
+          "id": "p2_q6",
+          "type": "multiple_choice",
+          "prompt": "What do pests and plant diseases tend to do in warmer conditions?",
+          "options": [
+            "Decline in number",
+            "Thrive and increase",
+            "Remain unchanged",
+            "Disappear"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage states pests and diseases thrive in warmer, humid conditions."
+        },
+        {
+          "id": "p2_q7",
+          "type": "multiple_choice",
+          "prompt": "What are scientists exploring to combat the effects of climate change on agriculture?",
+          "options": [
+            "New farming techniques",
+            "Reducing food consumption",
+            "Building taller greenhouses",
+            "Using more pesticides"
+          ],
+          "correctAnswer": "A",
+          "rationale": "Scientists are exploring new farming techniques and resistant crop varieties."
+        },
+        {
+          "id": "p2_q8",
+          "type": "true_false_not_given",
+          "prompt": "Sustainable water management practices are not necessary for agriculture.",
+          "correctAnswer": "False",
+          "rationale": "The passage mentions sustainable water management as a strategy to mitigate climate effects."
+        },
+        {
+          "id": "p2_q9",
+          "type": "matching_headings",
+          "prompt": "Identify the main concern discussed:",
+          "options": [
+            "Global warming and health",
+            "Climate change and agriculture",
+            "Deforestation and biodiversity",
+            "Pollution and water quality"
+          ],
+          "items": [
+            "Effects on crop yields",
+            "Food security",
+            "Extreme weather events",
+            "Crop resilience"
+          ],
+          "correctAnswers": {
+            "Effects on crop yields": "Climate change and agriculture",
+            "Food security": "Climate change and agriculture",
+            "Extreme weather events": "Climate change and agriculture",
+            "Crop resilience": "Climate change and agriculture"
+          }
+        },
+        {
+          "id": "p2_q10",
+          "type": "short_answer",
+          "prompt": "Why is addressing climate change important for global food security?",
+          "correctAnswer": "Because it affects crop yields and agricultural stability worldwide.",
+          "rationale": "The passage emphasizes the importance of mitigating climate effects to ensure food security."
+        },
+        {
+          "id": "p2_q11",
+          "type": "multiple_choice",
+          "prompt": "Which farming strategy is NOT mentioned as a solution?",
+          "options": [
+            "Resistant crop varieties",
+            "Sustainable water management",
+            "Increased pesticide use",
+            "New farming techniques"
+          ],
+          "correctAnswer": "C",
+          "rationale": "The passage mentions resistant crops, water management, and new techniques but not increased pesticide use."
+        },
+        {
+          "id": "p2_q12",
+          "type": "true_false_not_given",
+          "prompt": "Climate change will eventually have no impact on agriculture.",
+          "correctAnswer": "False",
+          "rationale": "The passage clearly states that climate change significantly impacts agriculture."
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the overall goal of the research mentioned in the passage?",
+          "options": [
+            "To increase crop prices",
+            "To adapt farming to climate change",
+            "To eliminate pests entirely",
+            "To stop all farming activities"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The research aims to develop methods to adapt farming to climate change effects."
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What is a key feature of quantum bits (qubits)?",
+          "options": [
+            "They can only be 0 or 1",
+            "They can exist in multiple states simultaneously",
+            "They are larger than classical bits",
+            "They are used only in classical computers"
+          ],
+          "correctAnswer": "B",
+          "rationale": "The passage explains that qubits can exist in multiple states through superposition."
+        },
+        {
+          "id": "p3_q2",
+          "type": "multiple_choice",
+          "prompt": "What advantage do quantum computers have over classical computers?",
+          "options": [
+            "Faster processing of complex calculations",
+            "Lower energy consumption",
+            "Easier to maintain",
+            "Smaller size"
+          ],
+          "correctAnswer": "A",
+          "rationale": "Quantum computers can perform complex calculations at unprecedented speeds."
+        },
+        {
+          "id": "p3_q3",
+          "type": "true_false_not_given",
+          "prompt": "Quantum computing is already widely used in everyday technology.",
+          "correctAnswer": "False",
+          "rationale": "The passage mentions that quantum computing is still developing and faces challenges."
+        },
+        {
+          "id": "p3_q4",
+          "type": "matching_headings",
+          "prompt": "Match the application with its relevance:",
+          "options": [
+            "Material science",
+            "Pharmaceuticals",
+            "Financial modeling",
+            "Traffic management"
+          ],
+          "items": [
+            "Simulating molecular interactions",
+            "Drug discovery",
+            "Optimizing financial systems",
+            "Improving traffic flow"
+          ],
+          "correctAnswers": {
+            "Simulating molecular interactions": "Material science",
+            "Drug discovery": "Pharmaceuticals",
+            "Optimizing financial systems": "Financial modeling",
+            "Improving traffic flow": "Traffic management"
+          }
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main challenges in developing quantum computers?",
+          "options": [
+            "Maintaining qubit stability",
+            "Reducing size",
+            "Increasing power consumption",
+            "Decreasing speed"
+          ],
+          "correctAnswer": "A",
+          "rationale": "The passage states that maintaining qubit stability is a significant challenge."
+        },
+        {
+          "id": "p3_q6",
+          "type": "multiple_choice",
+          "prompt": "Which area is NOT mentioned as benefiting from quantum computing?",
+          "options": [
+            "Material science",
+            "Pharmaceuticals",
+            "Classical computing",
+            "Financial models"
+          ],
+          "correctAnswer": "C",
+          "rationale": "Classical computing is not listed; the focus is on quantum computing applications."
+        },
+        {
+          "id": "p3_q7",
+          "type": "true_false_not_given",
+          "prompt": "Quantum algorithms are less efficient than classical algorithms for complex systems.",
+          "correctAnswer": "False",
+          "rationale": "The passage states quantum algorithms can optimize complex systems more efficiently."
+        },
+        {
+          "id": "p3_q8",
+          "type": "matching_headings",
+          "prompt": "Identify the main future expectation for quantum computing:",
+          "options": [
+            "Obsolescence of classical computers",
+            "Revolutionizing various scientific disciplines",
+            "Replacing all current technology",
+            "Eliminating the need for error correction"
+          ],
+          "items": [
+            "Potential to provide new insights",
+            "Error-correcting codes development",
+            "Scalable architectures",
+            "New hardware creation"
+          ],
+          "correctAnswers": {
+            "Potential to provide new insights": "Revolutionizing various scientific disciplines",
+            "Error-correcting codes development": "Error-correcting codes",
+            "Scalable architectures": "Scalable architectures",
+            "New hardware creation": "New hardware creation"
+          }
+        },
+        {
+          "id": "p3_q9",
+          "type": "short_answer",
+          "prompt": "What is a key area where quantum computing can be transformative?",
+          "correctAnswer": "Simulating molecular and atomic interactions",
+          "rationale": "The passage highlights this as a primary application."
+        },
+        {
+          "id": "p3_q10",
+          "type": "multiple_choice",
+          "prompt": "What is a major limitation for the practical use of quantum computers today?",
+          "options": [
+            "High cost",
+            "Qubit stability",
+            "Lack of interest",
+            "Limited data"
+          ],
+          "correctAnswer": "B",
+          "rationale": "Maintaining qubit stability is identified as a major challenge."
+        },
+        {
+          "id": "p3_q11",
+          "type": "true_false_not_given",
+          "prompt": "Quantum computing will replace classical computers within five years.",
+          "correctAnswer": "Not Given",
+          "rationale": "The passage does not specify a timeline for replacing classical computers."
+        },
+        {
+          "id": "p3_q12",
+          "type": "matching_headings",
+          "prompt": "Which statement best summarizes the potential of quantum computing?",
+          "options": [
+            "It will make classical computers obsolete",
+            "It offers solutions to problems currently unattainable",
+            "It is mainly used for entertainment",
+            "It has no significant advantages"
+          ],
+          "items": [
+            "Transforming scientific research",
+            "Overcoming current limitations",
+            "Revolutionizing all sectors",
+            "Replacing traditional hardware"
+          ],
+          "correctAnswers": {
+            "Transforming scientific research": "It offers solutions to problems currently unattainable",
+            "Overcoming current limitations": "It offers solutions to problems currently unattainable",
+            "Revolutionizing all sectors": "It offers solutions to problems currently unattainable",
+            "Replacing traditional hardware": "It offers solutions to problems currently unattainable"
+          }
+        },
+        {
+          "id": "p3_q13",
+          "type": "short_answer",
+          "prompt": "What is expected as the ultimate impact of mature quantum computing technology?",
+          "correctAnswer": "Revolutionize various scientific disciplines and sectors",
+          "rationale": "The passage states that mature quantum computing will lead to innovations across multiple sectors."
+        }
+      ]
+    }
+  ],
+  "notes": "Questions cover main ideas, details, implications, and vocabulary understanding from each passage. All question types and formats are included as specified.",
+  "questionsPerPassage": 13,
+  "overall_score": 43.59,
+  "passage_1_score": 23.08,
+  "passage_2_score": 53.85,
+  "passage_3_score": 53.85,
+  "total_questions": 39,
+  "correct_questions": 17,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main benefits of reading for children?",
+      "correctAnswer": "A",
+      "userAnswer": "B",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "According to the passage, what activity can help adults reduce stress?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Reading books can replace all forms of entertainment.",
+      "correctAnswer": "False",
+      "userAnswer": null,
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Why do libraries and bookstores remain important today?",
+      "correctAnswer": "They provide access to diverse literature and community engagement.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "What age groups does the passage mention as enjoying reading?",
+      "correctAnswer": "C",
+      "userAnswer": "B",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q8",
+      "passageId": "1",
+      "prompt": "Reading is a complex activity that requires significant effort.",
+      "correctAnswer": "Not Given",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "How do books help in stressful situations?",
+      "correctAnswer": "They provide a temporary escape and help relax readers.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "In what way do books contribute to community engagement?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q12",
+      "passageId": "1",
+      "prompt": "All forms of digital entertainment are better than reading books.",
+      "correctAnswer": "Not Given",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "What is the overall message about reading in the passage?",
+      "correctAnswer": "C",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What is a major impact of climate change on agriculture?",
+      "correctAnswer": "B",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Climate change has no effect on the types of crops that can be grown.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Which crops are mentioned as being sensitive to temperature increases?",
+      "correctAnswer": "Wheat and maize",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "What are scientists exploring to combat the effects of climate change on agriculture?",
+      "correctAnswer": "A",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q8",
+      "passageId": "2",
+      "prompt": "Sustainable water management practices are not necessary for agriculture.",
+      "correctAnswer": "False",
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q10",
+      "passageId": "2",
+      "prompt": "Why is addressing climate change important for global food security?",
+      "correctAnswer": "Because it affects crop yields and agricultural stability worldwide.",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "What is one of the main challenges in developing quantum computers?",
+      "correctAnswer": "A",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Which area is NOT mentioned as benefiting from quantum computing?",
+      "correctAnswer": "C",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "What is a key area where quantum computing can be transformative?",
+      "correctAnswer": "Simulating molecular and atomic interactions",
+      "userAnswer": null,
+      "type": "short_answer"
+    },
+    {
+      "questionId": "p3_q10",
+      "passageId": "3",
+      "prompt": "What is a major limitation for the practical use of quantum computers today?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Quantum computing will replace classical computers within five years.",
+      "correctAnswer": "Not Given",
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is expected as the ultimate impact of mature quantum computing technology?",
+      "correctAnswer": "Revolutionize various scientific disciplines and sectors",
+      "userAnswer": null,
+      "type": "short_answer"
+    }
+  ],
+  "scoredAt": "2026-03-02T06:42:40Z"
+}

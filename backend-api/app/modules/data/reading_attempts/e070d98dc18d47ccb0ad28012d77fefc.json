@@ -1,0 +1,663 @@
+{
+  "attemptId": "e070d98dc18d47ccb0ad28012d77fefc",
+  "userId": "divyapunna1206@gmail.com",
+  "createdAt": "2026-03-02T09:46:55Z",
+  "passagesText": [
+    {
+      "passageId": "1",
+      "title": "The Benefits of Reading Books",
+      "text": "Reading books is a popular activity enjoyed by people of all ages around the world. It offers numerous benefits that contribute to personal development and well-being. For many, reading is a way to relax and escape from the stresses of daily life. It provides a mental break and allows individuals to immerse themselves in different worlds, stories, and ideas. Additionally, reading enhances vocabulary and language skills, making communication more effective. It also improves concentration and focus, as engaging with a book requires sustained attention. Beyond entertainment, reading can expand knowledge on various subjects, fostering lifelong learning. For students, reading is fundamental to academic success, helping them understand complex concepts and develop critical thinking skills. Moreover, reading can inspire creativity and imagination, encouraging readers to think beyond their immediate experiences. Libraries and bookstores are important resources that make books accessible to everyone, promoting literacy and education. In recent years, digital books and audiobooks have become popular, allowing people to enjoy reading on the go. Overall, reading is a simple yet powerful activity that enriches the mind and enhances quality of life."
+    },
+    {
+      "passageId": "2",
+      "title": "The Impact of Urbanization on Local Ecosystems",
+      "text": "Urbanization refers to the increasing number of people living in cities and towns, leading to the expansion of urban areas into surrounding natural landscapes. While urban growth supports economic development and provides better amenities for residents, it also poses significant challenges to local ecosystems. As cities expand, natural habitats are often destroyed or fragmented, which can threaten the survival of native plants and animals. For example, deforestation for new housing developments reduces biodiversity and disrupts ecosystems that many species depend on. Urbanization also introduces pollution into the environment, including air, water, and soil contamination, which can harm wildlife and degrade natural resources. Additionally, the construction of roads, buildings, and other infrastructure alters land surfaces, affecting drainage patterns and increasing the risk of flooding. In some cases, invasive species are introduced through human activity, outcompeting native species and further disrupting ecological balance. Despite these challenges, urban areas can implement sustainable practices to mitigate negative impacts. Green spaces such as parks and urban forests provide habitats for various species and help maintain ecological functions. Incorporating eco-friendly transportation options, such as cycling and public transit, reduces pollution and carbon emissions. Conservation efforts, environmental regulations, and community awareness are also vital in balancing urban growth with ecological preservation. Overall, while urbanization offers many benefits, careful planning and management are essential to protect and sustain local ecosystems for future generations."
+    },
+    {
+      "passageId": "3",
+      "title": "The Role of Enzymes in Biological Systems",
+      "text": "Enzymes are biological catalysts that accelerate chemical reactions within living organisms, enabling vital processes such as digestion, energy production, and cellular repair. These complex proteins function by lowering the activation energy required for reactions to occur, thus increasing reaction rates without being consumed in the process. Enzymes are highly specific, often acting on particular substrates—molecules upon which they exert their catalytic effect. The active site of an enzyme is the region where substrate binding occurs, facilitating the transformation into products through a series of intermediate steps. Enzyme activity is influenced by various factors, including temperature, pH, substrate concentration, and the presence of inhibitors or activators. For instance, most enzymes operate optimally within specific temperature and pH ranges, beyond which their activity diminishes or they denature. Inhibitors can reduce enzyme activity by blocking the active site or altering enzyme structure, which is a principle used in some medicines and pesticides. Conversely, activators enhance activity and are sometimes essential cofactors like vitamins or metal ions. Enzymes play a crucial role in metabolic pathways, such as glycolysis and the citric acid cycle, where they regulate the speed and efficiency of biochemical reactions. Understanding enzyme mechanisms has significant implications in medicine, industry, and research, including drug development, biotechnology, and environmental management. Advances in enzyme engineering have led to the creation of tailored enzymes with improved stability and activity for specific industrial processes, such as biofuel production and waste treatment. The study of enzymes remains a dynamic and essential area of biochemistry, offering insights into the fundamental workings of life and opportunities for technological innovation."
+    }
+  ],
+  "passages": [
+    {
+      "passageId": "1",
+      "questions": [
+        {
+          "id": "p1_q1",
+          "type": "multiple_choice",
+          "prompt": "What is one of the main benefits of reading according to the passage?",
+          "options": [
+            "It helps people relax and escape stress",
+            "It reduces physical activity",
+            "It decreases vocabulary",
+            "It limits knowledge",
+            "correctAnswer",
+            "A"
+          ]
+        },
+        {
+          "id": "p1_q2",
+          "type": "true_false_not_given",
+          "prompt": "Reading can improve concentration and focus.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p1_q3",
+          "type": "matching_headings",
+          "prompt": "Match the section to its main idea:",
+          "options": [
+            "Benefits for personal development",
+            "Resources for reading",
+            "Modern reading formats",
+            "Reading and education"
+          ],
+          "correctAnswer": "Benefits for personal development"
+        },
+        {
+          "id": "p1_q4",
+          "type": "short_answer",
+          "prompt": "Name two skills that reading helps develop.",
+          "answer": [
+            "Vocabulary and language skills",
+            "Critical thinking"
+          ]
+        },
+        {
+          "id": "p1_q5",
+          "type": "multiple_choice",
+          "prompt": "Which resource is mentioned as making books accessible?",
+          "options": [
+            "Libraries and bookstores",
+            "Online blogs",
+            "Radio stations",
+            "TV channels"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q6",
+          "type": "true_false_not_given",
+          "prompt": "Digital books and audiobooks are recent developments in reading.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p1_q7",
+          "type": "matching_headings",
+          "prompt": "Match the benefit to the activity:",
+          "options": [
+            "Enhances vocabulary",
+            "Provides entertainment",
+            "Supports lifelong learning",
+            "Boosts creativity"
+          ],
+          "correctAnswer": "Enhances vocabulary"
+        },
+        {
+          "id": "p1_q8",
+          "type": "short_answer",
+          "prompt": "How does reading contribute to academic success?",
+          "answer": [
+            "By helping students understand complex concepts"
+          ]
+        },
+        {
+          "id": "p1_q9",
+          "type": "multiple_choice",
+          "prompt": "What activity is mentioned as a way to enjoy reading on the go?",
+          "options": [
+            "Listening to audiobooks",
+            "Reading newspapers",
+            "Watching movies",
+            "Playing video games"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p1_q10",
+          "type": "true_false_not_given",
+          "prompt": "Reading can only be done with physical books.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p1_q11",
+          "type": "matching_headings",
+          "prompt": "Identify the paragraph discussing digital reading formats.",
+          "options": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3"
+          ],
+          "correctAnswer": "Paragraph 1"
+        },
+        {
+          "id": "p1_q12",
+          "type": "short_answer",
+          "prompt": "What are some benefits of reading for creativity?",
+          "answer": [
+            "It encourages readers to think beyond immediate experiences"
+          ]
+        },
+        {
+          "id": "p1_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the overall message about reading?",
+          "options": [
+            "It is a simple activity with powerful benefits",
+            "It is outdated",
+            "It is only for students",
+            "It is mainly for entertainment"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "passageId": "2",
+      "questions": [
+        {
+          "id": "p2_q1",
+          "type": "multiple_choice",
+          "prompt": "What does urbanization primarily involve?",
+          "options": [
+            "Increase in rural populations",
+            "Expansion of cities into natural landscapes",
+            "Decrease in city populations",
+            "Reduction of infrastructure"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q2",
+          "type": "true_false_not_given",
+          "prompt": "Urbanization can threaten local ecosystems.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p2_q3",
+          "type": "matching_headings",
+          "prompt": "Match the challenge to urbanization:",
+          "options": [
+            "Habitat destruction",
+            "Pollution",
+            "Flooding risk",
+            "Invasive species"
+          ],
+          "correctAnswer": "Habitat destruction"
+        },
+        {
+          "id": "p2_q4",
+          "type": "short_answer",
+          "prompt": "Name one environmental problem caused by urban expansion.",
+          "answer": [
+            "Pollution"
+          ]
+        },
+        {
+          "id": "p2_q5",
+          "type": "multiple_choice",
+          "prompt": "Which strategy helps mitigate the environmental impact of urbanization?",
+          "options": [
+            "Building more roads",
+            "Creating green spaces",
+            "Reducing public transit",
+            "Increasing industrial activity"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q6",
+          "type": "true_false_not_given",
+          "prompt": "Sustainable urban practices can help preserve ecosystems.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p2_q7",
+          "type": "matching_headings",
+          "prompt": "Match the solution with its purpose:",
+          "options": [
+            "Eco-friendly transportation",
+            "Conservation efforts",
+            "Urban parks",
+            "Environmental regulations"
+          ],
+          "correctAnswer": "Eco-friendly transportation"
+        },
+        {
+          "id": "p2_q8",
+          "type": "short_answer",
+          "prompt": "What is one benefit of green spaces in cities?",
+          "answer": [
+            "Provide habitats for species"
+          ]
+        },
+        {
+          "id": "p2_q9",
+          "type": "multiple_choice",
+          "prompt": "What is a consequence of altering land surfaces during urban development?",
+          "options": [
+            "Improved drainage",
+            "Increased flooding risk",
+            "Reduced pollution",
+            "Enhanced biodiversity"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p2_q10",
+          "type": "true_false_not_given",
+          "prompt": "Urban growth always benefits the environment.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p2_q11",
+          "type": "matching_headings",
+          "prompt": "Identify the paragraph discussing sustainable practices.",
+          "options": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3"
+          ],
+          "correctAnswer": "Paragraph 3"
+        },
+        {
+          "id": "p2_q12",
+          "type": "short_answer",
+          "prompt": "How can eco-friendly transportation reduce urban environmental impact?",
+          "answer": [
+            "Reduces pollution and carbon emissions"
+          ]
+        },
+        {
+          "id": "p2_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the overall message about urbanization in this passage?",
+          "options": [
+            "It has both benefits and challenges",
+            "It is purely negative",
+            "It only benefits ecosystems",
+            "It is unstoppable"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "passageId": "3",
+      "questions": [
+        {
+          "id": "p3_q1",
+          "type": "multiple_choice",
+          "prompt": "What are enzymes primarily described as?",
+          "options": [
+            "Carbohydrates",
+            "Biological catalysts",
+            "Lipids",
+            "Nucleic acids"
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "p3_q2",
+          "type": "true_false_not_given",
+          "prompt": "Enzymes are consumed during the reactions they catalyze.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p3_q3",
+          "type": "matching_headings",
+          "prompt": "Match the enzyme feature with its description:",
+          "options": [
+            "Specificity",
+            "Active site",
+            "Inhibitors",
+            "Cofactors"
+          ],
+          "correctAnswer": "Specificity"
+        },
+        {
+          "id": "p3_q4",
+          "type": "short_answer",
+          "prompt": "What is the active site of an enzyme?",
+          "answer": [
+            "The region where substrate binding occurs"
+          ]
+        },
+        {
+          "id": "p3_q5",
+          "type": "multiple_choice",
+          "prompt": "Which factor can influence enzyme activity?",
+          "options": [
+            "Temperature",
+            "Color",
+            "Sound",
+            "Light"
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "p3_q6",
+          "type": "true_false_not_given",
+          "prompt": "Enzyme activity is unaffected by pH levels.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p3_q7",
+          "type": "matching_headings",
+          "prompt": "Match the term to its description:",
+          "options": [
+            "Inhibitors",
+            "Activators",
+            "Biochemical reactions",
+            "Industrial applications"
+          ],
+          "correctAnswer": "Inhibitors"
+        },
+        {
+          "id": "p3_q8",
+          "type": "short_answer",
+          "prompt": "Why are inhibitors important in medicine?",
+          "answer": [
+            "They can reduce enzyme activity"
+          ]
+        },
+        {
+          "id": "p3_q9",
+          "type": "multiple_choice",
+          "prompt": "In which processes are enzymes involved?",
+          "options": [
+            "Digestion",
+            "Energy production",
+            "Cellular repair",
+            "All of the above"
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "p3_q10",
+          "type": "true_false_not_given",
+          "prompt": "Advances in enzyme engineering have no industrial applications.",
+          "options": [
+            "True",
+            "False",
+            "Not Given"
+          ]
+        },
+        {
+          "id": "p3_q11",
+          "type": "matching_headings",
+          "prompt": "Identify the paragraph discussing enzyme applications in industry.",
+          "options": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3"
+          ],
+          "correctAnswer": "Paragraph 3"
+        },
+        {
+          "id": "p3_q12",
+          "type": "short_answer",
+          "prompt": "What is one benefit of engineered enzymes?",
+          "answer": [
+            "Improved stability and activity"
+          ]
+        },
+        {
+          "id": "p3_q13",
+          "type": "multiple_choice",
+          "prompt": "What is the overall significance of studying enzymes?",
+          "options": [
+            "Understanding life processes and technological innovation",
+            "Focusing only on medical applications",
+            "Limiting enzyme use to laboratory research",
+            "Reducing enzyme importance in industry"
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  ],
+  "notes": "Questions cover main ideas, details, inferences, and vocabulary understanding based on the passages, suitable for IELTS Reading comprehension assessment.",
+  "questionsPerPassage": 13,
+  "overall_score": 35.9,
+  "passage_1_score": 23.08,
+  "passage_2_score": 46.15,
+  "passage_3_score": 38.46,
+  "total_questions": 39,
+  "correct_questions": 14,
+  "wrong_answer": [
+    {
+      "questionId": "p1_q1",
+      "passageId": "1",
+      "prompt": "What is one of the main benefits of reading according to the passage?",
+      "correctAnswer": null,
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q2",
+      "passageId": "1",
+      "prompt": "Reading can improve concentration and focus.",
+      "correctAnswer": null,
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q3",
+      "passageId": "1",
+      "prompt": "Match the section to its main idea:",
+      "correctAnswer": "Benefits for personal development",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q5",
+      "passageId": "1",
+      "prompt": "Which resource is mentioned as making books accessible?",
+      "correctAnswer": "A",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q6",
+      "passageId": "1",
+      "prompt": "Digital books and audiobooks are recent developments in reading.",
+      "correctAnswer": null,
+      "userAnswer": "FALSE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q7",
+      "passageId": "1",
+      "prompt": "Match the benefit to the activity:",
+      "correctAnswer": "Enhances vocabulary",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q9",
+      "passageId": "1",
+      "prompt": "What activity is mentioned as a way to enjoy reading on the go?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p1_q10",
+      "passageId": "1",
+      "prompt": "Reading can only be done with physical books.",
+      "correctAnswer": null,
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p1_q11",
+      "passageId": "1",
+      "prompt": "Identify the paragraph discussing digital reading formats.",
+      "correctAnswer": "Paragraph 1",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p1_q13",
+      "passageId": "1",
+      "prompt": "What is the overall message about reading?",
+      "correctAnswer": "A",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q1",
+      "passageId": "2",
+      "prompt": "What does urbanization primarily involve?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q2",
+      "passageId": "2",
+      "prompt": "Urbanization can threaten local ecosystems.",
+      "correctAnswer": null,
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p2_q3",
+      "passageId": "2",
+      "prompt": "Match the challenge to urbanization:",
+      "correctAnswer": "Habitat destruction",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q5",
+      "passageId": "2",
+      "prompt": "Which strategy helps mitigate the environmental impact of urbanization?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q7",
+      "passageId": "2",
+      "prompt": "Match the solution with its purpose:",
+      "correctAnswer": "Eco-friendly transportation",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p2_q9",
+      "passageId": "2",
+      "prompt": "What is a consequence of altering land surfaces during urban development?",
+      "correctAnswer": "B",
+      "userAnswer": "C",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p2_q11",
+      "passageId": "2",
+      "prompt": "Identify the paragraph discussing sustainable practices.",
+      "correctAnswer": "Paragraph 3",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q1",
+      "passageId": "3",
+      "prompt": "What are enzymes primarily described as?",
+      "correctAnswer": "B",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q3",
+      "passageId": "3",
+      "prompt": "Match the enzyme feature with its description:",
+      "correctAnswer": "Specificity",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q5",
+      "passageId": "3",
+      "prompt": "Which factor can influence enzyme activity?",
+      "correctAnswer": "A",
+      "userAnswer": "D",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q6",
+      "passageId": "3",
+      "prompt": "Enzyme activity is unaffected by pH levels.",
+      "correctAnswer": null,
+      "userAnswer": "TRUE",
+      "type": "true_false_not_given"
+    },
+    {
+      "questionId": "p3_q7",
+      "passageId": "3",
+      "prompt": "Match the term to its description:",
+      "correctAnswer": "Inhibitors",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q9",
+      "passageId": "3",
+      "prompt": "In which processes are enzymes involved?",
+      "correctAnswer": "D",
+      "userAnswer": "A",
+      "type": "multiple_choice"
+    },
+    {
+      "questionId": "p3_q11",
+      "passageId": "3",
+      "prompt": "Identify the paragraph discussing enzyme applications in industry.",
+      "correctAnswer": "Paragraph 3",
+      "userAnswer": null,
+      "type": "matching_headings"
+    },
+    {
+      "questionId": "p3_q13",
+      "passageId": "3",
+      "prompt": "What is the overall significance of studying enzymes?",
+      "correctAnswer": "A",
+      "userAnswer": null,
+      "type": "multiple_choice"
+    }
+  ],
+  "scoredAt": "2026-03-02T09:54:44Z"
+}
